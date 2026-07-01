@@ -4,6 +4,8 @@ Cette application web permet de créer des grilles de donjons à partir de tuile
 
 Le projet est basé sur une interface HTML/CSS/JavaScript simple, sans framework, et fonctionne directement dans un navigateur.
 
+![Aperçu de l'application](screenshots/screen1.png)
+
 ## Fonctionnalités
 
 - Sélection d’un dossier de tuiles depuis une liste déroulante
