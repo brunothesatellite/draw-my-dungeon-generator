@@ -69,9 +69,9 @@ tile/
 ## Règles importantes pour ajouter des tuiles
 - Chaque sous-dossier de tile représente un “pack” de tuiles.
 - Les fichiers doivent être au format PNG.
-- Les noms de fichiers doivent correspondre exactement à ceux déclarés dans tile_configuration.js.
+- Les noms de fichiers doivent correspondre exactement à ceux déclarés dans [tile_configuration.js](tile_configuration.js).
 - Le nom du sous-dossier est utilisé comme catégorie dans l’interface.
-- Les images peuvent avoir des noms simples ou des noms avec espaces et majuscules, par exemple : Tile 451.png.
+- Les images peuvent avoir des noms suivant le format "tile_*.png", par exemple : tile_451.png.
 
 ## Exemple de configuration
 Dans tile_configuration.js, chaque clé représente un dossier de tuiles et chaque valeur est la liste des fichiers disponibles.
@@ -87,6 +87,8 @@ const TILE_CONFIGURATION = {
 ```
 
 Si vous ajoutez un nouveau dossier comme custom/, il apparaîtra automatiquement dans la liste de sélection si vous l’ajoutez dans la configuration.
+
+Vous pouvez générer automatiquement ce fichier sous windows en exécutant le script [genere_structure_js.bat](genere_structure_js.bat)
 
 ## Conseils pour les images
 Pour un rendu cohérent :
