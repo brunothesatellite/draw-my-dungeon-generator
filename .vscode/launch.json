@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Lancer index.html dans Edge WebView",
+      "file": "${workspaceFolder}/index.html"
+    },
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Edge + Live Server",
+      "url": "http://localhost:5500",
+      "webRoot": "${workspaceFolder}"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Run Project",
+      "configurations": [
+        "Open Edge on Live Server"
+      ],
+      "preLaunchTask": "Start Live Server"
+    }
+  ]
+}
