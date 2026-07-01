@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grille de Tuiles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- IMPORT DES ICONES MATERIAL SYMBOLS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <div class="controls">
+        <select id="tileFolderSelect">
+            <option value="">Sélectionnez un dossier de tuiles</option>
+        </select>
+        <button id="zoomOut">-</button>
+        <span id="zoomDisplay" style="min-width: 45px; text-align: center; font-weight: bold;">70%</span>
+        <button id="zoomIn">+</button>
+        <!-- Nouveau bouton d'export -->
+        <button id="exportPdf" style="background-color: #3498db;">Exporter en PDF</button>
+        <!-- Nouveaux champs pour les dimensions de la grille -->
+        <div class="grid-dimensions">
+            <label for="gridColumns">Colonnes:</label>
+            <input type="number" id="gridColumns" min="1" max="20" value="6">
+            <span>x</span>
+            <label for="gridRows">Lignes:</label>
+            <input type="number" id="gridRows" min="1" max="20" value="8">
+            <button id="setGridDimensions">Valider</button>
+        </div>
+        <!-- Nouveaux boutons pour modifier la grille -->
+        <div class="grid-controls">
+            <!-- Groupe AJOUT (Croix positive) -->
+            <div class="grid-control-group cross-layout">
+                <span class="material-symbols-outlined center-icon">add_circle</span>
+                <button id="addRowTop" class="btn-top" title="Ajouter une ligne en haut">↑</button>
+                <button id="addRowBottom" class="btn-bottom" title="Ajouter une ligne en bas">↓</button>
+                <button id="addColLeft" class="btn-left" title="Ajouter une colonne à gauche">←</button>
+                <button id="addColRight" class="btn-right" title="Ajouter une colonne à droite">→</button>
+            </div>
+
+            <!-- Groupe SUPPRESSION (Croix négative) -->
+            <div class="grid-control-group cross-layout">
+                <span class="material-symbols-outlined center-icon">remove_circle</span>
+                <button id="removeRowTop" class="btn-top" title="Supprimer la première ligne">↑</button>
+                <button id="removeRowBottom" class="btn-bottom" title="Supprimer la dernière ligne">↓</button>
+                <button id="removeColLeft" class="btn-left" title="Supprimer la première colonne">←</button>
+                <button id="removeColRight" class="btn-right" title="Supprimer la dernière colonne">→</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="grid-container" id="gridContainer">
+        <!-- La grille sera générée dynamiquement par JavaScript -->
+    </div>
+
+    
+
+    <div class="debug-container">
+        <h3>Journal de debug</h3>
+        <textarea id="debugLog" readonly rows="10" style="width: 100%;"></textarea>
+    </div>
+    
+    <!-- Nouvel élément Tooltip -->
+    <div id="customTooltip"></div>
+    
+     <!-- IMPORTANT : Ajouter ces scripts AVANT script.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    
+    <!-- IMPORTANT : L'ordre de ces deux lignes est crucial -->
+    <!-- 1. On charge d'abord les DONNÉES -->
+    <script src="tile_configuration.js"></script>
+    <!-- 2. On charge ensuite le MOTEUR (qui va utiliser les données) -->
+    <script src="script.js"></script>
+</body>
+</html>

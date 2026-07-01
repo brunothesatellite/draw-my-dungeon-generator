@@ -1,0 +1,215 @@
+/* style.css - Modifications nécessaires */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    gap: 5px;
+    padding: 20px;
+    width: calc(100vw - 40px);
+    overflow: auto;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform-origin: top left;
+    z-index: 1;
+    height: 100%;
+    min-height: 100%;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.controls select {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    /* MODIFICATION ICI : On retire flex-grow: 1 */
+    flex-grow: 0; 
+    /* On définit une largeur de base confortable pour les noms de dossiers */
+    min-width: 250px; 
+    width: auto; 
+}
+
+/* Ajout des styles pour la liste déroulante */
+.controls select option:first-child {
+    color: #999;
+    font-style: italic;
+}
+
+/* SUPPRIMER OU MODIFIER CETTE RÈGLE : */
+/* .controls select option:not(:first-child) {
+    font-weight: bold;
+} */
+
+/* REMPLACEZ PAR CECI POUR UN RENDU PROPRE : */
+.controls select option:not(:first-child) {
+    font-weight: normal;
+    color: #333;
+}
+
+.controls button {
+    padding: 8px 12px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.controls button:hover {
+    background-color: #45a049;
+}
+
+.debug-container {
+    margin-top: 20px;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 15px;
+    border-radius: 8px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.debug-container h3 {
+    margin-top: 0;
+    color: #3498db;
+    border-bottom: 1px solid #34495e;
+    padding-bottom: 10px;
+}
+
+.debug-container textarea {
+    background-color: #34495e;
+    color: #ecf0f1;
+    border: 1px solid #2c3e50;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 12px;
+    resize: vertical;
+}
+
+.cell {
+    aspect-ratio: 1;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+    overflow: hidden;
+    position: relative;
+}
+
+.cell:hover {
+    transform: scale(1.02);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.cell img {
+    max-width: 100%;
+    max-height: 100%;
+    transform-origin: center;
+    object-fit: contain;
+    transition: transform 0.3s;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cell.empty {
+    background-color: #f9f9f9;
+}
+
+/* Style du Tooltip */
+#customTooltip {
+    position: fixed;
+    padding: 8px 12px;
+    background-color: rgba(44, 62, 80, 0.95); /* Couleur sombre de votre debug log */
+    color: white;
+    border-radius: 6px;
+    font-size: 13px;
+    pointer-events: none; /* Très important : évite que le tooltip ne gêne la souris */
+    z-index: 1000;
+    display: none; /* Caché par défaut */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: opacity 0.2s ease;
+    white-space: nowrap;
+}
+
+#customTooltip b {
+    color: #3498db; /* Bleu comme vos titres de debug */
+    font-weight: bold;
+}
+
+/* Nouveaux styles pour l'alignement des contrôles de grille */
+/* Conteneur des contrôles de grille */
+.grid-controls {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+/* Structure de la croix */
+.cross-layout {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(3, auto);
+    align-items: center;
+    justify-items: center;
+    gap: 2px; /* Espace entre l'icône et les boutons */
+}
+
+/* L'icône est au centre (ligne 2, colonne 2) */
+.center-icon {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 24px; /* Ajustez selon vos besoins */
+}
+
+/* Positionnement des boutons */
+.btn-top    { grid-column: 2; grid-row: 1; }
+.btn-bottom { grid-column: 2; grid-row: 3; }
+.btn-left   { grid-column: 1; grid-row: 2; }
+.btn-right  { grid-column: 3; grid-row: 2; }
+
+/* Optionnel : Style pour les boutons pour qu'ils soient petits et carrés */
+.grid-control-group button {
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+/* Ajustement pour que l'icône et le texte soient bien positionnés */
+.grid-control-group button span.material-symbols-outlined {
+    font-size: 18px;
+    margin-right: 2px; /* Petit espace entre l'icône et la flèche */
+}
+
+.material-symbols-outlined {
+    font-size: 20px; /* Taille de l'icône */
+    vertical-align: middle;
+}
