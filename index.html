@@ -18,7 +18,7 @@
         <span id="zoomDisplay" style="min-width: 45px; text-align: center; font-weight: bold;">70%</span>
         <button id="zoomIn">+</button>
         <!-- Nouveau bouton d'export -->
-        <button id="exportPdf" style="background-color: #3498db;">Exporter en PDF</button>
+        <button id="exportPdf" style="background-color: #3498db; display: none;">Exporter en PDF</button>
         <!-- Nouveaux champs pour les dimensions de la grille -->
         <div class="grid-dimensions">
             <label for="gridColumns">Colonnes:</label>
@@ -73,6 +73,20 @@
     <script src="tile_configuration.js"></script>
     <!-- 2. On charge ensuite le MOTEUR (qui va utiliser les données) -->
     <script src="script.js"></script>
+
+    <!-- Script pour gérer la visibilité du bouton export selon le protocole -->
+    <script>
+        (function() {
+            const exportBtn = document.getElementById('exportPdf');
+            // On vérifie si le protocole n'est PAS 'file:'
+            if (window.location.protocol !== 'file:') {
+                exportBtn.style.display = 'inline-block';
+            } else {
+                // On s'assure qu'il reste caché si on est en local
+                exportBtn.style.display = 'none';
+            }
+        })();
+    </script>
 
 <!-- Modale de choix de collision -->
 <div id="collisionModal" class="modal-overlay" style="display: none;">
