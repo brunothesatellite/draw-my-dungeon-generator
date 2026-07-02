@@ -213,3 +213,60 @@ body {
     font-size: 20px; /* Taille de l'icône */
     vertical-align: middle;
 }
+
+/* Style de la modale moderne */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000; /* Très haut pour être au dessus de tout */
+    backdrop-filter: blur(3px);
+}
+
+.modal-content {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    text-align: center;
+    max-width: 300px;
+    width: 90%;
+    font-family: sans-serif;
+}
+
+.modal-content h3 { margin-top: 0; color: #333; }
+.modal-content p { color: #666; margin-bottom: 20px; }
+
+.modal-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal-btn {
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.modal-btn:hover { background-color: #0056b3; }
+
+.modal-btn-cancel {
+    margin-top: 15px;
+    background: none;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    text-decoration: underline;
+}
