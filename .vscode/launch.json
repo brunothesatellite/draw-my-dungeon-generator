@@ -19,7 +19,7 @@
     {
       "name": "Run Project",
       "configurations": [
-        "Open Edge on Live Server"
+        "Edge + Live Server"
       ],
       "preLaunchTask": "Start Live Server"
     }
