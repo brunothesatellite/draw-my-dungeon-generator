@@ -32,7 +32,8 @@ Le projet est basé sur une interface HTML/CSS/JavaScript simple, sans framework
 4. Un clic sur une cellule place une tuile.
 5. Un autre clic sur la même tuile la fait tourner de 90°.
 6. Un clic droit supprime la tuile.
-7. Le bouton d’export génère un PDF de la grille actuelle.
+7. Un cliquer-glisser permet de déplacer une tuile ou d'échanger sa position avec une autre tuile.
+8. Le bouton d’export génère un PDF de la grille actuelle.
 
 ## Structure attendue du répertoire tile
 
@@ -105,6 +106,7 @@ Pour un rendu cohérent :
 - Cliquer sur la grille pour placer des tuiles
 - Cliquer à nouveau pour les faire pivoter
 - Faire un clic droit pour les retirer
+- Effectuer un cliquer-glisser pour déplacer une tuile ou échanger sa position avec une autre tuile.
 - Utiliser les boutons de zoom et la grille pour ajuster la composition
 - Exporter en PDF avec le bouton dédié
 
