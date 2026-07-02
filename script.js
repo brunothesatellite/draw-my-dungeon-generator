@@ -20,7 +20,7 @@ const removeRowTopBtn = document.getElementById('removeRowTop');
 const removeRowBottomBtn = document.getElementById('removeRowBottom');
 
 const addColLeftBtn = document.getElementById('addColLeft');
-const addColRightBtn = mostColRightBtn = document.getElementById('addColRight');
+const addColRightBtn = document.getElementById('addColRight');
 const removeColLeftBtn = document.getElementById('removeColLeft');
 const removeColRightBtn = document.getElementById('removeColRight');
 // -------------------------------------------
@@ -43,6 +43,142 @@ let tileIndex = {};
 // Variables pour suivre la taille actuelle de la grille
 let currentCols = 6;
 let currentRows = 8;
+
+// Gestion du Drag & Drop
+// ----------------------
+// --- GESTION DU DRAG & DROP (VERSION ULTIME ET SIMPLE) ---
+
+// 1. On initialise les écouteurs UNE SEULE FOIS sur le container parent
+function setupDragAndDrop() {
+    // Écouteur : Début du Drag (sur les images)
+    gridContainer.addEventListener('dragstart', (e) => {
+        const img = e.target.closest('img');
+        if (!img) return;
+
+        // On stocke l'URL de l'image pour l'identification
+        e.dataTransfer.setData('text/plain', img.src);
+        
+        // On récupère la cellule qui contient cette image
+        const sourceCell = img.closest('.cell');
+        // On stocke les coordonnées de la cellule source (très important)
+        const row = sourceCell.dataset.row;
+        const col = sourceCell.dataset.col;
+        e.dataTransfer.setData('sourceCoords', `${row}|${col}`);
+
+        e.dataTransfer.effectAllowed = 'move';
+        logToDebug(`Drag start: ${img.src} depuis (${row},${col})`);
+    });
+
+    // Écouteur : Autoriser le drop (sur le container pour capturer les cellules)
+    gridContainer.addEventListener('dragover', (e) => {
+        const cell = e.target.closest('.cell');
+        if (cell) {
+            e.preventDefault(); // INDISPENSABLE pour autoriser le drop
+            e.dataTransfer.dropEffect = 'move';
+        }
+    });
+
+    // Écouteur : Le Drop
+    gridContainer.addEventListener('drop', (e) => {
+        e.preventDefault();
+        const targetCell = e.target.closest('.cell');
+        if (!targetCell) return;
+
+        const imgSrc = e.dataTransfer.getData('text/plain');
+        const coords = e.dataTransfer.getData('sourceCoords');
+
+        if (!imgSrc || !coords) return;
+
+        // 1. Retrouver la cellule source grâce aux coordonnées
+        const [sRow, sCol] = coords.split('|');
+        const sourceCell = gridContainer.querySelector(`.cell[data-row="${sRow}"][data-col="${sCol}"]`);
+
+        if (!sourceCell || sourceCell === targetCell) return;
+
+        // 2. Retrouver l'image dans la cellule source
+        const sourceImg = sourceCell.querySelector('img');
+        if (!sourceImg) return;
+
+        // 3. Gérer le déplacement
+        if (targetCell.classList.contains('empty')) {
+            // CAS : Case VIDE -> Déplacement simple
+            moveTile(sourceImg, sourceCell, targetCell);
+        } else {
+            // CAS : Case OCCUPÉE -> Choix utilisateur
+            handleOccupiedCell(targetCell, sourceCell, sourceImg);
+        }
+    });
+}
+
+function moveTile(img, sourceCell, targetCell) {
+    // 1. On crée une copie parfaite de l'image
+    const newImg = document.createElement('img');
+    newImg.src = img.src;
+    newImg.style.transform = img.style.transform;
+    newImg.style.zIndex = '2';
+    newImg.alt = img.alt;
+
+    // 2. NETTOYAGE RADICAL de la cellule source
+    sourceCell.innerHTML = ''; // Supprime tout le contenu (images, textes)
+    sourceCell.classList.add('empty');
+
+    // 3. NETTOYAGE RADICAL de la cellule cible (Le FIX est ici)
+    // On force la suppression de TOUT ce qui pourrait être à l'intérieur 
+    // avant d'ajouter la nouvelle tuile pour éviter l'effet de superposition.
+    targetCell.innerHTML = ''; 
+    targetCell.classList.remove('empty');
+
+    // 4. Ajout de la nouvelle image dans la cellule maintenant vide
+    targetCell.appendChild(newImg);
+    
+    logToDebug(`Déplacement effectué vers (${targetCell.dataset.row}, ${targetCell.dataset.col})`);
+}
+
+// Modifiez handleOccupiedCell pour qu'elle soit asynchrone
+async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
+    // On affiche la modale
+    const modal = document.getElementById('collisionModal');
+    const btnOverwrite = document.getElementById('modalOverwrite');
+    const btnSwap = document.getElementById('modalSwap');
+    const btnCancel = document.getElementById('modalCancel');
+
+    modal.style.display = 'flex';
+
+    // On crée une promesse qui sera résolue quand l'utilisateur cliquera sur un bouton
+    const getChoice = new Promise((resolve) => {
+        btnOverwrite.onclick = () => { modal.style.display = 'none'; resolve('1'); };
+        btnSwap.onclick = () => { modal.style.display = 'none'; resolve('2'); };
+        btnCancel.onclick = () => { modal.style.display = 'none'; resolve('0'); };
+    });
+
+    const choice = await getChoice;
+
+    if (choice === "1") {
+        moveTile(sourceImg, sourceCell, targetCell);
+    } else if (choice === "2") {
+        swapTiles(sourceCell, targetCell);
+    }
+}
+
+function swapTiles(cell1, cell2) {
+    const content1 = cell1.innerHTML;
+    const content2 = cell2.innerHTML;
+
+    cell1.innerHTML = content2;
+    cell2.innerHTML = content1;
+
+    // Recalculer l'état "empty" pour chaque cellule
+    [cell1, cell2].forEach(cell => {
+        if (cell.querySelector('img')) {
+            cell.classList.remove('empty');
+        } else {
+            cell.classList.add('empty');
+        }
+    });
+
+    logToDebug(`Échange effectué`);
+}
+// ----------------------
 
 // Fonction pour exporter la grille en PDF
 async function exportGridToPdf() {
@@ -127,6 +263,15 @@ function initializeTileData() {
         for (const folder in tileIndex) {
             logToDebug(`Dossier "${folder}": ${tileIndex[folder].length} tuiles`);
         }
+
+        // Ajouter une entrée "Toutes les tuiles" qui contient toutes les tuiles
+        tileIndex['all'] = [];
+        for (const folder in tileIndex) {
+            if (folder !== 'all') { // Éviter de s'inclure soi-même
+                tileIndex['all'] = tileIndex['all'].concat(tileIndex[folder]);
+            }
+        }
+        tileFolders.unshift('all'); // Ajouter 'all' en premier dans la liste
     } else {
         logToDebug('ERREUR : La variable TILE_CONFIGURATION est introuvable !');
         logToDebug('Assurez-vous que tile_configuration.js est chargé AVANT script.js dans index.html');
@@ -153,12 +298,21 @@ function updateFolderSelect() {
             option.value = folder;
             
             // Transformation cosmétique : Majuscule + (x tuiles trouvées)
-            const capitalizedFolder = folder.charAt(0).toUpperCase() + folder.slice(1);
+            //const capitalizedFolder = folder.charAt(0).toUpperCase() + folder.slice(1);
+            const capitalizedFolder = folder === 'all' ? 'Toutes les tuiles' : folder.charAt(0).toUpperCase() + folder.slice(1);
             const count = tileIndex[folder].length;
             option.textContent = `${capitalizedFolder} (${count} tuiles trouvées)`;
             
             tileFolderSelect.appendChild(option);
         });
+
+        // Sélectionner automatiquement "Toutes les tuiles" si disponible
+        if (tileFolders.includes('all')) {
+            tileFolderSelect.value = 'all';
+            updateAvailableTiles('all');
+            logToDebug('Sélection automatique de "Toutes les tuiles"');
+        }
+
         logToDebug(`Liste déroulante mise à jour avec ${tileFolders.length} dossiers`);
     }
 }
@@ -224,6 +378,33 @@ function setDimensions() {
     }
 }
 
+/**
+ * Vérifie si une ligne ou une colonne contient au moins une tuile.
+ * @param {'row' | 'col'} type - Le type de dimension à vérifier.
+ * @param {number} index - L'index de la ligne ou colonne.
+ * @returns {boolean} - True si la ligne/col est occupée.
+ */
+function isRowOrColNotEmpty(type, index) {
+    const allCells = Array.from(gridContainer.querySelectorAll('.cell'));
+    return allCells.some(cell => {
+        const cellIdx = parseInt(cell.dataset[type]);
+        return cellIdx === index && !cell.classList.contains('empty');
+    });
+}
+
+/**
+ * Demande confirmation si la ligne/col contient des tuiles.
+ * @param {'row' | 'col'} type 
+ * @param {number} index 
+ * @returns {boolean} - True si on peut procéder (ou si vide), False si l'utilisateur annule.
+ */
+function checkDeletionSafety(type, index) {
+    if (isRowOrColNotEmpty(type, index)) {
+        return confirm(`Attention : la ${type === 'row' ? 'ligne' : 'colonne'} ${index} contient des tuiles. Voulez-vous vraiment la supprimer ?`);
+    }
+    return true;
+}
+
 function addRowTop() {
     const newRows = currentRows + 1;
     // On recrée la grille en ajoutant une ligne vide au début
@@ -278,6 +459,8 @@ function addColRight() {
 
 function removeRowTop() {
     if (currentRows <= 1) return;
+    if (!checkDeletionSafety('row', 0)) return;
+
     const oldData = getGridData();
     oldData.shift();
     currentRows--;
@@ -286,6 +469,8 @@ function removeRowTop() {
 
 function removeRowBottom() {
     if (currentRows <= 1) return;
+    if (!checkDeletionSafety('row', currentRows - 1)) return;
+
     const oldData = getGridData();
     oldData.pop();
     currentRows--;
@@ -294,6 +479,8 @@ function removeRowBottom() {
 
 function removeColLeft() {
     if (currentCols <= 1) return;
+    if (!checkDeletionSafety('col', 0)) return;
+
     const oldData = getGridData();
     const newData = oldData.map(row => row.slice(1));
     currentCols--;
@@ -302,6 +489,8 @@ function removeColLeft() {
 
 function removeColRight() {
     if (currentCols <= 1) return;
+    if (!checkDeletionSafety('col', currentCols - 1)) return;
+
     const oldData = getGridData();
     const newData = oldData.map(row => row.slice(0, -1));
     currentCols--;
@@ -446,7 +635,20 @@ function handleCellClick(e) {
             const randomIndex = Math.floor(Math.random() * availableTiles.length);
             const tileName = availableTiles[randomIndex];
             const img = document.createElement('img');
-            img.src = `tile/${currentTileFolder}/${tileName}`;
+            //img.src = `tile/${currentTileFolder}/${tileName}`;
+            // Si currentTileFolder est "all", nous devons trouver le vrai dossier de la tuile
+            let tilePath = `tile/${currentTileFolder}/${tileName}`;
+            if (currentTileFolder === 'all') {
+                // Trouver le vrai dossier de cette tuile
+                for (const folder in tileIndex) {
+                    if (folder !== 'all' && tileIndex[folder].includes(tileName)) {
+                        tilePath = `tile/${folder}/${tileName}`;
+                        break;
+                    }
+                }
+            }
+            img.src = tilePath;
+
             //img.crossOrigin = "anonymous"; 
             img.alt = `Tuile ${tileName}`;
             img.style.transform = 'rotate(0deg)';
@@ -464,6 +666,7 @@ function handleCellClick(e) {
         if (img) {
             const currentRotation = parseInt(img.style.transform.replace('rotate(', '').replace('deg)', '')) || 0;
             const newRotation = (currentRotation + 90) % 360;
+            
             img.style.transform = `rotate(${newRotation}deg)`;
             logToDebug(`Rotation à ${newRotation}°`);
         }
@@ -534,6 +737,8 @@ function init() {
     createGrid();
     applyZoom();
     
+    setupDragAndDrop(); 
+
     logToDebug('=== Initialisation terminée ===');
 }
 
