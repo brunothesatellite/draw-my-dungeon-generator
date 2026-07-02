@@ -536,6 +536,10 @@ function applyNewGridData(newData) {
     currentRows = newData.length;
     currentCols = newData[0].length;
     
+    // MISE À JOUR DES INPUTS DE DIMENSIONS
+    if (gridColumnsInput) gridColumnsInput.value = currentCols;
+    if (gridRowsInput) gridRowsInput.value = currentRows;
+    
     // On reconstruit la structure visuelle
     gridContainer.innerHTML = '';
     gridContainer.style.gridTemplateColumns = `repeat(${currentCols}, 1fr)`;
