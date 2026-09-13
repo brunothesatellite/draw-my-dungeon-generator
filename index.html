@@ -38,30 +38,25 @@
             <input type="number" id="gridRows" min="1" max="20" value="8">
             <button id="setGridDimensions">Valider</button>
         </div>
-        <!-- Nouveaux boutons pour modifier la grille -->
-        <div class="grid-controls">
-            <!-- Groupe AJOUT (Croix positive) -->
-            <div class="grid-control-group cross-layout">
-                <span class="material-symbols-outlined center-icon">add_circle</span>
-                <button id="addRowTop" class="btn-top" title="Ajouter une ligne en haut">↑</button>
-                <button id="addRowBottom" class="btn-bottom" title="Ajouter une ligne en bas">↓</button>
-                <button id="addColLeft" class="btn-left" title="Ajouter une colonne à gauche">←</button>
-                <button id="addColRight" class="btn-right" title="Ajouter une colonne à droite">→</button>
-            </div>
-
-            <!-- Groupe SUPPRESSION (Croix négative) -->
-            <div class="grid-control-group cross-layout">
-                <span class="material-symbols-outlined center-icon">remove_circle</span>
-                <button id="removeRowTop" class="btn-top" title="Supprimer la première ligne">↓</button>
-                <button id="removeRowBottom" class="btn-bottom" title="Supprimer la dernière ligne">↑</button>
-                <button id="removeColLeft" class="btn-left" title="Supprimer la première colonne">→</button>
-                <button id="removeColRight" class="btn-right" title="Supprimer la dernière colonne">←</button>
-            </div>
-        </div>
     </div>
     
-    <div class="grid-container" id="gridContainer">
-        <!-- La grille sera générée dynamiquement par JavaScript -->
+    <div class="grid-wrapper">
+        <!-- Overlays d'ajout (hors zone scroll, toujours visibles) -->
+        <div class="grid-overlay-add grid-overlay-add-top" data-action="add-row-top" title="Ajouter une ligne en haut">+</div>
+        <div class="grid-overlay-add grid-overlay-add-left" data-action="add-col-left" title="Ajouter une colonne à gauche">+</div>
+        <div class="grid-overlay-add grid-overlay-add-right" data-action="add-col-right" title="Ajouter une colonne à droite">+</div>
+        <div class="grid-overlay-add grid-overlay-add-bottom" data-action="add-row-bottom" title="Ajouter une ligne en bas">+</div>
+
+        <!-- Zone scrollable contenant la grille et les overlays de suppression -->
+        <div class="grid-scroll-area" id="gridScrollArea">
+            <div class="grid-overlay-remove grid-overlay-remove-top" data-action="remove-row-top" title="Supprimer la première ligne">−</div>
+            <div class="grid-overlay-remove grid-overlay-remove-left" data-action="remove-col-left" title="Supprimer la première colonne">−</div>
+            <div class="grid-overlay-remove grid-overlay-remove-right" data-action="remove-col-right" title="Supprimer la dernière colonne">−</div>
+            <div class="grid-overlay-remove grid-overlay-remove-bottom" data-action="remove-row-bottom" title="Supprimer la dernière ligne">−</div>
+            <div class="grid-container" id="gridContainer">
+                <!-- La grille sera générée dynamiquement par JavaScript -->
+            </div>
+        </div>
     </div>
 
     

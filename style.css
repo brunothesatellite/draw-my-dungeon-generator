@@ -222,28 +222,173 @@ body {
     color: var(--text-muted);
 }
 
+/* ===== WRAPPER GRILLE ===== */
+.grid-wrapper {
+    --grid-pad: 16px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+
+.grid-scroll-area {
+    position: relative;
+    overflow: auto;
+    border: 2px solid var(--border-primary);
+    border-radius: var(--radius-md);
+    background-color: var(--bg-secondary);
+    box-shadow: var(--shadow-md), inset 0 0 30px rgba(0,0,0,0.05);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+[data-theme="dark"] .grid-scroll-area {
+    box-shadow: var(--shadow-md), inset 0 0 40px rgba(212, 163, 58, 0.03);
+}
+
 /* ===== GRILLE ===== */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(8, 1fr);
     gap: var(--grid-gap);
-    padding: 16px;
+    padding: var(--grid-pad);
     width: calc(100vw - 40px);
-    overflow: auto;
-    background-color: var(--bg-secondary);
-    border: 2px solid var(--border-primary);
-    border-radius: var(--radius-md);
-    box-shadow: var(--shadow-md), inset 0 0 30px rgba(0,0,0,0.05);
     transform-origin: top left;
     z-index: 1;
-    height: 100%;
-    min-height: 100%;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
+    min-height: 400px;
+    transition: background-color 0.3s ease;
 }
 
-[data-theme="dark"] .grid-container {
-    box-shadow: var(--shadow-md), inset 0 0 40px rgba(212, 163, 58, 0.03);
+/* ===== OVERLAYS D'AJOUT (hors scroll, toujours visibles) ===== */
+.grid-overlay-add {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.5;
+    transition: opacity 0.2s ease, transform 0.15s ease, background-color 0.2s ease;
+    user-select: none;
+}
+
+.grid-overlay-add:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.grid-overlay-add:active {
+    transform: scale(0.95);
+}
+
+.grid-overlay-add-top {
+    top: 0;
+    left: var(--grid-pad);
+    right: var(--grid-pad);
+    height: 28px;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    background-color: var(--accent-success);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-add-bottom {
+    bottom: 0;
+    left: var(--grid-pad);
+    right: var(--grid-pad);
+    height: 28px;
+    border-radius: 0 0 var(--radius-md) var(--radius-md);
+    background-color: var(--accent-success);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-add-left {
+    left: 0;
+    top: var(--grid-pad);
+    bottom: var(--grid-pad);
+    width: 28px;
+    border-radius: var(--radius-md) 0 0 var(--radius-md);
+    background-color: var(--accent-success);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-add-right {
+    right: 0;
+    top: var(--grid-pad);
+    bottom: var(--grid-pad);
+    width: 28px;
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    background-color: var(--accent-success);
+    color: var(--text-on-accent);
+}
+
+/* ===== OVERLAYS DE SUPPRESSION (sticky dans le scroll) ===== */
+.grid-overlay-remove {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.15s ease, background-color 0.2s ease;
+    user-select: none;
+}
+
+.grid-overlay-remove.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.grid-overlay-remove:hover {
+    transform: scale(1.1);
+}
+
+.grid-overlay-remove:active {
+    transform: scale(0.9);
+}
+
+.grid-overlay-remove-top {
+    top: 0;
+    left: var(--grid-pad);
+    right: var(--grid-pad);
+    height: 30px;
+    border-radius: var(--radius-sm);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-remove-bottom {
+    bottom: 0;
+    left: var(--grid-pad);
+    right: var(--grid-pad);
+    height: 30px;
+    border-radius: var(--radius-sm);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-remove-left {
+    left: 0;
+    top: var(--grid-pad);
+    bottom: var(--grid-pad);
+    width: 30px;
+    border-radius: var(--radius-sm);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
+}
+
+.grid-overlay-remove-right {
+    right: 0;
+    top: var(--grid-pad);
+    bottom: var(--grid-pad);
+    width: 30px;
+    border-radius: var(--radius-sm);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
 }
 
 /* ===== CELLULES ===== */
@@ -347,56 +492,6 @@ body {
     font-family: 'Courier New', monospace;
     font-size: 12px;
     resize: vertical;
-}
-
-/* ===== CONTRÔLES DE GRILLE (CROIX) ===== */
-.grid-controls {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-}
-
-.cross-layout {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    grid-template-rows: repeat(3, auto);
-    align-items: center;
-    justify-items: center;
-    gap: 2px;
-}
-
-.center-icon {
-    grid-column: 2;
-    grid-row: 2;
-    font-size: 24px;
-    color: var(--text-muted);
-}
-
-.btn-top    { grid-column: 2; grid-row: 1; }
-.btn-bottom { grid-column: 2; grid-row: 3; }
-.btn-left   { grid-column: 1; grid-row: 2; }
-.btn-right  { grid-column: 3; grid-row: 2; }
-
-.grid-control-group button {
-    width: 28px;
-    height: 28px;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    font-size: 14px;
-}
-
-.grid-control-group button span.material-symbols-outlined {
-    font-size: 18px;
-    margin-right: 2px;
-}
-
-.material-symbols-outlined {
-    font-size: 20px;
-    vertical-align: middle;
-    color: var(--text-muted);
 }
 
 /* ===== MODALE ===== */
@@ -523,9 +618,5 @@ body {
 
     .controls select {
         min-width: 100%;
-    }
-
-    .grid-controls {
-        justify-content: center;
     }
 }
