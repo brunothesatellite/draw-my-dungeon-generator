@@ -260,15 +260,20 @@ function updateAvailableTiles(folder) {
 
 // --- GRID ---
 function fitCells() {
-    const pad = 32;
+    const gridAreaPad = 100;
+    const containerPad = 32;
+    const containerBorder = 4;
     const gap = 5;
-    const areaW = gridArea.clientWidth - pad;
-    const areaH = gridArea.clientHeight - pad;
-    if (areaW <= 0 || areaH <= 0) return;
+    const contentW = gridArea.clientWidth - gridAreaPad;
+    const contentH = gridArea.clientHeight - gridAreaPad;
+    if (contentW <= 0 || contentH <= 0) return;
 
-    const cellW = (areaW - gap * (currentCols - 1)) / currentCols;
-    const cellH = (areaH - gap * (currentRows - 1)) / currentRows;
-    const cellSize = Math.floor(Math.min(cellW, cellH));
+    const cellAreaW = contentW - containerPad - containerBorder;
+    const cellAreaH = contentH - containerPad - containerBorder;
+    const cellW = (cellAreaW - gap * (currentCols - 1)) / currentCols;
+    const cellH = (cellAreaH - gap * (currentRows - 1)) / currentRows;
+    const baseCellSize = Math.floor(Math.min(cellW, cellH));
+    const cellSize = Math.max(10, Math.floor(baseCellSize * zoomLevel));
 
     gridContainer.style.gridTemplateColumns = `repeat(${currentCols}, ${cellSize}px)`;
     gridContainer.style.gridTemplateRows = `repeat(${currentRows}, ${cellSize}px)`;
@@ -542,38 +547,16 @@ function handleCellRightClick(e) {
 
 // --- ZOOM & AUTO-FIT ---
 function applyZoom() {
-    gridContainer.style.transform = `scale(${zoomLevel})`;
-    document.documentElement.style.setProperty('--grid-pad', `${16 * zoomLevel}px`);
+    fitCells();
     const percentage = Math.round(zoomLevel * 100);
     zoomDisplay.textContent = `${percentage}%`;
     positionOverlays();
 }
 
 function autoFitZoom() {
-    const areaW = gridArea.clientWidth;
-    const areaH = gridArea.clientHeight;
-    if (areaW === 0 || areaH === 0) return;
-
-    const savedZoom = zoomLevel;
-
-    zoomLevel = 1;
-    gridContainer.style.transform = 'scale(1)';
-    const gridW = gridContainer.getBoundingClientRect().width;
-    const gridH = gridContainer.getBoundingClientRect().height;
-
-    if (gridW === 0 || gridH === 0) {
-        zoomLevel = savedZoom;
-        applyZoom();
-        return;
-    }
-
-    const fitW = areaW / gridW;
-    const fitH = areaH / gridH;
-    zoomLevel = Math.min(fitW, fitH, maxZoom);
-    zoomLevel = Math.max(zoomLevel, minZoom);
-
+    zoomLevel = 1.0;
     applyZoom();
-    logToDebug(`Auto-zoom : ${zoomLevel.toFixed(2)}x (espace: ${areaW}x${areaH}, grille: ${gridW.toFixed(0)}x${gridH.toFixed(0)})`);
+    logToDebug('Auto-zoom : 1.00x (grid fit)');
 }
 
 // Position overlays centered on the visual grid edges
@@ -728,3 +711,6 @@ window.addEventListener('resize', () => {
         positionOverlays();
     }, 100);
 });
+
+// Reposition overlays on scroll
+gridArea.addEventListener('scroll', positionOverlays);
