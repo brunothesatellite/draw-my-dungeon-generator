@@ -61,10 +61,14 @@ let currentCols = 6;
 let currentRows = 8;
 
 // --- DRAG & DROP ---
+let isDragging = false;
+
 function setupDragAndDrop() {
     gridContainer.addEventListener('dragstart', (e) => {
         const img = e.target.closest('img');
         if (!img) return;
+        isDragging = true;
+        gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.remove('show'));
         e.dataTransfer.setData('text/plain', img.src);
         const sourceCell = img.closest('.cell');
         const row = sourceCell.dataset.row;
@@ -72,6 +76,10 @@ function setupDragAndDrop() {
         e.dataTransfer.setData('sourceCoords', `${row}|${col}`);
         e.dataTransfer.effectAllowed = 'move';
         logToDebug(`Drag start: ${img.src} depuis (${row},${col})`);
+    });
+
+    gridContainer.addEventListener('dragend', () => {
+        isDragging = false;
     });
 
     gridContainer.addEventListener('dragover', (e) => {
@@ -630,6 +638,7 @@ function setupOverlayControls() {
     const BORDER = 50;
 
     document.addEventListener('mousemove', (e) => {
+        if (isDragging) return;
         const r = gridContainer.getBoundingClientRect();
         const inBorder =
             e.clientX >= r.left - BORDER && e.clientX <= r.right + BORDER &&
@@ -703,14 +712,29 @@ init();
 
 // Auto-fit on resize
 let resizeTimer;
+let resizeOverlaysPending = false;
 window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
         fitCells();
         autoFitZoom();
-        positionOverlays();
+        if (!resizeOverlaysPending) {
+            resizeOverlaysPending = true;
+            requestAnimationFrame(() => {
+                resizeOverlaysPending = false;
+                positionOverlays();
+            });
+        }
     }, 100);
 });
 
-// Reposition overlays on scroll
-gridArea.addEventListener('scroll', positionOverlays);
+// Reposition overlays on scroll (debounce to prevent infinite reflow loop)
+let positionOverlaysPending = false;
+gridArea.addEventListener('scroll', () => {
+    if (isDragging || positionOverlaysPending) return;
+    positionOverlaysPending = true;
+    requestAnimationFrame(() => {
+        positionOverlaysPending = false;
+        positionOverlays();
+    });
+});
