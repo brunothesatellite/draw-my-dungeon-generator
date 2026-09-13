@@ -361,10 +361,10 @@ body {
 }
 
 /* Tooltip positions per edge */
-.ctrl.top-group button::after    { bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
-.ctrl.bottom-group button::after { top: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+.ctrl.top-group button::after    { top: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+.ctrl.bottom-group button::after { bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
 .ctrl.left-group button::after   { left: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
-.ctrl.right-group button::after  { left: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
+.ctrl.right-group button::after  { right: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
 
 /* Edge groups — positioned by JS */
 .ctrl.top-group { flex-direction: row; }
