@@ -572,8 +572,9 @@ function positionOverlays() {
     const areaRect = gridArea.getBoundingClientRect();
     const gridRect = gridContainer.getBoundingClientRect();
 
-    const gLeft = gridRect.left - areaRect.left;
-    const gTop = gridRect.top - areaRect.top;
+    // Convert viewport-relative coords to content-space (absolute positioning context)
+    const gLeft = gridRect.left - areaRect.left + gridArea.scrollLeft;
+    const gTop = gridRect.top - areaRect.top + gridArea.scrollTop;
     const gWidth = gridRect.width;
     const gHeight = gridRect.height;
     const midX = gLeft + gWidth / 2;
@@ -728,13 +729,4 @@ window.addEventListener('resize', () => {
     }, 100);
 });
 
-// Reposition overlays on scroll (debounce to prevent infinite reflow loop)
-let positionOverlaysPending = false;
-gridArea.addEventListener('scroll', () => {
-    if (isDragging || positionOverlaysPending) return;
-    positionOverlaysPending = true;
-    requestAnimationFrame(() => {
-        positionOverlaysPending = false;
-        positionOverlays();
-    });
-});
+
