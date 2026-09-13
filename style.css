@@ -194,6 +194,17 @@ body {
     background-color: var(--accent-secondary-hover) !important;
 }
 
+[data-theme="dark"] #themeToggle {
+    background-color: #3a2d18 !important;
+    color: #b89e7a !important;
+    filter: brightness(0.8);
+}
+
+[data-theme="dark"] #themeToggle:hover {
+    background-color: #4a3d28 !important;
+    filter: brightness(0.9);
+}
+
 /* ===== CHAMPS NUMÉRIQUES ===== */
 .controls input[type="number"] {
     padding: 6px 8px;

@@ -800,7 +800,6 @@ function applyZoom() {
     gridContainer.style.transform = `scale(${zoomLevel})`;
     document.documentElement.style.setProperty('--grid-pad', `${16 * zoomLevel}px`);
     
-    // Mise à jour de l'affichage du pourcentage
     const percentage = Math.round(zoomLevel * 100);
     zoomDisplay.textContent = `${percentage}%`;
 
