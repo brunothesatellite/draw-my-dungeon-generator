@@ -53,10 +53,10 @@
 /* ===== THÈME SOMBRE (Donjon) ===== */
 [data-theme="dark"] {
     --bg-primary: #0d0b07;
-    --bg-secondary: #1a1209;
+    --bg-secondary: #0d0a05;
     --bg-surface: #2a1f14;
     --bg-cell: #1e1710;
-    --bg-cell-empty: #14100a;
+    --bg-cell-empty: #181410;
     --bg-controls: #1a1209;
     --bg-input: #1e1710;
     --bg-tooltip: rgba(10, 8, 4, 0.95);
@@ -83,7 +83,7 @@
     --accent-info-hover: #7a8eaa;
 
     --border-primary: #3a2d18;
-    --border-light: #2a1f14;
+    --border-light: #3a2d18;
     --border-dark: #5c4a2a;
 
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
@@ -392,13 +392,17 @@ body {
     max-height: 100%;
     transform-origin: center;
     object-fit: contain;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, filter 0.3s ease;
     z-index: 2;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+[data-theme="dark"] .cell img {
+    filter: brightness(0.6) contrast(1.1);
 }
 
 .cell.empty {
