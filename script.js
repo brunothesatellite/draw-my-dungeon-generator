@@ -319,14 +319,22 @@ function createGrid(cols = currentCols, rows = currentRows) {
 }
 
 // --- GRID DIMENSIONS ---
-function setDimensions() {
+async function setDimensions() {
     const newCols = parseInt(gridColumnsInput.value);
     const newRows = parseInt(gridRowsInput.value);
     if (isNaN(newCols) || isNaN(newRows) || newCols < 1 || newRows < 1) {
         alert("Veuillez entrer des dimensions valides (minimum 1).");
         return;
     }
-    if (confirm("Voulez-vous créer une nouvelle grille vide ? Cela effacera la grille actuelle.")) {
+    const modal = document.getElementById('resetModal');
+    const btnConfirm = document.getElementById('resetModalConfirm');
+    const btnCancel = document.getElementById('resetModalCancel');
+    modal.style.display = 'flex';
+    const confirmed = await new Promise(resolve => {
+        btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
+        btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+    });
+    if (confirmed) {
         createGrid(newCols, newRows);
     }
 }
@@ -339,11 +347,20 @@ function isRowOrColNotEmpty(type, index) {
     });
 }
 
-function checkDeletionSafety(type, index) {
-    if (isRowOrColNotEmpty(type, index)) {
-        return confirm(`Attention : la ${type === 'row' ? 'ligne' : 'colonne'} ${index} contient des tuiles. Voulez-vous vraiment la supprimer ?`);
-    }
-    return true;
+async function checkDeletionSafety(type, index) {
+    if (!isRowOrColNotEmpty(type, index)) return true;
+    const modal = document.getElementById('deleteModal');
+    const msg = document.getElementById('deleteModalMsg');
+    const btnConfirm = document.getElementById('deleteModalConfirm');
+    const btnCancel = document.getElementById('deleteModalCancel');
+    const label = type === 'row' ? 'ligne' : 'colonne';
+    msg.textContent = `Attention : la ${label} ${index} contient des tuiles. Voulez-vous vraiment la supprimer ?`;
+    modal.style.display = 'flex';
+    const choice = await new Promise(resolve => {
+        btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
+        btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+    });
+    return choice;
 }
 
 function addRowTop() {
@@ -372,36 +389,36 @@ function addColRight() {
     applyNewGridData(newData);
 }
 
-function removeRowTop() {
+async function removeRowTop() {
     if (currentRows <= 1) return;
-    if (!checkDeletionSafety('row', 0)) return;
+    if (!await checkDeletionSafety('row', 0)) return;
     const oldData = getGridData();
     oldData.shift();
     currentRows--;
     applyNewGridData(oldData);
 }
 
-function removeRowBottom() {
+async function removeRowBottom() {
     if (currentRows <= 1) return;
-    if (!checkDeletionSafety('row', currentRows - 1)) return;
+    if (!await checkDeletionSafety('row', currentRows - 1)) return;
     const oldData = getGridData();
     oldData.pop();
     currentRows--;
     applyNewGridData(oldData);
 }
 
-function removeColLeft() {
+async function removeColLeft() {
     if (currentCols <= 1) return;
-    if (!checkDeletionSafety('col', 0)) return;
+    if (!await checkDeletionSafety('col', 0)) return;
     const oldData = getGridData();
     const newData = oldData.map(row => row.slice(1));
     currentCols--;
     applyNewGridData(newData);
 }
 
-function removeColRight() {
+async function removeColRight() {
     if (currentCols <= 1) return;
-    if (!checkDeletionSafety('col', currentCols - 1)) return;
+    if (!await checkDeletionSafety('col', currentCols - 1)) return;
     const oldData = getGridData();
     const newData = oldData.map(row => row.slice(0, -1));
     currentCols--;
