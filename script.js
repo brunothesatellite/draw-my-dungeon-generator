@@ -49,6 +49,88 @@ function toggleTheme() {
     logToDebug(`Thème changé : ${next === 'dark' ? 'Sombre (Donjon)' : 'Clair (Parchemin)'}`);
 }
 
+// --- OVERLAYS DE GRILLE ---
+const addOverlays = document.querySelectorAll('.grid-overlay-add');
+const removeOverlays = document.querySelectorAll('.grid-overlay-remove');
+let overlayHideTimer = null;
+
+function showRemoveOverlay(action) {
+    removeOverlays.forEach(o => {
+        if (o.dataset.action === action) o.classList.add('visible');
+    });
+}
+
+function hideAllRemoveOverlays() {
+    removeOverlays.forEach(o => o.classList.remove('visible'));
+}
+
+function getGridBoundingBox() {
+    const rect = gridContainer.getBoundingClientRect();
+    const scrollRect = gridScrollArea.getBoundingClientRect();
+    return {
+        top: rect.top - scrollRect.top + gridScrollArea.scrollTop,
+        bottom: rect.bottom - scrollRect.top + gridScrollArea.scrollTop,
+        left: rect.left - scrollRect.left + gridScrollArea.scrollLeft,
+        right: rect.right - scrollRect.left + gridScrollArea.scrollLeft,
+        width: rect.width,
+        height: rect.height
+    };
+}
+
+function detectGridEdge(mouseX, mouseY) {
+    const gridRect = gridContainer.getBoundingClientRect();
+    const threshold = 30;
+
+    const relX = mouseX - gridRect.left;
+    const relY = mouseY - gridRect.top;
+
+    if (relY < threshold && relX > 0 && relX < gridRect.width) return 'remove-row-top';
+    if (relY > gridRect.height - threshold && relX > 0 && relX < gridRect.width) return 'remove-row-bottom';
+    if (relX < threshold && relY > 0 && relY < gridRect.height) return 'remove-col-left';
+    if (relX > gridRect.width - threshold && relY > 0 && relY < gridRect.height) return 'remove-col-right';
+    return null;
+}
+
+function setupOverlays() {
+    addOverlays.forEach(overlay => {
+        overlay.addEventListener('click', () => {
+            const action = overlay.dataset.action;
+            if (action === 'add-row-top') addRowTop();
+            else if (action === 'add-row-bottom') addRowBottom();
+            else if (action === 'add-col-left') addColLeft();
+            else if (action === 'add-col-right') addColRight();
+        });
+    });
+
+    removeOverlays.forEach(overlay => {
+        overlay.addEventListener('click', () => {
+            const action = overlay.dataset.action;
+            if (action === 'remove-row-top') removeRowTop();
+            else if (action === 'remove-row-bottom') removeRowBottom();
+            else if (action === 'remove-col-left') removeColLeft();
+            else if (action === 'remove-col-right') removeColRight();
+            hideAllRemoveOverlays();
+        });
+
+        overlay.addEventListener('mouseleave', () => {
+            hideAllRemoveOverlays();
+        });
+    });
+
+    gridScrollArea.addEventListener('mousemove', (e) => {
+        const edge = detectGridEdge(e.clientX, e.clientY);
+        if (edge) {
+            clearTimeout(overlayHideTimer);
+            hideAllRemoveOverlays();
+            showRemoveOverlay(edge);
+        }
+    });
+
+    gridScrollArea.addEventListener('mouseleave', () => {
+        overlayHideTimer = setTimeout(hideAllRemoveOverlays, 200);
+    });
+}
+
 let zoomLevel = 0.7;
 const minZoom = 0.5;
 const maxZoom = 2;
@@ -380,6 +462,7 @@ function createGrid(cols = currentCols, rows = currentRows) {
     }
     logToDebug(`Grille créée (${cols}x${rows} cellules)`);
     updateOverlayStates();
+    requestAnimationFrame(positionOverlays);
 }
 
 // --- FONCTIONS DE MANIPULATION DE LA GRILLE ---
@@ -593,6 +676,7 @@ function applyNewGridData(newData) {
     }
     logToDebug(`Grille mise à jour : ${currentCols}x${currentRows}`);
     updateOverlayStates();
+    requestAnimationFrame(positionOverlays);
 }
 
 
@@ -714,11 +798,52 @@ function handleCellRightClick(e) {
 // Gérer le zoom
 function applyZoom() {
     gridContainer.style.transform = `scale(${zoomLevel})`;
+    document.documentElement.style.setProperty('--grid-pad', `${16 * zoomLevel}px`);
     
     // Mise à jour de l'affichage du pourcentage
-    // On multiplie par 100 et on utilise Math.round pour éviter les problèmes de virgule flottante
     const percentage = Math.round(zoomLevel * 100);
     zoomDisplay.textContent = `${percentage}%`;
+
+    positionOverlays();
+}
+
+// Position overlays centered on the visual grid edges
+function positionOverlays() {
+    const areaRect = gridArea.getBoundingClientRect();
+    const gridRect = gridContainer.getBoundingClientRect();
+
+    const gLeft = gridRect.left - areaRect.left;
+    const gTop = gridRect.top - areaRect.top;
+    const gWidth = gridRect.width;
+    const gHeight = gridRect.height;
+    const midX = gLeft + gWidth / 2;
+    const midY = gTop + gHeight / 2;
+
+    const topGroup = gridArea.querySelector('.top-group');
+    const bottomGroup = gridArea.querySelector('.bottom-group');
+    const leftGroup = gridArea.querySelector('.left-group');
+    const rightGroup = gridArea.querySelector('.right-group');
+
+    if (topGroup) {
+        topGroup.style.top = (gTop - 36) + 'px';
+        topGroup.style.left = midX + 'px';
+        topGroup.style.transform = 'translateX(-50%)';
+    }
+    if (bottomGroup) {
+        bottomGroup.style.top = (gTop + gHeight + 10) + 'px';
+        bottomGroup.style.left = midX + 'px';
+        bottomGroup.style.transform = 'translateX(-50%)';
+    }
+    if (leftGroup) {
+        leftGroup.style.top = midY + 'px';
+        leftGroup.style.left = (gLeft - 36) + 'px';
+        leftGroup.style.transform = 'translateY(-50%)';
+    }
+    if (rightGroup) {
+        rightGroup.style.top = midY + 'px';
+        rightGroup.style.left = (gLeft + gWidth + 10) + 'px';
+        rightGroup.style.transform = 'translateY(-50%)';
+    }
 }
 
 // --- OVERLAY CONTROLS ---
@@ -727,14 +852,51 @@ const actionMap = {
     removeRowTop, removeRowBottom, removeColLeft, removeColRight
 };
 
+let overlayHideTimeout = null;
+
 function setupOverlayControls() {
     gridArea.querySelectorAll('.ctrl button').forEach(btn => {
-        btn.addEventListener('click', () => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
             const action = btn.dataset.action;
             if (actionMap[action]) actionMap[action]();
             updateOverlayStates();
         });
     });
+
+    const showOverlays = () => {
+        clearTimeout(overlayHideTimeout);
+        gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.add('show'));
+    };
+
+    const hideOverlays = () => {
+        overlayHideTimeout = setTimeout(() => {
+            gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.remove('show'));
+        }, 300);
+    };
+
+    const BORDER = 50;
+
+    document.addEventListener('mousemove', (e) => {
+        const r = gridContainer.getBoundingClientRect();
+        const inBorder =
+            e.clientX >= r.left - BORDER && e.clientX <= r.right + BORDER &&
+            e.clientY >= r.top - BORDER && e.clientY <= r.bottom + BORDER &&
+            !(e.clientX >= r.left && e.clientX <= r.right &&
+              e.clientY >= r.top && e.clientY <= r.bottom);
+
+        if (inBorder) {
+            showOverlays();
+        } else {
+            hideOverlays();
+        }
+    });
+
+    gridArea.querySelectorAll('.ctrl').forEach(ctrl => {
+        ctrl.addEventListener('mouseenter', showOverlays);
+        ctrl.addEventListener('mouseleave', hideOverlays);
+    });
+
     updateOverlayStates();
 }
 
@@ -798,3 +960,7 @@ function init() {
 
 // Démarrer l'application
 init();
+
+// Reposition overlays on resize/scroll
+window.addEventListener('resize', positionOverlays);
+window.addEventListener('scroll', positionOverlays);
