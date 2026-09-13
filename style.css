@@ -427,6 +427,8 @@ body {
 /* ===== TOOLTIP ===== */
 #customTooltip {
     position: fixed;
+    top: 0;
+    left: 0;
     padding: 8px 14px;
     background-color: var(--bg-tooltip);
     color: var(--text-debug);
@@ -435,7 +437,7 @@ body {
     font-family: 'Crimson Text', serif;
     font-size: 14px;
     pointer-events: none;
-    z-index: 1000;
+    z-index: 5;
     display: none;
     box-shadow: var(--shadow-lg);
     transition: opacity 0.2s ease;

@@ -304,9 +304,9 @@ function createGrid(cols = currentCols, rows = currentRows) {
             cell.dataset.col = col;
             cell.addEventListener('click', handleCellClick);
             cell.addEventListener('contextmenu', handleCellRightClick);
-            cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
-            cell.addEventListener('mouseleave', handleMouseLeave);
-            cell.addEventListener('mousemove', handleMouseMove);
+            // cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
+            // cell.addEventListener('mouseleave', handleMouseLeave);
+            // cell.addEventListener('mousemove', handleMouseMove);
             gridContainer.appendChild(cell);
         }
     }
@@ -462,9 +462,9 @@ function applyNewGridData(newData) {
             cell.dataset.col = c;
             cell.addEventListener('click', handleCellClick);
             cell.addEventListener('contextmenu', handleCellRightClick);
-            cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
-            cell.addEventListener('mouseleave', handleMouseLeave);
-            cell.addEventListener('mousemove', handleMouseMove);
+            // cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
+            // cell.addEventListener('mouseleave', handleMouseLeave);
+            // cell.addEventListener('mousemove', handleMouseMove);
 
             const tileInfo = newData[r][c];
             if (tileInfo) {
@@ -507,8 +507,7 @@ function handleMouseEnter(e, cell) {
 
 function handleMouseMove(e) {
     if (tooltip.style.display === 'block') {
-        tooltip.style.left = (e.clientX + 15) + 'px';
-        tooltip.style.top = (e.clientY + 15) + 'px';
+        tooltip.style.transform = `translate(${e.clientX + 15}px, ${e.clientY + 15}px)`;
     }
 }
 
