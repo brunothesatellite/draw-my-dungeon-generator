@@ -255,6 +255,9 @@ body {
     min-height: 0;
     overflow: auto;
     padding: 50px;
+    display: flex;
+    justify-content: safe center;
+    align-items: safe center;
 }
 
 /* ===== GRILLE ===== */
@@ -262,7 +265,6 @@ body {
     display: grid;
     gap: var(--grid-gap);
     padding: 16px;
-    margin: 0 auto;
     width: auto;
     height: auto;
     background-color: var(--bg-secondary);
