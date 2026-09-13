@@ -132,6 +132,7 @@ function moveTile(img, sourceCell, targetCell) {
 }
 
 async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
+    isDragging = false;
     const modal = document.getElementById('collisionModal');
     const btnOverwrite = document.getElementById('modalOverwrite');
     const btnSwap = document.getElementById('modalSwap');
@@ -148,6 +149,7 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
     const choice = await getChoice;
     if (choice === "1") moveTile(sourceImg, sourceCell, targetCell);
     else if (choice === "2") swapTiles(sourceCell, targetCell);
+    positionOverlays();
 }
 
 function swapTiles(cell1, cell2) {
