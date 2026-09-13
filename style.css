@@ -349,54 +349,128 @@ body {
     resize: vertical;
 }
 
-/* ===== CONTRÔLES DE GRILLE (CROIX) ===== */
-.grid-controls {
-    display: flex;
-    gap: 20px;
-    align-items: center;
+/* ===== GRID AREA (wrapper for overlays) ===== */
+.grid-area {
+    position: relative;
+    display: inline-block;
+    width: 100%;
 }
 
-.cross-layout {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    grid-template-rows: repeat(3, auto);
-    align-items: center;
-    justify-items: center;
-    gap: 2px;
-}
-
-.center-icon {
-    grid-column: 2;
-    grid-row: 2;
-    font-size: 24px;
-    color: var(--text-muted);
-}
-
-.btn-top    { grid-column: 2; grid-row: 1; }
-.btn-bottom { grid-column: 2; grid-row: 3; }
-.btn-left   { grid-column: 1; grid-row: 2; }
-.btn-right  { grid-column: 3; grid-row: 2; }
-
-.grid-control-group button {
-    width: 28px;
-    height: 28px;
-    padding: 0;
+/* ===== OVERLAY CONTROLS ===== */
+.ctrl {
+    position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 5px;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.grid-area:hover .ctrl {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.ctrl button {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 1.5px solid var(--border-primary);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-controls);
+    color: var(--text-secondary);
+    transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.1s;
+    position: relative;
+    flex-shrink: 0;
+    padding: 0;
 }
 
-.grid-control-group button span.material-symbols-outlined {
-    font-size: 18px;
-    margin-right: 2px;
+.ctrl button:hover {
+    background: var(--accent-secondary);
+    color: var(--text-on-accent);
+    border-color: var(--accent-secondary);
+    transform: scale(1.1);
 }
 
-.material-symbols-outlined {
-    font-size: 20px;
-    vertical-align: middle;
-    color: var(--text-muted);
+.ctrl button:active {
+    transform: scale(0.9);
+}
+
+.ctrl.remove button:hover {
+    background: var(--accent-primary);
+    color: var(--text-on-accent);
+    border-color: var(--accent-primary);
+}
+
+.ctrl button.disabled {
+    opacity: 0.2;
+    pointer-events: none;
+}
+
+/* Tooltips */
+.ctrl button::after {
+    content: attr(data-tip);
+    position: absolute;
+    white-space: nowrap;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: var(--bg-tooltip);
+    color: var(--text-debug);
+    border: 1px solid var(--border-dark);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.12s;
+    z-index: 20;
+}
+
+.ctrl button:hover::after {
+    opacity: 1;
+}
+
+/* Tooltip positions per edge */
+.ctrl.top-group button::after    { bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+.ctrl.bottom-group button::after { top: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+.ctrl.left-group button::after   { right: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
+.ctrl.right-group button::after  { left: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
+
+/* Edge groups — centered on each edge */
+.ctrl.top-group {
+    top: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+    flex-direction: row;
+}
+
+.ctrl.bottom-group {
+    bottom: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+    flex-direction: row;
+}
+
+.ctrl.left-group {
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    flex-direction: column;
+}
+
+.ctrl.right-group {
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    flex-direction: column;
 }
 
 /* ===== MODALE ===== */
@@ -523,9 +597,5 @@ body {
 
     .controls select {
         min-width: 100%;
-    }
-
-    .grid-controls {
-        justify-content: center;
     }
 }

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mockup — Grid Overlay Controls</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #1a1a2e;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #ccc;
+        }
+
+        /* ── Grid wrapper ── */
+        .grid-area {
+            position: relative;
+            display: inline-block;
+            padding: 72px;
+        }
+
+        /* ── The grid itself ── */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(6, 80px);
+            grid-template-rows: repeat(5, 80px);
+            gap: 3px;
+            background: #2a2a3e;
+            border: 2px solid #3a3a50;
+            border-radius: 4px;
+        }
+
+        .cell {
+            background: #33334a;
+            border: 1px solid #44445a;
+            border-radius: 2px;
+            transition: background 0.15s;
+        }
+        .cell:hover { background: #3e3e58; }
+
+        /* ══════════════════════════════════════
+           OVERLAY CONTROLS
+           ══════════════════════════════════════ */
+
+        .ctrl {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            opacity: 0;
+            transition: opacity 0.15s ease;
+            z-index: 10;
+            pointer-events: none;
+        }
+
+        /* Show on hover of the whole area */
+        .grid-area:hover .ctrl { opacity: 1; pointer-events: auto; }
+
+        /* ── Button base ── */
+        .ctrl button {
+            width: 26px;
+            height: 26px;
+            border-radius: 50%;
+            border: 1.5px solid rgba(255,255,255,0.15);
+            cursor: pointer;
+            font-size: 15px;
+            font-weight: 700;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255, 255, 255, 0.08);
+            color: rgba(255, 255, 255, 0.55);
+            backdrop-filter: blur(6px);
+            transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.1s;
+            position: relative;
+            flex-shrink: 0;
+        }
+
+        .ctrl button:hover {
+            background: rgba(255, 255, 255, 0.2);
+            color: #fff;
+            border-color: rgba(255,255,255,0.3);
+            transform: scale(1.1);
+        }
+
+        .ctrl button:active { transform: scale(0.9); }
+
+        /* Remove buttons: red on hover */
+        .ctrl.remove button:hover {
+            background: rgba(220, 50, 50, 0.3);
+            color: #f77;
+            border-color: rgba(220, 50, 50, 0.5);
+        }
+
+        /* Disabled */
+        .ctrl button.disabled {
+            opacity: 0.15;
+            pointer-events: none;
+        }
+
+        /* ── Tooltips ── */
+        .ctrl button::after {
+            content: attr(data-tip);
+            position: absolute;
+            white-space: nowrap;
+            font-size: 11px;
+            font-weight: 500;
+            padding: 4px 8px;
+            border-radius: 4px;
+            background: rgba(0, 0, 0, 0.85);
+            color: #eee;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.12s;
+            z-index: 20;
+        }
+        .ctrl button:hover::after { opacity: 1; }
+
+        /* Tooltip positions */
+        .ctrl.top-group button::after    { bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+        .ctrl.bottom-group button::after { top: calc(100% + 8px); left: 50%; transform: translateX(-50%); }
+        .ctrl.left-group button::after   { right: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
+        .ctrl.right-group button::after  { left: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
+
+        /* ══════════════════════════════════════
+           EDGE GROUPS — centered on each edge
+           ══════════════════════════════════════ */
+
+        /* TOP: horizontal row, centered on top edge */
+        .ctrl.top-group {
+            top: 18px;
+            left: 50%;
+            transform: translateX(-50%);
+            flex-direction: row;
+        }
+
+        /* BOTTOM: horizontal row, centered on bottom edge */
+        .ctrl.bottom-group {
+            bottom: 18px;
+            left: 50%;
+            transform: translateX(-50%);
+            flex-direction: row;
+        }
+
+        /* LEFT: vertical column, centered on left edge */
+        .ctrl.left-group {
+            left: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            flex-direction: column;
+        }
+
+        /* RIGHT: vertical column, centered on right edge */
+        .ctrl.right-group {
+            right: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            flex-direction: column;
+        }
+
+        /* ── Legend ── */
+        .legend {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 12px;
+            color: #555;
+            text-align: center;
+            line-height: 1.8;
+        }
+        .legend kbd {
+            display: inline-block;
+            padding: 1px 6px;
+            border: 1px solid #444;
+            border-radius: 3px;
+            background: #222;
+            font-size: 11px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+<div class="grid-area" id="gridArea">
+
+    <!-- ═══ TOP ═══  − remove first row  |  + add row above -->
+    <div class="ctrl top-group">
+        <button class="remove" data-tip="Remove first row" onclick="alert('remove first row')">−</button>
+        <button data-tip="Add row above" onclick="alert('add row above')">+</button>
+    </div>
+
+    <!-- ═══ BOTTOM ═══  + add row below  |  − remove last row -->
+    <div class="ctrl bottom-group">
+        <button data-tip="Add row below" onclick="alert('add row below')">+</button>
+        <button class="remove" data-tip="Remove last row" onclick="alert('remove last row')">−</button>
+    </div>
+
+    <!-- ═══ LEFT ═══  + add col left / − remove first col (vertical) -->
+    <div class="ctrl left-group">
+        <button data-tip="Add column left" onclick="alert('add col left')">+</button>
+        <button class="remove" data-tip="Remove first column" onclick="alert('remove first column')">−</button>
+    </div>
+
+    <!-- ═══ RIGHT ═══  + add col right / − remove last col (vertical) -->
+    <div class="ctrl right-group">
+        <button data-tip="Add column right" onclick="alert('add col right')">+</button>
+        <button class="remove" data-tip="Remove last column" onclick="alert('remove last column')">−</button>
+    </div>
+
+    <!-- Grid cells -->
+    <div class="grid" id="grid"></div>
+</div>
+
+<div class="legend">
+    Hover near grid edges to reveal controls ·
+    <kbd>+</kbd> add row/col · <kbd>−</kbd> remove (red on hover)
+</div>
+
+<script>
+    const grid = document.getElementById('grid');
+    for (let i = 0; i < 30; i++) {
+        const cell = document.createElement('div');
+        cell.className = 'cell';
+        grid.appendChild(cell);
+    }
+</script>
+
+</body>
+</html>

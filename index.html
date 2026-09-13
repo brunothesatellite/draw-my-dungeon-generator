@@ -16,9 +16,6 @@
     </script>
 </head>
 <body>
-    <!-- IMPORT DES ICONES MATERIAL SYMBOLS -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-
     <div class="controls">
         <select id="tileFolderSelect">
             <option value="">Sélectionnez un dossier de tuiles</option>
@@ -38,30 +35,33 @@
             <input type="number" id="gridRows" min="1" max="20" value="8">
             <button id="setGridDimensions">Valider</button>
         </div>
-        <!-- Nouveaux boutons pour modifier la grille -->
-        <div class="grid-controls">
-            <!-- Groupe AJOUT (Croix positive) -->
-            <div class="grid-control-group cross-layout">
-                <span class="material-symbols-outlined center-icon">add_circle</span>
-                <button id="addRowTop" class="btn-top" title="Ajouter une ligne en haut">↑</button>
-                <button id="addRowBottom" class="btn-bottom" title="Ajouter une ligne en bas">↓</button>
-                <button id="addColLeft" class="btn-left" title="Ajouter une colonne à gauche">←</button>
-                <button id="addColRight" class="btn-right" title="Ajouter une colonne à droite">→</button>
-            </div>
-
-            <!-- Groupe SUPPRESSION (Croix négative) -->
-            <div class="grid-control-group cross-layout">
-                <span class="material-symbols-outlined center-icon">remove_circle</span>
-                <button id="removeRowTop" class="btn-top" title="Supprimer la première ligne">↓</button>
-                <button id="removeRowBottom" class="btn-bottom" title="Supprimer la dernière ligne">↑</button>
-                <button id="removeColLeft" class="btn-left" title="Supprimer la première colonne">→</button>
-                <button id="removeColRight" class="btn-right" title="Supprimer la dernière colonne">←</button>
-            </div>
-        </div>
     </div>
-    
-    <div class="grid-container" id="gridContainer">
-        <!-- La grille sera générée dynamiquement par JavaScript -->
+
+    <div class="grid-area">
+        <!-- Overlay controls — top edge -->
+        <div class="ctrl top-group">
+            <button class="remove" data-action="removeRowTop" data-tip="Supprimer la première ligne">−</button>
+            <button data-action="addRowTop" data-tip="Ajouter une ligne au-dessus">+</button>
+        </div>
+        <!-- Overlay controls — bottom edge -->
+        <div class="ctrl bottom-group">
+            <button data-action="addRowBottom" data-tip="Ajouter une ligne en dessous">+</button>
+            <button class="remove" data-action="removeRowBottom" data-tip="Supprimer la dernière ligne">−</button>
+        </div>
+        <!-- Overlay controls — left edge -->
+        <div class="ctrl left-group">
+            <button data-action="addColLeft" data-tip="Ajouter une colonne à gauche">+</button>
+            <button class="remove" data-action="removeColLeft" data-tip="Supprimer la première colonne">−</button>
+        </div>
+        <!-- Overlay controls — right edge -->
+        <div class="ctrl right-group">
+            <button data-action="addColRight" data-tip="Ajouter une colonne à droite">+</button>
+            <button class="remove" data-action="removeColRight" data-tip="Supprimer la dernière colonne">−</button>
+        </div>
+
+        <div class="grid-container" id="gridContainer">
+            <!-- La grille sera générée dynamiquement par JavaScript -->
+        </div>
     </div>
 
     

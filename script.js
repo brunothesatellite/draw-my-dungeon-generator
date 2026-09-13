@@ -13,16 +13,7 @@ const tooltip = document.getElementById('customTooltip'); // <-- Nouvelle variab
 const gridColumnsInput = document.getElementById('gridColumns');
 const gridRowsInput = document.getElementById('gridRows');
 const setGridDimensionsBtn = document.getElementById('setGridDimensions');
-
-const addRowTopBtn = document.getElementById('addRowTop');
-const addRowBottomBtn = document.getElementById('addRowBottom');
-const removeRowTopBtn = document.getElementById('removeRowTop');
-const removeRowBottomBtn = document.getElementById('removeRowBottom');
-
-const addColLeftBtn = document.getElementById('addColLeft');
-const addColRightBtn = document.getElementById('addColRight');
-const removeColLeftBtn = document.getElementById('removeColLeft');
-const removeColRightBtn = document.getElementById('removeColRight');
+const gridArea = document.querySelector('.grid-area');
 // -------------------------------------------
 
 let tooltipTimer; // Variable pour gérer le délai d'une seconde
@@ -388,6 +379,7 @@ function createGrid(cols = currentCols, rows = currentRows) {
         }
     }
     logToDebug(`Grille créée (${cols}x${rows} cellules)`);
+    updateOverlayStates();
 }
 
 // --- FONCTIONS DE MANIPULATION DE LA GRILLE ---
@@ -600,6 +592,7 @@ function applyNewGridData(newData) {
         }
     }
     logToDebug(`Grille mise à jour : ${currentCols}x${currentRows}`);
+    updateOverlayStates();
 }
 
 
@@ -728,20 +721,46 @@ function applyZoom() {
     zoomDisplay.textContent = `${percentage}%`;
 }
 
+// --- OVERLAY CONTROLS ---
+const actionMap = {
+    addRowTop, addRowBottom, addColLeft, addColRight,
+    removeRowTop, removeRowBottom, removeColLeft, removeColRight
+};
+
+function setupOverlayControls() {
+    gridArea.querySelectorAll('.ctrl button').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const action = btn.dataset.action;
+            if (actionMap[action]) actionMap[action]();
+            updateOverlayStates();
+        });
+    });
+    updateOverlayStates();
+}
+
+function updateOverlayStates() {
+    gridArea.querySelectorAll('.ctrl button.disabled').forEach(b => b.classList.remove('disabled'));
+    if (currentRows <= 1) {
+        disableBtn('removeRowTop');
+        disableBtn('removeRowBottom');
+    }
+    if (currentCols <= 1) {
+        disableBtn('removeColLeft');
+        disableBtn('removeColRight');
+    }
+}
+
+function disableBtn(action) {
+    const btn = gridArea.querySelector(`[data-action="${action}"]`);
+    if (btn) btn.classList.add('disabled');
+}
+
 // Écouteurs d'événements
 exportPdfBtn.addEventListener('click', exportGridToPdf);
 themeToggleBtn.addEventListener('click', toggleTheme);
 
 // --- NOUVEAUX ÉCOUTEURS ---
 setGridDimensionsBtn.addEventListener('click', setDimensions);
-addRowTopBtn.addEventListener('click', addRowTop);
-addRowBottomBtn.addEventListener('click', addRowBottom);
-removeRowTopBtn.addEventListener('click', removeRowTop);
-removeRowBottomBtn.addEventListener('click', removeRowBottom);
-addColLeftBtn.addEventListener('click', addColLeft);
-addColRightBtn.addEventListener('click', addColRight);
-removeColLeftBtn.addEventListener('click', removeColLeft);
-removeColRightBtn.addEventListener('click', removeColRight);
 // -------------------------
 
 
@@ -771,7 +790,8 @@ function init() {
     createGrid();
     applyZoom();
     
-    setupDragAndDrop(); 
+    setupDragAndDrop();
+    setupOverlayControls();
 
     logToDebug('=== Initialisation terminée ===');
 }
