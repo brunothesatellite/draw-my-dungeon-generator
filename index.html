@@ -6,6 +6,14 @@
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <title>Draw My Dungeon - Générateur de Donjons</title>
     <link rel="stylesheet" href="style.css">
+    <script>
+        (function() {
+            const saved = localStorage.getItem('dmd-theme');
+            if (saved === 'dark') {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            }
+        })();
+    </script>
 </head>
 <body>
     <!-- IMPORT DES ICONES MATERIAL SYMBOLS -->
@@ -16,10 +24,11 @@
             <option value="">Sélectionnez un dossier de tuiles</option>
         </select>
         <button id="zoomOut">-</button>
-        <span id="zoomDisplay" style="min-width: 45px; text-align: center; font-weight: bold;">70%</span>
+        <span id="zoomDisplay">70%</span>
         <button id="zoomIn">+</button>
+        <button id="themeToggle" title="Basculer entre thème clair et sombre">☀️</button>
         <!-- Nouveau bouton d'export -->
-        <button id="exportPdf" style="background-color: #3498db; display: none;">Exporter en PDF</button>
+        <button id="exportPdf" style="display: none;">Exporter en PDF</button>
         <!-- Nouveaux champs pour les dimensions de la grille -->
         <div class="grid-dimensions">
             <label for="gridColumns">Colonnes:</label>

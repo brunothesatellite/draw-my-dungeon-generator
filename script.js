@@ -29,6 +29,34 @@ let tooltipTimer; // Variable pour gérer le délai d'une seconde
 
 // Nouvel élément pour le bouton
 const exportPdfBtn = document.getElementById('exportPdf');
+const themeToggleBtn = document.getElementById('themeToggle');
+
+// --- GESTION DU THÈME ---
+function getPreferredTheme() {
+    const saved = localStorage.getItem('dmd-theme');
+    if (saved) return saved;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function applyTheme(theme) {
+    if (theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        themeToggleBtn.textContent = '🌙';
+        themeToggleBtn.title = 'Passer en thème clair';
+    } else {
+        document.documentElement.removeAttribute('data-theme');
+        themeToggleBtn.textContent = '☀️';
+        themeToggleBtn.title = 'Passer en thème sombre';
+    }
+}
+
+function toggleTheme() {
+    const current = document.documentElement.hasAttribute('data-theme') ? 'dark' : 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('dmd-theme', next);
+    applyTheme(next);
+    logToDebug(`Thème changé : ${next === 'dark' ? 'Sombre (Donjon)' : 'Clair (Parchemin)'}`);
+}
 
 let zoomLevel = 0.7;
 const minZoom = 0.5;
@@ -702,6 +730,7 @@ function applyZoom() {
 
 // Écouteurs d'événements
 exportPdfBtn.addEventListener('click', exportGridToPdf);
+themeToggleBtn.addEventListener('click', toggleTheme);
 
 // --- NOUVEAUX ÉCOUTEURS ---
 setGridDimensionsBtn.addEventListener('click', setDimensions);
@@ -736,6 +765,7 @@ tileFolderSelect.addEventListener('change', (e) => {
 function init() {
     logToDebug('=== Initialisation de l\'application ===');
     
+    applyTheme(getPreferredTheme());
     initializeTileData();
     updateFolderSelect();
     createGrid();

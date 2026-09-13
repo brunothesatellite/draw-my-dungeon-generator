@@ -1,125 +1,271 @@
-/* style.css - Modifications nécessaires */
+/* style.css - Thème RPG Fantasy Old School Revival */
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f5f5f5;
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+/* ===== THÈME CLAIR (Parchemin) ===== */
+:root {
+    --bg-primary: #f4e4c1;
+    --bg-secondary: #e8d5a3;
+    --bg-surface: #faf3e0;
+    --bg-cell: #fdf8ef;
+    --bg-cell-empty: #f0e6cc;
+    --bg-controls: #e8d5a3;
+    --bg-input: #fdf8ef;
+    --bg-tooltip: rgba(42, 31, 16, 0.95);
+    --bg-modal: #faf3e0;
+    --bg-overlay: rgba(30, 20, 10, 0.6);
+    --bg-debug: #2a1f10;
+    --bg-debug-textarea: #3a2d18;
+
+    --text-primary: #3c2415;
+    --text-secondary: #5a3d1e;
+    --text-muted: #8b7355;
+    --text-on-accent: #fdf8ef;
+    --text-debug: #e8d5a3;
+    --text-debug-title: #d4a33a;
+    --text-tooltip-accent: #d4a33a;
+
+    --accent-primary: #8b1a1a;
+    --accent-primary-hover: #6d1414;
+    --accent-secondary: #c9a84c;
+    --accent-secondary-hover: #b8943a;
+    --accent-success: #4a7c3f;
+    --accent-success-hover: #3d6634;
+    --accent-info: #5a6e8a;
+    --accent-info-hover: #4a5c72;
+
+    --border-primary: #c4a56e;
+    --border-light: #d9c48e;
+    --border-dark: #8b6914;
+
+    --shadow-sm: 0 1px 3px rgba(60, 36, 21, 0.15);
+    --shadow-md: 0 4px 12px rgba(60, 36, 21, 0.12);
+    --shadow-lg: 0 10px 25px rgba(60, 36, 21, 0.2);
+
+    --grid-gap: 5px;
+    --radius-sm: 3px;
+    --radius-md: 6px;
+    --radius-lg: 10px;
+
+    color-scheme: light;
 }
 
+/* ===== THÈME SOMBRE (Donjon) ===== */
+[data-theme="dark"] {
+    --bg-primary: #0d0b07;
+    --bg-secondary: #1a1209;
+    --bg-surface: #2a1f14;
+    --bg-cell: #1e1710;
+    --bg-cell-empty: #14100a;
+    --bg-controls: #1a1209;
+    --bg-input: #1e1710;
+    --bg-tooltip: rgba(10, 8, 4, 0.95);
+    --bg-modal: #2a1f14;
+    --bg-overlay: rgba(0, 0, 0, 0.75);
+    --bg-debug: #0a0804;
+    --bg-debug-textarea: #14100a;
+
+    --text-primary: #d4b896;
+    --text-secondary: #b89e7a;
+    --text-muted: #7a6648;
+    --text-on-accent: #fdf8ef;
+    --text-debug: #b89e7a;
+    --text-debug-title: #d4a33a;
+    --text-tooltip-accent: #d4a33a;
+
+    --accent-primary: #8b2500;
+    --accent-primary-hover: #a63000;
+    --accent-secondary: #d4a33a;
+    --accent-secondary-hover: #e0b44c;
+    --accent-success: #5a8a4a;
+    --accent-success-hover: #6a9a5a;
+    --accent-info: #6a7e9a;
+    --accent-info-hover: #7a8eaa;
+
+    --border-primary: #3a2d18;
+    --border-light: #2a1f14;
+    --border-dark: #5c4a2a;
+
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.5);
+    --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.6);
+
+    color-scheme: dark;
+}
+
+/* ===== RESET & BASE ===== */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Crimson Text', 'Georgia', serif;
+    margin: 0;
+    padding: 20px;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    min-height: 100vh;
+}
+
+/* ===== BARRE DE CONTRÔLES ===== */
+.controls {
+    display: flex;
+    gap: 10px;
+    padding: 12px 16px;
+    background-color: var(--bg-controls);
+    border: 1px solid var(--border-primary);
+    border-radius: var(--radius-md);
+    margin-bottom: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+    box-shadow: var(--shadow-sm);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* ===== SÉLECTEUR ===== */
+.controls select {
+    padding: 8px 12px;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-primary);
+    background-color: var(--bg-input);
+    color: var(--text-primary);
+    font-family: 'Crimson Text', serif;
+    font-size: 15px;
+    flex-grow: 0;
+    min-width: 250px;
+    width: auto;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+.controls select:focus {
+    outline: 2px solid var(--accent-secondary);
+    outline-offset: 1px;
+}
+
+.controls select option:first-child {
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.controls select option:not(:first-child) {
+    font-weight: normal;
+    color: var(--text-primary);
+}
+
+/* ===== BOUTONS ===== */
+.controls button {
+    padding: 8px 14px;
+    border: 1px solid var(--border-dark);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.controls button:hover {
+    background-color: var(--accent-primary-hover);
+}
+
+.controls button:active {
+    transform: scale(0.97);
+}
+
+/* ===== BOUTON THÈME ===== */
+#themeToggle {
+    background-color: var(--accent-secondary) !important;
+    color: #1a1209 !important;
+    font-size: 18px !important;
+    padding: 6px 10px !important;
+    min-width: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: var(--border-dark) !important;
+}
+
+#themeToggle:hover {
+    background-color: var(--accent-secondary-hover) !important;
+}
+
+/* ===== CHAMPS NUMÉRIQUES ===== */
+.controls input[type="number"] {
+    padding: 6px 8px;
+    border: 1px solid var(--border-primary);
+    border-radius: var(--radius-sm);
+    background-color: var(--bg-input);
+    color: var(--text-primary);
+    font-family: 'Crimson Text', serif;
+    font-size: 15px;
+    width: 55px;
+    text-align: center;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+.controls input[type="number"]:focus {
+    outline: 2px solid var(--accent-secondary);
+    outline-offset: 1px;
+}
+
+.controls label {
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+
+.controls span {
+    color: var(--text-muted);
+}
+
+/* ===== GRILLE ===== */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(8, 1fr);
-    gap: 5px;
-    padding: 20px;
+    gap: var(--grid-gap);
+    padding: 16px;
     width: calc(100vw - 40px);
     overflow: auto;
-    background-color: #e0e0e0;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-secondary);
+    border: 2px solid var(--border-primary);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md), inset 0 0 30px rgba(0,0,0,0.05);
     transform-origin: top left;
     z-index: 1;
     height: 100%;
     min-height: 100%;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-.controls {
-    display: flex;
-    gap: 10px;
-    padding: 10px;
-    background-color: #f0f0f0;
-    border-radius: 4px;
-    margin-bottom: 10px;
-    align-items: center;
+[data-theme="dark"] .grid-container {
+    box-shadow: var(--shadow-md), inset 0 0 40px rgba(212, 163, 58, 0.03);
 }
 
-.controls select {
-    padding: 8px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    /* MODIFICATION ICI : On retire flex-grow: 1 */
-    flex-grow: 0; 
-    /* On définit une largeur de base confortable pour les noms de dossiers */
-    min-width: 250px; 
-    width: auto; 
-}
-
-/* Ajout des styles pour la liste déroulante */
-.controls select option:first-child {
-    color: #999;
-    font-style: italic;
-}
-
-/* SUPPRIMER OU MODIFIER CETTE RÈGLE : */
-/* .controls select option:not(:first-child) {
-    font-weight: bold;
-} */
-
-/* REMPLACEZ PAR CECI POUR UN RENDU PROPRE : */
-.controls select option:not(:first-child) {
-    font-weight: normal;
-    color: #333;
-}
-
-.controls button {
-    padding: 8px 12px;
-    border: none;
-    background-color: #4CAF50;
-    color: white;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.controls button:hover {
-    background-color: #45a049;
-}
-
-.debug-container {
-    margin-top: 20px;
-    background-color: #2c3e50;
-    color: #ecf0f1;
-    padding: 15px;
-    border-radius: 8px;
-    max-height: 300px;
-    overflow-y: auto;
-}
-
-.debug-container h3 {
-    margin-top: 0;
-    color: #3498db;
-    border-bottom: 1px solid #34495e;
-    padding-bottom: 10px;
-}
-
-.debug-container textarea {
-    background-color: #34495e;
-    color: #ecf0f1;
-    border: 1px solid #2c3e50;
-    border-radius: 4px;
-    font-family: monospace;
-    font-size: 12px;
-    resize: vertical;
-}
-
+/* ===== CELLULES ===== */
 .cell {
     aspect-ratio: 1;
-    background-color: white;
-    border-radius: 4px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-cell);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-sm);
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    transition: transform 0.2s;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.3s ease;
     overflow: hidden;
     position: relative;
 }
 
 .cell:hover {
-    transform: scale(1.02);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transform: scale(1.03);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent-secondary);
 }
 
 .cell img {
@@ -127,7 +273,7 @@ body {
     max-height: 100%;
     transform-origin: center;
     object-fit: contain;
-    transition: transform 0.3s;
+    transition: transform 0.3s ease;
     z-index: 2;
     position: absolute;
     top: 0;
@@ -137,62 +283,100 @@ body {
 }
 
 .cell.empty {
-    background-color: #f9f9f9;
+    background-color: var(--bg-cell-empty);
+    border-style: dashed;
+    border-color: var(--border-light);
 }
 
-/* Style du Tooltip */
+.cell.empty:hover {
+    border-color: var(--accent-secondary);
+    border-style: solid;
+}
+
+/* ===== TOOLTIP ===== */
 #customTooltip {
     position: fixed;
-    padding: 8px 12px;
-    background-color: rgba(44, 62, 80, 0.95); /* Couleur sombre de votre debug log */
-    color: white;
-    border-radius: 6px;
-    font-size: 13px;
-    pointer-events: none; /* Très important : évite que le tooltip ne gêne la souris */
+    padding: 8px 14px;
+    background-color: var(--bg-tooltip);
+    color: var(--text-debug);
+    border: 1px solid var(--border-dark);
+    border-radius: var(--radius-sm);
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+    pointer-events: none;
     z-index: 1000;
-    display: none; /* Caché par défaut */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    display: none;
+    box-shadow: var(--shadow-lg);
     transition: opacity 0.2s ease;
     white-space: nowrap;
 }
 
 #customTooltip b {
-    color: #3498db; /* Bleu comme vos titres de debug */
-    font-weight: bold;
+    color: var(--text-tooltip-accent);
+    font-weight: 700;
 }
 
-/* Nouveaux styles pour l'alignement des contrôles de grille */
-/* Conteneur des contrôles de grille */
+/* ===== JOURNAL DE DEBUG ===== */
+.debug-container {
+    margin-top: 20px;
+    background-color: var(--bg-debug);
+    color: var(--text-debug);
+    padding: 15px;
+    border: 1px solid var(--border-dark);
+    border-radius: var(--radius-md);
+    max-height: 300px;
+    overflow-y: auto;
+    box-shadow: var(--shadow-sm);
+}
+
+.debug-container h3 {
+    margin-top: 0;
+    color: var(--text-debug-title);
+    border-bottom: 1px solid var(--border-dark);
+    padding-bottom: 10px;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+
+.debug-container textarea {
+    background-color: var(--bg-debug-textarea);
+    color: var(--text-debug);
+    border: 1px solid var(--border-dark);
+    border-radius: var(--radius-sm);
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    resize: vertical;
+}
+
+/* ===== CONTRÔLES DE GRILLE (CROIX) ===== */
 .grid-controls {
     display: flex;
     gap: 20px;
     align-items: center;
 }
 
-/* Structure de la croix */
 .cross-layout {
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: repeat(3, auto);
     align-items: center;
     justify-items: center;
-    gap: 2px; /* Espace entre l'icône et les boutons */
+    gap: 2px;
 }
 
-/* L'icône est au centre (ligne 2, colonne 2) */
 .center-icon {
     grid-column: 2;
     grid-row: 2;
-    font-size: 24px; /* Ajustez selon vos besoins */
+    font-size: 24px;
+    color: var(--text-muted);
 }
 
-/* Positionnement des boutons */
 .btn-top    { grid-column: 2; grid-row: 1; }
 .btn-bottom { grid-column: 2; grid-row: 3; }
 .btn-left   { grid-column: 1; grid-row: 2; }
 .btn-right  { grid-column: 3; grid-row: 2; }
 
-/* Optionnel : Style pour les boutons pour qu'ils soient petits et carrés */
 .grid-control-group button {
     width: 28px;
     height: 28px;
@@ -201,47 +385,59 @@ body {
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    font-size: 14px;
 }
 
-/* Ajustement pour que l'icône et le texte soient bien positionnés */
 .grid-control-group button span.material-symbols-outlined {
     font-size: 18px;
-    margin-right: 2px; /* Petit espace entre l'icône et la flèche */
+    margin-right: 2px;
 }
 
 .material-symbols-outlined {
-    font-size: 20px; /* Taille de l'icône */
+    font-size: 20px;
     vertical-align: middle;
+    color: var(--text-muted);
 }
 
-/* Style de la modale moderne */
+/* ===== MODALE ===== */
 .modal-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6);
+    background: var(--bg-overlay);
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 10000; /* Très haut pour être au dessus de tout */
-    backdrop-filter: blur(3px);
+    z-index: 10000;
+    backdrop-filter: blur(4px);
 }
 
 .modal-content {
-    background: white;
+    background: var(--bg-modal);
+    border: 2px solid var(--border-primary);
     padding: 25px;
-    border-radius: 12px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
     text-align: center;
-    max-width: 300px;
+    max-width: 320px;
     width: 90%;
-    font-family: sans-serif;
+    font-family: 'Crimson Text', serif;
 }
 
-.modal-content h3 { margin-top: 0; color: #333; }
-.modal-content p { color: #666; margin-bottom: 20px; }
+.modal-content h3 {
+    margin-top: 0;
+    color: var(--text-primary);
+    font-family: 'MedievalSharp', cursive;
+    font-size: 22px;
+}
+
+.modal-content p {
+    color: var(--text-secondary);
+    margin-bottom: 20px;
+    font-size: 16px;
+}
 
 .modal-options {
     display: flex;
@@ -251,22 +447,85 @@ body {
 
 .modal-btn {
     padding: 12px;
-    border: none;
-    border-radius: 6px;
-    background-color: #007bff;
-    color: white;
-    font-weight: bold;
+    border: 1px solid var(--border-dark);
+    border-radius: var(--radius-sm);
+    background-color: var(--accent-primary);
+    color: var(--text-on-accent);
+    font-family: 'Crimson Text', serif;
+    font-weight: 700;
+    font-size: 15px;
     cursor: pointer;
-    transition: background 0.2s;
+    transition: background 0.2s ease;
 }
 
-.modal-btn:hover { background-color: #0056b3; }
+.modal-btn:hover {
+    background-color: var(--accent-primary-hover);
+}
 
 .modal-btn-cancel {
     margin-top: 15px;
     background: none;
     border: none;
-    color: #888;
+    color: var(--text-muted);
     cursor: pointer;
     text-decoration: underline;
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+}
+
+.modal-btn-cancel:hover {
+    color: var(--text-primary);
+}
+
+/* ===== ZOOM DISPLAY ===== */
+#zoomDisplay {
+    min-width: 45px;
+    text-align: center;
+    font-weight: 700;
+    color: var(--text-secondary);
+    font-family: 'MedievalSharp', cursive;
+}
+
+/* ===== EXPORT BUTTON ===== */
+#exportPdf {
+    background-color: var(--accent-info) !important;
+}
+
+#exportPdf:hover {
+    background-color: var(--accent-info-hover) !important;
+}
+
+/* ===== SCROLLBAR (pour l'esthétique) ===== */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border-primary);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--border-dark);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .controls select {
+        min-width: 100%;
+    }
+
+    .grid-controls {
+        justify-content: center;
+    }
 }
