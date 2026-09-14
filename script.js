@@ -921,20 +921,16 @@ function cancelFlavorClear() {
 
 function setupFlavorEvents() {
     gridContainer.addEventListener('mouseenter', (e) => {
+        cancelFlavorClear();
         const cell = e.target.closest('.cell');
         if (!cell) return;
-        cancelFlavorClear();
         const tileInfo = getTileInfoFromCell(cell);
         if (tileInfo) {
             flavorHoverTimer = setTimeout(() => {
                 updateFlavor(tileInfo, cell);
             }, flavorHoverDelay);
-        } else {
-            // Si on entre sur une cellule vide, ne rien faire (garder le flavor actuel)
         }
     }, true);
-
-    // Pas de mouseleave sur gridContainer : on garde le flavor tant qu'on ne survole pas une nouvelle tuile
 }
 
 // --- CELL EVENTS ---
