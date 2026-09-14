@@ -68,7 +68,6 @@ function setupDragAndDrop() {
         const img = e.target.closest('img');
         if (!img) return;
         isDragging = true;
-        gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.remove('show'));
         e.dataTransfer.setData('text/plain', img.src);
         const sourceCell = img.closest('.cell');
         const row = sourceCell.dataset.row;
@@ -631,8 +630,6 @@ const actionMap = {
     removeRowTop, removeRowBottom, removeColLeft, removeColRight
 };
 
-let overlayHideTimeout = null;
-
 function setupOverlayControls() {
     gridArea.querySelectorAll('.ctrl button').forEach(btn => {
         btn.addEventListener('click', (e) => {
@@ -641,37 +638,6 @@ function setupOverlayControls() {
             if (actionMap[action]) actionMap[action]();
             updateOverlayStates();
         });
-    });
-
-    const showOverlays = () => {
-        clearTimeout(overlayHideTimeout);
-        gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.add('show'));
-    };
-
-    const hideOverlays = () => {
-        overlayHideTimeout = setTimeout(() => {
-            gridArea.querySelectorAll('.ctrl').forEach(c => c.classList.remove('show'));
-        }, 300);
-    };
-
-    const BORDER = 50;
-
-    document.addEventListener('mousemove', (e) => {
-        if (isDragging) return;
-        const r = gridContainer.getBoundingClientRect();
-        const inBorder =
-            e.clientX >= r.left - BORDER && e.clientX <= r.right + BORDER &&
-            e.clientY >= r.top - BORDER && e.clientY <= r.bottom + BORDER &&
-            !(e.clientX >= r.left && e.clientX <= r.right &&
-              e.clientY >= r.top && e.clientY <= r.bottom);
-
-        if (inBorder) showOverlays();
-        else hideOverlays();
-    });
-
-    gridArea.querySelectorAll('.ctrl').forEach(ctrl => {
-        ctrl.addEventListener('mouseenter', showOverlays);
-        ctrl.addEventListener('mouseleave', hideOverlays);
     });
 
     updateOverlayStates();
