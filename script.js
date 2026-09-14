@@ -52,6 +52,165 @@ const minZoom = 0.3;
 const maxZoom = 2;
 const zoomStep = 0.1;
 
+// --- PERSISTANCE localStorage ---
+function saveState() {
+    try {
+        localStorage.setItem('dmd-grid-cols', currentCols);
+        localStorage.setItem('dmd-grid-rows', currentRows);
+        localStorage.setItem('dmd-grid-data', JSON.stringify(getGridData()));
+        localStorage.setItem('dmd-zoom', zoomLevel);
+        localStorage.setItem('dmd-tile-folder', currentTileFolder);
+    } catch (e) {
+        logToDebug(`Erreur sauvegarde: ${e.message}`);
+    }
+}
+
+function loadState() {
+    try {
+        const cols = parseInt(localStorage.getItem('dmd-grid-cols'));
+        const rows = parseInt(localStorage.getItem('dmd-grid-rows'));
+        const gridDataStr = localStorage.getItem('dmd-grid-data');
+        const zoom = parseFloat(localStorage.getItem('dmd-zoom'));
+        const folder = localStorage.getItem('dmd-tile-folder');
+
+        if (!gridDataStr || isNaN(cols) || isNaN(rows) || cols < 1 || rows < 1) {
+            logToDebug('Aucune sauvegarde trouvée, grille par défaut');
+            return false;
+        }
+
+        const gridData = JSON.parse(gridDataStr);
+        if (!Array.isArray(gridData) || gridData.length !== rows) {
+            logToDebug('Données de grille invalides');
+            return false;
+        }
+
+        currentCols = cols;
+        currentRows = rows;
+        if (gridColumnsInput) gridColumnsInput.value = cols;
+        if (gridRowsInput) gridRowsInput.value = rows;
+
+        if (!isNaN(zoom) && zoom >= minZoom && zoom <= maxZoom) {
+            zoomLevel = zoom;
+        }
+
+        if (folder && tileFolders.includes(folder)) {
+            currentTileFolder = folder;
+            tileFolderSelect.value = folder;
+            updateAvailableTiles(folder);
+        }
+
+        logToDebug(`Sauvegarde restaurée: ${cols}x${rows}, zoom ${zoomLevel}, dossier "${currentTileFolder}"`);
+        return gridData;
+    } catch (e) {
+        logToDebug(`Erreur chargement sauvegarde: ${e.message}`);
+        return false;
+    }
+}
+
+// --- EXPORT / IMPORT DONJON ---
+function getExportData() {
+    saveState();
+    return {
+        'dmd-export-version': 1,
+        'dmd-grid-cols': parseInt(localStorage.getItem('dmd-grid-cols')),
+        'dmd-grid-rows': parseInt(localStorage.getItem('dmd-grid-rows')),
+        'dmd-grid-data': JSON.parse(localStorage.getItem('dmd-grid-data')),
+        'dmd-zoom': parseFloat(localStorage.getItem('dmd-zoom')),
+        'dmd-tile-folder': localStorage.getItem('dmd-tile-folder')
+    };
+}
+
+function validateImportData(data) {
+    if (!data || typeof data !== 'object') return false;
+    if (data['dmd-export-version'] !== 1) return false;
+    if (typeof data['dmd-grid-cols'] !== 'number' || data['dmd-grid-cols'] < 1) return false;
+    if (typeof data['dmd-grid-rows'] !== 'number' || data['dmd-grid-rows'] < 1) return false;
+    if (!Array.isArray(data['dmd-grid-data'])) return false;
+    if (typeof data['dmd-zoom'] !== 'number') return false;
+    if (typeof data['dmd-tile-folder'] !== 'string') return false;
+    return true;
+}
+
+async function exportDungeon() {
+    logToDebug('Export du donjon...');
+    const data = getExportData();
+    const json = JSON.stringify(data, null, 2);
+    const blob = new Blob([json], { type: 'application/json' });
+
+    const now = new Date();
+    const dateStr = now.toISOString().slice(0, 10);
+    const defaultName = `draw-my-dungeon-${dateStr}.json`;
+
+    if ('showSaveFilePicker' in window) {
+        try {
+            const handle = await window.showSaveFilePicker({
+                suggestedName: defaultName,
+                types: [{ description: 'JSON', accept: { 'application/json': ['.json'] } }]
+            });
+            const writable = await handle.createWritable();
+            await writable.write(blob);
+            await writable.close();
+            logToDebug('Export réussi !');
+        } catch (e) {
+            if (e.name !== 'AbortError') logToDebug(`Erreur export: ${e.message}`);
+        }
+    } else {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = defaultName;
+        a.click();
+        URL.revokeObjectURL(url);
+        logToDebug('Export réussi !');
+    }
+}
+
+async function importDungeon() {
+    document.getElementById('importFile').click();
+}
+
+function handleImportFile(file) {
+    const reader = new FileReader();
+    reader.onload = async (e) => {
+        try {
+            const data = JSON.parse(e.target.result);
+            if (!validateImportData(data)) {
+                alert('Format de fichier invalide. Veuillez sélectionner un fichier JSON exporté par Draw My Dungeon.');
+                logToDebug('Import annulé: format invalide');
+                return;
+            }
+
+            const modal = document.getElementById('importModal');
+            const btnConfirm = document.getElementById('importModalConfirm');
+            const btnCancel = document.getElementById('importModalCancel');
+            modal.style.display = 'flex';
+
+            const confirmed = await new Promise(resolve => {
+                btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
+                btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+            });
+
+            if (!confirmed) {
+                logToDebug('Import annulé par l\'utilisateur');
+                return;
+            }
+
+            localStorage.setItem('dmd-grid-cols', data['dmd-grid-cols']);
+            localStorage.setItem('dmd-grid-rows', data['dmd-grid-rows']);
+            localStorage.setItem('dmd-grid-data', JSON.stringify(data['dmd-grid-data']));
+            localStorage.setItem('dmd-zoom', data['dmd-zoom']);
+            localStorage.setItem('dmd-tile-folder', data['dmd-tile-folder']);
+
+            logToDebug('Données importées, rechargement...');
+            init();
+        } catch (err) {
+            alert('Erreur lors de la lecture du fichier: ' + err.message);
+            logToDebug(`Erreur import: ${err.message}`);
+        }
+    };
+    reader.readAsText(file);
+}
+
 let currentTileFolder = '';
 let availableTiles = [];
 let tileFolders = [];
@@ -107,6 +266,7 @@ function setupDragAndDrop() {
 
         if (targetCell.classList.contains('empty')) {
             moveTile(sourceImg, sourceCell, targetCell);
+            saveState();
         } else {
             handleOccupiedCell(targetCell, sourceCell, sourceImg);
         }
@@ -148,6 +308,7 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
     const choice = await getChoice;
     if (choice === "1") moveTile(sourceImg, sourceCell, targetCell);
     else if (choice === "2") swapTiles(sourceCell, targetCell);
+    if (choice === "1" || choice === "2") saveState();
     positionOverlays();
 }
 
@@ -311,6 +472,7 @@ function createGrid(cols = currentCols, rows = currentRows) {
     }
     logToDebug(`Grille créée (${cols}x${rows} cellules)`);
     updateOverlayStates();
+    saveState();
     requestAnimationFrame(() => {
         autoFitZoom();
         positionOverlays();
@@ -444,7 +606,7 @@ function getGridData() {
     return data;
 }
 
-function applyNewGridData(newData) {
+function applyNewGridData(newData, restoreZoom = false) {
     currentRows = newData.length;
     currentCols = newData[0].length;
     if (gridColumnsInput) gridColumnsInput.value = currentCols;
@@ -480,10 +642,15 @@ function applyNewGridData(newData) {
     }
     logToDebug(`Grille mise à jour : ${currentCols}x${currentRows}`);
     updateOverlayStates();
-    requestAnimationFrame(() => {
-        autoFitZoom();
+    saveState();
+    if (!restoreZoom) {
+        requestAnimationFrame(() => {
+            autoFitZoom();
+            positionOverlays();
+        });
+    } else {
         positionOverlays();
-    });
+    }
 }
 
 // --- TOOLTIP ---
@@ -556,6 +723,7 @@ function handleCellClick(e) {
             logToDebug(`Rotation à ${newRotation}°`);
         }
     }
+    saveState();
     e.preventDefault();
 }
 
@@ -566,6 +734,7 @@ function handleCellRightClick(e) {
         cell.innerHTML = '';
         cell.classList.add('empty');
         logToDebug(`Tuile supprimée à (${cell.dataset.row}, ${cell.dataset.col})`);
+        saveState();
     }
     e.preventDefault();
 }
@@ -665,20 +834,36 @@ exportPdfBtn.addEventListener('click', exportGridToPdf);
 themeToggleBtn.addEventListener('click', toggleTheme);
 setGridDimensionsBtn.addEventListener('click', setDimensions);
 
+const exportDungeonBtn = document.getElementById('exportDungeon');
+const importDungeonBtn = document.getElementById('importDungeon');
+const importFileInput = document.getElementById('importFile');
+
+exportDungeonBtn.addEventListener('click', exportDungeon);
+importDungeonBtn.addEventListener('click', importDungeon);
+importFileInput.addEventListener('change', (e) => {
+    if (e.target.files.length > 0) {
+        handleImportFile(e.target.files[0]);
+        e.target.value = '';
+    }
+});
+
 zoomInBtn.addEventListener('click', () => {
     zoomLevel = Math.min(zoomLevel + zoomStep, maxZoom);
     applyZoom();
+    saveState();
     logToDebug(`Zoom augmenté : ${zoomLevel.toFixed(1)}x`);
 });
 
 zoomOutBtn.addEventListener('click', () => {
     zoomLevel = Math.max(zoomLevel - zoomStep, minZoom);
     applyZoom();
+    saveState();
     logToDebug(`Zoom diminué : ${zoomLevel.toFixed(1)}x`);
 });
 
 tileFolderSelect.addEventListener('change', (e) => {
     updateAvailableTiles(e.target.value);
+    saveState();
 });
 
 // --- INIT ---
@@ -687,7 +872,15 @@ function init() {
     applyTheme(getPreferredTheme());
     initializeTileData();
     updateFolderSelect();
-    createGrid();
+    const savedGridData = loadState();
+    if (savedGridData) {
+        const savedZoom = zoomLevel;
+        applyNewGridData(savedGridData, true);
+        zoomLevel = savedZoom;
+        applyZoom();
+    } else {
+        createGrid();
+    }
     setupDragAndDrop();
     setupOverlayControls();
     logToDebug('=== Initialisation terminée ===');

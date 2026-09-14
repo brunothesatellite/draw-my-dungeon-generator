@@ -248,6 +248,12 @@ body {
     color: var(--text-muted);
 }
 
+.grid-dimensions {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
 /* ===== GRID AREA (scroll container) ===== */
 .grid-area {
     position: relative;
@@ -577,6 +583,25 @@ body {
 
 #exportPdf:hover {
     background-color: var(--accent-info-hover) !important;
+}
+
+/* ===== EXPORT/IMPORT DUNGEON BUTTONS ===== */
+#exportDungeon,
+#importDungeon {
+    background-color: var(--accent-secondary) !important;
+    color: #1a1209 !important;
+    font-size: 16px !important;
+    padding: 6px 10px !important;
+    min-width: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: var(--border-dark) !important;
+}
+
+#exportDungeon:hover,
+#importDungeon:hover {
+    background-color: var(--accent-secondary-hover) !important;
 }
 
 /* ===== SCROLLBAR ===== */
