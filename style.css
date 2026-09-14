@@ -132,7 +132,7 @@ body {
 
 /* ===== FLAVOR AREA ===== */
 .flavor-area {
-    width: 320px;
+    width: 380px;
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
@@ -210,12 +210,12 @@ body {
 .flavor-description {
     flex: 1;
     margin-top: 8px;
-    padding: 8px 12px;
+    padding: 10px 12px;
     background-color: var(--bg-cell-empty);
     border: 1px solid var(--border-light);
     border-radius: var(--radius-sm);
     font-family: 'Crimson Text', serif;
-    font-size: 13px;
+    font-size: 15px;
     color: var(--text-secondary);
     overflow-y: auto;
     transition: background-color 0.3s ease, border-color 0.3s ease;
@@ -268,7 +268,7 @@ body {
 .flavor-description .features-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    gap: 10px;
     margin-bottom: 12px;
 }
 
@@ -276,14 +276,17 @@ body {
     background-color: rgba(139, 26, 26, 0.1);
     border: 1px solid rgba(139, 26, 26, 0.3);
     border-radius: var(--radius-sm);
-    padding: 6px 8px;
+    padding: 8px 10px;
+    min-height: 60px;
 }
 
 .flavor-description .feature-label {
-    font-size: 10px;
+    font-size: 11px;
     color: var(--text-secondary);
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    margin-bottom: 4px;
+    line-height: 1.4;
 }
 
 .flavor-description .feature-value {
