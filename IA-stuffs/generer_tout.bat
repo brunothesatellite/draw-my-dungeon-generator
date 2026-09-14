@@ -4,10 +4,13 @@ setlocal
 set PYTHON="%~dp0.venv\Scripts\python.exe"
 set SCRIPT="%~dp0description_tuile.py"
 set DEST="%~dp0tilesflavor"
+set START=%1
+
+if "%START%"=="" set START=1
 
 if not exist %DEST% mkdir %DEST%
 
-for /L %%i in (1,1,460) do (
+for /L %%i in (%START%,1,460) do (
     echo.
     echo ========================================
     echo  Tuile %%i/460
@@ -20,6 +23,6 @@ for /L %%i in (1,1,460) do (
 
 echo.
 echo ========================================
-echo  TERMINE - 460 tuiles dans tilesflavor\
+echo  Repart de la tuile %START% a 460
 echo ========================================
 pause
