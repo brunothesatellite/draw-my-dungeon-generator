@@ -1,0 +1,55 @@
+{
+  "13": {
+    "title": "La Salle des Anciens",
+    "description": "Des tented tentacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, recouverte d'une couche de mousse et de végétation. Les murs, ornés de tentacules sculptés et de têtes de créatures étranges, semblent murmurer des secrets millénaires. Au centre, un autel aux reliefs complexes attire ton regard, comme une invitation à l'obscurité. Des spirales et des croix gravées dans le sol te font scruter chaque coin, tandis que les piliers aux runes mystérieuses ajoutent une touche de gravité à l'atmosphère. Des statues anciennes gardent le silence, et les tables de pierre paraissent attendre un rituel ancien. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans l'ombre. Les deux fenêtres latérales laissent filtrer un vent glacial, et l'odeur de soufre et de moisi te rappelle l'ancienneté de ce lieu. La salle est un mélange de mystère et de menace, un endroit où les rituels anciens se déroulent encore, et où les secrets de l'âge des ténèbres attendent d'être révélés.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "ancien",
+      "salle sacrée",
+      "tension",
+      "creatures étranges",
+      "rituels",
+      "mystère ancien",
+      "salle des ténèbres",
+      "salle des anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "central altar with intricate carvings",
+      "wallDecorations": [
+        "tented tentacles",
+        "sculpted heads of creatures"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars with runes",
+        "wooden beams"
+      ],
+      "objectsOrFurniture": [
+        "stone tables",
+        "ancient statues"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "two windows on the sides"
+      ],
+      "hazards": [
+        "slippery floor",
+        "hidden traps"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred chamber for rituals",
+      "csvDescription": "Salle avec pierres étranges... peut-être un piège",
+      "tileNumber": 13
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "2": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane. La pièce est petite, rectangulaire, et semble vieillie, les murs recouverts d'une patine grise. Un autel central attire ton regard, entouré de piliers et de colonnes robustes. Des têtes de mort et des tentacules décorent les murs, ajoutant une touche d'horreur à l'atmosphère. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des pratiques obscures. Le mobilier ancien parais abandonné, et des pièges sont dissimulés dans les recoins. L'eau stagnante coule lentement, créant un murmure sinistre. Devant toi, un seul passage mène à l'extérieur, mais tu sens une menace latente qui plane dans l'air. L'odeur de soufre et de mort flotte dans l'atmosphère, rendant l'endroit glauque et oppressant.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle de prière",
+      "tête de mort",
+      "tentacules",
+      "cercles rituels",
+      "glyphes runiques",
+      "mobilier ancien",
+      "pièges",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec un trou avec grille",
+      "tileNumber": 2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "23": {
+    "title": "La Salle Sacrée des Tentacules",
+    "description": "Des tentacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, et tu perçois une odeur de soufre et de mort. Devant toi, une colonne massive s'élève du sol, sa surface noire et luisante comme si elle était recouverte de peau de créature. Des tentacules émergent de la colonne, se balançant lentement dans l'air. Des croix sont gravées dans le sol, et des spirales mystérieuses tissent un motif autour de la colonne. L'air est oppressant, et tu sens une présence ancienne et malveillante. À l'entrée de la pièce, un autel est dressé, et tu aperçois des tentacules qui semblent le toucher. Tu entends un murmure lointain, comme si la salle était habitée par des créatures invisibles. La porte derrière toi parais pesante et ancienne, comme si elle avait vu des siècles de passage.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "colonne",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "dark square",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "door"
+      ],
+      "hazards": [
+        "spiral markings"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle avec petite sanctuaire et colonne",
+      "tileNumber": 23
+    }
+  }
+}

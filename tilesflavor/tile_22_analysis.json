@@ -1,0 +1,45 @@
+{
+  "22": {
+    "title": "La Chambre Sacrée des Tentacules",
+    "description": "Un altar occupe le centre de l'espace. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre du grand autel central, où des tentacules émergent, comme s'ils tentaient de se libérer. Des spirales mystérieuses marquent le sol, et un coffre en bois sombre repose contre le mur, ses serrures rouillées. Des apparitions fantomatiques flottent dans l'air, leurs silhouettes floues et translucides. L'odeur de soufre et de vieux parchemins flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un passage secret, dissimulé derrière un tableau, semble attendre à l'entrée de la pièce. Les tentacules, les spirales et les apparitions créent une atmosphère glauque et menaçante, où chaque coin cache un piège ou un secret ancien.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "spirales",
+      "apparitions",
+      "vieille crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "chest"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle avec 2 flashs dessinés",
+      "tileNumber": 22
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "37": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière naturelle filtre à travers une fenêtre étroite, révélant une pièce immense et rectangulaire, recouverte d'une épaisse couche de mousse. Les murs, fissurés et humides, sont ornés de pilastres massifs qui soutiennent un plafond voûté. Un grand cercle de pierre, usé par le temps, domine le centre de la pièce, entouré d'un tapis de spirales mystérieuses gravées dans le sol. Un tableau tendu, comme un ancien parchemin, pend sur le mur de droite, tandis qu'un vieux meuble en bois trône au fond. L'air est saturé d'une odeur de terre et d'humidité, et un murmure lointain semble provenir de l'angle nord-ouest. La tension est palpable, comme si la salle gardait un secret ancien et terrible.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "ancien",
+      "mystique",
+      "mousse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from window",
+      "condition": "damp and mossy",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tented wall hanging"
+      ],
+      "floorMarkings": [
+        "spiral pattern"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "window"
+      ],
+      "hazards": [
+        "mossy floor"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle avec trou",
+      "tileNumber": 37
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "17": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et les murs sont couverts d'une humidité qui les rend glissants. Deux grandes formes circulaires, comme des empreintes géantes, marquent le sol au centre. Des reliefs sculptés, évoquant des tentacules, ornent les murs, tandis que des croix et des lignes pointillées dessinent des motifs sur le sol. Des colonnes majestueuses et des statues évoquent une ancienne civilisation. Des autels sont disséminés dans la pièce, et des tentacules semblent se mouvoir dans l'air, comme si la salle était animée. L'atmosphère est oppressante, et tu sens une présence ancienne et malveillante. Les enchaînements circulaires au sol paraissent prêts à se déclencher à tout moment. La salle est un lieu de rituel, mais tu ne sais pas quel sortilège se cache derrière ces murs.",
+    "tags": [
+      "rituel",
+      "salle des anciens",
+      "tentacules",
+      "humidité",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "two large circular patterns",
+      "wallDecorations": [
+        "sculpted reliefs",
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "crosses",
+        "dotted lines",
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "autels"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "enchanted circles",
+        "damp conditions"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle avec 2 trous (fermés par grille)",
+      "tileNumber": 17
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "4": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Un statue occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, une statue massive domine le centre de la pièce, son visage déformé par les temps qui passent. Des tentacules et des crânes de mort sont suspendus aux murs, comme des reliques d'une civilisation oubliée. Sur le sol, des spirales et des croix marquent le sol, comme si quelqu'un avait tenté de communiquer avec les forces obscures. Les colonnes massives, sculptées de motifs énigmatiques, semblent veiller sur la statue. Un autel, au centre de la pièce, parais attendre un culte perdu au fil des siècles. Les inscriptions sur les murs, des glyphes mystérieux, paraissent murmurer des secrets. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère lugubre. Un murmure lointain, comme si quelque chose se réveillait, résonne dans les murs. La tension est palpable, comme si la pièce était prête à se dévoiler à ceux qui osent s'y aventurer.",
+    "tags": [
+      "sacrée",
+      "ténèbres",
+      "statue",
+      "glyphes",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "square",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "statue",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "cross"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "glyphs"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Couloir avec petite salle",
+      "tileNumber": 4
+    }
+  }
+}

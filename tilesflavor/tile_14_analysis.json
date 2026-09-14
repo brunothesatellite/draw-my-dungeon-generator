@@ -1,0 +1,47 @@
+{
+  "14": {
+    "title": "La Salle des Rêveries",
+    "description": "Un fenêtre occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une ombre qui danse sur le mur. La pièce est petite, rectangulaire, et semble vieillie, les murs recouverts d'un vernis usé qui craque sous tes pas. Au centre, un échiquier ancien, ses cases usées et ses pièces manquantes, parais attendre un adversaire qui ne viendra jamais. Des reliefs sculptés ornent les murs, des figures énigmatiques qui paraissent murmurer des secrets perdus. Sur le sol, des cercles rituels dessinent des motifs complexes, comme si la salle avait connu des cérémonies obscures. Des piliers robustes soutiennent le plafond, leurs surfaces lisses et propres en contraste avec le reste de la pièce. Une table, simple et solide, occupe un coin, son dessus vide. Une empreinte de pas, fraîche et nette, est gravée dans le sol, comme si quelqu'un avait récemment quitté la pièce. L'atmosphère est mystérieuse, presque oppressante, comme si la salle gardait des secrets profonds. L'eau stagnante, visible dans un coin, parais attendre l'arrivée d'un explorateur audacieux. La salle est une retraite, un refuge pour ceux qui cherchent à fuir le monde extérieur.",
+    "tags": [
+      "échiquier",
+      "reliefs sculptés",
+      "cercles rituels",
+      "piliers",
+      "empreinte de pas",
+      "salle de repos",
+      "mystérieuse",
+      "vieillie",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "fenêtre",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "empreinte de pas"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de repos",
+      "csvDescription": "Salle avec échiquier au centre",
+      "tileNumber": 14
+    }
+  }
+}

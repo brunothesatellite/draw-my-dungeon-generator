@@ -1,0 +1,51 @@
+{
+  "12": {
+    "title": "Le Sanctuaire des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, aux murs couverts d'une peinture ancienne. L'air est chargé d'une odeur de poussière et de mystère. Devant toi, un autel central, orné de tentacules et de crânes de mort, attire ton regard. Des spirales et des croix gravées dans le sol te font tâtonner. Les colonnes massives et les piliers sculptés ajoutent à l'atmosphère sombre. Un tableau trône au centre, mais tu ne peux y distinguer que des éclairs de lumière. Tu sens une présence étrange, comme si quelque chose t'observait. Le mur de droite résonne d'un murmure inquiétant. La tension monte avec chaque pas que tu fais dans cette salle sacrée, où les secrets de l'ancien se cachent derrière chaque coin.",
+    "tags": [
+      "sacré",
+      "mystère",
+      "tentacules",
+      "crânes",
+      "spirales",
+      "colonne",
+      "autel",
+      "murmure"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "cross"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "star"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Couloir avec dessin magique au sol",
+      "tileNumber": 12
+    }
+  }
+}

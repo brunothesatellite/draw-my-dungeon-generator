@@ -1,0 +1,44 @@
+{
+  "28": {
+    "title": "La Salle des Anciens",
+    "description": "Un figure humaine occupe le centre de l'espace. La lumière filtre à peine à travers les fenêtres brisées, éclairant les murs vieillis par le temps. Au centre, un autel de pierre, entouré de quatre colonnes massives, semble attendre un culte ancien. Des têtes de mort et des tentacules peints sur les murs paraissent observer les intrus, tandis que des cercles rituels et des glyphes runiques gravés dans le sol évoquent des forces obscures. Les piliers et les statues, usés par les siècles, racontent des histoires oubliées. L'odeur de la terre et du vieux bois flotte dans l'air, mêlée à un subtil parfum de soufre. Un frisson vous parcourt alors que vous vous apercevez que des pièges anciens sont dissimulés dans les recoins. La tension monte à mesurer que vous vous approchez de l'autel, sentant l'ancienne puissance qui y réside.",
+    "tags": [
+      "culte ancien",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "pièges anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rond",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "figure humaine",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de culte ancien",
+      "csvDescription": "Salle avec dessin « ancien » et 4 colonnes",
+      "tileNumber": 28
+    }
+  }
+}

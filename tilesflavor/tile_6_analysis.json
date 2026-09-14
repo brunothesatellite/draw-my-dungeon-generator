@@ -1,0 +1,47 @@
+{
+  "6": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts de reliefs sculptés. Des colonnes massives soutiennent le plafond, tandis que des croix, des lignes et des points marquent le sol. Au centre, un cercle mystérieux, entouré d'une grille, attire ton regard. Des tentacules, visibles à peine, semblent se glisser dans l'air, ajoutant une note d'étrangeté à l'atmosphère étrange. Les runes anciennes gravées sur les murs paraissent murmurer des secrets. L'odeur de la terre humide et de l'encens ancien se mêle à l'air, créant une ambiance glauque et inquiétante. Le mur de droite cache un autel, et tu sens une présence ancienne et puissante dans cette salle rituelle. La tension monte à chaque pas que tu fais, comme si la salle était prête à se réveiller à tout moment.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "tentacules",
+      "salle des secrets",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "circle with grid pattern",
+      "wallDecorations": [
+        "reliefs sculpted"
+      ],
+      "floorMarkings": [
+        "crosses",
+        "lines",
+        "dots"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious object in the center"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted circle",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle avec un trou avec grille",
+      "tileNumber": 6
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "48": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est couvert de cercles rituels, leurs contours usés par le temps. Des piliers massifs soutiennent le plafond, leurs pierres luisant d'une étrange énergie. À l'entrée, une porte ouverte laisse entrevoir un espace sombre. À droite, une table avec des rayures profondes attire ton regard. Des têtes de mort sont accrochées aux murs, leurs yeux vides paraissant te fixer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, chaque bruit parais résonner dans cette crypte rectangulaire vieillie.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "vieillissement",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "table avec des rayures",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir (avec sarcophage dans les murs)",
+      "tileNumber": 48
+    }
+  }
+}

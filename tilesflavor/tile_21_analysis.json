@@ -1,0 +1,42 @@
+{
+  "21": {
+    "title": "La Salle des Secrets",
+    "description": "Un table avec chaise occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs. La salle est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de lichen, sont ornés d'une tête de mort gravée dans le linteau. Sous tes pieds, des cercles rituels marquent le sol, comme si la pièce avait un autre usage. Des piliers robustes soutiennent le plafond, et une table avec une chaise y est placée au centre. L'odeur de moisi et de mystère flotte dans l'air, et tu sens une présence étrange qui t'observe. Les cercles rituels paraissent prêts à se déclencher, et tu te demandes ce qui se cache derrière cette atmosphère si mystérieuse. La salle parais être un lieu de réunion ou de culte, mais pour quoi faire ?",
+    "tags": [
+      "mystère",
+      "culte",
+      "salle de réunion",
+      "vieillie",
+      "cercles rituels"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "table avec chaise",
+      "wallDecorations": [
+        "tête de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table",
+        "chaise"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "cercles rituels"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de réunion ou de culte",
+      "csvDescription": "Salle avec table et chaises",
+      "tileNumber": 21
+    }
+  }
+}

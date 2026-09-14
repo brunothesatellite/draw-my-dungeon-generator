@@ -1,0 +1,46 @@
+{
+  "10": {
+    "title": "La Chambre Sacrificielle",
+    "description": "L'ambiance mysterious pèse sur la pièce. L'humidité pèse lourdement dans l'air, et un vague parfum de soufre flotte dans l'atmosphère mystérieuse. Devant toi, un autel central, entouré de tentacules étranges qui semblent vouloir te saisir. Des spirales et des croix gravées dans le sol te regardent, tandis que des colonnes imposantes soutiennent le plafond. Un coffre en bois, fermé à clé, repose contre le mur, et des ossements dispersés témoignent de sacrifices passés. Un mur, caché derrière un rideau de tissu, cache une porte secrète. Le sol est glissant, et un murmure lointain parais provenir de l'ombre. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette pièce.",
+    "tags": [
+      "sacrifice",
+      "mystère",
+      "tentacules",
+      "colonne",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "central altar",
+      "wallDecorations": [
+        "tented tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crossed lines"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "wooden chest"
+      ],
+      "creaturesOrTraces": [
+        "scattered bones"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "slippery floor"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Couloir et salle",
+      "tileNumber": 10
+    }
+  }
+}

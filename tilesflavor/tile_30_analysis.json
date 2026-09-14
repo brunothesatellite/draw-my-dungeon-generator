@@ -1,0 +1,45 @@
+{
+  "30": {
+    "title": "La Chambre Sacrée des Tentacules",
+    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière naturelle filtre à travers une fenêtre au fond, révélant une pièce immense et rectangulaire, dont les murs sont recouverts d'une couche de mousse verdâtre. L'air est chargé d'une odeur de soufre et d'humidité, comme si la pièce avait été abandonnée depuis des siècles. Au centre, un autel de pierre, orné de tentacules sculptés, attire ton regard. Des colonnes majestueuses soutiennent le plafond, tandis que des inscriptions anciennes gravées sur les murs semblent murmurer des secrets millénaires. Un spiral gravé dans le sol te guide vers l'entrée unique, où une table en bois attend peut-être pour les offrandes. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "mystère",
+      "ancien",
+      "mystique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from window",
+      "condition": "damp and mossy",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "one"
+      ],
+      "hazards": [
+        "mossy floor"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle avec grille au sol",
+      "tileNumber": 30
+    }
+  }
+}

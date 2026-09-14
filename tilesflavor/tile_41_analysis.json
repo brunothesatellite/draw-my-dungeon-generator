@@ -1,0 +1,48 @@
+{
+  "41": {
+    "title": "Le Sanctuaire des Anciens",
+    "description": "Des tents couvrent les murs. Devant toi s'ouvre une salle immense, rectangulaire et éclairée par la lumière naturelle qui filtre à travers des fenêtres hautes. Les murs, couverts de peintures anciennes et de tentes suspendues, semblent murmurer des secrets millénaires. Des colonnes massives soutiennent le plafond, tandis que des spirales mystérieuses gravées dans le sol te guident vers un autel central. Des crânes sculptés ornent les murs, ajoutant une touche de terreur à l'atmosphère sombre. Le sol, marqué de match marks et de motifs de spirales, parais tisser un lien avec le passé. Un tableau, posé sur une table en bois, parais attendre son destin. La tension est palpable, comme si le sanctuaire était gardé par des forces invisibles. L'odeur de la terre humide et de l'encens ancien te pique les narines, tandis que le murmure lointain d'un murmurer ancien résonne dans ta tête. Le sanctuaire est un lieu de culte, un lieu de pouvoir, et tu te demandes ce que tu trouveras derrière les portes closes.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "culte",
+      "pouvoir"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "hatch marks"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred space",
+      "csvDescription": "Couloir",
+      "tileNumber": 41
+    }
+  }
+}

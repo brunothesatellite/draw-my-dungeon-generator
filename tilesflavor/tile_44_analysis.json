@@ -1,0 +1,43 @@
+{
+  "44": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des siècles d'obscurité. Des cercles rituels gravés dans le sol évoquent des rites anciens, et les murs sont ornés de têtes de mort sculptées, ajoutant une note macabre à l'atmosphère mystérieuse. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remonte doucement le long du mur, créant une tension palpable. Devant toi, un seul passage parais mener à l'extérieur, mais l'air humide et l'odeur de soufre te font hésiter.",
+    "tags": [
+      "salle de culte",
+      "rituel ancien",
+      "têtes de mort",
+      "eau stagnante",
+      "atmosphère sombre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Couloir",
+      "tileNumber": 44
+    }
+  }
+}

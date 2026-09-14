@@ -1,0 +1,47 @@
+{
+  "3": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un central altar or platform occupe le centre de l'espace. L'air est humide et chargé d'une odeur de moisi et de végétation morte. Le sol est recouvert d'un tapis de mousse verte qui craque sous tes pas. Au centre de la pièce, un autel ou une plateforme circulaire attire ton regard. Des tentes de toile sont suspendues aux murs, et des spirales mystérieuses marquent le sol. Des colonnes majestueuses soutiennent le plafond, et un grand tableau est posé contre l'un des murs. Des apparitions fantomatiques flottent dans l'air, ajoutant une note de mystère à l'atmosphère ancienne et sacrée. À droite, une porte unique semble t'inviter à explorer davantage. Le sol est glissant sous tes pieds, et tu sens une présence étrange qui plane dans l'air. La tension monte avec chaque pas que tu fais dans cette salle si ancienne et si mystérieuse.",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "mystère",
+      "mousse",
+      "spirales",
+      "apparitions",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "central altar or platform",
+      "wallDecorations": [
+        "tented wall hangings"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
+      ],
+      "exits": [
+        "one visible door"
+      ],
+      "hazards": [
+        "mossy floor"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred chamber or ritual site",
+      "csvDescription": "Couloir",
+      "tileNumber": 3
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "19": {
+    "title": "La Salle des Ténèbres",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel central, entouré de statues et de piliers, semble attendre quelque chose. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels et des glyphes runiques marquent le sol, comme des anciennes cartes de l'univers. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "salle de culte",
+      "ténèbres",
+      "vieillie",
+      "ancienne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Salle avec dessin étrange",
+      "tileNumber": 19
+    }
+  }
+}

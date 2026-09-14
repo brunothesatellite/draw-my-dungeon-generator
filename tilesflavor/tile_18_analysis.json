@@ -1,0 +1,45 @@
+{
+  "18": {
+    "title": "Le Sanctuaire des Tentacules",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, entouré de colonnes massives, attire ton regard. Des spirales mystérieuses marquent le sol, et des tentacules émergents des murs, comme s'ils tentaient de te saisir. Le silence est troublé par un murmure lointain, et tu sens une présence étrange qui plane dans l'air. Le tableau est complet, mais tu ne peux pas voir le reste de la pièce. Les barils sont empilés contre le mur, et un tableau trône au centre, mais tu ne peux pas y lire les inscriptions. Les barils sont vides, et le tableau est dépourvu de tout signe de vie. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans cette salle.",
+    "tags": [
+      "sacré",
+      "mystérieux",
+      "tentacules",
+      "soufre",
+      "murmure"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred space",
+      "csvDescription": "Salle avec tour de boîtes",
+      "tileNumber": 18
+    }
+  }
+}

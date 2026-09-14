@@ -1,0 +1,50 @@
+{
+  "9": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, un autel massif, taillé dans une pierre ancienne, attire ton regard. Des tentacules et des crânes de mort ornent les murs, tandis que des spirales et des croix marquent le sol. Les colonnes massives et les piliers robustes donnent à la pièce une impression de grandeur et de mystère. Des runes et des cercles rituels sont gravés sur les murs, et des traces de créatures anciennes sont visibles sur le sol. L'air est lourd, et une odeur de soufre flotte dans l'atmosphère étrange et étrange. Tu sens une présence ancienne et malveillante qui plane dans l'air. Le mur de droite semble vibrer, et tu entends un murmure lointain qui semble provenir de l'autel.",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "mystère",
+      "creatures anciennes",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "square",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "ritual circles",
+        "runes"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted",
+        "ancient traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle avec tonneaux (1 entrée)",
+      "tileNumber": 9
+    }
+  }
+}

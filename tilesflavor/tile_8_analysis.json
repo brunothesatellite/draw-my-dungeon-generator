@@ -1,0 +1,48 @@
+{
+  "8": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. L'air est lourd et humide, comme si la chaleur stagnait au fond de cette crypte. Devant toi, un autel rectangulaire domine la pièce, son marbre noir contrastant avec les murs grisâtres. Des tentacules et des crânes de mort sont suspendus aux murs, des symboles énigmatiques gravés dans le marbre. Des spirales et des croix marquent le sol, comme si quelqu'un avait tenté de dessiner un rituel. Les colonnes massives et les piliers robustes soutiennent le plafond, mais tu sens une présence étrange qui plane dans l'air. Tu aperçois un mystérieux objet posé sur l'autel, mais tu ne peux pas distinguer ce qu'il est. Un murmure lointain te parvient, comme si quelqu'un ou quelque chose observait tes pas. La porte se trouve à l'extrémité de la pièce, dissimulée par un rideau de tissu noir. Tu sens une menace latente, comme si la salle était gardée par des forces obscures.",
+    "tags": [
+      "sacré",
+      "ténèbres",
+      "rituel",
+      "présence étrange",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle",
+      "tileNumber": 8
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "40": {
+    "title": "La Salle des Sombres",
+    "description": "Des têtes de mort couvrent les murs. La lumière naturelle filtre à travers les quatre soleils étranges, dessinés sur le mur. Devant toi, un autel de pierre, entouré de piliers massifs, semble attendre. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée par des créatures obscures. Des cercles rituels marquent le sol, et une table en bois trône au centre. L'odeur de soufre et de mort flotte dans l'air, et un murmure ancien résonne dans ta tête. À l'ouest, une porte se dessine, mais tu sens une présence malveillante derrière elle. Des pièges anciens attendent ceux qui oseront s'aventurer plus avant.",
+    "tags": [
+      "salle de culte",
+      "sombre",
+      "mystérieuse",
+      "vieille",
+      "pièges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "40x40",
+      "roomShape": "rectangulaire",
+      "lighting": "naturelle",
+      "condition": "bonne",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "ouest"
+      ],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle avec cheminée, obélisque et 4 soleils étranges\n« magiques » dessinés",
+      "tileNumber": 40
+    }
+  }
+}

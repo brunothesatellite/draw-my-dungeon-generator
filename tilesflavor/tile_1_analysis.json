@@ -1,0 +1,48 @@
+{
+  "1": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui s'élèvent vers le plafond. L'air est lourd, chargé d'une odeur de poussière et de mystère ancien. Devant toi, un autel massif, entouré de tentacules et de crânes de mort, semble t'observer avec un regard froid. Des spirales et des croix gravées dans le sol te font tâtonner, tandis que des colonnes imposantes soutiennent le plafond. Un mystérieux coffre, posé au milieu de la pièce, parais attendre son ouverture. Tu sens une présence éthérée flotter autour de toi, comme si les âmes des anciens se réveillaient. À droite, une porte se dessine dans le mur, dissimulée par les ombres. Des pièges attendent ceux qui oseront approcher. La tension est palpable, et tu te demandes ce que cache cette chambre sacrée des anciens.",
+    "tags": [
+      "mystère",
+      "ancien",
+      "sacrée",
+      "tentacules",
+      "crânes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "square",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious box"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle avec obélisque et colonnes",
+      "tileNumber": 1
+    }
+  }
+}

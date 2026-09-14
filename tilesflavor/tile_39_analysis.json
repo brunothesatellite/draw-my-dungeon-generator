@@ -1,0 +1,46 @@
+{
+  "39": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches et de crachats, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table, usée par le temps, repose contre le mur. Un squelette, presque complet, repose au pied de l'autel, comme s'il avait été sacrifié. L'odeur de soufre et de mort flotte dans l'air, et un murmure sinistre parais provenir de l'eau stagnante qui recouvre le sol. La fenêtre, la seule source de lumière, parais avoir été murée depuis longtemps. L'atmosphère est glaçante, et tu sens une présence malveillante qui plane dans l'air.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle de mort",
+      "vieillie",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec lit",
+      "tileNumber": 39
+    }
+  }
+}

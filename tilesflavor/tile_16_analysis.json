@@ -1,0 +1,52 @@
+{
+  "16": {
+    "title": "La Salle des Mystérieux",
+    "description": "Des sculpted heads couvrent les murs. La lumière tamisée éclaire une pièce immense, rectangulaire, dont les murs sont couverts d'une humidité qui les rend glissants. Des colonnes majestueuses, sculptées de tentacules et de têtes sculptées, se dressent comme des gardiens silencieux. Au centre, un autel mystérieux, orné de symboles énigmatiques, attire ton regard. Des tapisseries, aux motifs de spirales et de croix, flottent doucement dans l'air, comme si elles avaient vie. Le sol, marqué de motifs complexes, semble inviter à la danse. Les statues, anciennes et étranges, gardent le secret de la salle. Tu sens une présence étrange, comme si la pièce était habitée par des forces invisibles. L'odeur de soufre et de moisi te pénètre les narines, ajoutant à l'atmosphère oppressante. Des runes anciennes et des symboles enchantés sont disséminés un peu partout, prêts à révéler leurs secrets à ceux qui savent les déchiffrer. La tension est palpable, comme si la salle était le cœur d'un rituel ancien et perpétuel.",
+    "tags": [
+      "rituel",
+      "salle des secrets",
+      "mystère",
+      "anciennes runes",
+      "souffle de la nuit"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "mysterious symbol",
+      "wallDecorations": [
+        "sculpted heads",
+        "tentacles",
+        "tapestries"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "cross shapes"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "autels",
+        "mysterious symbols"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "enchanted symbols",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle ouverte avec colonnes",
+      "tileNumber": 16
+    }
+  }
+}

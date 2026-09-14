@@ -1,0 +1,50 @@
+{
+  "45": {
+    "title": "La Crypte des Anciens",
+    "description": "Tu te retrouves plongé dans un couloir étroit, les murs décrépits et les plafonds bas. La lumière tamisée émane d'une source lointaine, révélant une salle immense et irrégulière. Les murs, couverts de tentacules et de trophées, semblent témoigner d'une ancienne civilisation. Des colonnes et des piliers soutiennent le toit, tandis que des spirales et des croix gravées marquent le sol. Un autel central, orné d'un mystérieux objet, attire ton regard. L'air est lourd, chargé d'une odeur de soufre et de mystère. Tu sens une présence étrange, comme si des forces obscures observaient tes moindres gestes. Des pièges et des enchantements sont dissimulés dans les recoins, prêts à te piéger. La crypte murmure des secrets anciens, et tu te demandes ce qu'elle cache vraiment.",
+    "tags": [
+      "mystère",
+      "ancien",
+      "soufre",
+      "tentacules",
+      "enchantement"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "trophies"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "cross shapes"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "mysterious object"
+      ],
+      "creaturesOrTraces": [
+        "unknown creatures"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "traps",
+        "enchantments"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "Couloir (avec numéro 46)",
+      "tileNumber": 45
+    }
+  }
+}

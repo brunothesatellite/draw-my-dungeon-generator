@@ -1,0 +1,44 @@
+{
+  "24": {
+    "title": "La Chambre Sacrée des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des colonnes qui se dressent comme des gardiens silencieux. L'air est lourd, presque oppressant, et l'odeur de soufre te pique les narines. Devant toi, un autel rectangulaire, taillé dans une pierre sombre, attire ton regard. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le marbre, semblant tendre vers le ciel. Des croix et des points noirs marquent le sol, comme des runes anciennes. Les statues, vieilles et érodées, gardent un air de mystère. Les glyphes gravés dans le sol paraissent attendre que quelqu'un les déchiffre. L'atmosphère est glaçante, et tu sens une présence indéfinissable qui plane dans l'air. Les colonnes, les tentacules, les runes, tout parais te dire que cette pièce a un secret à révéler.",
+    "tags": [
+      "sacré",
+      "mystère",
+      "tentacules",
+      "colonne",
+      "runes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "crosses",
+        "dots"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "statues"
+      ],
+      "creaturesOrTraces": [
+        "glyphs"
+      ],
+      "exits": [],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle",
+      "tileNumber": 24
+    }
+  }
+}

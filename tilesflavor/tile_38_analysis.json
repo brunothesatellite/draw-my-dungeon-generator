@@ -1,0 +1,41 @@
+{
+  "38": {
+    "title": "La Salle du Neurone",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La pièce est petite, rectangulaire, et la lumière naturelle y pénètre à travers une ouverture au plafond. Les murs sont en pierre brute, et les piliers massifs semblent soutenir le plafond. Des reliefs sculptés ornent les murs, racontant des histoires anciennes. Au centre de la pièce, un autel de pierre est gravé de cercles rituels, et des piliers majestueux se dressent autour de lui. L'odeur de terre humide et de mystère flotte dans l'air, et un murmure lointain parais provenir de l'angle nord-ouest. Le sol est couvert de poussière, et un piège attend patiemment, prêts à s'activer.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "pierres sculptées",
+      "pièce ancienne",
+      "salle de culte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "naturelle",
+      "condition": "bonne",
+      "centralFeature": "neurone",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "piège"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec soleil magique et tonneaux",
+      "tileNumber": 38
+    }
+  }
+}

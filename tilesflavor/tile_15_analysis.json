@@ -1,0 +1,48 @@
+{
+  "15": {
+    "title": "La Crypte des Tentacules",
+    "description": "Un unknown occupe le centre de l'espace. La pièce est immense, mais son irrégularité la rend difficile à mesurer. La lumière est si faible que tu peux à peine distinguer les contours des murs, qui semblent s'effondrer sous tes yeux. L'atmosphère est oppressante, comme si la salle était un vestige d'un passé oublié. Des colonnes et des piliers, usés par le temps, se dressent comme des gardiens silencieux. Sur les murs, des tentacules et des crânes de mort sont sculptés, comme si la salle était un sanctuaire de créatures obscures. Des spirales et des croix gravées dans le sol paraissent indiquer un passage ancien, peut-être un rituel perdu. Tu sens une odeur de soufre et de mort qui te pique les narines. Le silence est troublé par un murmure lointain, comme si quelque chose attendait dans l'ombre. La tension est palpable, et tu sais que tu n'es pas seul dans cette crypte.",
+    "tags": [
+      "crypte",
+      "tentacules",
+      "soufre",
+      "rituel",
+      "sombre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "unknown",
+      "csvDescription": "Salle",
+      "tileNumber": 15
+    }
+  }
+}

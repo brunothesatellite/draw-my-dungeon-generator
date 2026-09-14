@@ -1,0 +1,50 @@
+{
+  "33": {
+    "title": "La Chambre des Rituels",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la salle. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches de rouille et de peinture écaillée. Des tentacules et des trophées sont accrochés aux murs, comme si une créature ancienne avait une fois régné ici. Des spirales mystérieuses marquent le sol, et une inscription énigmatique parais gravée dans le sol. Deux colonnes imposantes soutiennent le plafond, et un autel sombre est placé au centre de la pièce. Tu sens une présence fantomatique, comme si quelqu'un ou quelque chose observait tes moindres mouvements. Le silence est troublé par un murmure lointain, et tu perçois une odeur de soufre et de mort. Un piège attend derrière une porte dissimulée, et un nuage de gaz toxique flotte dans l'air. La tension est palpable, et tu te demandes ce que cette chambre rituelle cache vraiment.",
+    "tags": [
+      "rituel",
+      "salle abandonnée",
+      "tentacules",
+      "soufre",
+      "presence fantomatique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "trophies"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "inscription"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps",
+        "poison gas"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle",
+      "tileNumber": 33
+    }
+  }
+}

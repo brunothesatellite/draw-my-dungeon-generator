@@ -1,0 +1,46 @@
+{
+  "27": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table, usée par le temps, repose contre le mur. Des traces de pas, comme si quelqu'un avait fui précipitamment, sont gravées dans le sol. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La porte, légèrement ouverte, laisse entrevoir un passage étroit qui parais mener à d'autres mystères.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphère": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec statue",
+      "tileNumber": 27
+    }
+  }
+}

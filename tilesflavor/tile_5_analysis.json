@@ -1,0 +1,46 @@
+{
+  "5": {
+    "title": "La Salle Sacrée des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, une couronne de pierre domine le centre de la pièce, entourée de colonnes massives. Des tentacules sculptés dans le mur regardent de tous les côtés, comme prêts à se déployer. Des crânes humains sont suspendus aux murs, leurs orbites vides semblant te fixer. Le sol est marqué d'un spiral complexe, et un autel de pierre se dresse au milieu de la pièce. Des traces de pas humains sont visibles sur le sol, comme si quelqu'un avait fui précipitamment. L'eau coule lentement du plafond, formant des gouttelettes qui retombent sur le sol. L'atmosphère est mystérieuse et glaçante, comme si la salle était gardée par des forces obscures.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "crânes",
+      "soufre",
+      "gouttes d'eau"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "crown",
+      "wallDecorations": [
+        "tentsacles",
+        "skull"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "footprints"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Salle",
+      "tileNumber": 5
+    }
+  }
+}

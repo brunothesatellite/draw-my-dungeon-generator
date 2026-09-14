@@ -1,0 +1,53 @@
+{
+  "26": {
+    "title": "Le Sanctuaire des Anciens",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière d'Emma, révélant un espace immense et rectangulaire, aux murs couverts de tentacules et de têtes de mort. L'air est chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de colonnes massives et de pilastres, attire ton regard. Des spirales et des lignes gravées dans le sol te font scruter chaque détail. Des créatures étranges, invisibles, semblent t'observer depuis les ombres. L'atmosphère est oppressante, mais tu sens une puissance ancienne et mystérieuse qui résonne dans cette salle sacrée.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "têtes de mort",
+      "colonne",
+      "spirale",
+      "odeur de soufre",
+      "creatures invisibles",
+      "atmosphère mystérieuse",
+      "puissance ancienne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "furniture"
+      ],
+      "creaturesOrTraces": [
+        "creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted",
+        "ancient"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Canal d'eau entre 2 murs avec pont",
+      "tileNumber": 26
+    }
+  }
+}

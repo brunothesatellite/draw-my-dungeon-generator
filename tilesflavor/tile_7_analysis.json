@@ -1,0 +1,45 @@
+{
+  "7": {
+    "title": "La Crypte Sacrée",
+    "description": "Tu te retrouves plongé dans un couloir étroit, les murs de pierre te regardent avec un air de mystère. La lumière tamisée filtre à travers des tentes suspendues, créant des ombres danseuses sur le sol marqué d'un spiral complexe. Les colonnes massives, sculptées de motifs anciens, semblent veiller sur l'entrée d'une salle sacrée. L'air est lourd, chargé d'une odeur de soufre et de l'humidité stagnante. Tu sens une présence ancienne, presque palpable, qui t'observe depuis les ténèbres. Un murmure lointain résonne, comme si la crypte elle-même tentait de te parler. L'eau qui coule doucement à tes pieds parais murmurer des secrets. Tu te demandes ce que cache cette salle, et pourquoi elle est si mystérieuse.",
+    "tags": [
+      "mystère",
+      "sacré",
+      "ancien",
+      "odeur de soufre",
+      "crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "empty",
+      "wallDecorations": [
+        "tents"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Couloir",
+      "tileNumber": 7
+    }
+  }
+}

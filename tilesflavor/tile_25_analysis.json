@@ -1,0 +1,44 @@
+{
+  "25": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est recouvert d'un tapis de peaux de morts, leurs yeux vides te regardant. Des cercles rituels dessinent des cercles sur le sol, comme si quelqu'un avait tenté de les effacer. Des tentacules, comme ceux d'un ancien monstre, sont collés aux murs, leurs nœuds noirs et gluants. Des têtes de mort, les yeux vides et les mâchoires décharnées, sont suspendues aux piliers, comme des têtes de guerre. Un autel, en pierre sombre, se dresse au centre de la pièce, entouré de piliers massifs. Des fumées blanches s'échappent de l'autel, se mêlant à l'air humide et chargé de soufre. Tu sens une présence ancienne, bientôt palpable, qui te pousse à te rapprocher de l'autel. Des barils, remplis d'eau stagnante, sont disséminés autour de la pièce, leur contenu pourri et infect. La salle est étouffante, l'air chargé d'une odeur de mort et de mystère. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose observait les intrus. La tension est palpable, et tu sens que quelque chose de terrible va se passer.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "ancien",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "fumée"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de sacrifice",
+      "csvDescription": "Salle avec bassin et fontaine",
+      "tileNumber": 25
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "49": {
+    "title": "Salle des Anciens Cultes",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, couverts de stries et de taches, semblent avoir vu des siècles d'obscurité. Le sol, recouvert de vieilles tapisseries, est marqué de cercles rituels qui paraissent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, et leurs bases sont ornées de motifs complexes. Au centre de la pièce, un autel, vieilli et usé, attire ton regard. Des têtes de mort sculptées sont suspendues aux murs, ajoutant une note macabre à l'atmosphère. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis longtemps. L'eau stagnante, qui coule lentement vers le centre de la pièce, émet un murmure sinistre. L'odeur de soufre et de moisi flotte dans l'air, rendant l'atmosphère encore plus oppressante. Tu sens une présence ancienne, presque palpable, qui te scrute du fond de cette salle. La tension est palpable, et tu te demandes ce qui a pu se passer ici, il y a si longtemps.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "macabre",
+      "ancien",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Couloir",
+      "tileNumber": 49
+    }
+  }
+}

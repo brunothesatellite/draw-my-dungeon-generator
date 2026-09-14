@@ -1,0 +1,44 @@
+{
+  "35": {
+    "title": "Salle des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. L'air est lourd, chargé d'une odeur de moisi et de soufre. Tu t'approches, et tes yeux s'adaptent lentement à la faible lumière qui filtre à travers des fenêtres brisées. Les murs, usés par le temps, sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et des barils de bois ancien sont empilés contre le mur, leur surface rugueuse évoquant des années d'oubli. L'eau stagnante, noire et trouble, remonte jusqu'à tes chevilles, créant une tension palpable. L'atmosphère est sinistre, presque palpable, comme si la salle était le témoin de rituels obscurs et de secrets enfouis depuis des siècles.",
+    "tags": [
+      "rituel",
+      "salle ancienne",
+      "tête de mort",
+      "tentacules",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "35x35",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Salle avec œil dessiné au sol",
+      "tileNumber": 35
+    }
+  }
+}

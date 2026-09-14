@@ -1,0 +1,40 @@
+{
+  "29": {
+    "title": "Le Vortex Magique",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette petite pièce rectangulaire. Les murs, usés et couverts de traces de vieilles peintures, semblent murmurer des secrets millénaires. Des piliers robustes soutiennent le plafond, et au centre de la pièce, un autel de pierre attire ton regard. Des cercles rituels gravés dans le sol te font tiquer, et les têtes de mort sculptées dans les murs ajoutent une note macabre à l'ensemble. L'odeur de soufre et d'humidité âcre te pique les narines, et tu sens une présence étrange qui plane dans l'air. L'eau stagnante, visible dans un coin, parais prête à jaillir à tout moment. La tension est palpable, et tu te demandes ce que cache vraiment cette salle de rituel.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "vieillie",
+      "tête de mort",
+      "cercles rituels",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec vortex magique",
+      "tileNumber": 29
+    }
+  }
+}

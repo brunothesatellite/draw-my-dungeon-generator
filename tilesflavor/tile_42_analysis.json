@@ -1,0 +1,44 @@
+{
+  "42": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire le regard. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des cérémonies sombres. Des traces de créature, comme des pattes d'animal, marquent le sol, ajoutant une touche de mystère. Le mobilier ancien, usé, parais avoir été oublié depuis longtemps. La tension est palpable, comme si quelque chose de maléfique attendait dans les ombres.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Couloir",
+      "tileNumber": 42
+    }
+  }
+}

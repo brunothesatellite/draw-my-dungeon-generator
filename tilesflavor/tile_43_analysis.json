@@ -1,0 +1,43 @@
+{
+  "43": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un squelette occupe le centre de l'espace. La faible lumière qui filtre à travers une fenêtre étroite éclaire vaguement les têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Au centre, un autel de pierre, entouré de cercles rituels, attire votre attention. Des piliers massifs soutiennent le plafond, tandis que l'eau stagnante, noire et malsaine, se répand lentement sur le sol. L'odeur de putréfaction et de soufre vous pique les narines, et un murmure lointain parais résonner dans l'air. La tension est palpable, comme si quelque chose de sinistre se préparait dans cette salle de rituel ancienne.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "squelette",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir",
+      "tileNumber": 43
+    }
+  }
+}

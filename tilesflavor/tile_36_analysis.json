@@ -1,0 +1,48 @@
+{
+  "36": {
+    "title": "Salle des Anciens Cultes",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce carrée, vieillie et mystérieuse. Les murs, recouverts de peintures sombres, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues anciennes se dressent autour, ajoutant à l'atmosphère glauque. Le sol est marqué de cercles rituels et de runes, et des barils de bois ancien sont disséminés un peu partout. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante s'écoule lentement du plafond. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette salle.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "pièges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Couloir",
+      "tileNumber": 36
+    }
+  }
+}
