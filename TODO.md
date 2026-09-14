@@ -1,8 +1,5 @@
 **TODO**
 * l'export PDF doit fonctionner en file:\\ ou sur serveur web
-* l'export PDF doit demander si on exporte les descriptions des salles, si oui, il ajoute à partir de la deuxième page les descriptions des tuiles posées
-* quand on survole rapidement une tuile, ça ne doit pas changer la description
-* quand FLAVOR est remis à jour, la scrollbar dans description doit revenir tout en haut
-
+* met à jour le README.md avec les nouvelles fonctions depuis la release v1.2, ajoute une partie scripting en analysant le répertoire IA-stuffs pour expliquer comment sont générées les description de tilesflavor et comment relancer la génération et modifier les prompts si on le souhaite.
 
 

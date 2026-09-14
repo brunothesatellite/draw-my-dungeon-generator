@@ -332,14 +332,231 @@ function swapTiles(cell1, cell2) {
 }
 
 // --- EXPORT PDF ---
+function loadFileAsBase64(path) {
+    return new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.onload = function () {
+            const reader = new FileReader();
+            reader.onloadend = function () { resolve(reader.result); };
+            reader.readAsDataURL(xhr.response);
+        };
+        xhr.onerror = reject;
+        xhr.open('GET', path);
+        xhr.responseType = 'blob';
+        xhr.send();
+    });
+}
+
+function loadBase64AsImage(base64) {
+    return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = reject;
+        img.src = base64;
+    });
+}
+
+async function renderGridToCanvas() {
+    const cells = gridContainer.querySelectorAll('.cell');
+    const cols = currentCols;
+    const rows = currentRows;
+    if (cells.length === 0) return null;
+
+    const firstCell = cells[0];
+    const cellW = firstCell.getBoundingClientRect().width;
+    const cellH = firstCell.getBoundingClientRect().height;
+    const gap = 5;
+    const totalW = cols * cellW + (cols - 1) * gap;
+    const totalH = rows * cellH + (rows - 1) * gap;
+    const scale = 2;
+
+    const srcSet = new Set();
+    cells.forEach((cell) => {
+        const img = cell.querySelector('img');
+        if (img && img.src) srcSet.add(img.src);
+    });
+    const b64Map = new Map();
+    await Promise.all([...srcSet].map((src) =>
+        loadFileAsBase64(src).then((b64) => b64Map.set(src, b64))
+    ));
+
+    const canvas = document.createElement('canvas');
+    canvas.width = totalW * scale;
+    canvas.height = totalH * scale;
+    const ctx = canvas.getContext('2d');
+    ctx.scale(scale, scale);
+
+    const style = getComputedStyle(document.documentElement);
+    const bgColor = style.getPropertyValue('--bg-cell-empty').trim() || '#f0e6cc';
+    const borderColor = style.getPropertyValue('--border-light').trim() || '#d9c48e';
+    ctx.fillStyle = bgColor;
+    ctx.fillRect(0, 0, totalW, totalH);
+
+    for (const cell of cells) {
+        const row = parseInt(cell.dataset.row);
+        const col = parseInt(cell.dataset.col);
+        const x = col * (cellW + gap);
+        const y = row * (cellH + gap);
+
+        ctx.fillStyle = bgColor;
+        ctx.strokeStyle = borderColor;
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.roundRect(x, y, cellW, cellH, 3);
+        ctx.fill();
+        ctx.stroke();
+
+        const img = cell.querySelector('img');
+        if (img && img.src && b64Map.has(img.src)) {
+            const rotation = parseInt(img.style.transform.replace('rotate(', '').replace('deg)', '')) || 0;
+            const safeImg = await loadBase64AsImage(b64Map.get(img.src));
+            ctx.save();
+            ctx.translate(x + cellW / 2, y + cellH / 2);
+            ctx.rotate(rotation * Math.PI / 180);
+            const margin = cellW * 0.05;
+            ctx.drawImage(safeImg, -cellW / 2 + margin, -cellH / 2 + margin, cellW - margin * 2, cellH - margin * 2);
+            ctx.restore();
+        }
+    }
+
+    return canvas;
+}
+
+function collectTilesForDescriptions() {
+    const cells = gridContainer.querySelectorAll('.cell');
+    const tiles = [];
+    cells.forEach((cell) => {
+        const img = cell.querySelector('img');
+        if (!img || !img.src) return;
+        const row = parseInt(cell.dataset.row);
+        const col = parseInt(cell.dataset.col);
+        const fileName = img.src.split('/').pop().replace(/\.[^/.]+$/, '');
+        const tileNumber = fileName.replace('tile_', '');
+        const flavorData = (typeof TILES_FLAVOR_DATA !== 'undefined' && TILES_FLAVOR_DATA[tileNumber]) ? TILES_FLAVOR_DATA[tileNumber] : null;
+        const csvDesc = (typeof TILES_DESCRIPTIONS !== 'undefined') ? TILES_DESCRIPTIONS[tileNumber] : '';
+        tiles.push({ row, col, tileNumber, fileName, flavorData, imgSrc: img.src, csvDesc });
+    });
+    tiles.sort((a, b) => a.row - b.row || a.col - b.col);
+    return tiles;
+}
+
+function addDescriptionPages(pdf, tiles, b64Map) {
+    const pdfWidth = pdf.internal.pageSize.getWidth();
+    const pdfHeight = pdf.internal.pageSize.getHeight();
+    const margin = 15;
+    const colCount = 2;
+    const colGap = 10;
+    const colWidth = (pdfWidth - margin * 2 - colGap * (colCount - 1)) / colCount;
+    const thumbSize = 22;
+    const titleFontSize = 11;
+    const descFontSize = 9;
+    const posFontSize = 8;
+    const lineHeight = 4.5;
+
+    let col = 0;
+    let colY = margin;
+
+    pdf.addPage();
+
+    function needsNewPage(estimatedHeight) {
+        return colY + estimatedHeight > pdfHeight - margin;
+    }
+
+    function advanceColOrPage() {
+        col++;
+        if (col >= colCount) {
+            col = 0;
+            colY = margin;
+            pdf.addPage();
+        } else {
+            colY = margin;
+        }
+    }
+
+    for (const tile of tiles) {
+        const title = tile.flavorData ? tile.flavorData.title : `Tuile ${tile.tileNumber}`;
+        const desc = tile.flavorData ? tile.flavorData.description : tile.csvDesc || 'Aucune description';
+        const posLabel = `L${tile.row + 1} C${tile.col + 1}`;
+
+        const textW = colWidth - thumbSize - 8;
+        const descLines = pdf.splitTextToSize(desc, textW);
+        const titleLines = pdf.splitTextToSize(title, textW);
+        const titleHeight = titleLines.length * lineHeight;
+        const descHeight = descLines.length * lineHeight;
+        const headerHeight = 14;
+        const blockHeight = Math.max(thumbSize + 4, headerHeight + titleHeight + descHeight);
+
+        if (needsNewPage(Math.min(blockHeight, pdfHeight - margin * 2))) {
+            advanceColOrPage();
+        }
+
+        const x = margin + col * (colWidth + colGap);
+
+        const b64 = b64Map.get(tile.imgSrc);
+        if (b64) {
+            try {
+                pdf.addImage(b64, 'PNG', x, colY, thumbSize, thumbSize);
+            } catch (e) {
+                pdf.setFillColor(200, 200, 200);
+                pdf.rect(x, colY, thumbSize, thumbSize, 'F');
+            }
+        }
+
+        const textX = x + thumbSize + 4;
+
+        pdf.setFontSize(posFontSize);
+        pdf.setTextColor(150, 100, 50);
+        pdf.text(posLabel, textX, colY + 4);
+
+        pdf.setFontSize(titleFontSize);
+        pdf.setTextColor(139, 26, 26);
+        pdf.text(titleLines, textX, colY + 9);
+
+        pdf.setFontSize(descFontSize);
+        pdf.setTextColor(60, 36, 21);
+        pdf.text(descLines, textX, colY + 9 + titleHeight);
+
+        colY += blockHeight;
+    }
+}
+
+function showExportPdfModal() {
+    return new Promise((resolve) => {
+        const modal = document.getElementById('exportPdfModal');
+        const gridOnlyBtn = document.getElementById('exportPdfGridOnly');
+        const withDescBtn = document.getElementById('exportPdfWithDesc');
+        const cancelBtn = document.getElementById('exportPdfCancel');
+        modal.style.display = 'flex';
+
+        function cleanup(result) {
+            modal.style.display = 'none';
+            gridOnlyBtn.onclick = null;
+            withDescBtn.onclick = null;
+            cancelBtn.onclick = null;
+            resolve(result);
+        }
+
+        gridOnlyBtn.onclick = () => cleanup('gridOnly');
+        withDescBtn.onclick = () => cleanup('withDesc');
+        cancelBtn.onclick = () => cleanup('cancel');
+    });
+}
+
 async function exportGridToPdf() {
+    const choice = await showExportPdfModal();
+    if (choice === 'cancel') return;
+
+    const spinner = document.getElementById('pdfSpinner');
+    spinner.style.display = 'flex';
     logToDebug('Début de l\'exportation PDF...');
     exportPdfBtn.disabled = true;
     exportPdfBtn.textContent = 'Exportation...';
     try {
-        const canvas = await html2canvas(gridContainer, {
-            scale: 2, useCORS: true, allowTaint: false, logging: true, backgroundColor: "#e0e0e0"
-        });
+        const canvas = await renderGridToCanvas();
+        if (!canvas) {
+            await showMessage('Attention', 'La grille est vide.');
+            return;
+        }
         const imgData = canvas.toDataURL('image/png');
         const { jsPDF } = window.jspdf;
         const pdf = new jsPDF('p', 'mm', 'a4');
@@ -356,12 +573,26 @@ async function exportGridToPdf() {
         const xOffset = (pdfWidth - finalWidth) / 2;
         const yOffset = (pdfHeight - finalHeight) / 2;
         pdf.addImage(imgData, 'PNG', xOffset, yOffset, finalWidth, finalHeight);
+
+        if (choice === 'withDesc') {
+            const tiles = collectTilesForDescriptions();
+            if (tiles.length > 0) {
+                const srcSet = new Set(tiles.map(t => t.imgSrc));
+                const b64Map = new Map();
+                await Promise.all([...srcSet].map((src) =>
+                    loadFileAsBase64(src).then((b64) => b64Map.set(src, b64))
+                ));
+                addDescriptionPages(pdf, tiles, b64Map);
+            }
+        }
+
         pdf.save('ma_grille_de_tuiles.pdf');
         logToDebug('Exportation PDF réussie !');
     } catch (error) {
         console.error(error);
-        logToDebug(`ERREUR lors de l'exportation : ${error.message}`);
+        logToDebug(`ERREUR lors de l\'exportation : ${error.message}`);
     } finally {
+        spinner.style.display = 'none';
         exportPdfBtn.disabled = false;
         exportPdfBtn.textContent = 'Exporter en PDF';
     }
