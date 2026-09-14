@@ -1,0 +1,46 @@
+{
+  "83": {
+    "title": "La Salle des Anciens",
+    "description": "Tu te retrouves dans un espace étroit, presque suffocant, où les murs de pierre te regardent avec un air de dédain. La lumière pénètre à travers une fenêtre étroite, révélant une salle carrée aux murs usés et aux piliers massifs qui semblent vouloir s'effondrer. Au centre, un autel sombre attire ton regard, entouré de tentacules et de têtes de mort qui paraissent attendre leur heure. Des cercles rituels gravés dans le sol te font frémir, tandis que l'odeur de soufre et de mort flotte dans l'air. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre. La fenêtre, ta seule issue, parais t'inviter à explorer ce qui se cache derrière elle. L'eau stagnante au fond de la salle murmure un secret ancien, et tu te demandes si tu as vraiment le courage de t'aventurer plus loin.",
+    "tags": [
+      "salle de rituel",
+      "vieille et usée",
+      "sinistre et ancien",
+      "autel",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "fenêtre",
+      "condition": "vieille et usée",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "monstre"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre et ancien",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle sans issue",
+      "tileNumber": 83
+    }
+  }
+}

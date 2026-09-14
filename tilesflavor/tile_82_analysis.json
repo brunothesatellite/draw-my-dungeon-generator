@@ -1,0 +1,41 @@
+{
+  "82": {
+    "title": "La Crypte des Anciens",
+    "description": "Un large circular object occupe le centre de l'espace. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres usées et les murs fissurés. Au centre, un grand cercle de pierre semble émettre un écho sourd. Des tentes de toile sont accrochées aux murs, et des spirales mystérieuses marquent le sol. Un croisillon de pierre se dresse au milieu, comme un autel ancien. L'odeur de moisi et de poussière flotte dans l'air, et un murmure lointain parais provenir de l'ombre. La tension est palpable, et tu sens que quelque chose de glaçant se cache dans l'air.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "ancien",
+      "dilapidé",
+      "spirale"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tented structure"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "cross-shaped structure"
+      ],
+      "objectsOrFurniture": [
+        "large circular object"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "spiral patterns"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritualistic",
+      "csvDescription": "Couloir avec des boîtes",
+      "tileNumber": 82
+    }
+  }
+}

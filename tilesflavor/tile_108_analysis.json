@@ -1,0 +1,44 @@
+{
+  "108": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel central, entouré de piliers massifs, attire ton regard. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été peinte par un artiste ancien. Des cercles rituels marquent le sol, et des barils de bois ancien sont empilés contre le mur. Un squelette, probablement celui d'un ancien prêtre, repose au milieu de tout cela. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain semble provenir de l'eau stagnante qui coule lentement dans un coin. L'atmosphère est sinistre, et tu sens que cette salle a vu des temps sombres et des rituels obscurs.",
+    "tags": [
+      "rituels",
+      "salle de culte",
+      "squelette",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec un araignée dessinée",
+      "tileNumber": 108
+    }
+  }
+}

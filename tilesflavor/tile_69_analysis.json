@@ -1,0 +1,48 @@
+{
+  "69": {
+    "title": "La Crypte des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres érodées par le temps. Des tentacules, comme ceux d'un ancien monstre marin, sont accrochés aux murs, tandis que des trophées de bataille ornent les coins. Des croix et des spirales gravées dans le sol attirent ton regard, comme si elles voulaient te guider. Les colonnes et les piliers, usés par l'âge, semblent veiller sur un autel central, mais son visage est caché par les ombres. L'odeur de soufre et de moisi flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence étrange, comme si quelque chose attendait dans l'obscurité.",
+    "tags": [
+      "crypte",
+      "tentacules",
+      "soufre",
+      "mystère",
+      "vieille crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "trophies"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "unknown",
+      "csvDescription": "2 couloirs séparés",
+      "tileNumber": 69
+    }
+  }
+}

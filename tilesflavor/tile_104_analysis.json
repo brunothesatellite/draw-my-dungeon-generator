@@ -1,0 +1,49 @@
+{
+  "104": {
+    "title": "La Salle Sacrée des Anciens",
+    "description": "Un central altar or platform occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, aux murs décrépits et aux colonnes massives qui semblent avoir vu des milliers d'années. Au centre, un autel ou une plateforme circulaire attire ton regard, ornée de tentacules et de têtes sculptées qui paraissent observer les visiteurs. Des spirales et des croix gravées dans le sol attirent ton attention, tandis que les murs sont décorés de tentacules et de têtes sculptées. L'odeur de l'ancienneté et de la poussière flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Deux fenêtres donnent sur le monde extérieur, mais tu sens une présence étrange dans l'air, comme si quelque chose attendait de révéler son secret. Les spirales sur le sol pourraient être des pièges, prêtes à tuer ceux qui osent s'approcher trop près.",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "mystère",
+      "pièges",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "dilapidated",
+      "centralFeature": "central altar or platform",
+      "wallDecorations": [
+        "tented tentacles",
+        "sculpted heads"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "cross shapes"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "statues"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "two windows"
+      ],
+      "hazards": [
+        "spiral patterns may be traps"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred or ritualistic space",
+      "csvDescription": "Salle",
+      "tileNumber": 104
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "64": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière filtre à peine à travers les voiles de poussière qui flottent dans l'air, créant des éclairs de lumière qui danse sur les murs vieillis. Devant toi, un autel rectangulaire, recouvert de têtes de mort et de tentacules qui semblent jaillir du sol. Des cercles rituels et des glyphes runiques gravés dans le sol te regardent, comme s'ils attendaient un rituel ancien. Les piliers et les statues, usés par le temps, paraissent garder des secrets millénaires. Le mobilier ancien, délabré, ajoute à l'atmosphère sinistre de la pièce. Des traces de créatures, comme des pattes d'animaux ou des griffes, marquent le sol, comme si quelque chose avait récemment parcouru ces murs. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un mystère ancien. La tension est palpable, comme si quelque chose allait se déclencher à tout moment.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sombre",
+      "creatures",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec des petites pierres ou champignon",
+      "tileNumber": 64
+    }
+  }
+}

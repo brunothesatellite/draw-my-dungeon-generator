@@ -1,0 +1,53 @@
+{
+  "115": {
+    "title": "Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort et des tentacules qui semblent gravés dans le mur. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire l'œil. Des piliers et une colonne majestueuse soutiennent le plafond, tandis qu'une table solitaire trône devant l'autel. Un squelette, presque intact, repose au pied de l'autel, comme témoin silencieux des rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, comme si quelque chose de sinistre attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "squelette",
+      "têtes de mort",
+      "tentacules",
+      "salle carrée",
+      "faible lumière",
+      "glyphes runiques",
+      "salle de rituel",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec des dessins au sol",
+      "tileNumber": 115
+    }
+  }
+}

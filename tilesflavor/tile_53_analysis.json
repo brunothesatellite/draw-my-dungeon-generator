@@ -1,0 +1,45 @@
+{
+  "53": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres usées éclaire des têtes de mort sculptées dans le linteau, comme des gardiens silencieux. Le sol, recouvert de cercles rituels, murmure des secrets anciens. Des tentacules, comme ceux d'un monstre marin, semblent peupler les murs, ajoutant une note d'horreur à l'atmosphère sinistre. Un autel central, orné de piliers massifs, parais être le cœur de cette salle, où des sacrifices ont peut-être eu lieu. La chaleur humide et l'odeur de soufre flottent dans l'air, tandis que l'eau stagnante au fond de la pièce menace de vous engloutir. La tension est palpable, chaque bruit résonnant comme un appel à l'aide.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "tête de mort",
+      "tentacules",
+      "salle de rituel",
+      "atmosphère sinistre",
+      "eau stagnante",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec 3 grilles et un crâne",
+      "tileNumber": 53
+    }
+  }
+}

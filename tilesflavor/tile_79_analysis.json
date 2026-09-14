@@ -1,0 +1,46 @@
+{
+  "79": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches et de crachats, sont ornés de têtes de mort et de tentacules qui paraissent avoir été dessinés avec une étrange précision. Au centre, un autel, vieilli et recouvert de poussière, attire ton regard. Des cercles rituels gravés dans le sol te font tiquer. Des piliers robustes soutiennent le plafond, et une table, usée par le temps, est placée près de l'autel. Un oiseau, peut-être un corbeau, tuobserve depuis un coin de la pièce. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te déplacer avec prudence. La porte, à l'extrémité de la pièce, parais fermée, mais pas complètement. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est oppressante, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec des barils",
+      "tileNumber": 79
+    }
+  }
+}

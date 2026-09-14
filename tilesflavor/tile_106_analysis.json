@@ -1,0 +1,46 @@
+{
+  "106": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y est faible, comme si elle avait été éteinte depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire le regard. Des piliers et des statues gardent le secret de cette pièce. Un tableau avec le numéro 106 est accroché au mur, comme une trace de l'ancien occupant. Un souffle froid et humide s'infiltre, portant avec lui l'odeur de la mort et du mystère. L'eau stagnante dans un coin menace de vous engloutir. La tension est palpable, comme si quelque chose attendait votre arrivée.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "souffle",
+      "eau stagnante",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tableau avec le numéro 106"
+      ],
+      "creaturesOrTraces": [
+        "souffle"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec un grille et 6 pierres étranges alignées",
+      "tileNumber": 106
+    }
+  }
+}

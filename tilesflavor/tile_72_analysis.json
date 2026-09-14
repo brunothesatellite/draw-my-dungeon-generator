@@ -1,0 +1,45 @@
+{
+  "72": {
+    "title": "La Salle des Rituels",
+    "description": "Un central pillar occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, humide et recouverte de mousse. Le sol, marqué de spirales mystérieuses, semble s'écarter sous tes pas. Un pilier central, sculpté de croix, domine la pièce, entouré de tentes murales qui flottent comme des ombres. Des tentacules, visibles à peine, paraissent se glisser entre les pierres. Le tableau est complet, un autel au centre, orné d'un tableau avec le numéro 72. L'odeur de soufre et de moisi flotte dans l'air, tandis que le murmure d'eau froide résonne sous tes pieds. La tension est palpable, comme si la salle attendait un rituel ancien. Un passage étroit, à droite, parais mener à l'extérieur, mais la mousse glisse sous tes pieds, rendant l'endroit dangereux.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "ancien",
+      "mystique",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "central pillar",
+      "wallDecorations": [
+        "tented wall hangings"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "cross-shaped pillars"
+      ],
+      "objectsOrFurniture": [
+        "table with number 72"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "one visible exit"
+      ],
+      "hazards": [
+        "mossy floor"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "couloir",
+      "tileNumber": 72
+    }
+  }
+}

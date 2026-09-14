@@ -1,0 +1,49 @@
+{
+  "124": {
+    "title": "La Salle des Ténèbres",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel rectangulaire, recouvert de têtes de mort et de tentacules qui semblent grimper sur les parois. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des oiseaux s'envolent brusquement, ajoutant une note de mystère à l'atmosphère déjà glauque. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La porte, à l'extrémité de la pièce, parais fermée, mais pas complètement solide. Tu sens une présence étrange, comme si quelque chose attendait de réagir.",
+    "tags": [
+      "salle de culte",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "eau stagnante",
+      "atmosphère mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle ouverte, quelques choses étranges et petites sont grimpant sur les murs et un tentacule sort d'un trou",
+      "tileNumber": 124
+    }
+  }
+}

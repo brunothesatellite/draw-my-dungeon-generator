@@ -1,0 +1,51 @@
+{
+  "118": {
+    "title": "La Chapelle Sacrée",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière pénètre à peine, éclairant vaguement les têtes de mort sculptées dans le mur et les tentacules qui semblent s'en détacher. Un autel central, orné de cercles rituels, domine la pièce. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol. Le mobilier ancien, usé par les siècles, parais attendre son heure. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si la salle était le témoin d'horribles rituels passés. Un seul passage vous attend, mais que cache-t-il ?",
+    "tags": [
+      "rituel ancien",
+      "salle de culte",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "mobilier ancien",
+      "eau stagnante",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Petite chapelle",
+      "tileNumber": 118
+    }
+  }
+}

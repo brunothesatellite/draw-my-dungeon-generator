@@ -1,0 +1,44 @@
+{
+  "100": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. Le sol est un tapis de craie grise, marqué de cercles rituels qui semblent avoir été dessinés par des mains tremblantes. Les murs, usés et fissurés, sont ornés de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Un autel central, recouvert de tissus usés, parais être le point focal de cette pièce. Des barils et des caisses empilées obstruent les sorties, bloquant toute évasion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un mystère ancien. Les piliers, usés par le temps, paraissent soutenir un plafond qui menace de s'effondrer. Tu sens une présence étrange, comme si des forces obscures observaient tes moindres gestes. La tension est palpable, et tu te demandes quel sortilège sombre pourrait être pratiqué ici.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "sombre",
+      "ancien",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle sans issue (sorties bloquées par des pierres, des barils et des caisses) Dessins sur le sol",
+      "tileNumber": 100
+    }
+  }
+}

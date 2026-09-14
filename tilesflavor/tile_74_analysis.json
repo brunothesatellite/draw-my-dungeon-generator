@@ -1,0 +1,47 @@
+{
+  "74": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une salle rectangulaire immense, aux murs couverts de peintures archaïques. Des colonnes massives, sculptées de motifs complexes, s'élèvent de part et d'autre du grand autel central, où des tentacules et des crânes de morts flottent dans l'air. Des spirales mystérieuses marquent le sol, et des barils de bois sont disséminés un peu partout. Des traces de créatures anciennes gravent les murs, et un murmure étrange résonne dans l'air. L'odeur de la terre humide et de l'encens ancien se mêle à l'air, créant une atmosphère étrangement apaisante et sinistre. Devant toi, un escalier menant à un niveau inférieur se dessine, mais il est barré par un mur de pierre. Un enchantement spiralé brille au centre de la pièce, prête à se déclencher à tout moment.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "creatures",
+      "enchanteur"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "2 couloirs séparés",
+      "tileNumber": 74
+    }
+  }
+}

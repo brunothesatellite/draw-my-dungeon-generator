@@ -1,0 +1,46 @@
+{
+  "66": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, révélant un espace étroit et mal éclairé. Les murs, vieillis et fissurés, semblent avoir vu des temps durs. Un autel central, recouvert de tissus usés, attire ton regard. Des têtes de mort et des tentacules étranges sont accrochées aux murs, comme des symboles de l'ancien culte. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des barils de bois ancien sont empilés contre le mur, et des pièges sont dissimulés dans les recoins. L'odeur de soufre et de moisi flotte dans l'air, et l'eau stagnante coule lentement dans un coin. La porte murée à l'extrémité de la salle parais fermée à double tour, mais tu sens une présence étrange derrière elle. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituels",
+      "vieillie",
+      "soufre",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "couloir",
+      "tileNumber": 66
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "109": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs, vieillis et fissurés. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers et de statues étranges. Des tentacules dépassent des têtes de mort, comme s'ils veillaient sur les morts. Les cercles rituels et les glyphes runiques gravés dans le sol semblent attendre un rituel ancien. Le mobilier ancien est délabré, et des pièges sont dissimulés parmi les objets. L'eau stagnante coule lentement, créant un murmure sinistre. La tension est palpable, et tu sens que quelque chose de malveillant t'observe.",
+    "tags": [
+      "rituels",
+      "salle de mort",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "rituel ancien",
+      "eau stagnante",
+      "tension",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphère": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloirs étranges avec des fils d'araignée",
+      "tileNumber": 109
+    }
+  }
+}

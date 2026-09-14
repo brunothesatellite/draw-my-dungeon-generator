@@ -1,0 +1,45 @@
+{
+  "58": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un autel rectangulaire au cœur de la pièce. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues gardent le secret de cette ancienne salle de culte. Le mobilier ancien, usé par les siècles, parais attendre son heure. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et tu sens que quelque chose de glaçant vous observe depuis les ténèbres.",
+    "tags": [
+      "culte",
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "salle de culte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Salle avec plancher en bois",
+      "tileNumber": 58
+    }
+  }
+}

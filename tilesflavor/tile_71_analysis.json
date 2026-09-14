@@ -1,0 +1,49 @@
+{
+  "71": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches noires et de crachats de tentacules qui paraissent avoir griffé la pierre. Des têtes de mort, les yeux vides, sont suspendues aux murs, comme des têtes de guerre. Au centre de la pièce, un autel, délabré, parais avoir été le point focal de cérémonies obscures. Des spirales mystérieuses marquent le sol, comme si quelqu'un avait dessiné un rituel ancien. Les colonnes, robustes et usées, soutiennent un plafond qui parais prêt à s'effondrer. Des objets étranges, inconnus, sont disséminés un peu partout, comme s'ils avaient été jetés par quelqu'un en fuite. Une présence fantomatique plane dans l'air, comme si des âmes errantes y étaient confinées. Tu sens une odeur de soufre et de mort qui te pénètre les narines. Un murmure lointain, comme si quelqu'un était à l'écoute, te parvient. Le passage vers l'extérieur est dissimulé, et tu sens que des pièges attendent ceux qui oseront s'aventurer plus loin. La tension est palpable, et tu sais que cette chambre sacrée cache des secrets bien plus sombres qu'elle ne le laisse paraître.",
+    "tags": [
+      "salle sacrée",
+      "ténèbres",
+      "tête de mort",
+      "spirales mystiques",
+      "presence fantomatique",
+      "pièges",
+      "vieille crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle",
+      "tileNumber": 71
+    }
+  }
+}

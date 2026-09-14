@@ -1,0 +1,46 @@
+{
+  "103": {
+    "title": "La Salle des Tentacules",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel rectangulaire, entouré de piliers massifs, attire ton regard. Des tentacules, noirs et sinistres, semblent s'enrouler autour des colonnes, comme s'ils cherchaient à s'échapper. Des têtes de mort, sculptées avec une précision macabre, sont suspendues aux murs, leurs yeux vides te fixant. Des cercles rituels, gravés dans le sol, paraissent attendre un rituel ancien. Le mobilier ancien, usé par le temps, est réparti autour de l'autel, comme si des sacrifices avaient eu lieu ici. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et malsaine, s'écoule lentement vers le centre de la pièce. La tension est palpable, comme si quelque chose de terrible allait se produire. Le mur de droite parais vibrer, comme si un monstre tentaculaire cherchait à se libérer.",
+    "tags": [
+      "rituel",
+      "tentacules",
+      "salle de mort",
+      "vieillie",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec tentacules dans le mur",
+      "tileNumber": 103
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "78": {
+    "title": "Salle des Rituels Sacrés",
+    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort et des tentacules qui semblent jaillir des murs, comme si la salle était peuplée de créatures obscures. Au centre, un autel sombre attire le regard, entouré de cercles rituels et de glyphes runiques qui brillent faiblement. Des piliers et des statues anciennes ornent les murs, tandis que des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de moisi pèse lourdement dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, comme si quelque chose de terrible se cachait dans cette salle de rituels sacrés.",
+    "tags": [
+      "rituels",
+      "salle obscure",
+      "creatures sombres",
+      "atmosphère mystérieuse",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle",
+      "tileNumber": 78
+    }
+  }
+}

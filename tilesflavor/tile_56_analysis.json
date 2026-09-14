@@ -1,0 +1,44 @@
+{
+  "56": {
+    "title": "Salle des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort et les tentacules qui semblent émerger des murs. Un autel central attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des barils anciens sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si quelque chose de terrible attendait dans les recoins obscurs de cette salle.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "salle de culte",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "couloir",
+      "tileNumber": 56
+    }
+  }
+}

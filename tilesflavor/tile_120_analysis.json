@@ -1,0 +1,47 @@
+{
+  "120": {
+    "title": "La Salle du Sacrifice",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un bassin étrange au centre. Le liquide sombre et inconnu y brille sous la faible lumière filtrant par la fenêtre au nord. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et les piliers et colonnes, robustes et vieilles, semblent soutenir un autel ou un trésor. Une table, simple et ancienne, repose au milieu de la pièce. Des pièges attendent, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les murs. La porte ouest parais fermée, mais tu sens une présence mystérieuse derrière elle. L'eau stagnante au centre de la salle est un danger à ne pas sous-estimer.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "vieille salle",
+      "bassin sombre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "120",
+      "roomShape": "salle carrée",
+      "lighting": "fenêtre au nord",
+      "condition": "vieille et usée",
+      "centralFeature": "autel ou trésor",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte ouest"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de stockage",
+      "csvDescription": "Salle avec un bassin étrange au centre (liquide sombre et inconnu)",
+      "tileNumber": 120
+    }
+  }
+}

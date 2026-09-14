@@ -1,0 +1,49 @@
+{
+  "114": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs, qui semblent tressés d'une toile d'araignée ancienne. La pièce est immense, rectangulaire, et l'air y est lourd et humide. Les murs, couverts de peintures sombres et de tentacules qui paraissent vivre, sont parsemés de têtes de morts qui te regardent avec un regard vide. Au centre, un autel étrange, orné de symboles mystérieux, attire ton regard. Des spirales et des croix gravés dans le sol te font tâtonner, cherchant à comprendre leur signification. Les colonnes massives et les piliers sculptés ajoutent à l'atmosphère étrange de la pièce. Tu sens une odeur de soufre et de mort qui te pénètre les narines, et un murmure lointain parais résonner dans les murs. L'air est glacial, et un courant d'air froid te frôle le visage. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans cette chambre sacrée.",
+    "tags": [
+      "sacré",
+      "ténèbres",
+      "mystère",
+      "vieille crypte",
+      "vieille salle"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "cross"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious symbols"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "enchanted spiral",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Couloir (toile d'araignée dans les murs)",
+      "tileNumber": 114
+    }
+  }
+}

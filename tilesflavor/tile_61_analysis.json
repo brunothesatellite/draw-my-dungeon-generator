@@ -1,0 +1,49 @@
+{
+  "61": {
+    "title": "Le Sanctuaire des Anciens",
+    "description": "Des tentsacles couvrent les murs. Le sol s'ouvre sous tes pieds, révélant un espace immense et rectangulaire, éclairé par la lumière naturelle qui filtre à travers des fissures dans le plafond. Les murs, usés par le temps, sont ornés de tentacules et de crânes de mort, des symboles qui te font frissonner. Au centre de la pièce, un autel majestueux, sculpté de spirales et de croix, attire ton regard. Des colonnes imposantes soutiennent le plafond, tandis qu'un tableau trône sur une table en bois, son contenu mystérieux. Des traces d'oiseau et de fleur marquent le sol, comme si quelque chose avait récemment sillonné ces lieux. La porte à l'extrémité de la pièce semble fermée, mais tu sens une présence étrange qui plane dans l'air. L'odeur de soufre et de vieux papier te pique les narines, ajoutant à l'atmosphère mélancolique et mystérieuse de la salle. Les enchantements qui flottent dans l'air te font sursauter, mais tu sais que tu dois explorer ce sanctuaire si tu veux en apprendre plus.",
+    "tags": [
+      "sacré",
+      "mystérieux",
+      "ancien",
+      "enchantement",
+      "creatures"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "cross"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "owl",
+        "flower"
+      ],
+      "exits": [
+        "door"
+      ],
+      "hazards": [
+        "enchantments"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Couloir avec des barils",
+      "tileNumber": 61
+    }
+  }
+}

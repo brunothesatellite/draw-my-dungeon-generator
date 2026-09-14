@@ -1,0 +1,50 @@
+{
+  "54": {
+    "title": "La Salle des Anciens",
+    "description": "Un altar or platform occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, recouverte d'une couche de mousse et de végétation. Les murs, ornés de tentacules et de crânes de mort, semblent témoigner d'une ancienne cérémonie. Un autel central, entouré de colonnes et de pilastres, attire ton regard. Des spirales et des croix gravées dans le sol attirent ton attention, comme si la salle avait été utilisée pour des rituels sacrés. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne. Deux fenêtres donnent sur le monde extérieur, mais la tension est palpable, comme si quelque chose de maléfique pouvait se cacher dans cette salle. Les murs humides et les traces de poussière indiquent que cette salle n'a pas été visitée depuis longtemps.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "ancien",
+      "soufre",
+      "mousse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "altar or platform",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "mysterious object"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "two windows"
+      ],
+      "hazards": [
+        "mossy floor",
+        "possible enchantments"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred or ritualistic",
+      "csvDescription": "couloir",
+      "tileNumber": 54
+    }
+  }
+}

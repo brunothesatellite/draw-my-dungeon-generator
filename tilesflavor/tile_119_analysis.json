@@ -1,0 +1,46 @@
+{
+  "119": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette pièce. Le sol est couvert de cercles rituels, leurs contours usés par le temps. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies. À l'entrée, un autel central attire ton regard. Il est orné de têtes de mort et de tentacules, symboles de la puissance et de la corruption. Des barils de bois ancien sont empilés contre le mur, leurs couvercles rouillés. Tu sens une odeur de soufre et de moisi, un mélange étrange qui te rappelle les anciens rituels. L'eau stagnante, noire et trouble, coule lentement vers le centre de la pièce, formant un cercle sombre. Tu entends un murmure lointain, comme si quelque chose observait ton passage. La tension est palpable, et tu sais que tu n'es pas seul dans cette salle.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec petite table/chaises et couloir",
+      "tileNumber": 119
+    }
+  }
+}

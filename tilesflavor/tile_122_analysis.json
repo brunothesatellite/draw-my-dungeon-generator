@@ -1,0 +1,46 @@
+{
+  "122": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans l'air. Les murs, usés et couverts de taches, semblent raconter des siècles d'histoire. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels gravés dans le sol te font tiquer. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont disséminés un peu partout. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, qui coule lentement, ajoute une note de menace à l'ambiance. Devant toi, un seul passage parais mener à l'extérieur, bloqué par des pierres. L'odeur de soufre et de vieux papier te pique les narines. Tu sens une présence ancienne, presque palpable, qui te scrute.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "mystère",
+      "pilier",
+      "tête de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec un grille carré et un coffre, une sortie bloquée par des pierres",
+      "tileNumber": 122
+    }
+  }
+}

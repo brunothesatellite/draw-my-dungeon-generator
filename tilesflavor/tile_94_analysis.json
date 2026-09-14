@@ -1,0 +1,48 @@
+{
+  "94": {
+    "title": "L'autel des ténèbres",
+    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière tamisée éclaire un autel colossal en pierre, orné de tentacules et de têtes sculptées. Des spirales mystérieuses gravées dans le sol attirent ton regard, tandis que des hachures évoquent des secrets enfouis. L'odeur de soufre et de vieux papier humide te pique le nez, et un murmure ancien résonne dans ta tête. Tu sens une présence étrange, comme si l'autel était le cœur d'un rituel ancien. Les arches majestueuses te guident vers l'entrée, mais les spirales pourraient cacher des pièges mortels. L'atmosphère est glaçante, et tu te demandes si tu as vraiment le droit d'être ici.",
+    "tags": [
+      "rituel ancien",
+      "autel sombre",
+      "spirales mystiques",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large stone altar",
+      "wallDecorations": [
+        "tented tentacles",
+        "sculpted heads"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "hachures"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "arched doorways"
+      ],
+      "objectsOrFurniture": [
+        "stone statues"
+      ],
+      "creaturesOrTraces": [
+        "no visible creatures"
+      ],
+      "exits": [
+        "arched doorways"
+      ],
+      "hazards": [
+        "spiral patterns might be traps"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacred chamber or ritual site",
+      "csvDescription": "Autel avec des tentacules et des choses étranges dessinées",
+      "tileNumber": 94
+    }
+  }
+}

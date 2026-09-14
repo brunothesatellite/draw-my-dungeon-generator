@@ -1,0 +1,51 @@
+{
+  "59": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère ancienne et mystérieuse qui plane dans l'air. La pièce est petite, carrée, et semble avoir été construite il y a des siècles. Les murs, couverts de traces de vieilles peintures et de dessins, paraissent avoir été érodés par le temps. Des piliers et des colonnes robustes soutiennent le plafond, qui est voûté et recouvert de mousse. Au centre de la pièce, un autel est entouré de têtes de mort sculptées et de tentacules qui paraissent sortir du mur. Des cercles rituels et des glyphes runiques sont gravés dans le sol, formant un cercle autour de l'autel. Des barils de bois ancien sont empilés contre le mur, et des pièges sont dissimulés dans les recoins. L'odeur de soufre et de moisi flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui se trouve au fond de la pièce. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans cette salle.",
+    "tags": [
+      "salle de culte",
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "têtes de mort",
+      "tentacules",
+      "glyphes runiques",
+      "pièges",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "couloir",
+      "tileNumber": 59
+    }
+  }
+}

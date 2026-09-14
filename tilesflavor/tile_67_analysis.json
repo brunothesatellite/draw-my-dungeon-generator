@@ -1,0 +1,46 @@
+{
+  "67": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel ou mobilier occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs, vieillis et fissurés. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel en pierre, usé par le temps, semble être le point central de cette pièce. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le marbre, ajoutant une note de terreur à l'atmosphère. Des cercles rituels et des glyphes runiques sont gravés dans le sol, comme si la salle avait été utilisée pour des rituels obscurs. Les piliers et colonnes, robustes et vieillies, soutiennent le plafond qui parais prêt à s'effondrer. L'eau stagnante, noire et malsaine, coule lentement le long du mur, créant un murmure sinistre. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel ou mobilier",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "couloir",
+      "tileNumber": 67
+    }
+  }
+}

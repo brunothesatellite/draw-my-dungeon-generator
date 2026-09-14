@@ -1,0 +1,47 @@
+{
+  "117": {
+    "title": "Salle de Repos Sacrée",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, comme si la salle était baignée dans un éclat ancien et mystérieux. Des piliers robustes soutiennent le plafond, et au centre, un autel sombre attire le regard. Des têtes de mort sculptées dans le mur et des tentacules émergents des angles, ajoutant une note d'horreur à l'atmosphère. Des cercles rituels gravés dans le sol semblent inviter à une danse initiatique. La chaleur humide et l'odeur de soufre flottent dans l'air, tandis que le souffle d'un monstre ancien se fait entendre, créant une tension palpable. La table ronde et la chaise sont simples, bientôt insignifiantes face à l'aura de mystère qui plane dans cette salle de culte. Un frisson vous parcourt alors que vous vous demandez ce qui se cache derrière cette porte ouverte.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "souffle",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table ronde",
+        "chaise"
+      ],
+      "creaturesOrTraces": [
+        "souffle"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle de repos (3 tables et chaises)",
+      "tileNumber": 117
+    }
+  }
+}

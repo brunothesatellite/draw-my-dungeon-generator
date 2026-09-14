@@ -1,0 +1,45 @@
+{
+  "75": {
+    "title": "La Salle des Ténèbres",
+    "description": "Tu te retrouves dans un espace étroit, presque suffocant, où la lumière se fait rare. Les murs, usés et couverts de mousse, semblent avoir vu des siècles d'abandon. Devant toi, un autel carré, entouré de piliers massifs, attire ton regard. Des têtes de mort sculptées dans le mur, comme des gardiens silencieux, te fixent. Sur le sol, des cercles rituels dessinent des motifs sombres, comme des cercles d'ombre. Des tentacules, minces et sinistres, paraissent sortir du sol, comme des serpents prêts à bondir. L'odeur de la mort et de l'humidité se mêle à l'air, créant une atmosphère glaçante. L'eau stagnante, noire et trouble, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "salle de culte",
+      "vieillie",
+      "têtes de mort",
+      "cercles rituels",
+      "tentacules",
+      "eau stagnante",
+      "atmosphère mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Couloir sans issue",
+      "tileNumber": 75
+    }
+  }
+}

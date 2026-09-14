@@ -83,14 +83,21 @@ def extract_json(text: str) -> dict:
     return json.loads(match.group())
 
 
+_language_tool = None
+_lt_utils = None
+
 def corriger_texte(texte: str) -> str:
     """Corrige grammaire et orthographe du texte français via LanguageTool."""
-    import language_tool_python
-    tool = language_tool_python.LanguageTool("fr")
-    matches = tool.check(texte)
+    global _language_tool, _lt_utils
+    if _language_tool is None:
+        import language_tool_python
+        print("  [ortho] Chargement de LanguageTool...")
+        _language_tool = language_tool_python.LanguageTool("fr")
+        _lt_utils = language_tool_python.utils
+    matches = _language_tool.check(texte)
     if matches:
         print(f"  [ortho] {len(matches)} erreur(s) corrigee(s)")
-    return language_tool_python.utils.correct(texte, matches)
+    return _lt_utils.correct(texte, matches)
 
 
 import random

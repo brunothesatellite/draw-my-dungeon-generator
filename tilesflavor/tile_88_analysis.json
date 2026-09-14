@@ -1,0 +1,42 @@
+{
+  "88": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis longtemps. Des têtes de mort et des tentacules peints sur les murs semblent observer les visiteurs, ajoutant une note d'horreur à l'atmosphère mystérieuse. Au centre, un autel est entouré de cercles rituels gravés dans le sol, comme si la salle avait été utilisée pour des cérémonies sombres. Des piliers robustes soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, racontant des histoires de l'ancien culte qui y réside. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, comme si quelque chose de maléfique attendait dans l'ombre.",
+    "tags": [
+      "culte sombre",
+      "rituel ancien",
+      "salle de culte",
+      "atmosphère mystérieuse",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "couloir",
+      "tileNumber": 88
+    }
+  }
+}

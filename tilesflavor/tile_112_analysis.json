@@ -1,0 +1,46 @@
+{
+  "112": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière vacille, révélant une salle immense et décrépie, aux murs irréguliers et aux plafonds bas. Des fils d'araignée pendent de la voûte, tissant un réseau sombre qui semble s'agiter sous tes pas. Au centre, un autel massif de pierre, entouré de colonnes élancées, attire ton regard. Des tentacules émergents des murs, leurs formes sinistres se dessinant sur le sol avec lequel des spirales mystérieuses marquent le passage. Tombes et stèles éparpillées ajoutent une note macabre à l'atmosphère étrange. Des murmures lointains parviennent à tes oreilles, et tu sens une présence indéfinissable qui plane dans l'air. Les odeurs de soufre et de pourriture flottent, rendant l'atmosphère oppressante. Des pièges attendent, prêts à s'abattre sur toi. La tension est palpable, et tu te demandes ce que cette chambre sacrée cache vraiment.",
+    "tags": [
+      "sacrée",
+      "ténèbres",
+      "mystère",
+      "pièges",
+      "atmosphère étrange"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large stone structure",
+      "wallDecorations": [
+        "tentsacles",
+        "tombstones"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Couloirs étranges avec des fils d'araignée",
+      "tileNumber": 112
+    }
+  }
+}

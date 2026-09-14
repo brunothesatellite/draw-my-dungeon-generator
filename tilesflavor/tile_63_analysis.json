@@ -1,0 +1,50 @@
+{
+  "63": {
+    "title": "La Crypte des Anciens",
+    "description": "Tu te retrouves plongé dans un espace immense, mais l'irrégularité de la pièce te déstabilise. Les murs, une étrange combinaison de pierres et de briques, sont fissurés et recouverts de taches de rouille. La lumière, si peu, semble filtrer à travers des ombres floues, créant un halo de mystère. Des tentes de toile, usées et déchirées, sont accrochées aux murs, tandis que des crânes humains, sculptés avec une finesse ancienne, paraissent te regarder de leurs orbites vides. Sur le sol, des spirales et des croix gravées dans le ciment, comme si la pierre elle-même avait une mémoire. Des colonnes, érodées par le temps, soutiennent le plafond, tandis que des murs partent en éclats, révélant des structures plus anciennes. Des meubles brisés, des objets indéfinis, paraissent avoir été abandonnés depuis des siècles. Un frisson te parcourt alors que tu perçois une présence fantomatique, comme si les morts vivaient encore ici. L'air est lourd, presque palpable, et une odeur de soufre et de mort flotte dans l'atmosphère. Tu sens une menace latente, comme si quelque chose attendait de réveiller ces secrets enfouis. La crypte murmure des secrets anciens, et tu te demandes si tu as vraiment le courage de les découvrir.",
+    "tags": [
+      "ancien",
+      "mystère",
+      "souffle de mort",
+      "rituel",
+      "présence fantomatique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "broken walls"
+      ],
+      "objectsOrFurniture": [
+        "broken furniture",
+        "unknown objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "traps",
+        "poisoned air"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "salle",
+      "tileNumber": 63
+    }
+  }
+}

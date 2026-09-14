@@ -1,0 +1,54 @@
+{
+  "57": {
+    "title": "La Salle des Anciens",
+    "description": "Tu te retrouves plongé dans un couloir étroit, les murs soudain s'élargissant pour révéler une salle carrée aux murs décrépits. La lumière tamisée émane d'une source obscure au centre, révélant une structure circulaire étrange. Les reliefs sculptés sur les murs racontent des histoires d'anciennes créatures, leurs tentacules s'étirant comme des bras d'ombres. Sur le sol, des spirales et des croix dessinent des motifs mystérieux, tandis que des runes anciennes brillent sous la faible lumière. Tu sens une présence étrange, comme si les murs murmuraient des secrets millénaires. L'air est lourd, chargé d'une odeur de poussière et de mystère. Tu perçois un murmure lointain, comme si quelqu'un ou quelque chose observait tes pas. La tension monte avec chaque pas que tu fais, sentant l'œil des anciens vous observez.",
+    "tags": [
+      "mystère",
+      "créatures anciennes",
+      "rituels",
+      "salle carrée",
+      "lumière tamisée",
+      "spirales",
+      "tentacules",
+      "runes anciennes",
+      "atmosphère étrange",
+      "salle ancienne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "square",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "central circular structure",
+      "wallDecorations": [
+        "sculpted reliefs",
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "cross shapes"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious symbols",
+        "ancient runes"
+      ],
+      "creaturesOrTraces": [
+        "tentacles",
+        "mysterious symbols"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral patterns",
+        "mysterious symbols"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "Couloir avec une colonne ancienne étrange",
+      "tileNumber": 57
+    }
+  }
+}

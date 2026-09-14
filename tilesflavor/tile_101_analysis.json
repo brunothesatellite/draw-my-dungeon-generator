@@ -1,0 +1,48 @@
+{
+  "101": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, comme si la salle avait été abandonnée depuis des siècles. Les murs, couverts de mousse et de lichen, semblent murmurer des secrets oubliés. Devant toi, un autel rectangulaire, vieilli et usé, attire ton regard. Des têtes de mort sculptées y sont accrochées, leurs yeux vides paraissant te fixer. Des tentacules, comme ceux d'une créature ancienne, s'enroulent autour de l'autel, ajoutant une touche de surnaturel à l'atmosphère. Des cercles rituels et des glyphes runiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Les piliers et les colonnes, robustes et vieillissantes, soutiennent le plafond qui parais prêt à s'effondrer. Des barils, remplis d'anciens objets, sont disséminés un peu partout, leur contenu mystérieux. Des pièges, bien qu'invisibles, paraissent attendre patiemment leur prochain victime. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets. La porte murée, à l'extrémité de la salle, parais être le seul moyen de quitter cette crypte. L'atmosphère est mystérieuse et menaçante, comme si la salle était gardée par des forces obscures.",
+    "tags": [
+      "rituel ancien",
+      "salle de rituel",
+      "creatures sombres",
+      "vieillie",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Petite pièce",
+      "tileNumber": 101
+    }
+  }
+}

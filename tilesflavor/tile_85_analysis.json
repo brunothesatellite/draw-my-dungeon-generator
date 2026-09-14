@@ -1,0 +1,51 @@
+{
+  "85": {
+    "title": "La Chambre Sacrificielle",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une combinaison de pierre et de bois, sont fissurés et recouverts de taches de rouille. Des colonnes massives, sculptées de motifs archaïques, soutiennent le plafond voûté. Au centre, un autel sombre attire ton regard. Des tentacules et des crânes de mort sont accrochés aux murs, comme des reliques d'une ancienne cérémonie. Des cercles rituels et des glyphes mystérieux marquent le sol, paraissant inviter à une danse funeste. Les odeurs de soufre et de pourriture flottent dans l'air, ajoutant à l'atmosphère étrange. Tu sens une présence ancienne, presque palpable, qui te scrute du fond de la salle. Des pièges enchantés et des trappes anciennes sont dissimulés dans les ombres, prêtes à s'abattre sur toi. La tension est palpable, et tu te demandes quel sort t'attendra si tu t'aventures plus avant.",
+    "tags": [
+      "sacrifice",
+      "ancien",
+      "mystère",
+      "trappe",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "wooden beams",
+        "stone textures"
+      ],
+      "creaturesOrTraces": [
+        "tentacles",
+        "heads of death"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "enchanted",
+        "ancient traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "salle",
+      "tileNumber": 85
+    }
+  }
+}

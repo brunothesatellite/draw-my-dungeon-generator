@@ -1,0 +1,48 @@
+{
+  "98": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres étroites, révélant une salle rectangulaire aux murs d'une ancienne pierre brute. Les colonnes massives, sculptées de motifs archaïques, s'élèvent comme des gardiens silencieux. Au centre, un autel sombre attire ton regard, orné de tentacules et de crânes de mort, symboles de la puissance et de la mort. Des cercles rituels gravés dans le sol te rappellent les anciennes cérémonies. Les odeurs de poussière et de mystère flottent dans l'air, tandis que des apparitions fantomatiques t'observent de l'ombre. Des pièges enchantés attendent à chaque coin, prêts à vous piéger. L'atmosphère est oppressante, mais aussi étrangement apaisante, comme si la salle gardait un secret ancien et profond.",
+    "tags": [
+      "sacrée",
+      "ancienne",
+      "mystère",
+      "pièges",
+      "atmosphère étrange"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "couloir",
+      "tileNumber": 98
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "93": {
+    "title": "La Salle des Anciens",
+    "description": "Des tented wall coverings couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, aux murs décrépits et aux plafonds bas. Un pilier central, sculpté de croix, domine la pièce, entouré de tentes de toile qui semblent avoir été là depuis des siècles. Des motifs spiraux gravés dans le sol attirent ton regard, tandis que les poutres en bois ajoutent une touche de rusticité à l'ensemble. Les tentacules, visibles dans l'angle, paraissent attendre l'occasion de se déployer. L'odeur de l'humidité et de l'ancienneté se mêle à l'air, créant une atmosphère mélangeant mystère et angoisse. Deux fenêtres donnent sur le monde extérieur, mais la présence d'eau sur le sol indique que la salle est en partie inondée. L'ancien rituel qui a eu lieu ici est palpable, chaque détail racontant une histoire ancienne et sombre.",
+    "tags": [
+      "rituel ancien",
+      "salle des ténèbres",
+      "ancienneté",
+      "mystère",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "dilapidated",
+      "centralFeature": "central pillar",
+      "wallDecorations": [
+        "tented wall coverings"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "cross-shaped pillars"
+      ],
+      "objectsOrFurniture": [
+        "wooden beams"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "two windows"
+      ],
+      "hazards": [
+        "water on the floor"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "couloir",
+      "tileNumber": 93
+    }
+  }
+}

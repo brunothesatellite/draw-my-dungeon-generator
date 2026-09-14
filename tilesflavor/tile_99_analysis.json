@@ -1,0 +1,46 @@
+{
+  "99": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs vieillis par le temps. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des piliers de pierre ancienne sont disséminés à travers la pièce. Le mobilier, usé et délabré, parais avoir été oublié depuis des siècles. Un autel central, entouré de mystérieux symboles, attire l'attention. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si la salle était le témoin de secrets inavoués.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sinistre",
+      "salle de rituel",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "couloir",
+      "tileNumber": 99
+    }
+  }
+}

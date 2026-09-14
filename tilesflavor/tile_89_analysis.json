@@ -1,0 +1,45 @@
+{
+  "89": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire le regard. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Des têtes de mort sculptées dans le mur, comme des gardiens de l'oubli, observent les intrus. Une statue massive, probablement d'un dieu ou d'un ancien roi, domine l'ensemble. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce, évoquant un murmure sinistre. La tension est palpable, comme si la salle était le témoin d'un secret millénaire.",
+    "tags": [
+      "salle de culte",
+      "vieillie",
+      "rituel",
+      "têtes de mort",
+      "statue",
+      "eau stagnante",
+      "sinistre",
+      "vieille salle",
+      "rituel ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "statue"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Couloir sans issue",
+      "tileNumber": 89
+    }
+  }
+}

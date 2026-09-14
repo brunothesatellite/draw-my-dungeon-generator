@@ -1,0 +1,45 @@
+{
+  "111": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel ou trésor occupe le centre de l'espace. La lumière faible te révèle une salle irrégulière, vieillie et mystérieuse. Des fils d'araignée pendent du plafond, et une araignée géante se cache dans un coin, prête à bondir. Au centre, un autel ou un trésor est entouré de piliers et de statues, les têtes de mort et les tentacules ajoutant une touche d'horreur. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de pourriture flotte dans l'air, et un murmure lointain semble provenir de l'eau stagnante qui coule dans un coin. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte.",
+    "tags": [
+      "crypte",
+      "salle de culte",
+      "rituel",
+      "araignée géante",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel ou trésor",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Couloir étrange avec des fils d'araignée et une araignée géante (cachée ou dans les murs)",
+      "tileNumber": 111
+    }
+  }
+}

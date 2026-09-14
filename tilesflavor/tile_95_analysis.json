@@ -1,0 +1,46 @@
+{
+  "95": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière pénètre à peine à travers les fenêtres étroites, éclairant les murs vieillis et les piliers usés. Un autel central, recouvert de têtes de mort et de tentacules, attire immédiatement l'attention. Des cercles rituels marquent le sol, et une table, la seule meuble, semble avoir été utilisée pour des sacrifices. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, chaque bruit résonnant dans cette crypte sinistre.",
+    "tags": [
+      "rituel ancien",
+      "salle de sacrifice",
+      "atmosphère sombre",
+      "vieillie",
+      "squelette"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "3 couloirs sans issue",
+      "tileNumber": 95
+    }
+  }
+}

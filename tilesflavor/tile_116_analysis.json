@@ -1,0 +1,48 @@
+{
+  "116": {
+    "title": "Salle des Anciens Cultes",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des colonnes soutiennent le plafond, tandis que le sol est marqué de cercles rituels et de runes anciennes. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère glauque. Un piège attend patiemment, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, et tu sens que quelque chose de profondément ancien se cache dans cette salle.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "pièges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle avec une toile d'araignée",
+      "tileNumber": 116
+    }
+  }
+}

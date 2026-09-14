@@ -1,0 +1,45 @@
+{
+  "125": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de têtes de mort et de tentacules, paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour de toi, comme des gardiens silencieux. Le sol est marqué de cercles rituels, et tu sens une odeur de soufre et de mort qui te pénètre les narines. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. Tu entends un murmure lointain, comme si quelque chose attendait patiemment dans les ténèbres.",
+    "tags": [
+      "rituels",
+      "sacrifices",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle ouverte avec 3 pierres étranges sur le sol",
+      "tileNumber": 125
+    }
+  }
+}

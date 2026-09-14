@@ -1,0 +1,45 @@
+{
+  "113": {
+    "title": "Salle des Rituels Sacrés",
+    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules, attire votre regard. Des cercles rituels et des glyphes runiques gravés dans le sol vous font frémir. Les piliers massifs, usés par l'âge, paraissent soutenir une atmosphère sinistre. L'eau stagnante, à la surface du sol, murmure un secret ancien. Vous sentez une odeur de soufre et de mort qui vous pénètre les narines. Un frisson vous parcourt alors que vous vous demandez ce qui a pu se passer ici, il y a si longtemps.",
+    "tags": [
+      "rituels",
+      "salle sacrée",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "glyphes runiques",
+      "piliers",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec une toile d'araignée",
+      "tileNumber": 113
+    }
+  }
+}

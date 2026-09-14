@@ -1,0 +1,48 @@
+{
+  "76": {
+    "title": "La Salle du Culte",
+    "description": "Des têtes de mort couvrent les murs. Le soleil magique dessiné sur le mur éclaire la pièce d'une lumière froide et étrange. Les quatre colonnes, vieillies et usées, semblent soutenir un autel central, où des têtes de mort et des tentacules émergents des murs. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des statues et des piliers ornent les murs. Le mobilier ancien est réparti autour de l'autel, et des traces de créature sont visibles sur le sol. La porte murée à l'arrière de la salle est fermée, et l'eau stagnante s'accumule dans un coin. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été abandonnée depuis des siècles.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "salle de culte",
+      "vieilles colonnes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle avec un soleil magique dessiné et 4 colonnes",
+      "tileNumber": 76
+    }
+  }
+}

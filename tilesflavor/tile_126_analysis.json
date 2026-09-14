@@ -1,0 +1,49 @@
+{
+  "126": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches noires et de crachats de tentacules qui paraissent avoir griffé la pierre. Des têtes de mort, les yeux vides, sont suspendues aux murs, comme des têtes de guerre. Au centre de la pièce, un autel, délabré, parais avoir été le point focal de rituels obscurs. Des cercles rituels et des runes mystiques marquent le sol, comme si la pièce avait été utilisée pour des cérémonies anciennes. Des colonnes et des piliers, usés par le temps, soutiennent le plafond qui parais prêt à s'effondrer. Des objets mystérieux, inconnus, sont disséminés un peu partout, ajoutant à l'atmosphère étrange. Une présence fantomatique plane dans l'air, comme si des âmes errantes y étaient confinées. À droite, une porte se trouve dissimulée, comme si elle était cachée depuis longtemps. Des pièges et des gaz toxiques pourraient attendre à l'extérieur. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère encore plus oppressante. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "sacré",
+      "ténèbre",
+      "rituel",
+      "fantôme",
+      "abandonné"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "runes"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "hidden door"
+      ],
+      "hazards": [
+        "traps",
+        "poison gas"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 126
+    }
+  }
+}

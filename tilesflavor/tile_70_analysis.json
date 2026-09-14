@@ -1,0 +1,54 @@
+{
+  "70": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis longtemps. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des siècles de rituels. Des cercles rituels gravés dans le sol attirent l'œil, tandis que les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des sacrifices aux forces obscures. Des barils de bois ancien sont empilés contre le mur, et des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante au fond de la salle murmure un secret, et un murmure lointain parais provenir de l'autel. La tension est palpable, et un frisson vous parcourt le dos. La porte s'ouvre avec un grincement, révélant une salle rectangulaire aux murs vieillis par le temps. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis longtemps. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs qui paraissent avoir vu des siècles de rituels. Des cercles rituels gravés dans le sol attirent l'œil, tandis que les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des sacrifices aux forces obscures. Des barils de bois ancien sont empilés contre le mur, et des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante au fond de la salle murmure un secret, et un murmure lointain parais provenir de l'autel. La tension est palpable, et un frisson vous parcourt le dos.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "tête de mort",
+      "tentacules",
+      "mystérieuse",
+      "menaçante",
+      "autel",
+      "piliers",
+      "cercles rituels",
+      "barils",
+      "pièges anciens",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "couloir",
+      "tileNumber": 70
+    }
+  }
+}

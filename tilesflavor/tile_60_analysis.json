@@ -1,0 +1,48 @@
+{
+  "60": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. Les murs, usés par le temps, sont recouverts de peintures sombres et écaillées, où des tentacules et des têtes de mort semblent observer les intrus. Deux colonnes massives, vieilles comme les âges, se dressent au centre de la pièce, soutenant un autel mystérieux. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des forces obscures. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis des siècles. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. La tension est palpable, comme si la salle était prête à se réveiller à tout moment.",
+    "tags": [
+      "rituels",
+      "sombre",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphère": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec colonnes et un serpent dessiné au sol",
+      "tileNumber": 60
+    }
+  }
+}

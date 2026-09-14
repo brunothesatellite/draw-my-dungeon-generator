@@ -1,0 +1,45 @@
+{
+  "96": {
+    "title": "La Chambre des Rituels Anciens",
+    "description": "Des tented walls couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'atmosphère est oppressante, comme si la pièce était gardée par des forces obscures. Devant toi, une structure massive en pierre domine la pièce, ses angles émoussés par le temps. Des colonnes robustes soutiennent le plafond, tandis que des tentes de toile sont suspendues aux murs, comme pour protéger quelque chose de précieux. Des spirales mystérieuses marquent le sol et des traces de pas, comme ceux d'âmes errantes, sont gravées dans le sol. Les murs sont recouverts de runes anciennes, et des objets brisés sont éparpillés un peu partout. La chaleur humide et l'odeur de soufre te pénètrent les narines, et tu sens une présence étrange qui plane dans l'air. Des murmures lointains semblent provenir de l'angle sombre de la pièce. Les trappes sont bien visibles, prêtes à s'abattre sur qui oserait s'approcher trop près.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "mystère",
+      "trappe",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large stone structure",
+      "wallDecorations": [
+        "tented walls"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "broken furniture"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "couloirs",
+      "tileNumber": 96
+    }
+  }
+}
