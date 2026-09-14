@@ -1,0 +1,483 @@
+N°,Tile description
+1,Salle avec obélisque et colonnes
+2,Salle avec un trou avec grille
+3,Couloir
+4,Couloir avec petite salle
+5,Salle
+6,Salle avec un trou avec grille
+7,Couloir
+8,Salle
+9,Salle avec tonneaux (1 entrée)
+10,Couloir et salle
+11,Salle
+12,Couloir avec dessin magique au sol
+13,Salle avec pierres étranges... peut-être un piège
+14,Salle avec échiquier au centre
+15,Salle
+16,Salle ouverte avec colonnes
+17,Salle avec 2 trous (fermés par grille)
+18,Salle avec tour de boîtes
+19,Salle avec dessin étrange
+20,Salle
+21,Salle avec table et chaises
+22,Salle avec 2 flashs dessinés
+23,Salle avec petite sanctuaire et colonne
+24,Salle
+25,Salle avec bassin et fontaine
+26,Canal d'eau entre 2 murs avec pont
+27,Salle avec statue
+28,Salle avec dessin « ancien » et 4 colonnes
+29,Salle avec vortex magique
+30,Salle avec grille au sol
+31,Salle avec sol en petits cailloux
+32,Salle avec cheminée
+33,Salle
+34,Couloir
+35,Salle avec œil dessiné au sol
+36,Couloir
+37,Salle avec trou
+38,Salle avec soleil magique et tonneaux
+39,Salle avec lit
+40,"Salle avec cheminée, obélisque et 4 soleils étranges
+« magiques » dessinés"
+41,Couloir
+42,Couloir
+43,Couloir
+44,Couloir
+45,Couloir (avec numéro 46)
+46,"Salle avec lignes dessinées au sol avec
+numéro 46 aussi"
+47,Salle avec 4 trous et 1 grille ouverte
+48,Couloir (avec sarcophage dans les murs)
+49,Couloir
+50,Salle avec tonneaux
+51,Couloir avec des os
+52,couloirs
+53,Salle avec 3 grilles et un crâne
+54,couloir
+55,Couloir avec un petit conduit (pas d'eau)
+56,couloir
+57,Couloir avec une colonne ancienne étrange
+58,Salle avec plancher en bois
+59,couloir
+60,Salle avec colonnes et un serpent dessiné au sol
+61,Couloir avec des barils
+62,salle
+63,salle
+64,Salle avec des petites pierres ou champignon
+65,Salle avec des petites pierres ou champignon
+66,couloir
+67,couloir
+68,couloir
+69,2 couloirs séparés
+70,couloir
+71,salle
+72,couloir
+73,Salle avec un coffre et un baril
+74,2 couloirs séparés
+75,Couloir sans issue
+76,Salle avec un soleil magique dessiné et 4 colonnes
+77,salle
+78,salle
+79,Salle avec des barils
+80,Salle avec des caisses
+81,Salle avec un dessin étrange
+82,Couloir avec des boîtes
+83,Salle sans issue
+84,Salle avec une tentacule
+85,salle
+86,Salle avec une tentacule et des caisses
+87,Salle avec une tentacule
+88,couloir
+89,Couloir sans issue
+90,Couloir sans issue avec des petites pierres
+91,Couloir sans issue avec une créature étrange dans les murs
+92,Couloir avec une salle (sans issue)
+93,couloir
+94,Autel avec des tentacules et des choses étranges dessinées
+95,3 couloirs sans issue
+96,couloirs
+97,salle
+98,couloir
+99,couloir
+100,"Salle sans issue (sorties bloquées par des pierres, des barils et des caisses) Dessins sur le sol"
+101,Petite pièce
+102,Salle avec créature dans le mur
+103,Salle avec tentacules dans le mur
+104,Salle
+105,Salle avec un petit mur au centre et 1 sortie bloquée avec des barils
+106,Salle avec un grille et 6 pierres étranges alignées
+107,Couloir
+108,Salle avec un araignée dessinée
+109,Couloirs étranges avec des fils d'araignée
+110,Couloir étrange
+111,Couloir étrange avec des fils d'araignée et une araignée géante (cachée ou dans les murs)
+112,Couloirs étranges avec des fils d'araignée
+113,Salle avec une toile d'araignée
+114,Couloir (toile d'araignée dans les murs)
+115,Salle avec des dessins au sol
+116,Salle avec une toile d'araignée
+117,Salle de repos (3 tables et chaises)
+118,Petite chapelle
+119,Salle avec petite table/chaises et couloir
+120,Salle avec un bassin étrange au centre (liquide sombre et inconnu)
+121,Salle ouverte
+122,"Salle avec un grille carré et un coffre, une sortie bloquée par des pierres"
+123,Salle ouverte avec une grille
+124,"Salle ouverte, quelques choses étranges et petites sont grimpant sur les murs et un tentacule sort d'un trou"
+125,Salle ouverte avec 3 pierres étranges sur le sol
+126,Salle ouverte
+127,Salle ouverte avec des dessins floraux au sol
+128,Salle ouverte avec 4 dessins magiques
+129,Salle ouverte avec dragon infini
+130,Salle ouverte
+131,Salle ouverte
+132,Salle ouverte avec 2 grilles
+133,Salle ouverte avec un sarcophage / tombe
+134,Salle ouverte
+135,Salle ouverte avec une fontaine
+136,Couloirs avec des barils et des caisses sur un côté
+137,Couloir avec quelque chose comme un piège (9 trous sur le sol comme des pointes ou des lances pourraient sortir)
+138,Couloir avec un trou. Assiettes dans un renfoncement.
+139,2 couloirs séparés avec un baril. Mais entre eux un pilier en bois étrange semble cacher un mécanisme
+140,"Couloir avec grande clé, pièces et coffre"
+141,"2 couloirs séparés. L'un passe sous l'autre. Au centre du haut, une pierre étrange sort du sol"
+142,"Couloirs avec amphores, crâne de monstre enterré"
+143,Couloir avec un trou
+144,Couloirs séparés (je me suis trompé de nombre)
+145,Couloirs séparés (je me suis trompé de nombre)
+146,Couloir avec une grille enfouie dans les murs … pourquoi ?
+147,Couloir avec un petit coffre
+148,"Couloir avec une chose étrange au sol, comme si le sol était contaminé par quelque chose. Un petit autel avec des glyphes est placé dans le couloir …"
+149,Couloirs
+150,Petite salle avec champignon et un trou
+151,Grotte avec champignons
+152,Grotte avec champignons et aventurier pauvre
+153,Grotte avec champignons
+154,Grotte avec champignons
+155,Grotte avec champignons
+156,Grotte avec champignons et champignon
+157,Grotte avec champignons et champignon
+158,Grotte avec champignons et champignon
+159,Grotte avec champignons et champignon
+160,Grotte avec champignons
+161,Grotte avec champignons et champignon
+162,Grotte avec champignons et champignon
+163,Grotte avec champignons
+164,Grotte avec champignons
+165,Grotte avec champignons
+166,Grotte avec champignons
+167,Grotte avec champignons et champignon
+168,Grotte avec champignons et champignon
+169,Grotte avec champignons
+170,Grotte avec champignons
+171,Grotte avec champignons
+172,Grotte avec champignons
+173,Grotte avec champignons
+174,Grotte avec champignons
+175,Grotte avec champignons et champignons
+176,Couloir de grotte avec champignons
+177,Couloir de grotte avec champignons et champignons. Un trou est enfoui dans les murs
+178,Couloir de grotte avec champignons
+179,Couloir de grotte avec champignons. Un carré dans le couloir et 2 carrés enfouis dans les murs
+180,Couloir de grotte avec champignons
+181,Couloir avec escalier descendant
+182,Couloir avec escalier montant
+183,Salle avec grand escalier montant
+184,"Salle avec obélisque, colonnes et grand escalier montant"
+185,Salle avec dessin magique et grand escalier descendant
+186,Salle avec colonnes et pavés étranges avec grand escalier descendant
+187,Salle avec fontaine et escalier circulaire montant
+188,Salle avec escalier circulaire descendant
+189,Couloir avec escalier montant
+190,Couloir avec escalier descendant
+191,Couloir avec escalier montant
+192,Couloir avec escalier descendant
+193,Couloir avec escalier montant
+194,Couloir avec escalier descendant
+195,Séparées avec escalier montant et descendant
+196,Salle avec porte magique
+197,Salle avec porte magique
+198,Salle avec porte magique
+199,Salle avec porte magique
+200,Salle avec porte magique
+201,Couloir avec escaliers d'escalade
+202,Couloir avec escaliers de descente
+203,Couloir avec escaliers d'escalade
+204,Couloir avec escaliers de descente
+205,Couloir avec escaliers d'escalade
+206,Couloir avec escaliers de descente
+207,Couloir avec escaliers d'escalade
+208,Couloir avec escaliers de descente
+209,Couloir avec escaliers d'escalade
+210,Couloir avec escaliers de descente
+211,Salle ouverte avec grille
+212,Salle ouverte avec 2 colonnes
+213,Salle ouverte avec dessin de tête de taureau
+214,Salle ouverte avec tonneaux
+215,Salle ouverte avec dessin de poing
+216,Salle ouverte avec fontaine (ou petit bassin)
+217,Salle ouverte
+218,Salle ouverte avec colonnes et dessin de serpent
+219,Salle ouverte avec 4 petites coffres
+220,Salle ouverte avec trappe au sol
+221,Salle ouverte
+222,Salle ouverte avec colonnes
+223,Salle ouverte
+224,Salle ouverte avec 4 colonnes et dessin de dragon viking
+225,Salle ouverte
+226,Salle avec le trésor le plus grand jamais vu et une porte en fer
+227,Salle avec 9 coffres et une porte en pierre
+228,"Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux"
+229,"Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux. Il y a un trou dans une pièce noire, fermée par une porte"
+230,"Prison avec 3 cellules (une est plus grande que les autres), grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux"
+231,"Salle avec un autel (du sang sur l'autel et au sol), une statue de démon et colonnes"
+232,"Salle du trône avec colonnes et chaises, un tapis est sur le sol derrière la plateforme du trône"
+233,Salle ouverte avec dessin de crâne
+234,Salle ouverte avec dessin de château et d'épées
+235,Salle ouverte avec dessin d'écu
+236,Salle ouverte avec dessin magique (comme un mandala)
+237,Salle ouverte avec 4 colonnes et dessin de diamant
+238,Salle ouverte avec dessin de tête de lion
+239,Salle ouverte avec dessin de tête de dragon
+240,Salle ouverte avec dessin de temple
+241,Siphon sortant du mur
+242,Siphon avec pont en bois
+243,Siphon avec tonneau flottant
+244,Siphon
+245,Siphon
+246,Siphon
+247,Siphon
+248,Siphon croisé avec 3 ponts
+249,Siphon
+250,Siphon avec pont en bois
+251,égout
+252,égout (bassin)
+253,égout
+254,égout avec grille au sol
+255,égout avec passerelle en bois
+256,égout avec grille au centre et baril au sol
+257,égout avec boîte
+258,égout avec 2 passerelles menant sur une plateforme centrale et amphore
+259,égout avec barils (flottants et un sur le sol)
+260,égout avec barils (deux flottants et un sur le sol)
+261,égout
+262,égout avec coffre
+263,égout avec passerelle en bois et amphore
+264,égout avec planches en bois comme un « pont »
+265,égout (une partie sortant du mur) et un baril
+266,égout avec une planche utilisée pour faire un pont
+267,égout avec eau sortant d'un tuyau. Une boîte ouverte semble être la « maison » d'un créature
+268,égout avec petites boîtes et baril
+269,égout avec baril flottant
+270,égout avec 2 tuyaux déversant de l'eau
+271,égout avec escalier d'escalade et tuyau sortant du mur
+272,"égout (bassin) avec 3 grilles, une trappe (à pointes) et une petite arche de fer"
+273,égout avec 4 grilles
+274,égout (bassin) avec tourbillon
+275,égout avec grille et escalier descendant
+276,"égout avec boîte et 2 escaliers (l'un est descendant, l'autre est grimpant)"
+277,égout avec 2 passerelles et grille au sol
+278,égout avec barils
+279,égout avec baril. Une plateforme est au centre de l'eau avec une petite boîte. Un créature comme un octopus nage
+280,égout avec pont de corde
+281,égout avec grille au sol
+282,égout mort
+283,égout avec grille au sol et boîte
+284,égout
+285,"égout avec passerelle en bois, baril et épée. Égout mort est placé au bas de la tuile."
+286,grotte avec escalier d'escalade
+287,grotte avec abîme
+288,abîme dans une pièce
+289,abîme avec pont de corde
+290,abîme
+291,abîme
+292,abîme avec pont de corde
+293,abîme
+294,abîme
+295,abîme
+296,abîme
+297,abîme
+298,abîme
+299,abîme
+300,abîme
+301,Abîme avec des champignons
+302,abîme
+303,"abîme avec des petites pierres formant un cercle, une épée et un pont de corde"
+304,abîme avec un petit portail magique
+305,abîme
+306,abîme
+307,abîme devant un mur de grotte
+308,abîme traversé par un pont de pierre naturel
+309,grotte avec des escaliers d'escalade
+310,abîme avec un portail magique
+311,abîme avec une tentacule sortant de la noirceur
+312,abîme
+313,abîme
+314,abîme
+315,abîme avec une boîte et un tonneau
+316,abîme avec une arche et de l'or devant un sol fissuré
+317,abîme avec une fissure sur le sol
+318,abîme avec un sol très fissuré et des champignons
+319,abîme avec un sol très fissuré formant un nouveau trou. Un tonneau est près du sol fissuré
+320,petit chemin entre deux abîmes
+321,abîme avec des champignons
+322,abîme avec des champignons
+323,abîme avec des champignons
+324,Grand abîme avec la moitié d'un pont de corde
+325,grand abîme avec pont de corde et tonneau
+326,abîme circulaire avec deux tentacules sortant de la noirceur
+327,abîme avec éclaboussure
+328,abîme avec des escaliers grimpant dans le mur de la grotte. Un tonneau est placé à proximité des escaliers
+329,portail magique entre deux abîmes
+330,abîme avec un « pont » fait avec des planches
+331,abîme
+332,début ou fin de l'abîme. Squelette d'un créature comme un lézard
+333,grotte
+334,corridor de grotte
+335,corridor de grotte
+336,"grotte avec un lit, une arche, une boîte et 3 tonneaux"
+337,"corridor de grotte avec branches, crâne de monstre"
+338,corridor de grotte avec grille
+339,"grotte (2 pièces séparées par un mur en bois) avec table, chaises, arche et tonneaux"
+340,corridor de grotte avec escaliers
+341,"grotte avec table, chaises, boîtes et tonneaux"
+342,"grotte avec tonneaux, une boîte et une pierre étrange avec des pointes"
+343,corridors de grotte
+344,corridors de grotte
+345,"grotte avec lit, table, chaises, 2 arches, une boîte et 2 tonneaux. Une grille est au centre du sol"
+346,grotte avec une arche
+347,grotte avec une table et des chaises
+348,"grotte avec une fente, beaucoup de branches, une arche après avoir passé des planches (comme un piège)"
+349,corridors avec fentes et tonneau
+350,corridor
+351,salle de donjon avec boîte et tonneau
+352,salle de donjon avec une petite coffre et 2 petits tonneaux
+353,"souterrain avec des couloirs et des pièges (des pointes sortent des murs, des branches, des pierres spéciales sur le sol). Un petit cage est dans un cul-de-sac et il y a un tonneau"
+354,"salle de donjon avec un lit, une coffre et une porte en bois"
+355,salle de donjon avec un tonneau et une boîte
+356,"salle de donjon avec un trou, un tonneau et une coffre"
+357,salle de donjon avec des branches
+358,salle de donjon avec un trou carré
+359,salle de donjon avec un trou naturel
+360,"salle de donjon avec un lit, des tables avec des chaises, 2 boîtes et 2 tonneaux"
+361,salle ouverte avec des étagères et un feu au centre
+362,salle de trône avec un tapis et 2 colonnes
+363,"salle ouverte avec des étagères, des longues tables et des tabourets"
+364,"salle ouverte avec des tables, des chaises et des tonneaux"
+365,crypte avec un cercueil sur une table en pierre
+366,crypte avec un sarcophage et 2 colonnes
+367,"salle de torture avec un rack, une table avec des outils, un brasier, un tonneau et d'autres choses horribles"
+368,salle avec de petits tonneaux et des boîtes
+369,"salle avec des colonnes, une statue de dieu monstre et une table de sorcier"
+370,salle avec des colonnes et 2 brasiers
+371,couloir entre deux salles ouvertes
+372,salle avec des statues et un squelette entre elles … piège dans les statues ?
+373,salle avec des statues
+374,"salle de sorcier avec des étagères en laiton, une table avec des potions et des bougies, une table avec un livre de sorts"
+375,"bibliothèque avec des étagères, un fauteuil et une table avec un livre étrange"
+376,souterrain sans issue
+377,souterrain sans issue
+378,souterrain sans issue
+379,salle ouverte complète
+380,salle ouverte complète
+381,salle ouverte complète
+382,salle ouverte complète
+383,salle ouverte complète avec un petit grille sur le sol
+384,salle ouverte complète
+385,salle ouverte complète
+386,salle ouverte complète
+387,salle ouverte complète
+388,salle ouverte complète
+389,salle ouverte complète
+390,salle ouverte complète
+391,salle ouverte complète avec un petit grille sur le sol
+392,salle ouverte complète
+393,salle ouverte avec des statues et des cercles de pierre sur le sol (2 grilles métalliques semblent pouvoir déverser du poison ou de la fumée)
+394,salle ouverte avec des statues et des cercles de pierre sur le sol (une grille métallique semble pouvoir déverser du poison ou de la fumée)
+395,"salle ouverte avec bassin de sang, insectes, statues"
+396,salle ouverte avec un autel sacrificiel sur une plateforme. Table en pierre avec un livre et des bougies à l'arrière de la salle
+397,salle circulaire avec un système mécanique pour tourner le couloir (fermé)
+398,salle circulaire avec un système mécanique pour tourner le couloir (ouverte)
+399,"salle de destruction avec des pierres, des colonnes"
+400,"salle de destruction avec des pierres, des colonnes"
+401,salle de labyrinthe
+402,"salle de labyrinthe avec grille, boîte et barils"
+403,salle de labyrinthe avec grille
+404,salle de labyrinthe
+405,salle de labyrinthe avec grille
+406,Salle de cuisine
+407,Atelier de pharmacien
+408,3 tombes en terre cuite
+409,Salle comme un ossuaire
+410,"Salle de garde avec étagère, baril, table ronde avec 4 chaises (pour jouer ou manger) et une table/chaise avec un registre"
+411,Couloir bloqué par des pierres
+412,Couloir bloqué par des pierres (avec un crâne de démon dans les murs)
+413,"Salle de formation (cible pour archers, poupées en bois, étagère d'armes, barils, ... )"
+414,Salle d'échecs avec pièces d'échecs
+415,Salle d'échecs avec pièces d'échecs
+416,Salle circulaire avec coffre. Les murs semblent avoir un mouvement circulaire (ouvert)
+417,Salle circulaire avec coffre. Les murs semblent avoir un mouvement circulaire (fermé)
+418,Trou magique. Table et chaises flottent au-dessus du trou
+419,2 salles séparées avec cheminée de chaque côté du mur de séparation. Un coffre dans une salle et un petit baril dans l'autre
+420,Salle des latrines avec baril
+421,Salle avec une créature géante dans un trou
+422,Toit de forgeron
+423,observatoire avec sphère armillaire et télescope
+424,Petit cours d'eau sortant d'un mur avec passerelle en corde
+425,Rivière
+426,Autel de sacrifice avec statue d'araignée et colonnes. Certains gouttières sont pleines de sang sec
+427,"Magasin avec table, boîtes, étagères et barils"
+428,Salle glacée
+429,"salle du conseil avec table, chaises, colonnes et cheminées"
+430,"Salle longue (porte double ouverte) avec tapis au centre, colonnes et statues"
+431,Couloir avec petite salle
+432,Salle avec bassin et 3 statues
+433,Salle de formation pour archers
+434,Pont en bois pourri passant au-dessus d'une salle
+435,Couloir avec système mécanique en pierre en rotation
+436,grande vasque dans salle ouverte
+437,Rivière
+438,Rivière avec ponton
+439,"Rivière avec caisses, barils et baril flottant"
+440,Fin d'une rivière avec ponton brisé
+441,Couloirs
+442,Rivière avec 2 alligators en combat
+443,salle avec 12 portes et pilier central
+444,2 salles séparées. 2 trous (grilles enlevées) sont connectés par ces salles
+445,Prison ouverte
+446,cage carrée dans grande salle
+447,Cage circulaire avec porte ouverte dans une salle
+448,Couloir passant sous un autre couloir
+449,Couloir avec cercueils dans des alcôves
+450,Couloir avec cercueils dans des alcôves
+451,Salle avec une colonne géante
+452,Salle avec un bassin rempli d'un liquide noir
+453,Salle avec un bassin rempli d'un liquide noir
+454,Couloir avec un trou. Des tentacules sortent de celui-ci
+455,Couloir avec des planches
+456,Salle avec un sarcophage
+457,Couloir avec un réseau et des pierres étranges sortant des murs
+458,Salle avec un mécanisme de roue dentée géante et un levier sur le mur
+459,Salle avec des cercueils
+460,Salle avec des pioches dans un puits qui sépare l'accès de deux coffres.
+461,Couloir de base
+462,Couloir de base
+463,Couloir de base
+464,Couloir de base
+465,Couloir de base
+466,Salle de base
+467,Salle de base
+468,Salle de base
+469,salle de base - 2 corridors séparés
+470,Couloir de base
+471,Couloir de base
+472,Salle de base
+473,Salle de base
+474,Salle de base
+475,salle de base - 2 corridors impasses
+476,Couloir de base mort en impasse
+477,salle de base (petite avec corridors)
+478,Salle de base
+479,Couloir de base
+480,Salle de base ouverte
