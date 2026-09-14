@@ -1,5 +1,7 @@
 **TODO**
-* remplacer ensuite la description de la tuile par le texte généré par l'IA pour du solo.
+* l'export PDF doit fonctionner en file: ou sur serveur web
+* l'export PDF doit demander si on exporte les descriptions des salles, si oui, il ajoute à partir de la deuxième page les descriptions des tuiles posées
+ 
 
 
 

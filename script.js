@@ -713,7 +713,124 @@ const flavorDescription = document.getElementById('flavorDescription');
 let flavorHoverTimer = null;
 const flavorHoverDelay = 800;
 
-function updateFlavor(tileInfo) {
+// Cache pour les données JSON des tuiles
+const tileFlavorCache = {};
+
+// Fonction pour charger les données JSON d'une tuile
+async function loadTileFlavorData(tileNumber) {
+    if (tileFlavorCache[tileNumber]) {
+        return tileFlavorCache[tileNumber];
+    }
+    
+    // 1. Essayer la variable globale (fonctionne en local et en serveur)
+    if (typeof TILES_FLAVOR_DATA !== 'undefined' && TILES_FLAVOR_DATA[tileNumber]) {
+        tileFlavorCache[tileNumber] = TILES_FLAVOR_DATA;
+        return TILES_FLAVOR_DATA;
+    }
+    
+    // 2. Fallback fetch (pour les serveurs web sans tiles_flavor.js)
+    try {
+        const response = await fetch(`tilesflavor/tile_${tileNumber}_analysis.json`);
+        if (!response.ok) {
+            return null;
+        }
+        const data = await response.json();
+        tileFlavorCache[tileNumber] = data;
+        return data;
+    } catch (error) {
+        console.error(`Erreur lors du chargement des données pour la tuile ${tileNumber}:`, error);
+        return null;
+    }
+}
+
+// Fonction pour formater le nom de la caractéristique
+function formatFeatureName(key) {
+    const names = {
+        'roomSize': 'Taille',
+        'roomShape': 'Forme',
+        'lighting': 'Éclairage',
+        'condition': 'État',
+        'centralFeature': 'Élément central',
+        'wallDecorations': 'Décorations murales',
+        'floorMarkings': 'Marques au sol',
+        'architecturalDetails': 'Détails architecturaux',
+        'objectsOrFurniture': 'Objets/Mobilier',
+        'creaturesOrTraces': 'Créatures/Traces',
+        'exits': 'Sorties',
+        'hazards': 'Dangers',
+        'atmosphere': 'Atmosphère',
+        'roomPurpose': 'Usage de la pièce',
+        'csvDescription': 'Description CSV',
+        'tileNumber': 'Numéro de tuile'
+    };
+    return names[key] || key;
+}
+
+// Fonction pour formater la valeur
+function formatValue(value) {
+    if (Array.isArray(value)) {
+        return value.length > 0 ? value.join(', ') : 'Aucun';
+    }
+    return value || 'Non spécifié';
+}
+
+// Fonction pour générer le HTML des caractéristiques
+function generateFeaturesHTML(features) {
+    let html = '<div class="section-title">Caractéristiques</div>';
+    html += '<div class="features-grid">';
+    
+    for (const [key, value] of Object.entries(features)) {
+        if (key === 'tileNumber') continue; // On affiche le numéro ailleurs
+        
+        html += '<div class="feature-item">';
+        html += `<div class="feature-label">${formatFeatureName(key)}</div>`;
+        
+        if (Array.isArray(value) && value.length > 0) {
+            html += `<ul class="feature-list">`;
+            value.forEach(item => {
+                html += `<li>${item}</li>`;
+            });
+            html += `</ul>`;
+        } else {
+            html += `<div class="feature-value">${formatValue(value)}</div>`;
+        }
+        
+        html += '</div>';
+    }
+    
+    html += '</div>';
+    return html;
+}
+
+// Fonction pour afficher les données JSON de la tuile
+function displayTileFlavorData(tileData, tileNumber) {
+    if (!tileData || !tileData[tileNumber]) {
+        return `<div class="label">Données non disponibles pour la tuile ${tileNumber}</div>`;
+    }
+    
+    const tileInfo = tileData[tileNumber];
+    let html = '';
+    
+    // Titre
+    html += `<div class="tile-title">${tileInfo.title}</div>`;
+    
+    // Description
+    html += `<div class="tile-description">"${tileInfo.description}"</div>`;
+    
+    // Tags
+    html += '<div class="tile-tags">';
+    tileInfo.tags.forEach(tag => {
+        html += `<span class="tag">${tag}</span>`;
+    });
+    html += '</div>';
+    
+    // Caractéristiques
+    html += generateFeaturesHTML(tileInfo.sourceFeatures);
+    
+    return html;
+}
+
+async function updateFlavor(tileInfo) {
     if (!tileInfo) {
         clearFlavor();
         return;
@@ -736,8 +853,16 @@ function updateFlavor(tileInfo) {
     const envName = folderLabels[tileInfo.folderName] || tileInfo.folderName;
     flavorEnvironment.innerHTML = `<span class="label">Environnement :</span> ${envName}`;
     const tileNumber = tileInfo.fileName.replace('tile_', '');
-    const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
-    flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
+    
+    // Charger et afficher les données JSON de la tuile
+    const tileFlavorData = await loadTileFlavorData(tileNumber);
+    if (tileFlavorData) {
+        flavorDescription.innerHTML = displayTileFlavorData(tileFlavorData, tileNumber);
+    } else {
+        // Fallback sur la description simple si les données JSON ne sont pas disponibles
+        const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
+        flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
+    }
 }
 
 function clearFlavor() {
