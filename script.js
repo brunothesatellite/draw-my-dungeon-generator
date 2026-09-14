@@ -268,7 +268,7 @@ function setupDragAndDrop() {
         if (targetCell.classList.contains('empty')) {
             moveTile(sourceImg, sourceCell, targetCell);
             saveState();
-            updateFlavor(getTileInfoFromCell(targetCell));
+            updateFlavor(getTileInfoFromCell(targetCell), targetCell);
         } else {
             handleOccupiedCell(targetCell, sourceCell, sourceImg);
         }
@@ -310,10 +310,10 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
     const choice = await getChoice;
     if (choice === "1") {
         moveTile(sourceImg, sourceCell, targetCell);
-        updateFlavor(getTileInfoFromCell(targetCell));
+        updateFlavor(getTileInfoFromCell(targetCell), targetCell);
     } else if (choice === "2") {
         swapTiles(sourceCell, targetCell);
-        updateFlavor(getTileInfoFromCell(targetCell));
+        updateFlavor(getTileInfoFromCell(targetCell), targetCell);
     }
     if (choice === "1" || choice === "2") saveState();
     positionOverlays();
@@ -712,6 +712,7 @@ const flavorEnvironment = document.getElementById('flavorEnvironment');
 const flavorDescription = document.getElementById('flavorDescription');
 let flavorHoverTimer = null;
 const flavorHoverDelay = 800;
+let activeFlavorCell = null;
 
 // Cache pour les données JSON des tuiles
 const tileFlavorCache = {};
@@ -830,11 +831,23 @@ function displayTileFlavorData(tileData, tileNumber) {
     return html;
 }
 
-async function updateFlavor(tileInfo) {
+async function updateFlavor(tileInfo, cell) {
     if (!tileInfo) {
         clearFlavor();
         return;
     }
+    
+    // Retirer la surbrillance de l'ancienne tuile active
+    if (activeFlavorCell && activeFlavorCell !== cell) {
+        activeFlavorCell.classList.remove('flavor-active');
+    }
+    
+    // Ajouter la surbrillance à la nouvelle tuile active
+    if (cell) {
+        cell.classList.add('flavor-active');
+        activeFlavorCell = cell;
+    }
+    
     const imgSrc = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
     flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}" style="transform: rotate(${tileInfo.rotation}deg)">`;
     flavorTile.classList.remove('empty');
@@ -866,6 +879,11 @@ async function updateFlavor(tileInfo) {
 }
 
 function clearFlavor() {
+    // Retirer la surbrillance de la tuile active
+    if (activeFlavorCell) {
+        activeFlavorCell.classList.remove('flavor-active');
+        activeFlavorCell = null;
+    }
     flavorTile.innerHTML = '';
     flavorTile.classList.add('empty');
     flavorText.innerHTML = '';
@@ -908,19 +926,14 @@ function setupFlavorEvents() {
         const tileInfo = getTileInfoFromCell(cell);
         if (tileInfo) {
             flavorHoverTimer = setTimeout(() => {
-                updateFlavor(tileInfo);
+                updateFlavor(tileInfo, cell);
             }, flavorHoverDelay);
         } else {
-            scheduleFlavorClear();
+            // Si on entre sur une cellule vide, ne rien faire (garder le flavor actuel)
         }
     }, true);
 
-    gridContainer.addEventListener('mouseleave', (e) => {
-        const cell = e.target.closest('.cell');
-        if (cell) {
-            scheduleFlavorClear();
-        }
-    }, true);
+    // Pas de mouseleave sur gridContainer : on garde le flavor tant qu'on ne survole pas une nouvelle tuile
 }
 
 // --- CELL EVENTS ---
@@ -954,7 +967,7 @@ async function handleCellClick(e) {
                 fileName: parts[parts.length - 1].replace(/\.[^/.]+$/, ''),
                 folderName: parts[parts.length - 2],
                 rotation: '0'
-            });
+            }, cell);
         } else if (currentTileFolder) {
             await showMessage('Attention', 'Aucune tuile disponible dans ce dossier.');
         } else {
@@ -972,7 +985,7 @@ async function handleCellClick(e) {
                 fileName: parts[parts.length - 1].replace(/\.[^/.]+$/, ''),
                 folderName: parts[parts.length - 2],
                 rotation: String(newRotation)
-            });
+            }, cell);
         }
     }
     saveState();
