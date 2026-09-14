@@ -940,6 +940,7 @@ function setupFlavorEvents() {
 async function handleCellClick(e) {
     const cell = e.target.closest('.cell');
     if (!cell) return;
+    cancelFlavorClear();
 
     if (cell.classList.contains('empty')) {
         if (availableTiles.length > 0) {
