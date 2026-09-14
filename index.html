@@ -64,6 +64,8 @@
             <div class="flavor-area">
                 <div class="flavor-tile" id="flavorTile"></div>
                 <div class="flavor-text" id="flavorText"></div>
+                <div class="flavor-environment" id="flavorEnvironment"></div>
+                <div class="flavor-description" id="flavorDescription"></div>
             </div>
         </div>
 
@@ -79,6 +81,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
     <script src="tile_configuration.js"></script>
+    <script src="tiles_index.js"></script>
     <script src="script.js"></script>
 
     <script>
@@ -134,6 +137,16 @@
                 <button id="importModalConfirm" class="modal-btn">Importer</button>
             </div>
             <button id="importModalCancel" class="modal-btn-cancel">Annuler</button>
+        </div>
+    </div>
+
+    <div id="messageModal" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <h3 id="messageModalTitle">Information</h3>
+            <p id="messageModalMsg"></p>
+            <div class="modal-options">
+                <button id="messageModalOk" class="modal-btn">OK</button>
+            </div>
         </div>
     </div>
 </body>

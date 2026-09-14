@@ -175,7 +175,7 @@ function handleImportFile(file) {
         try {
             const data = JSON.parse(e.target.result);
             if (!validateImportData(data)) {
-                alert('Format de fichier invalide. Veuillez sélectionner un fichier JSON exporté par Draw My Dungeon.');
+                await showMessage('Erreur', 'Format de fichier invalide. Veuillez sélectionner un fichier JSON exporté par Draw My Dungeon.');
                 logToDebug('Import annulé: format invalide');
                 return;
             }
@@ -204,7 +204,7 @@ function handleImportFile(file) {
             logToDebug('Données importées, rechargement...');
             init();
         } catch (err) {
-            alert('Erreur lors de la lecture du fichier: ' + err.message);
+            await showMessage('Erreur', 'Erreur lors de la lecture du fichier: ' + err.message);
             logToDebug(`Erreur import: ${err.message}`);
         }
     };
@@ -376,6 +376,20 @@ function logToDebug(message) {
     debugLog.scrollTop = debugLog.scrollHeight;
 }
 
+// --- MESSAGE MODAL ---
+function showMessage(title, message) {
+    const modal = document.getElementById('messageModal');
+    const titleEl = document.getElementById('messageModalTitle');
+    const msgEl = document.getElementById('messageModalMsg');
+    const okBtn = document.getElementById('messageModalOk');
+    titleEl.textContent = title;
+    msgEl.textContent = message;
+    modal.style.display = 'flex';
+    return new Promise((resolve) => {
+        okBtn.onclick = () => { modal.style.display = 'none'; resolve(); };
+    });
+}
+
 // --- TILE DATA ---
 function initializeTileData() {
     logToDebug('Initialisation des données à partir de tile_configuration.js...');
@@ -492,7 +506,7 @@ async function setDimensions() {
     const newCols = parseInt(gridColumnsInput.value);
     const newRows = parseInt(gridRowsInput.value);
     if (isNaN(newCols) || isNaN(newRows) || newCols < 1 || newRows < 1) {
-        alert("Veuillez entrer des dimensions valides (minimum 1).");
+        await showMessage('Erreur', 'Veuillez entrer des dimensions valides (minimum 1).');
         return;
     }
     const modal = document.getElementById('resetModal');
@@ -694,6 +708,8 @@ function handleMouseLeave() {
 // --- FLAVOR PANEL ---
 const flavorTile = document.getElementById('flavorTile');
 const flavorText = document.getElementById('flavorText');
+const flavorEnvironment = document.getElementById('flavorEnvironment');
+const flavorDescription = document.getElementById('flavorDescription');
 let flavorHoverTimer = null;
 const flavorHoverDelay = 800;
 
@@ -709,12 +725,27 @@ function updateFlavor(tileInfo) {
         <div><span class="label">Chemin :</span> ${tileInfo.folderName}/${tileInfo.fileName}</div>
         <div><span class="label">Rotation :</span> ${tileInfo.rotation}°</div>
     `;
+    const folderLabels = {
+        'abyss': 'Abysse',
+        'cave': 'Grotte',
+        'donjon': 'Donjon',
+        'room': 'Salle',
+        'sewer': 'Égout',
+        'stair': 'Escalier'
+    };
+    const envName = folderLabels[tileInfo.folderName] || tileInfo.folderName;
+    flavorEnvironment.innerHTML = `<span class="label">Environnement :</span> ${envName}`;
+    const tileNumber = tileInfo.fileName.replace('tile_', '');
+    const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
+    flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
 }
 
 function clearFlavor() {
     flavorTile.innerHTML = '';
     flavorTile.classList.add('empty');
     flavorText.innerHTML = '';
+    flavorEnvironment.innerHTML = '';
+    flavorDescription.innerHTML = '';
 }
 
 function getTileInfoFromCell(cell) {
@@ -768,7 +799,7 @@ function setupFlavorEvents() {
 }
 
 // --- CELL EVENTS ---
-function handleCellClick(e) {
+async function handleCellClick(e) {
     const cell = e.target.closest('.cell');
     if (!cell) return;
 
@@ -800,9 +831,9 @@ function handleCellClick(e) {
                 rotation: '0'
             });
         } else if (currentTileFolder) {
-            alert('Aucune tuile disponible dans ce dossier.');
+            await showMessage('Attention', 'Aucune tuile disponible dans ce dossier.');
         } else {
-            alert('Veuillez sélectionner un dossier de tuiles.');
+            await showMessage('Attention', 'Veuillez sélectionner un dossier de tuiles.');
         }
     } else {
         const img = cell.querySelector('img');
