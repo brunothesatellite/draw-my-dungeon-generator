@@ -39,25 +39,32 @@
             </div>
         </div>
 
-        <div class="grid-area">
-            <div class="ctrl top-group">
-                <button class="remove" data-action="removeRowTop" data-tip="Supprimer la première ligne">−</button>
-                <button data-action="addRowTop" data-tip="Ajouter une ligne au-dessus">+</button>
-            </div>
-            <div class="ctrl bottom-group">
-                <button class="remove" data-action="removeRowBottom" data-tip="Supprimer la dernière ligne">−</button>
-                <button data-action="addRowBottom" data-tip="Ajouter une ligne en dessous">+</button>
-            </div>
-            <div class="ctrl left-group">
-                <button data-action="addColLeft" data-tip="Ajouter une colonne à gauche">+</button>
-                <button class="remove" data-action="removeColLeft" data-tip="Supprimer la première colonne">−</button>
-            </div>
-            <div class="ctrl right-group">
-                <button data-action="addColRight" data-tip="Ajouter une colonne à droite">+</button>
-                <button class="remove" data-action="removeColRight" data-tip="Supprimer la dernière colonne">−</button>
+        <div class="content-wrapper">
+            <div class="grid-area">
+                <div class="ctrl top-group">
+                    <button class="remove" data-action="removeRowTop" data-tip="Supprimer la première ligne">−</button>
+                    <button data-action="addRowTop" data-tip="Ajouter une ligne au-dessus">+</button>
+                </div>
+                <div class="ctrl bottom-group">
+                    <button class="remove" data-action="removeRowBottom" data-tip="Supprimer la dernière ligne">−</button>
+                    <button data-action="addRowBottom" data-tip="Ajouter une ligne en dessous">+</button>
+                </div>
+                <div class="ctrl left-group">
+                    <button data-action="addColLeft" data-tip="Ajouter une colonne à gauche">+</button>
+                    <button class="remove" data-action="removeColLeft" data-tip="Supprimer la première colonne">−</button>
+                </div>
+                <div class="ctrl right-group">
+                    <button data-action="addColRight" data-tip="Ajouter une colonne à droite">+</button>
+                    <button class="remove" data-action="removeColRight" data-tip="Supprimer la dernière colonne">−</button>
+                </div>
+
+                <div class="grid-container" id="gridContainer"></div>
             </div>
 
-            <div class="grid-container" id="gridContainer"></div>
+            <div class="flavor-area">
+                <div class="flavor-tile" id="flavorTile"></div>
+                <div class="flavor-text" id="flavorText"></div>
+            </div>
         </div>
 
         <div class="debug-container">

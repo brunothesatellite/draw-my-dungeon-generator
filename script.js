@@ -473,6 +473,7 @@ function createGrid(cols = currentCols, rows = currentRows) {
     logToDebug(`Grille créée (${cols}x${rows} cellules)`);
     updateOverlayStates();
     saveState();
+    clearFlavor();
     requestAnimationFrame(() => {
         autoFitZoom();
         positionOverlays();
@@ -683,6 +684,82 @@ function handleMouseLeave() {
     tooltip.style.opacity = '0';
 }
 
+// --- FLAVOR PANEL ---
+const flavorTile = document.getElementById('flavorTile');
+const flavorText = document.getElementById('flavorText');
+let flavorHoverTimer = null;
+const flavorHoverDelay = 800;
+
+function updateFlavor(tileInfo) {
+    if (!tileInfo) {
+        clearFlavor();
+        return;
+    }
+    const imgSrc = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
+    flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}">`;
+    flavorTile.classList.remove('empty');
+    flavorText.innerHTML = `
+        <div><span class="label">Chemin :</span> ${tileInfo.folderName}/${tileInfo.fileName}</div>
+        <div><span class="label">Rotation :</span> ${tileInfo.rotation}°</div>
+    `;
+}
+
+function clearFlavor() {
+    flavorTile.innerHTML = '';
+    flavorTile.classList.add('empty');
+    flavorText.innerHTML = '';
+}
+
+function getTileInfoFromCell(cell) {
+    if (cell.classList.contains('empty')) return null;
+    const img = cell.querySelector('img');
+    if (!img) return null;
+    const parts = img.src.split('/');
+    const fileName = parts[parts.length - 1].replace(/\.[^/.]+$/, '');
+    const folderName = parts[parts.length - 2];
+    const transformStyle = img.style.transform;
+    const rotationMatch = transformStyle.match(/rotate\((\d+)deg\)/);
+    const rotation = rotationMatch ? rotationMatch[1] : '0';
+    return { fileName, folderName, rotation };
+}
+
+function scheduleFlavorClear() {
+    cancelFlavorClear();
+    flavorHoverTimer = setTimeout(() => {
+        clearFlavor();
+    }, flavorHoverDelay);
+}
+
+function cancelFlavorClear() {
+    if (flavorHoverTimer) {
+        clearTimeout(flavorHoverTimer);
+        flavorHoverTimer = null;
+    }
+}
+
+function setupFlavorEvents() {
+    gridContainer.addEventListener('mouseenter', (e) => {
+        const cell = e.target.closest('.cell');
+        if (!cell) return;
+        cancelFlavorClear();
+        const tileInfo = getTileInfoFromCell(cell);
+        if (tileInfo) {
+            flavorHoverTimer = setTimeout(() => {
+                updateFlavor(tileInfo);
+            }, flavorHoverDelay);
+        } else {
+            scheduleFlavorClear();
+        }
+    }, true);
+
+    gridContainer.addEventListener('mouseleave', (e) => {
+        const cell = e.target.closest('.cell');
+        if (cell) {
+            scheduleFlavorClear();
+        }
+    }, true);
+}
+
 // --- CELL EVENTS ---
 function handleCellClick(e) {
     const cell = e.target.closest('.cell');
@@ -709,6 +786,12 @@ function handleCellClick(e) {
             cell.appendChild(img);
             cell.classList.remove('empty');
             logToDebug(`Tuile ajoutée: ${currentTileFolder}/${tileName} à (${cell.dataset.row}, ${cell.dataset.col})`);
+            const parts = img.src.split('/');
+            updateFlavor({
+                fileName: parts[parts.length - 1].replace(/\.[^/.]+$/, ''),
+                folderName: parts[parts.length - 2],
+                rotation: '0'
+            });
         } else if (currentTileFolder) {
             alert('Aucune tuile disponible dans ce dossier.');
         } else {
@@ -735,6 +818,7 @@ function handleCellRightClick(e) {
         cell.classList.add('empty');
         logToDebug(`Tuile supprimée à (${cell.dataset.row}, ${cell.dataset.col})`);
         saveState();
+        clearFlavor();
     }
     e.preventDefault();
 }
@@ -883,6 +967,7 @@ function init() {
     }
     setupDragAndDrop();
     setupOverlayControls();
+    setupFlavorEvents();
     logToDebug('=== Initialisation terminée ===');
 }
 
