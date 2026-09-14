@@ -227,6 +227,7 @@ function setupDragAndDrop() {
         const img = e.target.closest('img');
         if (!img) return;
         isDragging = true;
+        cancelFlavorClear();
         e.dataTransfer.setData('text/plain', img.src);
         const sourceCell = img.closest('.cell');
         const row = sourceCell.dataset.row;
@@ -267,6 +268,7 @@ function setupDragAndDrop() {
         if (targetCell.classList.contains('empty')) {
             moveTile(sourceImg, sourceCell, targetCell);
             saveState();
+            updateFlavor(getTileInfoFromCell(targetCell));
         } else {
             handleOccupiedCell(targetCell, sourceCell, sourceImg);
         }
@@ -306,8 +308,13 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
     });
 
     const choice = await getChoice;
-    if (choice === "1") moveTile(sourceImg, sourceCell, targetCell);
-    else if (choice === "2") swapTiles(sourceCell, targetCell);
+    if (choice === "1") {
+        moveTile(sourceImg, sourceCell, targetCell);
+        updateFlavor(getTileInfoFromCell(targetCell));
+    } else if (choice === "2") {
+        swapTiles(sourceCell, targetCell);
+        updateFlavor(getTileInfoFromCell(targetCell));
+    }
     if (choice === "1" || choice === "2") saveState();
     positionOverlays();
 }
@@ -696,7 +703,7 @@ function updateFlavor(tileInfo) {
         return;
     }
     const imgSrc = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
-    flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}">`;
+    flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}" style="transform: rotate(${tileInfo.rotation}deg)">`;
     flavorTile.classList.remove('empty');
     flavorText.innerHTML = `
         <div><span class="label">Chemin :</span> ${tileInfo.folderName}/${tileInfo.fileName}</div>
@@ -804,6 +811,12 @@ function handleCellClick(e) {
             const newRotation = (currentRotation + 90) % 360;
             img.style.transform = `rotate(${newRotation}deg)`;
             logToDebug(`Rotation à ${newRotation}°`);
+            const parts = img.src.split('/');
+            updateFlavor({
+                fileName: parts[parts.length - 1].replace(/\.[^/.]+$/, ''),
+                folderName: parts[parts.length - 2],
+                rotation: String(newRotation)
+            });
         }
     }
     saveState();
