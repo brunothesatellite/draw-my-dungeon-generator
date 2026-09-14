@@ -469,7 +469,7 @@ function applyNewGridData(newData) {
             const tileInfo = newData[r][c];
             if (tileInfo) {
                 const img = document.createElement('img');
-                img.src = `tile/${tileInfo.folderName}/${tileInfo.fileName}.png`;
+                img.src = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
                 img.alt = `Tuile ${tileInfo.fileName}`;
                 img.style.transform = `rotate(${tileInfo.rotation}deg)`;
                 img.style.zIndex = '2';
@@ -527,11 +527,11 @@ function handleCellClick(e) {
             const randomIndex = Math.floor(Math.random() * availableTiles.length);
             const tileName = availableTiles[randomIndex];
             const img = document.createElement('img');
-            let tilePath = `tile/${currentTileFolder}/${tileName}`;
+            let tilePath = `tileswebp/${currentTileFolder}/${tileName}`;
             if (currentTileFolder === 'all') {
                 for (const folder in tileIndex) {
                     if (folder !== 'all' && tileIndex[folder].includes(tileName)) {
-                        tilePath = `tile/${folder}/${tileName}`;
+                        tilePath = `tileswebp/${folder}/${tileName}`;
                         break;
                     }
                 }

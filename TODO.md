@@ -4,3 +4,4 @@
 * remplacer ensuite la description de la tuile par le texte généré par l'IA pour du solo.
 * export / import JSON avec disquette dossier icones
 * sauvegarde local storage de la configuration 
+* conversion des tuiles en webp
