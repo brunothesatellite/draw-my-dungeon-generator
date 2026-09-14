@@ -1,0 +1,47 @@
+{
+  "181": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un escalier descendant jusqu'à l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Devant toi, une salle carrée aux murs minces et aux piliers robustes. L'air est chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de tentacules et de têtes de mort sculptées dans le mur. Des cercles rituels marquent le sol, et des statues de pierre gardent le secret de la salle. Des traces de pas indiquent que quelqu'un a récemment visité ce lieu. À ta droite, une porte ouverte laisse entrevoir une eau stagnante, menaçante. L'atmosphère est sinistre, et tu sens que cette salle est le cœur d'un rituel ancien.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "tentacules",
+      "soufre",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir avec escalier descendant",
+      "tileNumber": 181
+    }
+  }
+}

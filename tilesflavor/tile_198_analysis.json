@@ -1,0 +1,41 @@
+{
+  "198": {
+    "title": "La Salle des Anciens",
+    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle carrée, minuscule et vieillie, éclairée par une faible lueur qui semble provenir d'au-delà de l'autel central. Les murs, recouverts de peintures sombres et de têtes de mort, paraissent observer chaque mouvement. Des tentacules émergents des murs, comme des monstres de la nuit. Au sol, des cercles rituels marquent le chemin, tandis que des piliers robustes soutiennent le plafond. L'odeur de la mort et de l'ancienneté se mêle à l'air, créant une atmosphère glaçante. Un murmure lointain parais provenir de l'autel, comme si une force ancienne y était prisonnière. Les pierres vieillies et les murs usés racontent des milliers d'histoires, et les cercles rituels paraissent prêts à se réveiller. La tension est palpable, et un frisson vous parcourt le dos.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "tentacules",
+      "odeur de mort",
+      "salle carrée",
+      "vieille porte magique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec porte magique",
+      "tileNumber": 198
+    }
+  }
+}

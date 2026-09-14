@@ -1,0 +1,47 @@
+{
+  "212": {
+    "title": "Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais suffisante pour distinguer les piliers massifs qui soutiennent le plafond. L'atmosphère est oppressante, comme si la salle avait gardé le secret des siècles. Au centre, un autel, entouré de tentacules et de têtes de mort sculptées dans le marbre, semble attendre un rituel. Des cercles rituels marquent le sol, et une table, simple et ancienne, repose contre un mur. Des traces de pas indiquent que quelqu'un a récemment visité cette pièce. L'eau stagnante, noire et trouble, coule doucement vers le fond de la salle, créant un murmure sinistre. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère encore plus glauque. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "tentacules",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle ouverte avec 2 colonnes",
+      "tileNumber": 212
+    }
+  }
+}

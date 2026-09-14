@@ -1,0 +1,50 @@
+{
+  "290": {
+    "title": "L'Abîme Sacrée",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y pénètre à peine, éclairant les murs vieillis et les piliers usés qui soutiennent le plafond bas. Un autel central, recouvert de têtes de mort et de tentacules, attire immédiatement l'attention. Des cercles rituels gravés dans le sol attirent le regard, tandis que des traces de pas indiquent une présence récente. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure une menace latente. L'atmosphère sinistre est palpable, comme si la salle était le cœur d'un rituel ancien et pernicieux.",
+    "tags": [
+      "rituel",
+      "salle de prière",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "eau stagnante",
+      "vieillie",
+      "sinistre",
+      "abîme sacrée"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "abîme",
+      "tileNumber": 290
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "269": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière vacillante révèle une salle rectangulaire, immense et humide, où les murs sont recouverts de têtes de mort et de tentacules. Un autel central, orné de cercles rituels et de glyphes runiques, semble être le cœur de ce lieu. Les piliers et colonnes, robustes et imposants, soutiennent le plafond qui parais prêt à s'effondrer. Des barils flottent sur l'eau stagnante, et des tentacules émergent de l'ombre, prêts à frapper. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'une voix ancienne résonne dans les murs. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte.",
+    "tags": [
+      "salle de rituels",
+      "salle ancienne",
+      "crypte",
+      "rituel sombre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec baril flottant",
+      "tileNumber": 269
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "285": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de peintures archaïques, semblent se déchirer sous tes yeux. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels marquent le sol, tandis que des statues de pierre gardent les coins. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. La porte, en bois usé, parais taire les secrets de cette salle. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, comme si les forces obscures de l'ancien se réveillent.",
+    "tags": [
+      "rituel",
+      "squelette",
+      "tentacules",
+      "soufre",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "égout avec passerelle en bois, baril et épée. Égout mort est placé au bas de la tuile.",
+      "tileNumber": 285
+    }
+  }
+}

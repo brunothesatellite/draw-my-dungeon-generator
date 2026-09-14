@@ -1,0 +1,48 @@
+{
+  "284": {
+    "title": "La Crypte des Anciens",
+    "description": "Un large archway occupe le centre de l'espace. Devant toi s'ouvre une crypte rectangulaire, ses murs usés et délavés par le temps. La lumière y est si faible que tu ne peux distinguer que les contours de la pièce. Un large Archiac, comme une entrée majestueuse, se dresse au centre, ses colonnes érodées par les siècles. Des tentacules et des crânes de mort sont suspendus aux murs, comme des gardiens lugubres. Sur le sol, des spirales mystérieuses marquent le chemin. Un signe avec le numéro 234 est accroché à une colonne, comme un message ancien. Une araignée tisse son toilé dans un coin, prête à bondir. L'atmosphère est oppressante, glaçante, et te fait frissonner. Tu sens une présence ancienne, presque palpable, qui te scrute. Le mur de gauche est humide, et un courant d'air glacial te caresse le visage. La crypte est un lieu de rituel ancien, un lieu de puissance et de mystère.",
+    "tags": [
+      "épique",
+      "mystérieux",
+      "ancien",
+      "rituel",
+      "glacial"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large archway",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "sign with number 234"
+      ],
+      "creaturesOrTraces": [
+        "spider"
+      ],
+      "exits": [
+        "archway"
+      ],
+      "hazards": [
+        "spiral patterns",
+        "spider"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "égout",
+      "tileNumber": 284
+    }
+  }
+}

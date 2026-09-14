@@ -1,0 +1,46 @@
+{
+  "242": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, comme si la salle était en permanence plongée dans l'obscurité. L'atmosphère est sinistre, bientôt palpable, comme si la salle respirait une malédiction ancienne. Au centre, un autel, usé par les siècles, attire immédiatement l'attention. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens de secrets enfouis. Des cercles rituels marquent le sol, des cercles de poussière noire qui semblent avoir été dessinés par des mains qui n'ont jamais été lavées. Des piliers robustes soutiennent le plafond, leurs surfaces lisses et usées par le temps. Une table, simple et ancienne, est placée près de l'autel, comme si elle avait été utilisée pour des offrandes. Des traces de pas, comme ceux d'un être ancien, sillonnent le sol, indiquant que cette salle n'est pas abandonnée depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie de la salle, créant un miroir sombre qui reflète les ténèbres qui règnent ici. L'odeur de soufre et de mort flotte dans l'air, un mélange de vieilles pierres et de secrets enfouis. La porte, à peine visible dans l'ombre, parais être la seule issue de cette crypte. La tension est palpable, comme si quelque chose de terrible allait se produire à tout moment.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "ténèbres",
+      "vieillissement",
+      "secrets"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Siphon avec pont en bois",
+      "tileNumber": 242
+    }
+  }
+}

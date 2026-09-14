@@ -1,0 +1,44 @@
+{
+  "134": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière tamisée filtre à travers une fenêtre au fond, révélant une pièce rectangulaire aux murs de pierre brute. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel de pierre sombre, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels gravés dans le sol te font tressaillir. Les piliers massifs, sculptés de motifs anciens, semblent veiller sur la pièce. Un tableau de bois, posé sur une table, parais attendre son destin. La tension est palpable, comme si la salle était le cœur d'un rituel ancien.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "vieille salle",
+      "vieille table"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "fenêtre",
+      "condition": "bonne",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "cercles rituels"
+      ],
+      "atmosphere": "mystique",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 134
+    }
+  }
+}

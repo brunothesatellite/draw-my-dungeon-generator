@@ -1,0 +1,41 @@
+{
+  "176": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière naturelle filtre à travers des fentes minuscules, éclairant une petite salle rectangulaire aux murs de pierre brute. L'air est chargé d'une odeur de soufre et de mort, qui te pique les narines. Devant toi, un autel de pierre sombre, orné de têtes de mort sculptées, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. Les piliers massifs, sculptés de motifs anciens, semblent veiller sur la pièce. Un oiseau, peut-être un corbeau, s'envole brusquement, ajoutant une note de tension à l'atmosphère mystérieuse. L'eau stagnante, noire et trouble, se répand lentement sur le sol, créant un miroir sombre qui reflète les ombres de la salle. La tension est palpable, comme si quelque chose de terrible se préparait dans cette crypte.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "soufre",
+      "tête de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "naturelle",
+      "condition": "bonne",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir de grotte avec champignons",
+      "tileNumber": 176
+    }
+  }
+}

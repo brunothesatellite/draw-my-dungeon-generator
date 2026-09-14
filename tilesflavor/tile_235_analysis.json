@@ -1,0 +1,46 @@
+{
+  "235": {
+    "title": "Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une humidité stagnante. Devant toi, une salle irrégulière, aux murs vieillis et aux piliers robustes. L'atmosphère est oppressante, comme si la pierre elle-même respirait l'histoire de milliers d'années. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, semble attendre un rituel ancien. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le mur, tandis que des têtes de mort, sculptées avec une précision macabre, paraissent te regarder de tous les côtés. Le sol est marqué de cercles rituels et de runes, comme si la salle avait été utilisée pour des cérémonies sombres. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. Des pièges anciens, invisibles, mais bien présents, attendent les intrus. L'eau stagnante, noire et trouble, coule lentement au fond de la salle, ajoutant une note de menace à l'atmosphère déjà lugubre. La tension est palpable, chaque coin de la salle parais cacher un danger. La source de vérité révèle que cette salle était utilisée pour des rituels sombres, peut-être même pour invoquer des forces obscures.",
+    "tags": [
+      "rituels sombres",
+      "salle de rituels",
+      "ancien",
+      "tensions",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle ouverte avec dessin d'écu",
+      "tileNumber": 235
+    }
+  }
+}

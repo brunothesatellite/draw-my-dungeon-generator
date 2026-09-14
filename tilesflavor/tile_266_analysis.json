@@ -1,0 +1,47 @@
+{
+  "266": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de tentacules et de têtes de mort, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Des piliers et des tentures ornent les murs, ajoutant à l'atmosphère sinistre. Sur le sol, des cercles rituels marquent le passage. Un squelette, presque ossifié, repose près de la table, comme témoin muet des rituels passés. La fenêtre, ta seule sortie, parais surveillée par un murmure persistant. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension monte avec chaque pas, chaque murmure qui résonne dans la crypte.",
+    "tags": [
+      "salle de rituel",
+      "vieillie",
+      "sinistre",
+      "rituel ancien",
+      "squelette"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "tentures"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "égout avec une planche utilisée pour faire un pont",
+      "tileNumber": 266
+    }
+  }
+}

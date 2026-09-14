@@ -1,0 +1,44 @@
+{
+  "128": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, couverts de peintures vieillies, semblent murmurer des secrets oubliés. Devant toi, un autel rectangulaire, entouré de piliers et de statues, attire ton regard. Des têtes de mort et des tentacules peints sur les murs te regardent, comme si la salle était gardée par des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Le tableau au centre, avec le numéro 128, parais être le point focal de la pièce. L'odeur de soufre et de vieux papier te pénètre les narines, ajoutant à l'atmosphère lugubre. L'eau stagnante dans un coin de la salle crache un murmure sinistre. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "vieillie",
+      "mystérieuse",
+      "ancienne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tableau avec le numéro 128"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Salle ouverte avec 4 dessins magiques",
+      "tileNumber": 128
+    }
+  }
+}

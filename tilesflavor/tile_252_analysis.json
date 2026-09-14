@@ -1,0 +1,42 @@
+{
+  "252": {
+    "title": "La Salle des Rêves Étouffés",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs humides et les piliers qui les soutiennent. Le sol est couvert de cercles rituels, et les têtes de mort et les tentacules peints sur les murs semblent te regarder avec un malaise palpable. Un oiseau, mort et décomposé, repose au centre de la pièce, son plumage noir et déchiré par les tentacules. L'humidité est oppressante, et l'odeur de soufre et de mort flotte dans l'air. Tu sens une présence étrange, comme si quelque chose attendait dans l'eau stagnante qui remplit la moitié de la pièce. La salle parais être un lieu de repos ou de méditation, mais l'atmosphère est si mystérieuse que tu ne peux pas te résoudre à y rester longtemps.",
+    "tags": [
+      "épique",
+      "mystérieuse",
+      "humidité",
+      "salle de repos",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "personnage couché",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de repos ou de méditation",
+      "csvDescription": "égout (bassin)",
+      "tileNumber": 252
+    }
+  }
+}

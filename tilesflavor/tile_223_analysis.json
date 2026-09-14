@@ -1,0 +1,50 @@
+{
+  "223": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois vaguement les murs vieillis, recouverts de peintures sombres et de taches de rouille. Le sol est un tapis de pierre usée, marqué de cercles rituels et de glyphes runiques qui semblent avoir été dessinés il y a des siècles. Deux colonnes robustes, comme des piliers de pierre, se dressent de part et d'autre de l'autel central, où des tentacules émergent de la pierre, comme s'ils tentaient de se dégager. Des têtes de mort, sculptées avec une finesse macabre, sont suspendues aux murs, leurs yeux vides paraissant te regarder. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis longtemps. Des pièges sont dissimulés un peu partout, prêts à s'activer à la moindre intrusion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol, créant un miroir sombre qui reflète les ténèbres qui règnent ici. L'atmosphère est oppressante, presque palpable, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "salle de rituels",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 223
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "287": {
+    "title": "La Crypte des Tentacules",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière vacillante révèle une salle rectangulaire, immense et délabrée. Les murs, fissurés et recouverts de tentacules, semblent vivants. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Au centre, un autel étrange, orné de tentacules, attire ton regard. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain de tentacules t'obsède. La tension monte avec chaque pas, car tu sais que quelque chose de glaçant t'attend. Les spirales t'indiquent un piège, mais tu ne peux résister à l'appel de l'ancien. Que feras-tu ?",
+    "tags": [
+      "crypte",
+      "tentacules",
+      "rituel",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "tall, narrow structure",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "mysterious structure"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral markings"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "grotte avec abîme",
+      "tileNumber": 287
+    }
+  }
+}

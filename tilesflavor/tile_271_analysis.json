@@ -1,0 +1,47 @@
+{
+  "271": {
+    "title": "La Crypte Sacrée",
+    "description": "Des tentsacles couvrent les murs. La lumière vacillante révèle une salle rectangulaire, immense et délabrée. Les murs, fissurés et recouverts de taches de moisissure, semblent murmurer des secrets millénaires. Un escalier d'escalade grimpe vers le plafond, tandis qu'un tuyau sort du mur, comme s'il voulait échapper à l'obscurité qui l'enveloppe. Au centre de la pièce, un autel, orné de tentacules et de crânes, parais inviter les mortels à un culte ancien. Des spirales gravées dans le sol attirent ton regard, tandis que des colonnes majestueuses soutiennent le plafond. Un coffre en bois, fermé par une serrure ancienne, repose contre le mur, son contenu mystérieux. Des apparitions fantomatiques flottent dans l'air, ajoutant une note d'étrangeté à l'atmosphère malsaine. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un Archiac se trouve à l'extrémité de la pièce, menant à un autre passage. Des pièges attendent ceux qui oseront approcher de près.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "fantôme",
+      "mystique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "chest"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
+      ],
+      "exits": [
+        "archway"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "égout avec escalier d'escalade et tuyau sortant du mur",
+      "tileNumber": 271
+    }
+  }
+}

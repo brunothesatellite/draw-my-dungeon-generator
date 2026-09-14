@@ -1,0 +1,47 @@
+{
+  "211": {
+    "title": "La Chambre du Rituel",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la salle. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, un cercle de pierre émerge du sol, entouré de spirales et de croix gravées dans le sol. Des tentacules et des crânes ornent les murs, tandis que des colonnes majestueuses soutiennent le plafond. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui t'observe. L'atmosphère est oppressante, et tu te demandes ce qui s'est passé ici. L'alter au centre semble attendre un rituel ancien, mais tu ne sais pas quel sortilège a pu être invoqué ici. Les murs sont couverts de runes et de symboles énigmatiques, et tu sens que cette pièce cache des secrets profonds et dangereux.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "mystère",
+      "ancien",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "circle",
+      "wallDecorations": [
+        "tentsacles",
+        "heads"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle ouverte avec grille",
+      "tileNumber": 211
+    }
+  }
+}

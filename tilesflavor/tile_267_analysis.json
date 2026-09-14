@@ -1,0 +1,51 @@
+{
+  "267": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie. Un autel central, orné de cercles rituels, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour, comme des gardiens silencieux. Le sol, marqué de cercles rituels, parais inviter à la contemplation. Des barils de bois ancien, usés par le temps, sont empilés contre le mur. Tu sens une odeur de soufre et d'humidité, tandis que l'eau stagnante coule lentement, créant un murmure sinistre. La porte murée, à l'extrémité de la salle, parais être le seul moyen de quitter cette crypte. L'atmosphère est glauque, et tu sens une présence ancienne et malveillante qui plane dans l'air. La tension monte avec chaque pas que tu fais, comme si la crypte était prête à se réveiller.",
+    "tags": [
+      "crypte",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "eau stagnante",
+      "porte murée",
+      "ancien",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec eau sortant d'un tuyau. Une boîte ouverte semble être la « maison » d'un créature",
+      "tileNumber": 267
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "156": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. Un autel central, recouvert de têtes de mort et de tentacules, semble avoir été le cœur de ces rituels obscurs. Des cercles rituels et des glyphes runiques gravés dans le sol attirent l'œil, tandis que des statues de pierre gardent le silence. Le mobilier ancien, usé par le temps, parais avoir été abandonné depuis longtemps. Des traces de créatures étranges sillonnent le sol, comme si des forces maléfiques avaient récemment parcouru ces lieux. L'atmosphère sinistre est palpable, chaque coin révélant un piège ancien prêt à s'abattre sur l'intrus imprudent. La crypte murmure des secrets obscurs, prête à révéler sa vérité à ceux qui oseront s'y aventurer.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "sinistre",
+      "creatures étranges",
+      "pièges anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Grotte avec champignons et champignon",
+      "tileNumber": 156
+    }
+  }
+}

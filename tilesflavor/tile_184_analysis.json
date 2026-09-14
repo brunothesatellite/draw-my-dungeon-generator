@@ -1,0 +1,48 @@
+{
+  "184": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, comme si la salle était en partie enfouie. Tu aperçois un autel au centre, entouré de quatre colonnes massives qui semblent avoir vu des siècles d'obscurité. Des têtes de mort et des tentacules émergents des murs, comme si la salle était gardée par des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des secrets millénaires. Les piliers et les tentures ajoutent une touche de mystère à l'ensemble. Le mobilier ancien parais avoir été abandonné depuis longtemps, et des pièges anciens sont dissimulés dans les recoins. La porte murée à l'extrémité de la salle est fermée, mais tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule au fond de la salle.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "creatures obscures",
+      "salle de rituels",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "tentures"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec obélisque, colonnes et grand escalier montant",
+      "tileNumber": 184
+    }
+  }
+}

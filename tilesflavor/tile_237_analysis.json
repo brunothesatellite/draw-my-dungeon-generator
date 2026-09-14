@@ -1,0 +1,49 @@
+{
+  "237": {
+    "title": "La Salle du Diamant",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les colonnes de pierre, éclairant les tentacules et les crânes qui ornent les murs. Le sol, marqué de spirales mystérieuses, semble tisser un tapis de magie. Au centre, un autel ancien, sculpté de symboles énigmatiques, attire ton regard. Des monstres, silencieux et menaçants, se cachent dans les ombres, prêts à bondir. L'air est chargé d'une odeur de soufre et de mystère, et un murmure lointain parais résonner dans les murs. L'enchanté spiral, un piège mortel, se trouve au cœur de la salle, prête à tuer.",
+    "tags": [
+      "mystère",
+      "sacré",
+      "tentacules",
+      "crânes",
+      "spirales",
+      "enchanted spiral",
+      "monstres",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "monsters"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Salle ouverte avec 4 colonnes et dessin de diamant",
+      "tileNumber": 237
+    }
+  }
+}

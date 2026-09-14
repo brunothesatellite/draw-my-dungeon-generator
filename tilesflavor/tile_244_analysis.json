@@ -1,0 +1,46 @@
+{
+  "244": {
+    "title": "Le Sanctuaire des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des tentacules qui semblent danser dans l'ombre. Les murs, couverts d'une fine couche de mousse, paraissent respirer une humidité stagnante. Devant toi, un autel rectangulaire, sculpté de tentacules et de crânes de mort, attire ton regard. Des spirales et des lignes dessinent des motifs mystérieux sur le sol, tandis que des colonnes majestueuses soutiennent le plafond. Des figures étranges, comme des fantômes, paraissent flotter dans l'air, ajoutant une atmosphère de mystère. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à avancer avec prudence. Les runes enchantées, dissimulées dans les murs, paraissent prêtes à se révéler à qui sait les déchiffrer.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "crânes de mort",
+      "mystère",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "figures"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted runes"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Siphon",
+      "tileNumber": 244
+    }
+  }
+}

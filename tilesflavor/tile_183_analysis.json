@@ -1,0 +1,46 @@
+{
+  "183": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu dois te contenter de deviner les contours de la pièce. Elle est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, usés et fissurés, sont recouverts de têtes de mort et de tentacules, comme si une créature ancienne avait laissé son empreinte. Un autel, au centre, est entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des traces de créature marquent les parois, comme si quelque chose de sinistre avait récemment parcouru ces lieux. L'odeur de soufre et de pourriture flotte dans l'air, et l'humidité est telle que l'eau stagnante commence à se former dans les coins. La porte murée à l'extrémité de la salle parais être le seul moyen de quitter cette crypte. L'atmosphère est glaçante, et tu sens une menace latente qui plane dans l'air. La salle est un lieu de rituel ancien, mais il paraît que les rituels soient loin d'être terminés.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "sinistre",
+      "creatures",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Salle avec grand escalier montant",
+      "tileNumber": 183
+    }
+  }
+}

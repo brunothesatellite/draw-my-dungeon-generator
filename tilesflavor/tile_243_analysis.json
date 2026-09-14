@@ -1,0 +1,47 @@
+{
+  "243": {
+    "title": "Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres usées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Des tentacules émergent de la pénombre, comme s'ils cherchaient à se dégager. Au centre de la pièce, un autel sombre, entouré de cercles rituels dessinés au sang séché. Des piliers massifs soutiennent le plafond, et une table en bois usée repose contre le mur. Un squelette, presque complet, repose au pied de l'autel, comme s'il avait été sacrifié il y a longtemps. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un récit ancien. La tension est palpable, comme si quelque chose de sinistre attendait votre retour.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "squelette",
+      "salle de rituel",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Siphon avec tonneau flottant",
+      "tileNumber": 243
+    }
+  }
+}

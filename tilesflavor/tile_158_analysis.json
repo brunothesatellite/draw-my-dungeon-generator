@@ -1,0 +1,46 @@
+{
+  "158": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois sont dissimulés dans les recoins. Un chien errant, la fourrure sale et les yeux vides, parais t'observer avec méfiance. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de te piéger. La porte, fermée, parais prête à s'ouvrir sur l'inconnu.",
+    "tags": [
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "autel central",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "chien"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Grotte avec champignons et champignon",
+      "tileNumber": 158
+    }
+  }
+}

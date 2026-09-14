@@ -1,0 +1,52 @@
+{
+  "219": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs énigmatiques, s'élèvent à l'entrée, tandis que des piliers plus fins, ornés de tentacules et de têtes de mort, se dressent à l'intérieur. Au centre, un autel sombre attire ton regard, entouré de spirales et de croix gravées dans le sol. Des objets mystérieux, émanant d'une énergie trouble, sont disséminés un peu partout. Une présence fantomatique plane dans l'air, rendant l'atmosphère encore plus étrange. Les murs, ornés de tentacules et de têtes de mort, semblent respirer une ancienne sagesse. Les spirales et les croix gravées dans le sol paraissent vouloir te guider vers un but inconnu. L'odeur de soufre et de vieux parchemins flotte dans l'air, tandis que des murmures lointains te parviennent. Un piège enchanté menace les intrus, prêts à s'activer à la moindre intrusion. La tension est palpable, et tu sens que cette chambre sacrée cache des secrets profonds.",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "tentacules",
+      "têtes de mort",
+      "spirales",
+      "croix",
+      "mystère",
+      "piège",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Salle ouverte avec 4 petites coffres",
+      "tileNumber": 219
+    }
+  }
+}

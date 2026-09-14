@@ -1,0 +1,49 @@
+{
+  "247": {
+    "title": "La Chambre Sacrificielle",
+    "description": "Tu te retrouves plongé dans un espace rectangulaire, immense et sombre. La lumière tamisée émane des fenêtres hautes, révélant un plafond voûté et des colonnes massives qui semblent veiller sur toi. Les murs, couverts de tapisseries sombres et de masques étranges, te donnent l'impression d'être dans un sanctuaire ancien. Des spirales mystérieuses marquent le sol, et l'eau qui y coule laisse des traces glissantes sous tes pieds. Au centre de la pièce, un autel vide attire ton regard, comme si quelque chose y avait été sacrifié récemment. Des figures fantomatiques flottent dans l'air, ajoutant une note d'étrangeté à l'atmosphère déjà étrange. La tension est palpable, et tu sens que quelque chose de malveillant t'observe depuis les ombres. Les colonnes et les tapisseries paraissent vibrer légèrement, comme si elles étaient animées d'une vie propre. La chaleur humide et l'odeur de soufre te pénètrent les narines, te rappelant que tu es bien loin de la lumière du jour.",
+    "tags": [
+      "sacrifice",
+      "ancien",
+      "mystère",
+      "étrangeté",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "empty",
+      "wallDecorations": [
+        "tents",
+        "masks"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "water"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "slippery floor",
+        "hidden traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Siphon",
+      "tileNumber": 247
+    }
+  }
+}

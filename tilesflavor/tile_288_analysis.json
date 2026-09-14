@@ -1,0 +1,43 @@
+{
+  "288": {
+    "title": "L'Abîme Sacrée",
+    "description": "Des têtes de mort couvrent les murs. L'humidité pèse dans l'air, un mélange de soufre et de moisi qui vous pique les narines. Le sol est un tapis de terre grise, marqué de cercles rituels sombres qui semblent avoir été dessinés par des mains d'ombre. Des piliers de pierre noircie soutiennent le plafond, leurs surfaces lisses et lisses, comme si elles avaient été polies par des milliers d'années de prière. À l'extrémité de la pièce, un autel de pierre lisse, orné de têtes de mort sculptées, parais attendre un sacrifice. Des tentacules, minces et sinistres, émergent du sol, glissant vers vous avec une lenteur hypnotique. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis des siècles. L'atmosphère est sinistre, presque palpable, comme si la salle était le cœur d'un rituel ancien et perpétuel.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "humidité",
+      "tentacules",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "abîme dans une pièce",
+      "tileNumber": 288
+    }
+  }
+}

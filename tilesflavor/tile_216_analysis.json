@@ -1,0 +1,43 @@
+{
+  "216": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un personnage occupe le centre de l'espace. La lumière y pénètre à peine, éclairant vaguement les piliers massifs qui soutiennent le plafond. Des têtes de mort sculptées ornent les murs, leurs yeux vides semblant vous observer. Au centre, un autel de pierre, entouré de cercles rituels, attire votre attention. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau stagnante résonne sous vos pieds. La fenêtre, à l'extrémité de la pièce, parais être la seule issue, mais elle est obstruée par une toile de toile. La tension monte avec chaque pas que vous faites dans cette atmosphère glauque.",
+    "tags": [
+      "culte sombre",
+      "salle de sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "vieille salle"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "personnage",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle ouverte avec fontaine (ou petit bassin)",
+      "tileNumber": 216
+    }
+  }
+}

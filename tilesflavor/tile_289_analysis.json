@@ -1,0 +1,45 @@
+{
+  "289": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "Des têtes de mort couvrent les murs. Devant toi s'ouvre une crypte rectangulaire, faiblement éclairée par une lumière froide et diffuse. Les murs, vieillis et fissurés, sont recouverts de têtes de mort sculptées dans la pierre. Des cercles rituels dessinent des motifs sombres sur le sol, tandis que des piliers massifs soutiennent le plafond. Le mobilier ancien, usé par le temps, semble avoir été oublié depuis longtemps. Des tentacules, visqueux et sinistres, émergent des recoins, ajoutant une note d'horreur à l'atmosphère déjà menaçante. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante s'écoule lentement, créant un murmure sinistre. L'escalier qui s'ouvre au fond de la salle parais être le seul moyen de quitter cet abîme. La tension est palpable, chaque bruit résonnant comme un appel à la prudence.",
+    "tags": [
+      "abîme",
+      "têtes de mort",
+      "rituels",
+      "tentacules",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "escalier",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [
+        "escalier"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de stockage ou de rituel",
+      "csvDescription": "abîme avec pont de corde",
+      "tileNumber": 289
+    }
+  }
+}

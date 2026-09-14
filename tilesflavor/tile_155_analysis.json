@@ -1,0 +1,46 @@
+{
+  "155": {
+    "title": "La Chambre Sacrée des Ombres",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière tamisée filtre à travers les énormes champignons qui poussent au centre de la salle, projetant des ombres danseuses sur les parois irrégulières. L'air est lourd, chargé d'une odeur de terre humide et d'anciens secrets. Les murs, couverts de tentes et de masques, semblent raconter des histoires oubliées. Des colonnes majestueuses soutiennent le plafond, et un autel central, orné de statues mystérieuses, attire ton regard. Des spirales mystiques marquent le sol, et des fantômes flottent autour de toi, leurs silhouettes translucides glissant entre les colonnes. La tension est palpable, et tu sens que quelque chose de terrible se cache dans l'ombre. Des pièges enchantés pourraient se déclencher à tout moment, prêts à t'attirer dans un piège mortel.",
+    "tags": [
+      "sacrée",
+      "mystérieuse",
+      "ancienne",
+      "enchanteur",
+      "fantôme"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tents",
+        "masks"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "statues"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 155
+    }
+  }
+}

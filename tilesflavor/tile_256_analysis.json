@@ -1,0 +1,44 @@
+{
+  "256": {
+    "title": "La Chambre des Yeux",
+    "description": "Des tentacles couvrent les murs. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. Les murs, humides et froids, sont ornés de tentacules qui semblent se mouvoir, comme des serpents vivants. Au centre, un autel étrange, sculpté de spirales, attire ton regard. Des colonnes massives soutiennent le plafond, et l'odeur de soufre et de mort flotte dans l'air. L'atmosphère est oppressante, et tu sens une présence étrange qui t'observe. Des yeux étranges, semblables à ceux d'un reptile, sont gravés dans le mur, et tu te demandes ce qu'ils veulent. Des spirales gravées dans le sol te guident vers l'autel, et tu te demandes si tu as le courage de l'approcher. La tension monte, et tu te demandes si cette pièce est vraiment un lieu de culte ou un piège mortel.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "tentacules",
+      "spirales",
+      "yeux étranges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "eye-like structure",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "eye-like structure"
+      ],
+      "exits": [],
+      "hazards": [
+        "spirals",
+        "tentacles"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "égout avec grille au centre et baril au sol",
+      "tileNumber": 256
+    }
+  }
+}

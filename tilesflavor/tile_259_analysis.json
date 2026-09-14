@@ -1,0 +1,46 @@
+{
+  "259": {
+    "title": "La Crypte des Tentacules",
+    "description": "Un large circular object occupe le centre de l'espace. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. L'humidité pèse lourdement dans l'air, et un murmure lointain semble résonner. Devant toi, un grand cercle de pierre, étrangement lumineux, attire ton regard. Des tentacules phosphorescents s'enroulent autour de toi, tandis que des crânes sculptés dans le mur te fixent avec des yeux vides. Des spirales et des lignes mystérieuses marquent le sol, et des colonnes majestueuses s'élèvent à l'ombre. Un bruit de pas légers résonne, et tu sens une présence indéfinie dans l'air. L'odeur de soufre et de mort flotte dans l'atmosphère, ajoutant à l'ambiance lugubre. Un objet inconnu repose au centre, et tu sens une menace latente qui plane dans l'air. La crypte parais être le cœur d'un rituel ancien, et chaque détail te pousse à chercher la vérité derrière ce mystère.",
+    "tags": [
+      "crypte",
+      "rituel",
+      "tentacules",
+      "crânes",
+      "spirales"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "arches"
+      ],
+      "objectsOrFurniture": [
+        "unknown object"
+      ],
+      "creaturesOrTraces": [
+        "small creature"
+      ],
+      "exits": [],
+      "hazards": [
+        "unknown object"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "égout avec barils (flottants et un sur le sol)",
+      "tileNumber": 259
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "132": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Sur une table, un petit animal, peut-être un rat, parais dormir paisiblement. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. L'atmosphère est sinistre, et tu sens une présence malveillante qui plane dans l'air.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "petit animal"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte avec 2 grilles",
+      "tileNumber": 132
+    }
+  }
+}

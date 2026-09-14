@@ -1,0 +1,42 @@
+{
+  "213": {
+    "title": "La Salle du Sacrifice",
+    "description": "Un autel occupe le centre de l'espace. La lumière, faible et diffuse, se faufile à travers des fissures dans les murs, illuminant des têtes de mort sculptées dans le marbre qui ornent les murs. Des tentacules, comme ceux d'un ancien monstre marin, paraissent s'enrouler autour de l'autel central, un monolithe de pierre noire qui semble aspirer l'air. Des cercles rituels gravés dans le sol, comme des cercles de poussière noire, marquent le sol, tandis que des piliers massifs soutiennent le plafond. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et putride, s'accumule dans un coin. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rond",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle ouverte avec dessin de tête de taureau",
+      "tileNumber": 213
+    }
+  }
+}

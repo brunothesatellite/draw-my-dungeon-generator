@@ -1,0 +1,50 @@
+{
+  "141": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystique pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un rectangle rectangulaire. La lumière naturelle filtre à travers des fissures dans le plafond, éclairant les murs de pierre brute. À la lumière vacillante, tu aperçois des têtes de mort sculptées dans le linteau, leurs orbites vides te fixant avec une froideur glaçante. Des tentacules émergents des murs, semblant attendre l'arrivée de quelque chose. Au centre, un autel étrange, taillé dans la pierre, parais émettre une énergie subtile. Des cercles rituels gravés dans le sol te rappellent des rituels obscurs. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône devant l'autel. Des traces de pas humains marquent le sol, comme si quelqu'un avait récemment exploré ce lieu. La porte à l'extrémité de la salle parais fermée, mais tu sens une présence mystérieuse derrière elle. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la crypte murmure des secrets obscurs. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte.",
+    "tags": [
+      "crypte",
+      "rituel",
+      "tête de mort",
+      "tentacules",
+      "autel",
+      "soufre",
+      "mystique",
+      "ancien",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "naturelle",
+      "condition": "bonne",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "homme"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystique",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "2 couloirs séparés. L'un passe sous l'autre. Au centre du haut, une pierre étrange sort du sol",
+      "tileNumber": 141
+    }
+  }
+}

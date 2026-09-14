@@ -1,0 +1,51 @@
+{
+  "236": {
+    "title": "La Salle des Rituels",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, comme si la pièce avait été abandonnée depuis des siècles. Les murs, couverts de peintures sombres et vieillies, semblent murmurer des secrets obscurs. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers et de statues étranges, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des cérémonies sombres. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. Des pièges sont dissimulés un peu partout, prêts à s'activer à tout moment. L'eau stagnante au fond de la salle, comme si elle avait été oubliée depuis des décennies, ajoute une tension palpable à l'air ambiant. La salle est mystérieuse et menaçante, comme si elle avait été conçue pour effrayer et pourrir l'âme des intrus.",
+    "tags": [
+      "rituels",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "menaçante",
+      "vieille salle",
+      "cercles rituels",
+      "glyphes runiques",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle ouverte avec dessin magique (comme un mandala)",
+      "tileNumber": 236
+    }
+  }
+}

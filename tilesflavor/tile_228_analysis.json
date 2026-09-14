@@ -1,0 +1,48 @@
+{
+  "228": {
+    "title": "La Chambre Sacrée des Ombres",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des barreaux qui encadrent les cellules. Les murs, usés par le temps, sont recouverts de tentes et de crânes, tandis que des cercles rituels et des glyphes gravés dans le sol semblent murmurer des secrets anciens. Des colonnes majestueuses soutiennent le plafond, et un autel central, orné d'une statue mystérieuse, parais attendre les visiteurs. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain résonne, et tu sens une présence éthérée flotter dans l'air, comme si quelque chose t'observait depuis l'ombre. Les cellules sont fermées par des barreaux, mais tu perçois des traces de poison et de pièges dissimulés sous le sol. La tension est palpable, et tu sais que cette chambre cache des secrets bien plus profonds qu'il n'y paraît.",
+    "tags": [
+      "sacré",
+      "ombre",
+      "mystère",
+      "vieille crypte",
+      "vieille statue"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "statue"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparition"
+      ],
+      "exits": [],
+      "hazards": [
+        "poison gas",
+        "hidden traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux",
+      "tileNumber": 228
+    }
+  }
+}

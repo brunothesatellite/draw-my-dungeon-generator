@@ -1,0 +1,45 @@
+{
+  "275": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Un autel central attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des tentures sombres flottent au vent. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère lugubre. L'eau stagnante coule lentement dans un coin, émettant un murmure sinistre. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "tentacules",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "tentures"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "égout avec grille et escalier descendant",
+      "tileNumber": 275
+    }
+  }
+}

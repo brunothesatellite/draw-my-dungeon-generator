@@ -1,0 +1,54 @@
+{
+  "170": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du néant. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues de pierre émergent de l'obscurité, ajoutant à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de runes anciennes, comme si la salle avait été utilisée pour des rituels obscurs. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, chaque bruit pouvant révéler un danger latent.",
+    "tags": [
+      "rituels obscurs",
+      "salle de rituels",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "anciens",
+      "piliers",
+      "statues",
+      "cercles rituels",
+      "glyphes runiques",
+      "pièges anciens",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 170
+    }
+  }
+}

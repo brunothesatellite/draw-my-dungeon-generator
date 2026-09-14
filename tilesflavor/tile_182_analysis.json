@@ -1,0 +1,46 @@
+{
+  "182": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Au centre, un autel est entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et une table trône devant l'autel, mais elle est vide. Une statue, probablement ancienne, se dresse dans un coin, son visage décomposé et ses yeux vides. L'odeur de soufre et de moisi se mêle à l'air, et tu sens une présence étrange qui te pousse à te rapprocher de l'autel. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "statue"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escalier montant",
+      "tileNumber": 182
+    }
+  }
+}

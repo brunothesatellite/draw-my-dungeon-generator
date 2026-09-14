@@ -1,0 +1,44 @@
+{
+  "249": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière tamisée pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels marquent le sol, tandis que des piliers robustes soutiennent le plafond. Un autel, sombre et ancien, occupe le centre de la pièce, entouré de traces de pas qui paraissent indiquer une activité récente. L'odeur de soufre et d'humidité est intense, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "humidité",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "trou",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Siphon",
+      "tileNumber": 249
+    }
+  }
+}

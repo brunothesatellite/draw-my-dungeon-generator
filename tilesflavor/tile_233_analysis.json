@@ -1,0 +1,42 @@
+{
+  "233": {
+    "title": "Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres voilées éclaire un crâne gravé au-dessus de l'entrée, comme un regard perçant. Le sol est marqué de cercles rituels sombres, et des piliers massifs soutiennent le plafond. Des têtes de mort sont sculptées dans les pierres, tandis que des cercles rituels gravés dans le sol attirent l'œil. Le silence est troublé par un murmure lointain, et l'air est chargé d'une odeur de soufre et de mort. Un frisson vous parcourt alors que vous vous apercevez que des pièges sont dissimulés dans les ombres. La tension monte à mesurer que vous vous approchez du squelette au centre de la pièce, son ossement étincelant sous la faible lumière.",
+    "tags": [
+      "rituel",
+      "squelette",
+      "salle de sacrifice",
+      "vieillie",
+      "cercles rituels",
+      "têtes de mort",
+      "pièges",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "squelette",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte avec dessin de crâne",
+      "tileNumber": 233
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "268": {
+    "title": "La Chambre des Rituels",
+    "description": "L'ambiance mysterious pèse sur la pièce. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. L'humidité y règne, et le sol est marqué de spirales énigmatiques. Au centre, un grand cercle de pierre semble aspirer ton regard. Des tentacules et un œil écarlate sont gravés sur les murs, tandis que des colonnes majestueuses soutiennent le plafond. Un tableau de bois, ancien et usé, repose sur une table en bois, et une silhouette fantomatique plane au-dessus du cercle central. L'odeur de soufre et d'humus flotte dans l'air, et un murmure lointain parais provenir de l'eau qui coule au fond de la pièce. La tension est palpable, et tu sens que quelque chose de profondément ancien et maléfique se cache dans cette chambre.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "ancien",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tentsacles",
+        "eye"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "égout avec petites boîtes et baril",
+      "tileNumber": 268
+    }
+  }
+}

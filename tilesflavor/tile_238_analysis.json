@@ -1,0 +1,44 @@
+{
+  "238": {
+    "title": "La Salle des Ténèbres",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de moisi et de soufre. Devant toi, un autel de pierre, entouré de piliers usés, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. Les murs, recouverts de peintures sombres et de tentacules, semblent vivre d'une vie propre. Des têtes de mort, sculptées avec une précision macabre, sont suspendues aux murs, comme des yeux fixes sur toi. Le mobilier ancien, usé par le temps, parais attendre son heure. Des pièges se dissimulent partout, prêts à vous piéger. L'eau stagnante, noire et putride, coule lentement vers le centre de la salle, formant un cercle sombre qui parais vous observer. L'atmosphère est oppressante, une tension palpable qui vous pousse à chercher un moyen de fuir cette salle maudite.",
+    "tags": [
+      "rituel",
+      "salle de culte",
+      "ténèbres",
+      "vieillie",
+      "tête de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle ouverte avec dessin de tête de lion",
+      "tileNumber": 238
+    }
+  }
+}

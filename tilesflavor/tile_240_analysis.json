@@ -1,0 +1,41 @@
+{
+  "240": {
+    "title": "Salle du Culte Ancien",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres éclaircit seulement partiellement l'atmosphère mystérieuse qui plane dans l'air. L'autel central, orné de têtes de mort sculptées, semble être le point focal de cette pièce. Des cercles rituels gravés dans le sol attirent l'œil, tandis que les piliers massifs ajoutent une touche de gravité à l'ensemble. Le mobilier, malgré son âge, parais intact, comme si la salle avait été abandonnée depuis longtemps. L'eau stagnante, visible dans un coin, murmure un secret glaçant. L'odeur de soufre et de moisi flotte dans l'air, accentuant l'atmosphère lugubre. La tension est palpable, comme si quelque chose de maléfique se cachait dans les ombres.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "rituel",
+      "mystère",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle ouverte avec dessin de temple",
+      "tileNumber": 240
+    }
+  }
+}

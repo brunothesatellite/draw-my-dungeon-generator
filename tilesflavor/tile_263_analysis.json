@@ -1,0 +1,44 @@
+{
+  "263": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de reliefs sculptés, semblent murmurer des secrets millénaires. Un pilier central, orné de tentacules, domine la pièce, tandis que des cercles rituels marquent le sol. Un autel, au centre, parais attendre un culte ancien. Des têtes de mort, étranges et anciennes, sont disséminées un peu partout, ajoutant une note macabre à l'atmosphère. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, comme si quelque chose de terrible se cachait dans les ombres.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "ancien",
+      "macabre",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "pilier",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "tentacules"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "têtes de mort"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "égout avec passerelle en bois et amphore",
+      "tileNumber": 263
+    }
+  }
+}

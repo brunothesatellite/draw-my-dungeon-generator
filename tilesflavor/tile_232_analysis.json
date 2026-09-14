@@ -1,0 +1,50 @@
+{
+  "232": {
+    "title": "La Salle du Trône",
+    "description": "Des têtes de mort couvrent les murs. Les colonnes massives, usées par le temps, semblent veiller sur un autel central, où des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens. Des cercles rituels marquent le sol, et des barils de vin rouillés sont empilés dans un coin, témoignant d'une ancienne cérémonie. L'odeur de moisi et de soufre flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui remplit une fosse au centre de la pièce. La tension est palpable, et un frisson vous parcourt le dos. Devant vous, un autel, un piège attend, et la salle murmure des secrets obscurs.",
+    "tags": [
+      "salle du trône",
+      "vieillie",
+      "rituel",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "mystérieuse",
+      "menaçante",
+      "vieille salle",
+      "autel central"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Salle du trône avec colonnes et chaises, un tapis est sur le sol derrière la plateforme du trône",
+      "tileNumber": 232
+    }
+  }
+}

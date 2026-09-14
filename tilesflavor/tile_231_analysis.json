@@ -1,0 +1,42 @@
+{
+  "231": {
+    "title": "Salle du Sacrifice",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, filtrant à travers des fenêtres brisées, éclairant un autel au centre où le sang séché forme des cercles rituels. Des tentacules émergents des murs, et des têtes de mort sont suspendues aux piliers. Un tableau ancien, encadré de tentacules, est accroché au mur, racontant des mythes de démons et de cultes. La table, en bois usé, parais avoir été utilisée pour des sacrifices. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du sol. La tension est palpable, comme si quelque chose de maléfique attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "culte",
+      "sacrifice",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Salle avec un autel (du sang sur l'autel et au sol), une statue de démon et colonnes",
+      "tileNumber": 231
+    }
+  }
+}

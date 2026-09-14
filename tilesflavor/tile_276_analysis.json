@@ -1,0 +1,47 @@
+{
+  "276": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Les piliers et colonnes, usés par le temps, paraissent murmurer des secrets anciens. Des cercles rituels marquent le sol, et des barils de bois ancien sont disséminés un peu partout. Des pièges anciens, visibles sous la poussière, attendent patiemment leur prochain. La porte murée, à l'extrémité de la salle, parais tailler un passage vers l'inconnu. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et un murmure lointain parais résonner dans les murs. La crypte des Anciens vous réserve encore de nombreuses surprises.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec boîte et 2 escaliers (l'un est descendant, l'autre est grimpant)",
+      "tileNumber": 276
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "130": {
+    "title": "Le Sanctuaire des Anciens",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, aux murs couverts d'une patine ancienne. Les colonnes massives, sculptées de motifs archaïques, semblent soutenir un plafond qui semble s'effondrer peu à peu. Au centre, un autel, orné de tentes et de crânes, attire ton regard. Des cercles rituels et des glyphes mystérieux marquent le sol, comme si la pièce avait été utilisée pour des cérémonies sacrées. L'odeur de poussière et de mystère flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence ancienne, presque palpable, qui te pousse à avancer avec prudence. Les colonnes paraissent vibrer légèrement, comme si elles étaient en train de s'effondrer. Tu es seul, et la tension est palpable. Que feras-tu ?",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "rituel",
+      "mystère",
+      "colonne",
+      "autel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 130
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "250": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules, attire votre regard. Des cercles rituels gravés dans le sol vous font frémir. Des piliers robustes soutiennent le plafond, tandis que des traces de pas indiquent une présence récente. Le mobilier, usé, parais attendre votre arrivée. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets obscurs. La tension est palpable, chaque bruit résonnant dans cette atmosphère sinistre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "mobilier",
+      "traces de pas",
+      "eau stagnante",
+      "salle de rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Siphon avec pont en bois",
+      "tileNumber": 250
+    }
+  }
+}

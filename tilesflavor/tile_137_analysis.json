@@ -1,0 +1,46 @@
+{
+  "137": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce carrée, vieillie et sombre. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône devant l'autel. Des cercles rituels marquent le sol, et un squelette, ancien et décharné, repose près de l'entrée. L'odeur de soufre et de mort flotte dans l'air, et l'eau stagnante, noire et grise, s'écoule lentement du sol. La porte ouverte laisse entrevoir un passage étroit, menaçant. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "tags": [
+      "rituel ancien",
+      "salle de rituel",
+      "vieillie",
+      "sinistre",
+      "squelette"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Couloir avec quelque chose comme un piège (9 trous sur le sol comme des pointes ou des lances pourraient sortir)",
+      "tileNumber": 137
+    }
+  }
+}

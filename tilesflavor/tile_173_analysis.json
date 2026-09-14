@@ -1,0 +1,46 @@
+{
+  "173": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire l'œil, entouré de statues étranges et de tentacules qui semblent se mouvoir dans l'ombre. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des forces obscures. Des têtes de mort sculptées dans les murs observent les visiteurs, tandis que des barils de vin rouge, oubliés depuis des siècles, se dressent dans un coin. Un squelette, presque intact, repose au fond de la pièce, témoignant de l'ancienneté de ce lieu. L'eau stagnante, noire et putride, coule lentement vers le centre de la salle, créant un murmure sinistre. L'atmosphère est oppressante, et un frisson glacé vous parcourt le dos. La crypte murmure des secrets anciens, prêts à révéler leurs secrets à ceux qui oseront les explorer.",
+    "tags": [
+      "salle de rituel",
+      "vieillie",
+      "sinistre",
+      "autel",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "trésor"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 173
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "131": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, un autel rectangulaire, délabré, semble avoir été abandonné depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme si la salle était habitée par des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, comme si des sacrifices avaient eu lieu ici. Les piliers et les colonnes, usés par le temps, paraissent soutenir un plafond qui menace de s'effondrer. Des barils de bois ancien sont empilés dans un coin, et un squelette, probablement celui d'un ancien prêtre, repose au milieu de la pièce. La porte murée à l'arrière de la salle est fermée, mais tu sens une présence étrange derrière elle. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle de culte",
+      "tête de mort",
+      "tentacules",
+      "squelette",
+      "porte murée",
+      "eau stagnante",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 131
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "265": {
+    "title": "La Chambre Sacrificielle",
+    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce rectangulaire et lugubre. Les murs, couverts de taches de verdure, semblent avoir été façonnés par les mains de l'oubli. Des colonnes massives, sculptées de motifs énigmatiques, se dressent de part et d'autre de l'entrée. Devant toi, un autel sombre, orné de tentacules et de crânes, attire ton regard. Des spirales et des lignes mystérieuses marquent le sol, comme si une main ancienne avait tracé son chemin. Des figures fantomatiques, floues et sinistres, se dessinent dans l'air, comme si elles cherchaient à te parler. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond de la pièce. À droite, un baril, ancien et rouillé, parais attendre son heure. À gauche, une porte se tient fermée, mais l'atmosphère de mystère te pousse à y jeter un œil. Des pièges attendent, prêts à s'abattre sur toi. La tension est palpable, et tu sens que cette pièce a des secrets à révéler.",
+    "tags": [
+      "sacrifice",
+      "mystère",
+      "vieille crypte",
+      "vieille porte",
+      "vieille barrique",
+      "vieille colonne",
+      "vieille spirale",
+      "vieille ligne",
+      "vieille tentacule",
+      "vieille tête",
+      "vieille figure",
+      "vieille porte",
+      "vieille barrique",
+      "vieille colonne",
+      "vieille spirale",
+      "vieille ligne",
+      "vieille tentacule",
+      "vieille tête",
+      "vieille figure"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "door"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "égout (une partie sortant du mur) et un baril",
+      "tileNumber": 265
+    }
+  }
+}

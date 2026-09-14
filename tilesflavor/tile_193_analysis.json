@@ -1,0 +1,44 @@
+{
+  "193": {
+    "title": "Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches de rouille et de crasse, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de moisi se mêle à l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la pièce. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escalier montant",
+      "tileNumber": 193
+    }
+  }
+}

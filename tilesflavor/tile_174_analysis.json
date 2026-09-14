@@ -1,0 +1,48 @@
+{
+  "174": {
+    "title": "La Chambre Sacrificielle des Ombres",
+    "description": "Un fan occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, une odeur de soufre flotte dans l'air. Devant toi, une grande salle rectangulaire, les murs couverts d'une épaisse couche de mousse. Des colonnes massives soutiennent le plafond, et un fan central semble suspendu dans l'obscurité. Des tentes sont accrochées aux murs, et un autel au centre de la pièce attire ton regard. Des spirales gravées dans le sol t'indiquent le chemin à suivre. Les murs sont parsemés de glyphes anciens, et des fourmis noires sillonnent les parois. L'eau coule lentement du plafond, formant des gouttelettes qui tombent sur le sol. L'atmosphère est oppressante, et tu sens une présence mystérieuse qui plane dans l'air. La grotte parais être un lieu sacré, peut-être même un lieu de sacrifice.",
+    "tags": [
+      "sacrifice",
+      "mystère",
+      "grotte",
+      "fan",
+      "mousse",
+      "spirales",
+      "glyphes",
+      "fourmis",
+      "humidité",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "fan",
+      "wallDecorations": [
+        "tents"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ants"
+      ],
+      "exits": [],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 174
+    }
+  }
+}

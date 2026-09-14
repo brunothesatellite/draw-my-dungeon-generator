@@ -1,0 +1,46 @@
+{
+  "163": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Au centre, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des barils de bois sont disséminés un peu partout, comme si quelqu'un avait oublié de les enlever. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. La tension est palpable, comme si quelque chose de sinistre se préparait dans cette crypte. Les cercles rituels paraissent attendre un rituel ancien, et les barils pourraient contenir des secrets mortels.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sinistre",
+      "soufre",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "pas de sortie visible"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 163
+    }
+  }
+}

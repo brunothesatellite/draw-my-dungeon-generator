@@ -1,0 +1,49 @@
+{
+  "177": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle rectangulaire, vieillie et recouverte de mousse. Les murs, crevassés et fissurés, sont ornés de têtes de mort et de tentacules, comme si une créature ancienne avait marqué son empreinte. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de moisi se mêle à l'air, créant une ambiance sinistre. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau stagnante, visible dans un coin, semble prête à se lever à tout moment. La crypte murmure des secrets obscurs, et tu te demandes ce qu'elle cache vraiment.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "mobilier ancien",
+      "pièges",
+      "eau stagnante",
+      "ambiance sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir de grotte avec champignons et champignons. Un trou est enfoui dans les murs",
+      "tileNumber": 177
+    }
+  }
+}

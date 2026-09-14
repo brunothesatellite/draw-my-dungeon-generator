@@ -1,0 +1,45 @@
+{
+  "230": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues anciennes se dressent autour, ajoutant à l'atmosphère glauque. Le mobilier ancien, usé par le temps, parais attendre son heure. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te piéger. La tension monte avec chaque pas que tu fais dans cette salle de culte ou de rituel, où les secrets de l'ancien monde paraissent se cacher derrière chaque mur.",
+    "tags": [
+      "salle de culte",
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Prison avec 3 cellules (une est plus grande que les autres), grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux",
+      "tileNumber": 230
+    }
+  }
+}

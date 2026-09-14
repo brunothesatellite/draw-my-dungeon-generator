@@ -1,0 +1,49 @@
+{
+  "273": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. Devant toi, une salle carrée aux murs vieillis par le temps, leurs pierres ébréchées et usées. La lumière filtre à peine à travers les grilles rouillées, créant un jeu de lumières et d'ombres qui danse sur les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre, entouré de statues étranges et de tentacules qui semblent se mouvoir d'eux-mêmes. Des cercles rituels gravés dans le sol attirent ton regard, tandis que des têtes de mort sculptées dans les pierres te regardent avec un regard vide. Des piliers robustes soutiennent le plafond, et une tenture sombre pend du plafond, comme si elle était suspendue par des forces invisibles. Des pièges sont dissimulés partout, prêts à s'abattre sur toi. L'eau stagnante, noire et putride, coule lentement vers le centre de la salle, formant un cercle sombre qui parais aspirer tout ce qui s'approche. L'atmosphère est oppressante, te poussant à chercher un moyen de fuir cette salle de culte ou de rituel.",
+    "tags": [
+      "salle de culte",
+      "rituel sombre",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "pièges",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tenture",
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "égout avec 4 grilles",
+      "tileNumber": 273
+    }
+  }
+}

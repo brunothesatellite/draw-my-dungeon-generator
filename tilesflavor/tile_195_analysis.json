@@ -1,0 +1,48 @@
+{
+  "195": {
+    "title": "Salle des Anciens Cultes",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de peintures sombres, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Un autel central, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues anciennes se dressent autour, ajoutant à l'atmosphère glauque. Le sol est marqué de cercles rituels et de runes, et des barils de bois ancien sont disséminés un peu partout. Un squelette, visiblement ancien, repose au fond de la pièce, son crâne dégoulinant de soufre. La porte murée à l'arrière parais fermée, mais tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la pièce. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "culte",
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "squelette"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Séparées avec escalier montant et descendant",
+      "tileNumber": 195
+    }
+  }
+}

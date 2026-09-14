@@ -1,0 +1,42 @@
+{
+  "227": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans l'air. Les murs, couverts de têtes de mort et de tentacules, semblent raconter des histoires d'horreur. Un autel central, entouré de cercles rituels, attire ton regard. Les piliers massifs et le mobilier ancien ajoutent à l'ambiance sombre. L'eau stagnante au sol résonne sous tes pas, et tu sens une présence étrange qui t'observe. La température est fraîche, et un courant d'air glacial te frôle le visage. La salle est une crypte rectangulaire, et tu te demandes ce qui s'y cache vraiment.",
+    "tags": [
+      "rituels",
+      "mystère",
+      "ancien",
+      "horreur",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec 9 coffres et une porte en pierre",
+      "tileNumber": 227
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "248": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel de pierre, entouré de piliers et de colonnes vieillies, attire ton regard. Des cercles rituels gravés dans le sol te font frissonner. Des têtes de mort et des tentacules sculptés ornent les murs, tandis que des barils de bois ancien sont empilés dans un coin. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer. L'eau stagnante, noire et malsaine, remonte doucement le long du mur, créant une atmosphère oppressante. Tu sens une présence ancienne, presque palpable, qui te pousse à avancer avec prudence. Le mur de droite semble vibrer légèrement, comme si quelque chose se cachait derrière.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillissement",
+      "mystère",
+      "ancienneté"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "pas de sortie visible"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Siphon croisé avec 3 ponts",
+      "tileNumber": 248
+    }
+  }
+}

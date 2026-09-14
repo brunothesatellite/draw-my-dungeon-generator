@@ -1,0 +1,44 @@
+{
+  "127": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce carrée, vieillie et délabrée. Les murs, recouverts de peintures sombres, semblent s'effondrer sous tes yeux. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels gravés dans le sol te font tiquer. Des piliers robustes soutiennent le plafond, tandis qu'une table solitaire attend en coin. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui se reflète dans un miroir au fond de la pièce. La fenêtre, taillée dans le mur, parais être la seule issue. L'atmosphère sinistre te pousse à chercher un moyen de quitter cette salle.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sinistre",
+      "autel",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte avec des dessins floraux au sol",
+      "tileNumber": 127
+    }
+  }
+}

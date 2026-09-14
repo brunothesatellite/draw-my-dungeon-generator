@@ -1,0 +1,43 @@
+{
+  "293": {
+    "title": "L'Abîme des Sombres Rituels",
+    "description": "Des tentsacles couvrent les murs. La pièce est immense, ses murs irréguliers et humides, éclairée par une lumière diffuse qui semble provenir de nulle part. Des tentacules phosphorescents s'enroulent autour des colonnes, leurs formes sinistres évoquant des créatures obscures. Le sol est marqué de spirales sombres, comme si une force maléfique avait dessiné ces motifs. Au centre, un autel sombre attire ton regard, son autel en pierre noire paraissant avoir été sculpté par des mains malveillantes. Un crâne humain, dépourvu de mâchoires, repose sur l'autel, son regard vide paraissant t'observer. L'odeur de soufre et d'humidité âcre te pénètre les narines, et un murmure lointain parais résonner dans l'air. L'eau, stagnante et trouble, coule lentement vers le bas, formant un bassin sombre au cœur de la salle. L'atmosphère est oppressante, et tu sens que quelque chose de terrible se cache dans l'ombre.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "créature",
+      "abîme",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "dark pool",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "skull"
+      ],
+      "exits": [],
+      "hazards": [
+        "water hazard"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "abîme",
+      "tileNumber": 293
+    }
+  }
+}

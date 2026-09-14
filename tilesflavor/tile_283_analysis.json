@@ -1,0 +1,48 @@
+{
+  "283": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une salle rectangulaire aux murs couverts de stries d'âge. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre de l'entrée. Au centre, un autel de pierre, orné de tentacules et de têtes de mort, attire ton regard. Des runes mystérieuses gravées dans le sol te font scruter attentivement chaque coin. L'air est lourd, chargé d'une odeur de soufre et de mort ancienne. Un murmure lointain semble provenir de l'ombre, et tu sens une présence indéfinissable qui te scrute. Devant toi, un escalier en spirale parais s'enfoncer dans le vide, ta issant un mystère ancien et potentiellement dangereux.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "crypte",
+      "mystique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "large spiral structure",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "unknown creature"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "égout avec grille au sol et boîte",
+      "tileNumber": 283
+    }
+  }
+}

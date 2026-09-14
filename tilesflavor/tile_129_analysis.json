@@ -1,0 +1,44 @@
+{
+  "129": {
+    "title": "La Salle des Rituels",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est couvert de cercles rituels et de glyphes runiques, comme si la salle avait été utilisée pour des cérémonies sombres. Des piliers massifs soutiennent le plafond, et des statues étranges, comme des créatures anciennes, gardent le silence. Les murs sont vieillis, recouverts de têtes de mort et de tentacules qui paraissent sortir du néant. Le mobilier ancien est délabré, ajoutant à l'atmosphère lugubre. L'eau stagnante, visible dans un coin, parais attendre son heure pour se réveiller. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère mystérieuse et menaçante. Tu sens une présence ancienne, bientôt palpable, qui te scrute du haut de l'autel central.",
+    "tags": [
+      "rituels",
+      "sombre",
+      "ancien",
+      "mystère",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle ouverte avec dragon infini",
+      "tileNumber": 129
+    }
+  }
+}

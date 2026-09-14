@@ -1,0 +1,40 @@
+{
+  "185": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, recouverts de peintures sombres et vieillies, semblent murmurer des secrets millénaires. Un escalier descendant, usé par le temps, s'élève du centre de la pièce, menant à un monde inconnu. Des têtes de mort et des tentacules peints sur les murs te regardent, comme si la salle était gardée par des créatures obscures. Des cercles rituels marquent le sol, leurs contours usés par l'usure du temps. Des piliers robustes soutiennent le plafond, tandis que l'eau stagnante, noire et fétide, s'accumule dans un coin, prête à se déverser à tout moment. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère lugubre. Tu sens une présence ancienne, bientôt palpable, qui te pousse à explorer ce lieu pour découvrir ce qui se cache dans les ténèbres.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "mystère",
+      "eau stagnante",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec dessin magique et grand escalier descendant",
+      "tileNumber": 185
+    }
+  }
+}

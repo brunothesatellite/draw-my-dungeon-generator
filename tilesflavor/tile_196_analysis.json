@@ -1,0 +1,46 @@
+{
+  "196": {
+    "title": "La Salle des Sacrifices",
+    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle étroite et sombre, où la lumière filtre à peine à travers des fenêtres brisées. Les murs, usés par le temps, sont recouverts de têtes de mort sculptées et de tentacules qui semblent se mouvoir dans l'ombre. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues de pierre gardent le secret de la salle, tandis que des cercles de lumière éclairent les inscriptions mystérieuses gravées sur le sol. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos. Des pièges attendent à chaque coin, prêts à vous piéger.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "sombre",
+      "vieillie",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec porte magique",
+      "tileNumber": 196
+    }
+  }
+}

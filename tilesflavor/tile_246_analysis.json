@@ -1,0 +1,52 @@
+{
+  "246": {
+    "title": "Le Sanctuaire des Ténèbres",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'atmosphère est oppressante, comme si la salle respirait une odeur de soufre et de mort. Les murs, couverts d'une fine couche de mousse, semblent s'effondrer sous tes pas. Des tentacules et des crânes de mort sont suspendus aux murs, comme des gardiens de l'oubli. Des spirales et des lignes dessinent des motifs énigmatiques sur le sol, comme des runes anciennes. Les colonnes et les piliers, robustes et imposants, paraissent veiller sur le sanctuaire. Des objets mystérieux, brisés et étranges, sont disséminés un peu partout. Des figures fantomatiques, floues et hantées, se dessinent dans l'air, comme des esprits errants. Tu sens une présence malveillante, comme si la salle était gardée par des forces obscures. Les enchaînements magiques, invisibles, mais puissants, paraissent prêts à s'abattre sur toi. La tension est palpable, et tu te demandes ce que cache vraiment ce sanctuaire.",
+    "tags": [
+      "salle sacrée",
+      "ténèbres",
+      "soufre",
+      "tentacules",
+      "crânes",
+      "spirales",
+      "enchantement",
+      "esprits",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Siphon",
+      "tileNumber": 246
+    }
+  }
+}

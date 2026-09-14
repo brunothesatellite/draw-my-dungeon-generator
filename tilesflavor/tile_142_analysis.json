@@ -1,0 +1,47 @@
+{
+  "142": {
+    "title": "La Crypte Sacrée",
+    "description": "Tu te retrouves plongé dans un espace immense, rectangulaire, où la lumière filtre à peine à travers des fissures dans le plafond. Les murs, une fois majestueux, sont maintenant délabrés, leurs pierres érodées par le temps et les éléments. Des tentacules, comme ceux d'un ancien monstre marin, sont gravés dans le marbre des colonnes, leurs nœuds noirs et lugubres. Sur le sol, des spirales mystérieuses marquent le passage, comme si quelqu'un avait tenté de dessiner un rituel ancien. Au centre de la pièce, un autel, dépourvu de tout objet, semble attendre un sacrifice. Un fantôme, flou et transparent, plane au-dessus de l'autel, comme s'il cherchait à communiquer. L'odeur de la terre humide et de l'encens ancien te pique les narines, tandis que le murmure lointain d'un murmurer t'arrache un frisson. Les pièges sont nombreux, prêts à s'abattre sur toi à tout moment. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte sacrée.",
+    "tags": [
+      "sacrifice",
+      "crypte",
+      "tentacules",
+      "fantôme",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "empty space",
+      "wallDecorations": [
+        "tentsacles",
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Couloirs avec amphores, crâne de monstre enterré",
+      "tileNumber": 142
+    }
+  }
+}

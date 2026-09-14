@@ -1,0 +1,48 @@
+{
+  "245": {
+    "title": "Salle des Anciens",
+    "description": "Un pilier occupe le centre de l'espace. La lumière faible révèle une pièce petite, aux murs vieillis et aux plafonds bas. Un pilier central domine la pièce, entouré de reliefs sculptés qui semblent narrer des mythes anciens. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et un autel se dresse au centre, comme si des sacrifices avaient eu lieu ici. Des traces de pas indiquent que quelqu'un a récemment visité cette pièce. L'atmosphère est mystérieuse et ancienne, comme si la salle était gardée par des forces obscures. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à tout moment. La chaleur humide et l'odeur de soufre t'enveloppent, ajoutant à l'ambiance oppressante de la salle.",
+    "tags": [
+      "rituel",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "pièges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle avec une ouverture",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "pilier",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "reliefs sculptés"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "ouverture"
+      ],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Siphon",
+      "tileNumber": 245
+    }
+  }
+}

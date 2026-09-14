@@ -1,0 +1,49 @@
+{
+  "135": {
+    "title": "La Chambre Sacrificielle",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches de rouille et de mousse. Des colonnes massives, usées par le temps, soutiennent le plafond qui menace de s'effondrer. Au centre de la pièce, un autel délabré attire ton regard. Des tentacules et des crânes de mort sont suspendus aux murs, comme des reliques d'une ancienne cérémonie. Des spirales et des croix gravées dans le sol paraissent indiquer un rituel ancien. Un tableau, une table, trône au milieu de la pièce, mais il est vide. L'odeur de soufre et de pourriture flotte dans l'air, mêlée à une brume opaque qui parais s'épaissir avec chaque pas. Tu sens une présence ancienne, presque palpable, qui te pousse à te hâter. Le pitbull qui menace de s'ouvrir au fond de la pièce te rappelle que tu n'es pas seul. La tension est à son comble, et tu te demandes ce qui t'attend derrière cette atmosphère mystérieuse et étrange.",
+    "tags": [
+      "sacrifice",
+      "ancien",
+      "mystère",
+      "pitfall",
+      "creatures",
+      "vieille salle"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient enchantments"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "pitfall"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Salle ouverte avec une fontaine",
+      "tileNumber": 135
+    }
+  }
+}

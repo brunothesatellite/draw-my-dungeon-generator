@@ -1,0 +1,50 @@
+{
+  "145": {
+    "title": "La Salle des Sacrifices",
+    "description": "Tu te retrouves dans un espace étroit, presque claustro phobique, où la lumière faible et diffuse semble filtrer à travers des voiles de poussière. Les murs, recouverts d'un vieil enduit grisâtre, sont crevassés et fissurés, témoignant de l'âge et de l'abandon. Devant toi, un autel rectangulaire, taillé dans un bloc de pierre sombre, attire ton regard. Des têtes de mort sculptées, leurs yeux vides, sont suspendues aux murs, tandis que des tentacules étranges paraissent s'enrouler autour de la pièce, comme si elles cherchaient à s'échapper. Des cercles rituels gravés dans le sol, comme des cercles de poussière noire, paraissent marquer un passage ancien. Des piliers massifs, sculptés de motifs archaïques, soutiennent le plafond, qui parais bas et oppressant. Des meubles anciens, usés par le temps, sont empilés dans un coin, leurs formes étranges et déformées. Des pièges, invisibles, mais bien présents, attendent patiemment. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et visqueuse, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, comme si la salle était le cœur d'un rituel ancien, et que quelque chose de terrible se prépare.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "tête de mort",
+      "tentacules",
+      "soufre",
+      "piliers",
+      "pièges",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphère": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloirs séparés (je me suis trompé de nombre)",
+      "tileNumber": 145
+    }
+  }
+}

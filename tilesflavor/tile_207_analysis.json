@@ -1,0 +1,41 @@
+{
+  "207": {
+    "title": "Salle des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette pièce rectangulaire. Les murs, usés et couverts de taches, semblent avoir vu des siècles d'obscurité. Des piliers robustes soutiennent le plafond, et au centre de la pièce, un autel de pierre attire ton regard. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, ajoutant une note de terreur à l'atmosphère. Des cercles rituels gravés au sol te font sursauter, et tu sens une présence ancienne qui t'observe. L'odeur de soufre et de vieux papier te pique le nez, et tu perçois un murmure lointain qui parais provenir de l'angle nord-ouest. Les inscriptions sur le mur, malgré leur état dégradé, paraissent évoquer des secrets longtemps gardés. Tu te demandes ce que ces anciens ont pu faire ici, et pourquoi ils ont laissé derrière eux ces traces étranges.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "soufre",
+      "mystère",
+      "tête de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "+1",
+        "207"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "cercles rituels"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "tileNumber": 207
+    }
+  }
+}

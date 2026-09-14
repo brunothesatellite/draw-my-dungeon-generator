@@ -1,0 +1,49 @@
+{
+  "292": {
+    "title": "L'Abîme des Anciens",
+    "description": "Un altar occupe le centre de l'espace. Devant toi s'ouvre une crypte rectangulaire, éclairée par la lumière naturelle qui filtre à travers des fissures dans le plafond. L'air est humide et chargé d'une odeur de soufre. Les murs, couverts de tapisseries aux tentacules et aux têtes de mort, semblent vibrer sous tes pas. Des spirales et des croix gravées dans le sol te guident vers un autel central, orné de colonnes massives et de pilastres sculptés. Des runes anciennes et des traces de magie ancienne flottent dans l'air, comme si le temps s'était arrêté ici. L'atmosphère est oppressante, mais mystérieuse, comme si quelque chose de grand et de terrible se cachait dans l'ombre.",
+    "tags": [
+      "abîme",
+      "sacré",
+      "mystère",
+      "vieille magie",
+      "vieille crypte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient magic"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "abîme avec pont de corde",
+      "tileNumber": 292
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "221": {
+    "title": "Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible, filtrant à travers des volets usés, éclaire des murs vieillis par le temps. Des têtes de mort et des tentacules émergents des murs, comme si la salle était gardée par des créatures obscures. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, semble inviter à des cultes anciens. Des piliers et des statues, usés par les siècles, ajoutent à l'atmosphère mystérieuse. Un tableau, avec le numéro 291, accroché au mur, parais être un point de repère pour les explorateurs. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si quelque chose de terrible se cachait dans les recoins de cette salle.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "soufre",
+      "creatures obscures",
+      "salle de culte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tableau avec le numéro 291"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 221
+    }
+  }
+}

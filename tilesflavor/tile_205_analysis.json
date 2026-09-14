@@ -1,0 +1,54 @@
+{
+  "205": {
+    "title": "La Crypte des Anciens",
+    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier d'escalade menant à l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers robustes soutiennent les murs. Des barils de vin rouillés sont disséminés un peu partout, et des pièges attendent patiemment. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les recoins. La fenêtre au fond laisse entrer une lueur de lumière froide, mais l'eau stagnante menace de vous noyer. L'atmosphère sinistre est palpable, et tu sens que quelque chose de terrible se cache dans cette salle de rituel.",
+    "tags": [
+      "escalier d'escalade",
+      "autel",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "glyphes runiques",
+      "piliers",
+      "barils",
+      "pièges",
+      "fenêtre",
+      "eau stagnante",
+      "salle de rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "tileNumber": 205
+    }
+  }
+}

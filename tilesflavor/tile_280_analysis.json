@@ -1,0 +1,45 @@
+{
+  "280": {
+    "title": "La Chambre des Rituels Aquatiques",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est saturé d'une odeur de soufre et de mort, qui te pique les narines. Devant toi, un rectangle rectangulaire s'ouvre dans le vide, illuminé par une faible lueur. Des tentacules, comme ceux d'un ancien monstre marin, sont suspendus aux murs, leurs nœuds noirs et lisses semblant observer tes moindres mouvements. Des spirales mystérieuses gravées dans le sol te guident vers le centre de la pièce, où se dresse un autel de pierre. Des colonnes massives soutiennent le plafond, et un baril de bois, usé par le temps, repose contre le mur de droite. À l'horizon, un murmure de l'eau te parvient, et tu aperçois un nageur qui parais flotter juste au-dessus du niveau de l'eau, comme s'il était suspendu dans un rêve. La porte à l'extrémité de la pièce parais fermée, mais tu sens une présence étrange qui plane dans l'air, comme si quelque chose attendait de révéler son secret.",
+    "tags": [
+      "rituel",
+      "aquatique",
+      "mystère",
+      "tentacules",
+      "murmure"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "water",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "barrel"
+      ],
+      "creaturesOrTraces": [
+        "swimmer"
+      ],
+      "exits": [
+        "door"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "aquatic ritual chamber",
+      "csvDescription": "égout avec pont de corde",
+      "tileNumber": 280
+    }
+  }
+}

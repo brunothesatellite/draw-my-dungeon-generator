@@ -1,0 +1,50 @@
+{
+  "203": {
+    "title": "La Crypte des Anciens",
+    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier d'escalade menant à l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un squelette, presque intact, repose près de la table, qui semble avoir été utilisée pour des rituels. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La porte à l'extrémité de la salle parais fermée, mais tu sens une présence étrange derrière elle.",
+    "tags": [
+      "escalier d'escalade",
+      "autel",
+      "têtes de mort",
+      "cercles rituels",
+      "squelette",
+      "porte",
+      "eau stagnante",
+      "salle de rituel",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "tileNumber": 203
+    }
+  }
+}

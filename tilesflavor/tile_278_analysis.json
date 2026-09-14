@@ -1,0 +1,43 @@
+{
+  "278": {
+    "title": "Salle des Rituels Obscurs",
+    "description": "Des têtes de mort couvrent les murs. L'humidité pèse dans l'air, et un murmure sinistre semble s'échapper des murs. À l'entrée, un autel de pierre sombre, orné de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol paraissent attendre l'arrivée d'un initiateur. Des piliers massifs soutiennent le plafond, tandis que des tentacules émergent des barils encombrant le coin. L'odeur de soufre et de mort flotte dans l'air, et un frisson glacé parcourt tes os. Le silence est troublé par le bruit sourd d'eau stagnante qui remue sous le sol. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette salle.",
+    "tags": [
+      "rituels",
+      "salle obscure",
+      "têtes de mort",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec barils",
+      "tileNumber": 278
+    }
+  }
+}

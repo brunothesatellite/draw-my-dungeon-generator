@@ -1,0 +1,44 @@
+{
+  "270": {
+    "title": "L'Égout des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de cercles rituels, attire l'œil. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Les piliers, usés par le temps, semblent murmurer des secrets obscurs. Le mobilier, un peu délabré, parais avoir connu des jours meilleurs. Des pièges attendent, prêts à s'abattre sur l'intrus. La tension est palpable, chaque bruit résonnant dans cette crypte mystérieuse.",
+    "tags": [
+      "épique",
+      "sombre",
+      "rituel",
+      "sacrifice",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de sacrifice",
+      "csvDescription": "égout avec 2 tuyaux déversant de l'eau",
+      "tileNumber": 270
+    }
+  }
+}

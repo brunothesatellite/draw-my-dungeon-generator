@@ -1,0 +1,50 @@
+{
+  "186": {
+    "title": "La Chambre Sacrifie-le",
+    "description": "Des tentsacles couvrent les murs. Au centre, un autel ou une plateforme carrée attire l'œil, ornée de tentacules et de crânes de morts, comme si elle avait été le témoin de rituels obscurs. Des spirales et des hachures gravées dans le sol évoquent des symboles anciens, peut-être des runes de sacrifice. Des tables et des chaises sont éparpillées autour, comme si quelqu'un avait fui précipitamment. L'air est chargé d'une odeur de soufre et de mort, et un murmure lointain parais provenir de l'ombre. Des monstres éventuels pourraient se cacher dans les recoins, prêts à bondir. La tension est palpable, et l'atmosphère est si étrange qu'elle paraît presque vivante.",
+    "tags": [
+      "sacrifice",
+      "rituel",
+      "ancien",
+      "mystère",
+      "désolation"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from the top",
+      "condition": "dilapidated",
+      "centralFeature": "altar or platform",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "hachures"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "tables",
+        "chairs"
+      ],
+      "creaturesOrTraces": [
+        "monsters"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "traps",
+        "enchanted objects"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Salle avec colonnes et pavés étranges avec grand escalier descendant",
+      "tileNumber": 186
+    }
+  }
+}

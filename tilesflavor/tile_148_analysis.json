@@ -1,0 +1,49 @@
+{
+  "148": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Tu te retrouves plongé dans un couloir étroit, les murs de pierre ancienne te regardant avec un regard froid. La lumière naturelle filtre à travers des fenêtres étroites, révélant une salle rectangulaire aux murs couverts de tentacules et de crânes de mort. Au centre, un autel massif, orné de glyphes mystérieux, semble aspirer ton regard. Des cercles rituels gravés dans le sol te font frémir, tandis que des traces de pas récentes te poussent à avancer. L'air est lourd, chargé d'une odeur de soufre et de mystère ancien. Tu sens une présence étrange, comme si la salle était contaminée par quelque chose d'ancien et de puissant. Des murmures lointains te parviennent, et tu te demandes si tu as vraiment le droit d'être ici. La tension est palpable, et tu te demandes si tu as réellement le courage de poursuivre.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "contamination",
+      "traces de pas"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "footprints"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted",
+        "ancient traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Couloir avec une chose étrange au sol, comme si le sol était contaminé par quelque chose. Un petit autel avec des glyphes est placé dans le couloir …",
+      "tileNumber": 148
+    }
+  }
+}

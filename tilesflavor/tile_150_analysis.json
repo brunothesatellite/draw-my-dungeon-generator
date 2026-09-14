@@ -1,0 +1,48 @@
+{
+  "150": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois une atmosphère mystérieuse et ancienne qui te pèse sur les épaules. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été le théâtre de rituels obscurs. Un autel central, entouré de cercles rituels, semble attendre les fidèles. Des piliers robustes soutiennent le plafond, et un oiseau, peut-être un corbeau, plane au-dessus de la table avec inscription ISO, comme s'il avait été piégé là depuis longtemps. L'odeur de soufre et de moisi flotte dans l'air, et tu sens une présence ancienne qui t'observe. L'eau stagnante au fond de la salle crache un murmure sinistre. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituel",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "odeur de soufre",
+      "piliers",
+      "autel",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table avec inscription ISO"
+      ],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Petite salle avec champignon et un trou",
+      "tileNumber": 150
+    }
+  }
+}

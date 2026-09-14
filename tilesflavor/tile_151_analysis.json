@@ -1,0 +1,44 @@
+{
+  "151": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y pénètre à peine, éclairant vaguement les têtes de mort sculptées dans le mur et les tentacules qui semblent s'en détacher. Un autel central, orné de cercles rituels, domine la pièce. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol. Des traces de créatures étranges sillonnent les murs, et un mobilier ancien est dissimulé dans un coin. L'atmosphère sinistre est palpable, et un murmure lointain parais résonner dans les recoins obscurs. Des pièges anciens attendent, prêts à s'abattre sur l'intrus imprudent.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "sinistre",
+      "creatures étranges",
+      "pièges anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 151
+    }
+  }
+}

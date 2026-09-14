@@ -1,0 +1,44 @@
+{
+  "222": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette pièce rectangulaire vieillie. Les murs, usés et encrassés de poussière, sont ornés de têtes de mort et de tentacules qui semblent surgir des murs, comme si la salle était peuplée d'ombres. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et un tableau ancien, encadré de tentacules, est accroché au mur. La chaleur humide et l'odeur de soufre te pénètrent les narines, et tu sens une présence étrange qui t'observe. L'eau stagnante, visible dans un coin, parais prête à jaillir à tout moment. La porte, à l'extrémité de la salle, parais fermée, mais pas complètement, comme si quelqu'un avait laissé une fente pour observer les intrus.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sinistre",
+      "sacrifice",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte avec colonnes",
+      "tileNumber": 222
+    }
+  }
+}

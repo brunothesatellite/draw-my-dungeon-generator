@@ -1,0 +1,50 @@
+{
+  "178": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette petite salle rectangulaire. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des barils de bois ancien sont disséminés un peu partout, ajoutant à l'ambiance de délabrement. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, noire et trouble, remplit une partie du sol, créant une menace latente. L'odeur de soufre et de mort flotte dans l'air, accentuant l'atmosphère glauque. Devant toi, une porte murée semble être la seule issue, mais tu sens que quelque chose de plus se cache derrière.",
+    "tags": [
+      "rituels obscurs",
+      "salle de rituels",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "odeur de soufre",
+      "pièges anciens",
+      "eau stagnante",
+      "porte murée"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir de grotte avec champignons",
+      "tileNumber": 178
+    }
+  }
+}

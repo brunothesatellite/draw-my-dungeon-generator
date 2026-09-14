@@ -1,0 +1,45 @@
+{
+  "179": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce carrée, vieillie et mystérieuse. Les murs, couverts de peintures sombres, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Un autel central, entouré de cercles rituels, attire ton regard. Les piliers massifs soutiennent le plafond, tandis que l'odeur de soufre et de vieux papier te pique le nez. L'eau stagnante, visible dans un coin, parais prête à s'engouffrer dans le vide. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "salle carrée",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "eau stagnante",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Couloir de grotte avec champignons. Un carré dans le couloir et 2 carrés enfouis dans les murs",
+      "tileNumber": 179
+    }
+  }
+}

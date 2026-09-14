@@ -1,0 +1,45 @@
+{
+  "201": {
+    "title": "La Salle des Prières Sacrées",
+    "description": "Un fenêtre occupe le centre de l'espace. La lumière naturelle filtre à travers une fenêtre au fond, révélant un espace rectangulaire aux murs de pierre brute. Les reliefs sculptés ornent les murs, racontant des histoires anciennes. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un autel central, recouvert de tissus sombres, attire ton regard. Des têtes de mort sont disséminées autour, ajoutant une note macabre à l'atmosphère mystérieuse. L'odeur de soufre et de vieux papier te pénètre les narines, tandis que des tentacules s'agissent dans l'air, créant une tension palpable. Devant toi, une table en bois, chargée de manuscrits et de symboles énigmatiques, semble attendre une main experte pour la déchiffrer.",
+    "tags": [
+      "salle de prière",
+      "rituel",
+      "têtes de mort",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "naturelle",
+      "condition": "bonne",
+      "centralFeature": "fenêtre",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "têtes de mort"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "tentacules"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de prière ou de culte",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "tileNumber": 201
+    }
+  }
+}

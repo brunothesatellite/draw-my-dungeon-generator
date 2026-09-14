@@ -1,0 +1,44 @@
+{
+  "164": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible pénètre à peine, éclairant des murs vieillis et des piliers massifs qui semblent avoir vu des siècles d'obscurité. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de cercles rituels, attire ton regard. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et un squelette ancien repose au milieu, comme témoin de l'ancienne puissance qui réside ici. L'eau stagnante, noire et trouble, remue lentement, créant une tension palpable. La crypte murmure des secrets, et chaque bruit parais résonner dans les murs vieillis.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "sinistre",
+      "autel central",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 164
+    }
+  }
+}

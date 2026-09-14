@@ -1,0 +1,46 @@
+{
+  "191": {
+    "title": "Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette petite pièce carrée. Les murs vieillis et fissurés sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table en bois sombre est placée à côté de l'autel. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te scrute. Des pièges sont dissimulés dans les murs, prêts à s'activer. À travers la fenêtre, tu aperçois une eau stagnante qui semble attendre son heure. La tension est palpable, et tu sais que cette salle cache des secrets sombres.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Couloir avec escalier montant",
+      "tileNumber": 191
+    }
+  }
+}

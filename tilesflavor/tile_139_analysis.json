@@ -1,0 +1,44 @@
+{
+  "139": {
+    "title": "La Salle des Anciens",
+    "description": "Tu te retrouves plongé dans un espace étroit, où la lumière faible et diffuse semble filtrer à travers des voiles de poussière. Devant toi, une salle carrée aux murs vieillis, recouverts de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le marbre. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes, comme issus d'une autre époque, se dressent à l'entrée de deux couloirs séparés, chacun dissimulant un baril. Entre eux, un pilier en bois étrange parais cacher un mécanisme. L'odeur de soufre et de vieux papier te pique les narines, tandis que le murmure lointain d'eau stagnante résonne dans l'air. Tu sens une présence ancienne, presque palpable, qui te pousse à avancer avec prudence. La tension est palpable, chaque mouvement risquant de déclencher un piège ancien.",
+    "tags": [
+      "rituel",
+      "salle ancienne",
+      "mystère",
+      "pilier mystérieux",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "2 couloirs séparés avec un baril. Mais entre eux un pilier en bois étrange semble cacher un mécanisme",
+      "tileNumber": 139
+    }
+  }
+}

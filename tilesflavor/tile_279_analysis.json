@@ -1,0 +1,42 @@
+{
+  "279": {
+    "title": "L'Égout des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la salle rectangulaire. L'humidité est oppressante, et l'odeur de soufre te pique les narines. Devant toi, une plateforme en pierre émerge de l'eau stagnante, au centre de laquelle se dresse une petite boîte. Des tentacules dépassent de l'eau, semblant attendre. Les murs sont recouverts de têtes de mort sculptées et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et des piliers soutiennent le plafond. Un squelette flottant, visiblement ancien, est suspendu à une corde, ajoutant une note de menace. L'atmosphère est sinistre, et tu sens une présence étrange qui t'observe. L'eau stagnante est un danger potentiel, et tu te demandes ce qui pourrait se cacher sous les eaux obscures.",
+    "tags": [
+      "épique",
+      "sombre",
+      "rituel",
+      "ancien",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "porte murée",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "squelette flottant"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "égout avec baril. Une plateforme est au centre de l'eau avec une petite boîte. Un créature comme un octopus nage",
+      "tileNumber": 279
+    }
+  }
+}

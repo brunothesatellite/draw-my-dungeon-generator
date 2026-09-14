@@ -1,0 +1,48 @@
+{
+  "217": {
+    "title": "La Salle des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. La pièce est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches noires et de croix énigmatiques gravées dans le béton. Des tentacules et des crânes de mort sont suspendus aux murs, comme des têtes de démon. Des spirales mystérieuses marquent le sol, et des colonnes massives soutiennent le plafond. Tu sens une odeur de soufre et de mort qui te pèse sur les narines. L'atmosphère est oppressante, et tu as l'impression que quelque chose t'observe. Tu ne peux pas voir où se trouvent les sorties, et les dangers potentiels sont inconnus. La salle parais être un lieu de rituel ou de sacrifice, mais son exacte destination reste un mystère.",
+    "tags": [
+      "mystère",
+      "rituel",
+      "souffle de mort",
+      "tentacules",
+      "crânes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "unknown",
+      "csvDescription": "Salle ouverte",
+      "tileNumber": 217
+    }
+  }
+}

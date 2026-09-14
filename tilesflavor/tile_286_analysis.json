@@ -1,0 +1,49 @@
+{
+  "286": {
+    "title": "La Crypte des Tentacules",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est lourd et humide, et tu perçois une odeur de soufre et de mort. Devant toi, un escalier d'escalade semble tailler le rocher, menant à l'inconnu. Les murs sont recouverts de tentacules, comme s'ils avaient été peints par un artiste ancien. Des colonnes massives s'élèvent de partout, comme des gardiens silencieux. Le sol est marqué d'un spiral complexe, qui parais avoir été gravé il y a des millénaires. Tu sens une présence étrange, comme si quelque chose observait tes moindres mouvements. L'atmosphère est oppressante, et tu te demandes ce que cette crypte cache vraiment.",
+    "tags": [
+      "crypte",
+      "tentacules",
+      "escalier",
+      "colonne",
+      "spiral",
+      "mystère",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "grotte avec escalier d'escalade",
+      "tileNumber": 286
+    }
+  }
+}

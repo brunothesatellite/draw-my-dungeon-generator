@@ -1,0 +1,45 @@
+{
+  "291": {
+    "title": "L'Abîme des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. Les murs, humides et froids, sont recouverts de tentacules qui semblent vivants, se balançant lentement. Des spirales mystérieuses marquent le sol, et des colonnes imposantes s'élèvent à l'entrée de la pièce. L'odeur de soufre et d'humidité est intense, et un murmure lointain parais provenir de l'endroit le plus profond de la salle. L'atmosphère est glauque, et tu sens une présence indéfinissable qui te scrute. Les tentacules paraissent attendre, prêts à s'agripper à qui se trouvera trop proche. Tu entends un bruit de pas lointain, et tu te demandes si tu es vraiment seul dans cette salle.",
+    "tags": [
+      "abîme",
+      "tentacules",
+      "mystère",
+      "soufre",
+      "colonne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "unknown",
+      "csvDescription": "abîme",
+      "tileNumber": 291
+    }
+  }
+}

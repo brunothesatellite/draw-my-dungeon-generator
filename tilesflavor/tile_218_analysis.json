@@ -1,0 +1,42 @@
+{
+  "218": {
+    "title": "Salle des Serpents",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, filtrant à travers des fenêtres brisées, éclairant des colonnes massives qui semblent avoir été sculptées par les mains d'anciens. Un autel central, orné de tentacules et de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol attirent votre regard, tandis que des piliers robustes soutiennent le plafond. Le mobilier, usé et délabré, parais avoir été oublié depuis longtemps. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide résonne sous vos pieds. La tension est palpable, comme si quelque chose de menaçant se cachait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "serpent",
+      "vieillie",
+      "mystérieuse",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Salle ouverte avec colonnes et dessin de serpent",
+      "tileNumber": 218
+    }
+  }
+}

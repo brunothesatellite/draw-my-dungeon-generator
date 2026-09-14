@@ -1,0 +1,48 @@
+{
+  "226": {
+    "title": "La Salle des Rituels Sacrés",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour, ajoutant à l'atmosphère glauque. Le sol, marqué de cercles rituels et de runes, parais tisser un lien avec le passé. Le mobilier ancien, usé par le temps, est disséminé un peu partout. Des pièges attendent, prêts à s'activer. L'eau stagnante, qui coule lentement, murmure des secrets obscurs. La porte murée, taillée dans le mur, parais être la seule issue. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure de l'eau et les ombres dansantes créent une ambiance menaçante. La tension est palpable, chaque coin de la salle cache un danger potentiel.",
+    "tags": [
+      "rituels",
+      "salle de rituels",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec le trésor le plus grand jamais vu et une porte en fer",
+      "tileNumber": 226
+    }
+  }
+}

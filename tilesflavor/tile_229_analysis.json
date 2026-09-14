@@ -1,0 +1,51 @@
+{
+  "229": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. Les quatre cellules, séparées par des barreaux rouillés, semblent abandonnées depuis des siècles. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels gravés dans le sol te font frissonner. Les piliers massifs, recouverts de mobilier ancien, paraissent témoigner d'une époque longtemps oubliée. L'odeur de soufre et de moisi te pénètre les narines, tandis que l'eau stagnante au fond de la pièce menace de te submerger. La porte murée à l'extrémité de la crypte te fait hésiter, mais tu sais que tu dois explorer ce lieu pour découvrir ce qui se cache derrière.",
+    "tags": [
+      "crypte",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "vieillie",
+      "ancien",
+      "eau stagnante",
+      "menace",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux. Il y a un trou dans une pièce noire, fermée par une porte",
+      "tileNumber": 229
+    }
+  }
+}

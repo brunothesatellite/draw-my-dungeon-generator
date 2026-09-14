@@ -1,0 +1,45 @@
+{
+  "264": {
+    "title": "La Chambre Sacrificielle",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des colonnes qui se dressent comme des gardiens silencieux. L'air est lourd, presque tangible, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, taillé dans un bloc de pierre sombre, attire ton regard. Des tentacules, comme ceux d'un ancien monstre marin, sont accrochés aux murs, leurs nœuds noirs et lisses semblant observer chaque mouvement. Des glyphes anciens gravés dans le sol te font scruter attentivement chaque coin de la pièce. Les murs, couverts de taches de verdure, paraissent respirer une histoire ancienne et sombre. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau qui coule du plafond forme des gouttelettes qui tombent avec un bruit sourd, ajoutant à l'atmosphère lugubre de la pièce. La tension est palpable, et tu te demandes ce qui se cache derrière cette porte fermée à l'autre bout de la salle.",
+    "tags": [
+      "sacrifice",
+      "ancien",
+      "creatures",
+      "mystère",
+      "humidité"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "égout avec planches en bois comme un « pont »",
+      "tileNumber": 264
+    }
+  }
+}

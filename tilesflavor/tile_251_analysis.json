@@ -1,0 +1,45 @@
+{
+  "251": {
+    "title": "La Chambre Sacrée des Sombres",
+    "description": "Des tented wall couvrent les murs. La lumière naturelle filtre à travers les fissures du plafond, révélant une salle rectangulaire aux murs humides et aux colonnes croisées qui semblent veiller sur toi. Le sol, marqué de spirales mystérieuses, parais tisser un tapis de magie. Un autel central, recouvert d'un tissu sombre, attire ton regard. Des tentacules, visibles à peine, glissent le long des murs, ajoutant une note d'effroi à l'atmosphère. L'odeur de soufre et d'humidité se mêle à l'air, tandis que le murmure lointain d'une voix ancienne résonne dans ta tête. Les spirales enchantées sur le sol paraissent prêtes à t'attirer dans un piège mortel. La tension est palpable, et tu sens que cette pièce cache des secrets profonds et dangereux.",
+    "tags": [
+      "sombre",
+      "mystérieuse",
+      "sacré",
+      "tentacules",
+      "spirales"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "damp",
+      "centralFeature": "central pillar",
+      "wallDecorations": [
+        "tented wall"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "cross-shaped pillars"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted spiral patterns"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "égout",
+      "tileNumber": 251
+    }
+  }
+}

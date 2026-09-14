@@ -1,0 +1,39 @@
+{
+  "214": {
+    "title": "Salle des Anciens",
+    "description": "L'ambiance mystérieuse pèse sur la pièce. La faible lumière filtre à travers des fenêtres brisées, éclairant des reliefs sculptés qui racontent des mythes oubliés. Un autel central, orné de cercles rituels, semble être le cœur de cette pièce. Les piliers massifs, usés par les siècles, soutiennent un plafond qui parais prêt à s'effondrer. L'odeur de soufre et d'humidité se mêle à l'air, créant une atmosphère glauque. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "salle de culte",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle ouverte avec tonneaux",
+      "tileNumber": 214
+    }
+  }
+}

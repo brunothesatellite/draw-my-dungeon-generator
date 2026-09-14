@@ -1,0 +1,44 @@
+{
+  "187": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois un écho lointain, comme si la pierre elle-même respirait. La salle est petite, carrée, et semble avoir été abandonnée depuis des siècles. Les murs, vieillis et fissurés, sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Des cercles rituels et des glyphes runiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Deux colonnes robustes soutiennent le plafond, et un autel central, usé par le temps, parais être le point focal de cette ancienne salle de culte. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange, comme si des forces obscures y demeuraient encore. Le mur de droite parais recouvert d'un tapis de tentacules, et tu entends un murmure lointain, comme si quelque chose attendait dans l'ombre. Les anciens pièges sont toujours là, prêts à se déclencher.",
+    "tags": [
+      "culte ancien",
+      "salle de rituel",
+      "vieillie",
+      "mystérieuse",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de culte ancien",
+      "csvDescription": "Salle avec fontaine et escalier circulaire montant",
+      "tileNumber": 187
+    }
+  }
+}

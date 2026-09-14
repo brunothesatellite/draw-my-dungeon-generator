@@ -1,0 +1,47 @@
+{
+  "224": {
+    "title": "La Chambre Sacrificielle des Dragons Viking",
+    "description": "Un large stone altar occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, humide et recouverte de mousse. Les quatre colonnes majestueuses semblent avoir été érigées il y a des siècles, leurs pierres usées par le temps. Au centre, un autel de pierre massive attire ton regard, gravé de runes sombres et de symboles énigmatiques. Des tentacules et des crânes ornent les murs, tandis que des spirales mystérieuses marquent le sol. L'odeur de la terre et du vieux bois flotte dans l'air, ajoutant à l'atmosphère lugubre. L'arche au fond de la pièce parais tailler le chemin vers un autre monde. Les runes gravées sur l'autel paraissent murmurer des secrets anciens, et les spirales sur le sol semblent prêtes à t'attirer dans un piège mortel. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette pièce.",
+    "tags": [
+      "sacrifice",
+      "dragons vikings",
+      "ancien",
+      "mystère",
+      "haut lieu"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "large stone altar",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "archway"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "archway"
+      ],
+      "hazards": [
+        "spiral patterns"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Salle ouverte avec 4 colonnes et dessin de dragon viking",
+      "tileNumber": 224
+    }
+  }
+}

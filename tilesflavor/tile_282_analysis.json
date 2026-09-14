@@ -1,0 +1,47 @@
+{
+  "282": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Les murs, usés et couverts de mousse, semblent avoir été oubliés depuis des siècles. Des colonnes massives, comme des monolithes, se dressent de part et d'autre de la pièce, leurs pierres luisant d'une étrange éclatante. Au centre, un autel, dépourvu de tout objet, parais attendre un rituel ancien. Des têtes de mort sculptées dans le mur, leurs yeux vides, te regardent avec une froideur glaçante. Des tentacules, comme sortis d'un cauchemar, s'enroulent autour des piliers, ajoutant une touche de terreur à l'atmosphère. Des cercles rituels gravés dans le sol, comme des cercles d'ombre, attirent ton regard. Tu sens une odeur de soufre et de mort qui te pénètre les narines, te rappelant l'ancienneté et la puissance de cette salle. Des traces de créature, comme si quelque chose avait erré ici récemment, te font frissonner. Devant toi, une porte murée, taillée dans le mur, parais être le seul moyen de quitter cette crypte. L'eau stagnante, noire et trouble, s'écoule lentement vers le bas, créant un murmure sinistre. La tension est palpable, chaque coin de cette salle parais cacher un danger ancien et oublié.",
+    "tags": [
+      "ancien",
+      "rituel",
+      "mystère",
+      "creatures",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "porte murée",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "égout mort",
+      "tileNumber": 282
+    }
+  }
+}

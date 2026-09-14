@@ -1,0 +1,47 @@
+{
+  "254": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette petite salle rectangulaire. L'humidité est palpable, et l'odeur de soufre te pique les narines. Devant toi, un autel central attire ton regard. Des têtes de mort et des tentacules décorent les murs, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des barils de bois sont disséminés un peu partout. Tu sens une présence étrange, comme si quelque chose t'observait. L'eau stagnante au fond de la salle murmure un secret ancien. Tu entends un murmure lointain, comme si quelqu'un se cachait dans les ombres. La tension monte à chaque pas que tu fais. Que cherchent-ils ici ?",
+    "tags": [
+      "salle de rituels",
+      "crypte",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "humide",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec grille au sol",
+      "tileNumber": 254
+    }
+  }
+}

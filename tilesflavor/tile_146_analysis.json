@@ -1,0 +1,46 @@
+{
+  "146": {
+    "title": "La Salle des Anciens",
+    "description": "Tu te retrouves plongé dans un couloir étroit, les murs soudainement s'effondrent en te dévoilant une salle carrée aux murs vieillis. La lumière est faible, presque inexistante, mais tu perçois des ombres qui se dessinent sur les murs. Au centre de la pièce, un autel, entouré de piliers et de colonnes, attire ton regard. Des têtes de mort et des tentacules dépassent des fissures dans les murs, comme si la salle était sous la surveillance d'êtres maléfiques. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé et poussiéreux, semble avoir été oublié depuis des siècles. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette salle. L'eau stagnante au fond de la pièce te rappelle que tu es en présence d'un lieu ancien et maléfique.",
+    "tags": [
+      "rituels anciens",
+      "salle de rituels",
+      "têtes de mort",
+      "tentacules",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir avec une grille enfouie dans les murs … pourquoi ?",
+      "tileNumber": 146
+    }
+  }
+}

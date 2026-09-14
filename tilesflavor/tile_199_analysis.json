@@ -1,0 +1,45 @@
+{
+  "199": {
+    "title": "La Salle des Sacrifices",
+    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle carrée aux murs vieillis et aux sols couverts de cercles rituels et de glyphes runiques. La faible lumière qui filtre à travers les fenêtres voilées éclaire les têtes de mort et les tentacules qui ornent les murs, ajoutant une note d'horreur à l'atmosphère glauque. Au centre de la pièce, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des siècles d'obscurité. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des barils de bois ancien sont disséminés un peu partout, leur contenu mystérieux. Des pièges sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque bruit pouvant révéler un danger latent.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "salle de rituels"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec porte magique",
+      "tileNumber": 199
+    }
+  }
+}

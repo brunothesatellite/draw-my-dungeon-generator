@@ -1,0 +1,50 @@
+{
+  "172": {
+    "title": "La Grotte des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs irréguliers. La grotte est immense, presque démesurée, et semble avoir été abandonnée depuis des siècles. Les ruines de colonnes et de murs délabrés témoignent de son ancienne grandeur. Au centre, une énorme araignée géante t'observe, ses yeux vides et ses tentacules décharnés paraissant sortir de nulle part. Des squelettes et des crânes ornent les murs, tandis que des runes anciennes gravées dans le sol dessinent des spirales et des croix mystérieuses. Des statues brisées, leurs visages émaciés, sont disséminées un peu partout. Le silence est troublé par le murmure des araignées et le souffle de la brume qui s'infiltre à travers les fissures. L'odeur de la mort et de l'humidité est si forte qu'elle vous pénètre jusqu'aux poumons. La tension est palpable, comme si quelque chose de terrible allait se produire à tout moment. Les araignées tissent leur toile, prêtes à bondir. Des enchantements anciens pourraient se cacher dans les recoins les plus obscurs. La grotte est un lieu d'anciens rituels, mais quels sont les secrets qui se cachent derrière ces murs ?",
+    "tags": [
+      "grotte",
+      "araignée géante",
+      "rituel ancien",
+      "squelette",
+      "enchantement"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "enormous spider",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "ruined walls"
+      ],
+      "objectsOrFurniture": [
+        "broken statues",
+        "ancient runes"
+      ],
+      "creaturesOrTraces": [
+        "spider web"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "spider web",
+        "ancient enchantments"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "Grotte avec champignons",
+      "tileNumber": 172
+    }
+  }
+}

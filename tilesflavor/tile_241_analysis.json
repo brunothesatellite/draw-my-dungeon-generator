@@ -1,0 +1,46 @@
+{
+  "241": {
+    "title": "Salle des Sacrifices",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La faible lumière pénètre à travers des fenêtres brisées, éclairant les têtes de mort et les tentacules qui semblent avoir griffé les murs. Un autel central, orné de symboles énigmatiques, domine la pièce. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône au milieu. Un oiseau, peut-être un corbeau, plane dans l'air, ajoutant une note de mystère à l'atmosphère glauque. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir à chaque pas. La tension est palpable, comme si la salle attendait votre présence pour révéler ses secrets les plus sombres.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystère",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Siphon sortant du mur",
+      "tileNumber": 241
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "255": {
+    "title": "L'Égout des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers un trou dans le plafond, éclairant les murs vieillis par le temps. Des colonnes robustes, usées par les siècles, soutiennent le plafond, tandis que des piliers de pierre se dressent à l'entrée de la pièce. Un autel, couvert de têtes de mort et de tentacules, domine le centre de la salle. Des cercles rituels gravés dans le sol attirent l'œil, tandis que des barils de bois ancien sont empilés contre le mur. Des pièges anciens, visibles sous la poussière, attendent patiemment leur prochain victime. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque bruit résonnant dans cette atmosphère mystérieuse et ancienne.",
+    "tags": [
+      "épique",
+      "sombre",
+      "rituel",
+      "vieillie",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "égout avec passerelle en bois",
+      "tileNumber": 255
+    }
+  }
+}

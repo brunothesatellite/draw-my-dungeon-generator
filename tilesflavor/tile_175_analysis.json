@@ -1,0 +1,48 @@
+{
+  "175": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Au centre, un autel, entouré de cercles rituels gravés dans le sol, attire l'œil. Des piliers robustes soutiennent le plafond, et des traces de créatures se dessinent sur le sol, comme si elles avaient récemment exploré ce lieu. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et l'atmosphère sinistre vous pousse à chercher un moyen de quitter cette crypte.",
+    "tags": [
+      "salle de rituels",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "traces de créatures",
+      "eau stagnante",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Grotte avec champignons et champignons",
+      "tileNumber": 175
+    }
+  }
+}

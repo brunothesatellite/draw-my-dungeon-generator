@@ -1,0 +1,51 @@
+{
+  "194": {
+    "title": "La Crypte des Anciens",
+    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier descendant dans l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Des têtes de mort et des tentacules décorent les murs, et des cercles rituels marquent le sol. Des piliers majestueux soutiennent le plafond, et des piliers anciens sont disséminés dans la salle. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les colonnes. L'autel au centre semble attendre un sacrifice. Des pièges anciens sont dissimulés dans les recoins, et une eau stagnante menace de vous submerger. La porte murée à l'entrée est fermée, mais tu sens une présence menaçante derrière elle.",
+    "tags": [
+      "escalier",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "odeur de soufre",
+      "murmure",
+      "pièges anciens",
+      "eau stagnante",
+      "porte murée"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir avec escalier descendant",
+      "tileNumber": 194
+    }
+  }
+}
