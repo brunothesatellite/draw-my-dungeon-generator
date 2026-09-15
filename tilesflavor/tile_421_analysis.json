@@ -1,0 +1,44 @@
+{
+  "421": {
+    "title": "La Salle des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis, recouverts de têtes de mort et de tentacules. Un autel central, orné de cercles rituels, semble t’observer. Les piliers robustes, comme issus d’un autre âge, paraissent soutenir le plafond, mais tu sens une humidité stagnante qui monte du sol. Des cercles rituels marquent le sol, et des barils d’ancien mobilier ancien sont disséminés un peu partout. Tu perçois un murmure lointain, comme si quelque chose se cachait dans l’ombre. L’odeur de soufre et de mort flotte dans l’air, ajoutant à l’atmosphère sinistre. Tu sens une présence ancienne, presque palpable, qui te pousse à chercher un moyen de quitter cette salle. L’eau stagnante au fond de la salle parais prête à se lever contre toi.",
+    "tags": [
+      "rituel",
+      "ancien",
+      "salle de rituels",
+      "sinistre",
+      "humidité"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec une créature géante dans un trou",
+      "tileNumber": 421
+    }
+  }
+}

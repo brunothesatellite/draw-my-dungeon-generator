@@ -1,0 +1,39 @@
+{
+  "443": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers les fenêtres brisées, éclairant les murs vieillis par le temps. Un autel central, recouvert de poussière, semble avoir été le témoin de rituels obscurs. Des têtes de mort sculptées sont plantées dans les murs, tandis que des cercles rituels marquent le sol, comme des cercles d'ombre. Les piliers robustes, usés par l'âge, soutiennent le plafond qui menace de s'effondrer. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain parais provenir de l'angle sombre, comme si quelque chose attendait. Les anciens pièges risquent de se déclencher à tout moment, ajoutant une tension palpable à l'atmosphère sinistre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "pièges anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "salle avec 12 portes et pilier central",
+      "tileNumber": 443
+    }
+  }
+}

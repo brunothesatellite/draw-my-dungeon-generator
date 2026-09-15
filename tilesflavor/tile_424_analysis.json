@@ -1,0 +1,48 @@
+{
+  "424": {
+    "title": "Le Chœur Sacré",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, taillé dans une pierre sombre, attire ton regard. Des tentacules et des crânes de mort sont suspendus aux murs, comme des têtes de déesse. Des spirales et des glyphes gravés dans le sol te font scruter chaque coin de la pièce. Les colonnes massives, sculptées de motifs anciens, semblent veiller sur le sanctuaire. Des barils de bois sont empilés dans un coin, et tu sens un courant d'air glacial qui s'infiltre par une fente dans le mur. Le silence est troublé par un murmure lointain, comme si quelque chose observait tes pas. Les pierres humides et froides sous tes pieds te rappellent que tu es bien dans un lieu sacré, mais aussi dans un lieu de danger.",
+    "tags": [
+      "sacré",
+      "mystérieux",
+      "ancien",
+      "tentacules",
+      "crânes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "furniture"
+      ],
+      "creaturesOrTraces": [
+        "creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Petit cours d'eau sortant d'un mur avec passerelle en corde",
+      "tileNumber": 424
+    }
+  }
+}

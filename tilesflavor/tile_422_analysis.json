@@ -1,0 +1,46 @@
+{
+  "422": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière filtre à peine à travers une fenêtre étroite, éclairant vaguement les murs vieillis par le temps. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel de pierre, usé par les siècles, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent inviter à une danse macabre. Des tentacules, comme ceux d'un ancien monstre marin, sont sculptés dans le mur, ajoutant une note d'horreur à l'atmosphère sinistre. Des têtes de mort, les yeux vides, sont suspendues aux murs, tandis que des piliers robustes soutiennent le plafond. Une statue, probablement d'un dieu ancien, se dresse fièrement au milieu de la pièce, son regard perçant. Des traces de créature, comme celles d'un monstre, marquent le sol, racontant des histoires d'horreur. L'eau stagnante, noire et putride, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, chaque objet racontant une histoire de sacrifice et de malédiction.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "horreur",
+      "vieillie",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "statue"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Toit de forgeron",
+      "tileNumber": 422
+    }
+  }
+}

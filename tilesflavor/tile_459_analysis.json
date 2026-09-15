@@ -1,0 +1,44 @@
+{
+  "459": {
+    "title": "La Salle des Morts",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours des cercueils empilés au fond. L'air est lourd, chargé d'une odeur de pourriture et de soufre. Les murs, vieillis et fissurés, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Un autel central, recouvert de mobilier ancien, attire ton regard. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Tu sens une présence étrange, comme si quelque chose t'observait. L'eau stagnante au fond de la salle résonne d'un murmure sinistre. La tension est palpable, et tu te demandes ce qui se cache derrière ces cercueils.",
+    "tags": [
+      "rituels sombres",
+      "salle de morts",
+      "vieillie",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle avec des cercueils",
+      "tileNumber": 459
+    }
+  }
+}

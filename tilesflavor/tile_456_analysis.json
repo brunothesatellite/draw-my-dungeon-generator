@@ -1,0 +1,48 @@
+{
+  "456": {
+    "title": "Salle du Culte Ancien",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, révélant une pièce rectangulaire vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des rituels anciens. Deux piliers robustes soutiennent le plafond, tandis que des colonnes majestueuses encadrent l'autel central. Le mobilier ancien, usé par le temps, parais avoir été abandonné depuis longtemps. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère glauque. Devant toi, un seul passage conduit à l'extérieur, mais l'eau stagnante au sol te fait hésiter. La tension est palpable, comme si quelque chose de terrible attendait au-delà de cette porte.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "rituels",
+      "soufre",
+      "tensions"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Salle avec un sarcophage",
+      "tileNumber": 456
+    }
+  }
+}

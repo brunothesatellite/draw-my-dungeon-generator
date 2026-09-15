@@ -1,0 +1,42 @@
+{
+  "427": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers une fenêtre étroite, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel de pierre, orné de tentacules et de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent inviter à une danse mortelle. Des barils, remplis d'une eau stagnante, sont empilés contre le mur, leur contenu inconnu. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "vieillissement",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "Magasin avec table, boîtes, étagères et barils",
+      "tileNumber": 427
+    }
+  }
+}

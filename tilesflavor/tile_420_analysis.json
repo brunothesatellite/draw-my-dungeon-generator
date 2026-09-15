@@ -1,0 +1,45 @@
+{
+  "420": {
+    "title": "Salle des Latrines Sacrées",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, comme si la salle avait été abandonnée depuis des siècles. Des têtes de mort et des tentacules émergents des murs, des symboles de la mort et de l'obscurité. Au centre, un autel, entouré de cercles rituels, semble inviter à des cultes sombres. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles mystiques. Des barils, remplis d'une eau stagnante, sont disséminés un peu partout, ajoutant à l'atmosphère lugubre. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide résonne sous vos pieds. La tension est palpable, comme si quelque chose de terrible se cachait dans cette salle. Les cercles rituels attirent votre attention, et vous vous demandez quel culte sombre pourrait se tenir ici.",
+    "tags": [
+      "rituels",
+      "salle sacrée",
+      "têtes de mort",
+      "tentacules",
+      "eau stagnante",
+      "atmosphère menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle des latrines avec baril",
+      "tileNumber": 420
+    }
+  }
+}

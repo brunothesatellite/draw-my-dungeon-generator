@@ -1,0 +1,47 @@
+{
+  "442": {
+    "title": "La Salle des Anciens",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. L'atmosphère est oppressante, comme si la salle avait été abandonnée depuis des siècles. Devant toi, se dresse une structure massive et sombre, semblant organique et ancienne, comme si elle avait poussé de la terre elle-même. Des tentacules et des crânes ornent les murs, tandis que des spirales et des croix gravées marquent le sol. Les colonnes et les piliers, usés par le temps, paraissent vouloir s'effondrer. Un autel, au centre de la pièce, attire ton regard. Des runes énigmatiques et des enchantements anciens flottent dans l'air, créant une tension palpable. Tu sens une odeur de soufre et de mort, comme si des sacrifices avaient eu lieu ici. Des squelettes, disséminés un peu partout, témoignent de l'ancienneté de ce lieu. Le mur de gauche révèle un passage étroit, qui parais mener à un autre espace, mais tu ne peux pas y entrer. La salle est si mystérieuse et menaçante que tu te demandes ce qui se cache derrière les murs.",
+    "tags": [
+      "salle sacrée",
+      "rituel ancien",
+      "mystère",
+      "vieille crypte",
+      "souffle de la mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "massive, dark, organic structure",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "skeletons"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted runes",
+        "ancient enchantments"
+      ],
+      "atmosphere": "mysterious and foreboding",
+      "roomPurpose": "sacred chamber or ritual site",
+      "csvDescription": "Rivière avec 2 alligators en combat",
+      "tileNumber": 442
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "452": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des tented walls couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque tangible, et une odeur de soufre et de mort flotte dans l'air. Devant toi, un bassin rempli d'un liquide noir semble attendre. Les murs, recouverts de tentes de toile, paraissent vibrer sous tes pas. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Au centre, un autel de pierre massive attire ton regard. Des traces de pas, comme ceux d'un animal sauvage, sont gravées dans le sol, suggérant que quelqu'un a récemment visité ce lieu. L'atmosphère est oppressante, et tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "soufre",
+      "désert"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large stone structure",
+      "wallDecorations": [
+        "tented walls"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "large stone structure"
+      ],
+      "creaturesOrTraces": [
+        "footprints"
+      ],
+      "exits": [],
+      "hazards": [
+        "dampness"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Salle avec un bassin rempli d'un liquide noir",
+      "tileNumber": 452
+    }
+  }
+}

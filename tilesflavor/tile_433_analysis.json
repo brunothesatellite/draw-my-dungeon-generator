@@ -1,0 +1,49 @@
+{
+  "433": {
+    "title": "La Salle des Archers Sacrés",
+    "description": "Un altar occupe le centre de l'espace. La lumière tamisée éclaire une pièce immense, rectangulaire, dont les murs sont couverts d'une humidité persistante. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, sculpté de tentacules et de têtes de mort, attire ton regard. Des spirales et des croix gravées dans le sol te font tâtonner, tandis que des colonnes imposantes soutiennent le plafond. Des barils et des pièges sont dissimulés dans les recoins, prêts à s'abattre sur toi. Les murs sont ornés de tentacules et de têtes de mort, et des inscriptions anciennes murmurent des secrets obscurs. Un dit dangereux menace le fond de la pièce, et l'atmosphère mystérieuse te pousse à chercher des sortilèges anciens. Tu te demandes qui a pu créer cette salle et quelles sont les intentions cachées derrière ces murs.",
+    "tags": [
+      "archers",
+      "sacré",
+      "mystère",
+      "tentacules",
+      "mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "traps",
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "enchantments ancient"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "pit"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "Salle de formation pour archers",
+      "tileNumber": 433
+    }
+  }
+}

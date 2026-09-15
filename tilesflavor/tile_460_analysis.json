@@ -1,0 +1,47 @@
+{
+  "460": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de tentacules et de têtes de mort, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Des piliers et des tentures ornées de symboles archaïques flanquent la pièce. Une table, vide, est placée devant l'autel. Des traces de pas indiquent que quelqu'un a récemment visité cette salle. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension monte avec chaque pas que tu fais. Devant toi, une porte se referme lentement, bloquant toute issue.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "sinistre",
+      "soufre",
+      "piliers"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "tentures"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec des pioches dans un puits qui sépare l'accès de deux coffres.",
+      "tileNumber": 460
+    }
+  }
+}

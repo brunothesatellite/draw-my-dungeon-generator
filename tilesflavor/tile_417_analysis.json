@@ -1,0 +1,45 @@
+{
+  "417": {
+    "title": "La Salle des Anciens",
+    "description": "Tu te retrouves plongé dans un espace carré, minuscule, où la lumière faible te pénètre à peine. Les murs, usés et rugueux, semblent vibrer d'une étrange pulsation, comme s'ils étaient en vie. Au centre, un autel, vieilli et recouvert de mobilier ancien, attire ton regard. Des têtes de mort et des tentacules émergents des murs, des symboles rituels gravés dans le sol te rappellent des rites obscurs. Les piliers, robustes et massifs, soutiennent le plafond, tandis que l'odeur de soufre et de vieux papier te pique les narines. L'eau stagnante, noire et trouble, se répand lentement sur le sol, créant un miroir sombre qui te renvoie des images floues. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette salle mystérieuse et ancienne.",
+    "tags": [
+      "salle de culte",
+      "rituel",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "odeur de soufre",
+      "eau stagnante",
+      "atmosphère mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Salle circulaire avec coffre. Les murs semblent avoir un mouvement circulaire (fermé)",
+      "tileNumber": 417
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "435": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière y pénètre à peine, éclairant vaguement les piliers massifs qui soutiennent le plafond. Un autel central, orné de têtes de mort et de tentacules, attire immédiatement l'attention. Des cercles rituels marquent le sol, tandis que des barils d'ancien mobilier ancien sont disséminés autour. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Un murmure lointain semble provenir de l'eau stagnante qui remplit une partie du sol. Devant toi, une fenêtre laisse filtrer une lueur faible, offrant un aperçu de l'extérieur, mais ne révélant rien de plus.",
+    "tags": [
+      "rituels",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "eau stagnante",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "mobilier ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir avec système mécanique en pierre en rotation",
+      "tileNumber": 435
+    }
+  }
+}

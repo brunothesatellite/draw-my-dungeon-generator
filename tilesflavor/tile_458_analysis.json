@@ -1,0 +1,39 @@
+{
+  "458": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fenêtres voilées éclaire un autel central, entouré de piliers massifs. Des cercles rituels gravés dans le sol semblent attendre l'arrivée d'un initiateur. Des têtes de mort sculptées dans le mur, comme des gardiens de l'oubli, observent les visiteurs. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets obscurs. La tension est palpable, comme si la salle était prête à se réveiller.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle obscure",
+      "têtes de mort",
+      "cercles rituels"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle avec un mécanisme de roue dentée géante et un levier sur le mur",
+      "tileNumber": 458
+    }
+  }
+}

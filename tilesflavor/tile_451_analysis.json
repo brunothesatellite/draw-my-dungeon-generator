@@ -1,0 +1,48 @@
+{
+  "451": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, carrée, et semble avoir été abandonnée depuis des siècles. Les piliers massifs, usés par le temps, soutiennent un plafond qui parais prêt à s'effondrer. Au centre, un autel, vieilli et recouvert de poussière, attire ton regard. Des têtes de mort et des tentacules émergents des murs, comme s'ils veillaient sur le rituel ancien qui s'y déroulait. Des cercles rituels marquent le sol, et des barils de bois ancien sont empilés contre le mur. L'odeur de soufre et de moisi flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui remplit une partie de la salle. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette pièce.",
+    "tags": [
+      "rituel ancien",
+      "salle de rituel",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "murmure",
+      "eau stagnante",
+      "vieillie",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Salle avec une colonne géante",
+      "tileNumber": 451
+    }
+  }
+}

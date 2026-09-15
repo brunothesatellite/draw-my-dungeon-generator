@@ -1,0 +1,53 @@
+{
+  "425": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière y pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du plafond. Un autel central, entouré de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues, vieilles et érodées, se dressent autour, ajoutant à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de runes, comme si la salle avait été utilisée pour des cérémonies sombres. Des pièges sont dissimulés dans les recoins, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, chaque bruit pouvant révéler un piège ou un monstre attendu. La porte murée au fond parais être le seul moyen de quitter cette salle de rituels.",
+    "tags": [
+      "rituels",
+      "salle sombre",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "cercles rituels",
+      "glyphes runiques",
+      "pièges",
+      "atmosphère sinistre",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Rivière",
+      "tileNumber": 425
+    }
+  }
+}

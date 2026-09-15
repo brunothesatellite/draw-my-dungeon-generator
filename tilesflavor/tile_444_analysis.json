@@ -1,0 +1,47 @@
+{
+  "444": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle des têtes de mort sculptées dans le mur de droite et des tentacules qui semblent sortir du plafond. Au centre, un autel est entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et des barils de bois ancien sont empilés contre le mur de gauche. L'odeur de soufre et de moisi te pénètre les narines, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la crypte. La tension est palpable, et tu sens que quelque chose de menaçant se cache dans l'ombre.",
+    "tags": [
+      "rituel",
+      "soufre",
+      "tête de mort",
+      "tentacules",
+      "autel",
+      "cercles rituels",
+      "piliers",
+      "barils",
+      "eau stagnante",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "2 salles séparées. 2 trous (grilles enlevées) sont connectés par ces salles",
+      "tileNumber": 444
+    }
+  }
+}

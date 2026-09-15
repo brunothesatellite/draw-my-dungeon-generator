@@ -1,0 +1,46 @@
+{
+  "431": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres éclaircit à peine l'atmosphère sinistre qui plane dans l'air. Au centre de la pièce, un autel de pierre sombre, orné de tentacules et de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Les piliers massifs, usés par les siècles, soutiennent le plafond qui, lui, est recouvert de mobilier ancien, laissé là depuis des temps lointains. Des pièges mystérieux sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque bruit résonnant comme un appel à l'attention.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Couloir avec petite salle",
+      "tileNumber": 431
+    }
+  }
+}

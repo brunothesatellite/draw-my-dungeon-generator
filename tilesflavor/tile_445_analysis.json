@@ -1,0 +1,47 @@
+{
+  "445": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Tu sens une odeur de soufre et de mort qui te pèse sur les narines. Devant toi, un autel carré, entouré de piliers et de colonnes, attire ton regard. Des tentacules et des têtes de mort sont sculptés dans le mur, comme des gardiens de l'oubli. Des cercles rituels marquent le sol, et une table trône au centre. Tu entends un murmure lointain, comme si quelqu'un observait tes moindres gestes. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Prison ouverte",
+      "tileNumber": 445
+    }
+  }
+}

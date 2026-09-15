@@ -1,0 +1,44 @@
+{
+  "429": {
+    "title": "Salle du Conseil des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La pièce est petite, ovale et plongée dans une obscurité profonde. Les murs, vieillis par le temps, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, entouré de cercles rituels, attire ton regard. Les piliers massifs, vieillis, semblent garder des secrets millénaires. Le mobilier ancien, usé par les siècles, ajoute à l'atmosphère lugubre. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets anciens. La tension est palpable, comme si quelque chose de menaçant se cachait dans l'ombre.",
+    "tags": [
+      "rituels",
+      "vieillie",
+      "salle de culte",
+      "têtes de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "ovale",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "salle du conseil avec table, chaises, colonnes et cheminées",
+      "tileNumber": 429
+    }
+  }
+}

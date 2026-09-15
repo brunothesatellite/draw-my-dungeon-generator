@@ -1,0 +1,48 @@
+{
+  "449": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, une crypte rectangulaire s'ouvre, ses parois couvertes de tapisseries anciennes. Les tentacules et les crânes de la mort semblent te regarder de leurs orbites vides. Des spirales gravées dans le sol te guident vers un autel central, entouré de colonnes majestueuses. Des tables et des chaises sont disposées autour, comme si des rituels avaient eu lieu récemment. Des figures fantomatiques flottent dans l'air, leurs silhouettes floues et éthérées. L'odeur de la mort et de l'ancienneté se mêle à l'air, créant une atmosphère glauque et étrange. Des pièges enchantés attendent, prêts à s'activer. La tension est palpable, et tu sens que quelque chose de profondément ancien et de terrifiant se cache dans cette pièce.",
+    "tags": [
+      "sacrée",
+      "ancienne",
+      "mystérieuse",
+      "épique",
+      "fantastique"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "tables",
+        "chairs"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "Couloir avec cercueils dans des alcôves",
+      "tileNumber": 449
+    }
+  }
+}

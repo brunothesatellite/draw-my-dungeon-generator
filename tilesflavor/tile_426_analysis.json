@@ -1,0 +1,44 @@
+{
+  "426": {
+    "title": "Salle des Sacrifices",
+    "description": "Un statue occupe le centre de l'espace. La faible lumière filtre à travers des fenêtres brisées, éclairant un autel central orné d'une statue d'araignée gigantesque. Les colonnes massives, usées par les siècles, supportent un plafond qui semble prêt à s'effondrer. Des gouttières encastrées dans les murs sont remplies de sang sec, séchant depuis des années. Des têtes de mort et des tentacules émergents des murs, comme s'ils étaient des gardiens de cette ancienne salle de culte. Des cercles rituels marquent le sol, et les piliers aux angles arrondis ajoutent une touche de mystère à l'ensemble. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de s'écouler du plafond. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "salle de culte",
+      "statue d'araignée",
+      "sang séché",
+      "têtes de mort",
+      "atmosphère menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "statue",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de culte ancien",
+      "csvDescription": "Autel de sacrifice avec statue d'araignée et colonnes. Certains gouttières sont pleines de sang sec",
+      "tileNumber": 426
+    }
+  }
+}

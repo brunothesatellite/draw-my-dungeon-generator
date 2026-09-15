@@ -1,0 +1,42 @@
+{
+  "423": {
+    "title": "L'Observatoire des Ténèbres",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu dois te contenter de deviner les contours de la salle vieillie. Les murs, recouverts de peintures sombres et de tentacules phosphorescents, semblent respirer une atmosphère mystérieuse et menaçante. Au centre de la pièce, un robot suspendu parais surveiller tes moindres mouvements. Des cercles rituels gravés dans le sol te font tiquer, et des têtes de mort sculptées dans le mur ajoutent une touche d'horreur à l'ambiance. Les piliers massifs et les colonnes imposantes donnent l'impression d'une ancienne salle de laboratoire ou de stockage. Une boîte en bois, posée au milieu de la pièce, parais être le seul objet de valeur. L'odeur de soufre et de rouille te pique les narines, et tu sens une présence étrange qui plane dans l'air. Des pièges électriques sont dissimulés un peu partout, prêts à s'activer à tout moment.",
+    "tags": [
+      "obscurité",
+      "mystère",
+      "robot",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "robot suspendu",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "boîte"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges électriques"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de stockage ou de laboratoire",
+      "csvDescription": "observatoire avec sphère armillaire et télescope",
+      "tileNumber": 423
+    }
+  }
+}

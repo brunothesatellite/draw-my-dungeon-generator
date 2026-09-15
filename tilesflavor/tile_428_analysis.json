@@ -1,0 +1,46 @@
+{
+  "428": {
+    "title": "Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux de l'ancienne magie. Au centre, un autel, entouré de cercles rituels, semble inviter les voyageurs à se pencher sur le mystère qui l'habite. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont empilés dans un coin, leur surface usée racontant des siècles d'oubli. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets. La tension est palpable, chaque bruit résonnant comme un appel à l'aventure.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystère",
+      "ancien",
+      "salle de rituels"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle glacée",
+      "tileNumber": 428
+    }
+  }
+}

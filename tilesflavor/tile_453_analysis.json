@@ -1,0 +1,45 @@
+{
+  "453": {
+    "title": "La Chambre Sacrificielle",
+    "description": "Un large stone altar occupe le centre de l'espace. La lumière tamisée éclaire un autel de pierre au centre, entouré de tentacules étranges qui semblent se mouvoir d'eux-mêmes. Des spirales mystérieuses marquent le sol, et des barils en bois sont disséminés un peu partout. Un crâne humain, dépourvu de mâchoires, repose sur l'autel, comme témoin de rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau noire et visqueuse remplit le bassin au fond de la pièce. Un murmure lointain parais provenir de l'ombre, ajoutant à l'atmosphère étrange et menaçante. La tension est palpable, et un frisson vous parcourt le dos. Que se cache-t-il vraiment dans cette chambre sacrifie-le ?",
+    "tags": [
+      "sacrifice",
+      "rituel",
+      "tentacules",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large stone altar",
+      "wallDecorations": [
+        "tented tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "wooden beams"
+      ],
+      "creaturesOrTraces": [
+        "skull"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Salle avec un bassin rempli d'un liquide noir",
+      "tileNumber": 453
+    }
+  }
+}

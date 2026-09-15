@@ -1,0 +1,42 @@
+{
+  "432": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière tamisée filtre à travers une fenêtre au fond, révélant une pièce carrée aux murs couverts d'une patine ancienne. Des piliers massifs soutiennent le plafond, et au centre, un autel sombre attire ton regard. Des têtes de mort sculptées dans le mur et des tentacules émergents des angles, ajoutant une note macabre à l'atmosphère. Des cercles rituels gravés dans le sol te font scruter l'endroit avec un mélange de curiosité et de peur. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'eau froide te fait frissonner. Tu sens une présence ancienne, un poids lourd qui pèse sur cette pièce. Un mur à droite cache une fenêtre, ta seule issue. Des pièges anciens sont dissimulés dans les recoins, prêts à t'attirer dans leur piège.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "macabre",
+      "ancien",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "fenêtre",
+      "condition": "ancienne",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [
+        "fenêtre"
+      ],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de sacrifice",
+      "csvDescription": "Salle avec bassin et 3 statues",
+      "tileNumber": 432
+    }
+  }
+}

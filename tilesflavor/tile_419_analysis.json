@@ -1,0 +1,52 @@
+{
+  "419": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et un tabouret en bois est posé à côté de l'autel. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te tenir à l'écart. À droite, un coffre est enterré dans le sol, et à gauche, un petit baril semble attendre son tour. La porte à l'extrémité de la salle parais fermée, mais tu sais que des pièges t'attendent derrière. L'eau stagnante au sol est un danger à ne pas sous-estimer. La salle est une crypte ancienne, un lieu de rituel sombre et sinistre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "soufre",
+      "tête de mort",
+      "tentacules",
+      "autel",
+      "piliers",
+      "coffre",
+      "baril",
+      "pièges",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "tabouret"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "2 salles séparées avec cheminée de chaque côté du mur de séparation. Un coffre dans une salle et un petit baril dans l'autre",
+      "tileNumber": 419
+    }
+  }
+}

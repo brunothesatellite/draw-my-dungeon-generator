@@ -1,0 +1,46 @@
+{
+  "434": {
+    "title": "Le Pont des Morts",
+    "description": "Des têtes de mort couvrent les murs. Les murs, usés et couverts de taches de moisissure, semblent murmurer des secrets oubliés. Devant toi, un autel de pierre, entouré de piliers et de colonnes, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. À droite, une porte murée, ornée de tentacules et de têtes de mort, parais tailler un passage vers l'inconnu. L'odeur de soufre et de pourriture flotte dans l'air, tandis que l'eau stagnante, noire et grise, s'écoule lentement du plafond. La tension est palpable, comme si quelque chose de terrible se cachait derrière cette porte.",
+    "tags": [
+      "rituel ancien",
+      "salle de rituel",
+      "porte murée",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "eau stagnante",
+      "atmosphère menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "porte murée",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Pont en bois pourri passant au-dessus d'une salle",
+      "tileNumber": 434
+    }
+  }
+}

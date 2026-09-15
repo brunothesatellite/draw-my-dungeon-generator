@@ -1,0 +1,47 @@
+{
+  "437": {
+    "title": "La Chambre des Rituels",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, un autel circulaire domine la pièce, entouré de colonnes massives qui semblent avoir vu des milliers d'années. Des tentacules et des tapisseries aux motifs étranges ornent les murs, tandis que des spirales et des lignes dessinent des motifs mystérieux sur le sol. Les runes et les glyphes gravés sur les murs paraissent murmurer des secrets anciens. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère oppressante. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau qui coule du plafond forme des gouttelettes qui tombent sur le sol, créant un murmure constant. La tension est palpable, et tu te demandes ce que cette pièce a pu être et qui l'a utilisée.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "ancien",
+      "humidité",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tentacles",
+        "tents"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "glyphs",
+        "runes"
+      ],
+      "exits": [],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "Rivière",
+      "tileNumber": 437
+    }
+  }
+}

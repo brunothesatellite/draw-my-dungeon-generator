@@ -1,0 +1,45 @@
+{
+  "439": {
+    "title": "La Salle des Tentacules",
+    "description": "Des tented structure couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, une grande structure circulaire domine la pièce, entourée de colonnes majestueuses. Des tentacules noirs, longs et sinistres, semblent sortir de nulle part, se balançant dans l'air. Des barils et des caisses sont empilés contre le mur, et l'un d'eux parais flotter, comme s'il était animé. Des spirales mystérieuses marquent le sol, et un tentacule parais se glisser vers l'un d'eux. La salle est silencieuse, mais tu sens une présence étrange, comme si quelque chose attendait. Les murs sont recouverts d'un tissu tendu, et tu aimes à penser qu'il cache des secrets. L'atmosphère est oppressante, et tu te demandes ce que cette salle rituelle a pu être et ce qui y se passe encore.",
+    "tags": [
+      "rituelle",
+      "sombre",
+      "tentacules",
+      "mystérieuse",
+      "salle des secrets"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tented structure"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "unknown object"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "unknown object"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritualistic",
+      "csvDescription": "Rivière avec caisses, barils et baril flottant",
+      "tileNumber": 439
+    }
+  }
+}

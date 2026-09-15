@@ -1,0 +1,44 @@
+{
+  "448": {
+    "title": "Salle des Anciens Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs vieillis par le temps. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des poutres de bois ancien reposent sur des meubles usés. Un squelette, presque intact, repose au milieu de la pièce, son crâne dégoulinant de sang séché. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, comme si la salle attendait une cérémonie rituelle.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "vieillie",
+      "squelette",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Couloir passant sous un autre couloir",
+      "tileNumber": 448
+    }
+  }
+}

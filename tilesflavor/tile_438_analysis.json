@@ -1,0 +1,44 @@
+{
+  "438": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers les voiles déchirés, éclairant les murs vieillis par le temps. Un autel central, recouvert de tissus usés, attire immédiatement l'attention. Des têtes de mort et des tentacules émergents des murs, comme s'ils veillaient sur les rituels anciens. Des cercles rituels marquent le sol, tandis que des piliers robustes soutiennent le plafond. Des barils de bois, usés par le temps, sont empilés contre le mur, et un oiseau, peut-être un corbeau, plane au-dessus de la pièce, ajoutant une note de mystère. L'atmosphère est oppressante, et l'odeur de soufre et de mort flotte dans l'air. L'eau stagnante, visible dans un coin, semble prête à se lever à tout moment. La tension est palpable, et un frisson vous parcourt le dos.",
+    "tags": [
+      "culte",
+      "rituel",
+      "vieillie",
+      "mystère",
+      "sacrifice"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "oiseau"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "Rivière avec ponton",
+      "tileNumber": 438
+    }
+  }
+}

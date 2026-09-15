@@ -1,0 +1,44 @@
+{
+  "447": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent inviter à une danse macabre. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Un spider, ses yeux vides, parais attendre son heure. La table, au fond, parais avoir été utilisée pour des rituels passés. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce, créant un murmure sinistre. L'atmosphère est oppressante, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "têtes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "spider"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Cage circulaire avec porte ouverte dans une salle",
+      "tileNumber": 447
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "436": {
+    "title": "La Salle des Sombres",
+    "description": "Des tentsacles couvrent les murs. La lumière d'Emma, révélant une grande vasque circulaire au cœur d'une pièce ouverte, ancienne et mystérieuse. Les murs, ornés de tentacules et de têtes de mort, semblent observer tes moindres mouvements. Des colonnes majestueuses soutiennent le plafond, tandis que des glyphes et des cercles rituels marquent le sol. Un autel central, entouré de runes anciennes, attire ton regard. L'air est chargé d'une odeur de soufre, et un murmure étrange résonne dans l'ombre. L'énorme spirale au centre de la vasque parais vivante, prête à engloutir tout intrus. Tu sens une présence inconnue, pesante et menaçante, qui plane dans l'air. La tension est palpable, et tu te demandes ce que cette salle sacrée cache vraiment.",
+    "tags": [
+      "salle sacrée",
+      "spirale magique",
+      "tentacules",
+      "odeur de soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "circular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "enormous spiral",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "glyphs",
+        "ritual circles"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "unknown entity"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted spiral",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "grande vasque dans salle ouverte",
+      "tileNumber": 436
+    }
+  }
+}
