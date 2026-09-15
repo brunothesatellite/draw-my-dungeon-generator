@@ -1,0 +1,48 @@
+{
+  "296": {
+    "title": "L'Abîme Sacrée",
+    "description": "Un autel ou mobilier important occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel de pierre, usé par le temps, domine la pièce. Des tentacules phosphorescents s'enroulent autour de ses colonnes, comme des serpents de nuit. Des cercles rituels gravés dans le sol émettent un faible éclat, tandis que des glyphes runiques se dessinent sur les murs, comme des yeux fixes sur toi. Des têtes de mort, sculptées avec une finesse macabre, sont suspendues aux murs, leurs yeux vides semblant te suivre. Des traces de pas, comme ceux d'un monstre ancien, marquent le sol, se perdant dans l'obscurité. L'eau stagnante, noire et fétide, remue lentement au fond d'un bassin au centre de la pièce. L'atmosphère est sinistre et oppressante, comme si la salle était le cœur d'un culte ancien. Les piliers, robustes et usés, paraissent soutenir un plafond qui menace de s'effondrer à tout moment.",
+    "tags": [
+      "rituel",
+      "culte",
+      "sombre",
+      "vieille salle",
+      "tête de mort",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "obscurité",
+      "condition": "vieille et usée",
+      "centralFeature": "autel ou mobilier important",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "autel",
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre et mystérieuse",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "abîme",
+      "tileNumber": 296
+    }
+  }
+}

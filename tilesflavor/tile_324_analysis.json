@@ -1,0 +1,51 @@
+{
+  "324": {
+    "title": "L'Abîme des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. Devant toi s'ouvre une crypte rectangulaire, faiblement éclairée par une lueur diffuse. Les murs, vieillis et fissurés, semblent murmurer des secrets millénaires. Un autel, entouré de piliers et de colonnes, domine la pièce. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des forces obscures. Le mobilier ancien, usé par le temps, parais attendre son heure. Des pièges anciens, invisibles, mais pesants, se cachent dans les ombres. L'atmosphère est oppressante, une brume de soufre flotte dans l'air, et un murmure lointain parais résonner. L'eau stagnante, noire et fétide, s'accumule dans un coin, prête à engloutir tout intrus imprudent.",
+    "tags": [
+      "abîme",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "soufre",
+      "mystère",
+      "vieillissement",
+      "ancienneté",
+      "pièges",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Grand abîme avec la moitié d'un pont de corde",
+      "tileNumber": 324
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "408": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de statues et de piliers qui semblent veiller sur le lieu. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé par le temps, parais attendre son destin. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, noire et malsaine, coule lentement vers le centre de la pièce. La tension est palpable, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "3 tombes en terre cuite",
+      "tileNumber": 408
+    }
+  }
+}

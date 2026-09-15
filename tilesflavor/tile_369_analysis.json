@@ -1,0 +1,42 @@
+{
+  "369": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres voilées éclaire des colonnes massives, leurs pierres usées par les siècles. Au centre, une table ornée de tentacules et de têtes de mort semble attendre son destin. Des cercles rituels marquent le sol, tandis que les murs sont décorés de tentacules et de têtes de mort, comme si la salle avait été utilisée pour des rituels obscurs. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets anciens. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "salle de culte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "table avec dessus orné",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "salle avec des colonnes, une statue de dieu monstre et une table de sorcier",
+      "tileNumber": 369
+    }
+  }
+}

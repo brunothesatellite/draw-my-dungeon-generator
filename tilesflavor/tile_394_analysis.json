@@ -1,0 +1,48 @@
+{
+  "394": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois vaguement des ombres qui se dessinent sur les murs vieillis. Des statues étranges, comme des gardiens de l'oubli, se dressent de chaque côté de la pièce, leurs visages déformés par le temps. Le sol est couvert de cercles de pierre, des motifs rituels qui semblent avoir été dessinés il y a des siècles. Une grille métallique, posée au centre, parais pouvoir déverser du poison ou de la fumée. Des têtes de mort sont sculptées dans les pierres des murs, des symboles sombres gravés dans le marbre. Un autel, au cœur de la pièce, parais être le point focal de tout rituel. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence ancienne, bientôt palpable, qui te pousse à te tenir à l'écart. L'eau stagnante, visible dans un coin, parais prête à se lever et à engloutir tout ce qui s'approche. La porte, à l'extrémité de la pièce, parais être le seul moyen de s'échapper de cette atmosphère glauque.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "statues",
+      "cercles rituels",
+      "têtes de mort",
+      "autel",
+      "eau stagnante",
+      "salle de rituel",
+      "vieillie",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "salle ouverte avec des statues et des cercles de pierre sur le sol (une grille métallique semble pouvoir déverser du poison ou de la fumée)",
+      "tileNumber": 394
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "372": {
+    "title": "La Salle des Anciens",
+    "description": "Un statue occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les silhouettes des statues qui te regardent de leurs yeux vides. La pièce est petite, rectangulaire, et semble avoir vieilli au fil des siècles. Les murs sont couverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Au centre, un autel est entouré de piliers massifs, et un squelette, visiblement ancien, repose entre deux statues. Des cercles rituels marquent le sol, et l'odeur de soufre et de mort flotte dans l'air. La porte, ouverte, laisse entrevoir un passage étroit qui parais mener à un autre espace. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est sinistre, et tu sens une présence ancienne qui t'observe.",
+    "tags": [
+      "salle de culte",
+      "statues",
+      "squelette",
+      "rituels",
+      "vieillie",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "statue",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de culte ancien",
+      "csvDescription": "salle avec des statues et un squelette entre elles … piège dans les statues ?",
+      "tileNumber": 372
+    }
+  }
+}

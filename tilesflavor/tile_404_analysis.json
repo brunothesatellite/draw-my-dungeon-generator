@@ -1,0 +1,43 @@
+{
+  "404": {
+    "title": "Salle de labyrinthe",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu dois te rapprocher pour distinguer les détails. Les murs, couverts de mousse et de crasse, semblent avoir été oubliés depuis des siècles. Un autel, entouré de piliers usés, domine la pièce. Des têtes de mort sculptées sont accrochées aux murs, ajoutant une note macabre à l'atmosphère. Des cercles rituels gravés dans le sol attirent ton attention, évoquant des secrets enfouis. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis longtemps. L'odeur de moisi et de soufre te pique les narines, et un murmure lointain parais provenir de l'angle sombre. L'eau stagnante, visible dans un coin, parais prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "mystère",
+      "vieillie",
+      "culte",
+      "vieille salle",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "salle de labyrinthe",
+      "tileNumber": 404
+    }
+  }
+}

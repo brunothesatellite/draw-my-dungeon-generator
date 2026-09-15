@@ -1,0 +1,42 @@
+{
+  "353": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. Devant toi, une crypte rectangulaire, vieillie et mystérieuse. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules, comme si un ancien culte avait laissé ses traces. Au centre, un autel, entouré de cercles rituels, semble attendre un rituel. Des piliers robustes soutiennent le plafond, tandis que des barils, remplis d'eau stagnante, menacent de se renverser à tout moment. L'odeur de soufre et de mort flotte dans l'air, te rappelant l'ancien culte qui a peut-être vécu ici. La tension est palpable, chaque bruit parais résonner dans cette crypte. Tu sens une présence ancienne, prête à réagir.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "mystère",
+      "vieillissement",
+      "ancien culte"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "souterrain avec des couloirs et des pièges (des pointes sortent des murs, des branches, des pierres spéciales sur le sol). Un petit cage est dans un cul-de-sac et il y a un tonneau",
+      "tileNumber": 353
+    }
+  }
+}

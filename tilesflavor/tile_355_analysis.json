@@ -1,0 +1,43 @@
+{
+  "355": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers une fenêtre brisée éclaire des têtes de mort sculptées dans le mur, un symbole de la cruauté qui réside ici. Au centre, un autel sombre, entouré de cercles rituels gravés dans le sol, semble inviter à des sacrifices. Des piliers massifs soutiennent le plafond, tandis que des tentacules émergent des coins, prêts à frapper. La chaleur humide et l'odeur de soufre vous enveloppent, et un murmure lointain parais provenir de l'eau stagnante qui remplit une partie de la salle. Les tentacules, toujours prêts à se déplacer, ajoutent une tension palpable à l'atmosphère sinistre de cette salle de rituel.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "tentacules",
+      "vieillie",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "salle de donjon avec un tonneau et une boîte",
+      "tileNumber": 355
+    }
+  }
+}

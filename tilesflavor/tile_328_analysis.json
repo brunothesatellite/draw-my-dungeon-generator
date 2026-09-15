@@ -1,0 +1,44 @@
+{
+  "328": {
+    "title": "L'Abîme des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière vacille, révélant une salle immense et irrégulière, éclairée par une faible lueur qui semble provenir d'un large ouverture circulaire au centre. Les murs, usés et délabrés, sont recouverts de tentacules et de crânes sculptés, tandis que des spirales mystérieuses marquent le sol. Un tonneau, usé et rouillé, repose près des escaliers qui grimpent dans le mur, comme s'il avait été abandonné là depuis des siècles. Les colonnes brisées, comme des ossements, ajoutent à l'atmosphère lugubre. Des tentacules émergent de l'ombre, tissant un réseau de menaces invisibles. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond. L'ancien rituel parais avoir laissé des traces indélébiles, et chaque coin de cette salle murmure des secrets obscurs.",
+    "tags": [
+      "abîme",
+      "rituel ancien",
+      "tentacules",
+      "spirales",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large circular opening",
+      "wallDecorations": [
+        "tentsacles",
+        "skull"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "cross-shaped structure"
+      ],
+      "objectsOrFurniture": [
+        "broken pillars"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral patterns"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ancient ritual chamber",
+      "csvDescription": "abîme avec des escaliers grimpant dans le mur de la grotte. Un tonneau est placé à proximité des escaliers",
+      "tileNumber": 328
+    }
+  }
+}

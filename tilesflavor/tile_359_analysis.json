@@ -1,0 +1,46 @@
+{
+  "359": {
+    "title": "La Crypte des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière vacillante révèle une salle rectangulaire, immense et humide, où les murs sont recouverts de têtes de mort et de tentacules. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Les piliers et colonnes, robustes et vieilles, semblent veiller sur le mystère qui réside ici. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. Tu sens une présence ancienne, prête à réagir.",
+    "tags": [
+      "mystique",
+      "rituel",
+      "ancien",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystique",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle de donjon avec un trou naturel",
+      "tileNumber": 359
+    }
+  }
+}

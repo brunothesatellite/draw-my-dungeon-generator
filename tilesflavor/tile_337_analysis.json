@@ -1,0 +1,44 @@
+{
+  "337": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. Les murs, irréguliers et usés, sont recouverts de têtes de mort sculptées et de tentacules qui semblent sortir du sol. Un autel central, orné de cercles rituels, attire immédiatement l'attention. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol. Le mobilier ancien, usé par le temps, parais avoir été abandonné. Un squelette, presque complet, repose au fond de la pièce, témoignant de sacrifices passés. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du sol. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "squelette"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "corridor de grotte avec branches, crâne de monstre",
+      "tileNumber": 337
+    }
+  }
+}

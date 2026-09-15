@@ -1,0 +1,53 @@
+{
+  "382": {
+    "title": "La Salle des Anciens",
+    "description": "Un large circular object with markings occupe le centre de l'espace. La lumière naturelle qui filtre à travers le plafond central éclaire une pièce immense et rectangulaire, où l'humidité et la verdure de la mousse recouvrent les murs et le sol. Devant toi, un autel circulaire, orné de symboles mystérieux, attire ton regard. Les sculptures de têtes sculptées et les tentacules qui semblent jaillir des murs ajoutent une atmosphère de terreur. Des tapisseries aux motifs énigmatiques flottent au-dessus de tes têtes, tandis que des lignes et des spirales dessinent des motifs sur le sol. Les colonnes et les statues de pierre, vieilles et érodées, paraissent garder un secret ancien. Tu sens une odeur de soufre et de vieilles pierres, tandis que des tentacules émergent du sol, prêts à frapper. La tension est palpable, et tu te demandes ce que cette salle rituelle a pu voir et faire depuis des millénaires.",
+    "tags": [
+      "ritual chamber",
+      "ancient secrets",
+      "mystical symbols",
+      "tentacles",
+      "mossy floor"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from a central opening",
+      "condition": "damp and mossy",
+      "centralFeature": "large circular object with markings",
+      "wallDecorations": [
+        "sculpted heads",
+        "tentacles",
+        "tapestries"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "dots",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "tentacles",
+        "dots"
+      ],
+      "exits": [
+        "central opening"
+      ],
+      "hazards": [
+        "mossy floor",
+        "tentacles"
+      ],
+      "atmosphere": "mysterious and ancient",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 382
+    }
+  }
+}

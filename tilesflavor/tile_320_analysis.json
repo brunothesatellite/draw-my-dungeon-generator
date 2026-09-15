@@ -1,0 +1,50 @@
+{
+  "320": {
+    "title": "Le Chemin des Abîmes",
+    "description": "Tu te retrouves plongé dans un étroit passage étroit, ta respiration s'accélère sous l'effet de l'angoisse. Devant toi s'ouvre une salle immense, ses murs irréguliers et décrépits semblent s'effondrer à tout moment. La lumière tamisée émane d'une source lointaine, révélant un large pilier central, comme une colonne de pierre éternelle. Des tentacules et des tombes ornent les murs, tandis que des araignées tissent des toiles sur le sol, où des spirales mystérieuses paraissent gravées dans le béton. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence étrange, comme si quelque chose t'observait depuis les ténèbres. Les colonnes et les piliers paraissent murmurer des secrets anciens, et tu te demandes si cette salle n'est pas un lieu de rituel, un sanctuaire aux murs chargés de mystères. Les araignées tissent leurs toiles, prêtes à bondir, tandis que les spirales tournent sous tes pieds, comme si elles étaient vivantes. Tu te demandes si tu as vraiment le droit d'être ici.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "tentacules",
+      "spiral",
+      "araignées",
+      "soufre",
+      "mystère",
+      "dilapidé",
+      "ancien",
+      "salle de rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large stone structure",
+      "wallDecorations": [
+        "tentsacles",
+        "tombstone"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "spiders"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "spiders"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral patterns",
+        "spiders"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "petit chemin entre deux abîmes",
+      "tileNumber": 320
+    }
+  }
+}

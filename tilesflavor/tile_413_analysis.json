@@ -1,0 +1,50 @@
+{
+  "413": {
+    "title": "Salle des Anciens",
+    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort et les tentacules qui ornent les murs. Un autel central, entouré de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues anciennes sont disséminés autour, ajoutant à l'atmosphère mystérieuse et ancienne. Le sol est marqué de cercles rituels et de glyphes, et des barils de bois sont empilés contre le mur, leur contenu inconnu. Des traces de créatures se dessinent sur le sol, comme si quelque chose avait récemment parcouru cette salle. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de s'écouler du mur. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "salle de formation",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "creatures",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle de formation (cible pour archers, poupées en bois, étagère d'armes, barils, ... )",
+      "tileNumber": 413
+    }
+  }
+}

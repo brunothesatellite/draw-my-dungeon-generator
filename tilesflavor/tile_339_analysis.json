@@ -1,0 +1,44 @@
+{
+  "339": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers une fissure au plafond, révélant une salle carrée aux murs vieillis par le temps. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol, comme des runes anciennes. Un autel central, orné de têtes de mort et de tentacules, semble attendre les fidèles. Des barils, usés par le temps, sont empilés contre le mur, et des traces de créature gravent le sol, comme si quelque chose de sinistre avait récemment parcouru ces lieux. L'air est lourd, chargé d'une odeur de soufre et de mort, et un murmure lointain parais flotter dans l'air. La tension est palpable, comme si la salle était le cœur d'un rituel ancien, et des pièges anciens pourraient se cacher à tout moment.",
+    "tags": [
+      "rituel",
+      "salle de prière",
+      "vieillie",
+      "sinistre",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "grotte (2 pièces séparées par un mur en bois) avec table, chaises, arche et tonneaux",
+      "tileNumber": 339
+    }
+  }
+}

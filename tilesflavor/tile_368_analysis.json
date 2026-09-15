@@ -1,0 +1,48 @@
+{
+  "368": {
+    "title": "Salle des Anciens Cultes",
+    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de statues et de piliers aux contours étranges. Des cercles rituels marquent le sol, tandis que des tentacules et des têtes de mort ornent les murs, racontant des histoires d'anciennes puissances. Un tableau, encadré de bois usé, semble peindre des scènes obscures. Un banc, usé par le temps, est placé contre le mur, comme si quelqu'un y avait récemment pris place. Un souffle froid et humide s'infiltre, portant avec lui des murmures lointains. La porte, à peine visible, parais être la seule issue de cette crypte ancienne.",
+    "tags": [
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tableau",
+        "banc"
+      ],
+      "creaturesOrTraces": [
+        "souffle"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "salle avec de petits tonneaux et des boîtes",
+      "tileNumber": 368
+    }
+  }
+}

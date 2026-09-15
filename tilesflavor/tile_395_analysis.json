@@ -1,0 +1,44 @@
+{
+  "395": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère glauque qui plane. La pièce est petite, carrée, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches de sang séchées, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le mobilier ancien parais avoir été laissé là depuis longtemps. L'eau stagnante, noire et putride, coule lentement vers le centre de la pièce, formant un bassin de sang. L'odeur de putréfaction et de soufre te pique les narines. Tu sens une présence ancienne, bientôt palpable, qui te scrute du fond de cette salle mystérieuse et ancienne. L'arche à l'extrémité de la pièce parais être le seul moyen de sortir de cette crypte. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "salle de culte",
+      "rituel sombre",
+      "putréfaction",
+      "ancien autel",
+      "bassin de sang"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "arche"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "salle ouverte avec bassin de sang, insectes, statues",
+      "tileNumber": 395
+    }
+  }
+}

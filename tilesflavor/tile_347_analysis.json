@@ -1,0 +1,43 @@
+{
+  "347": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière tamisée filtre à travers une fenêtre étroite, révélant un autel central orné de têtes de mort sculptées. Des cercles rituels marquent le sol, et des piliers robustes soutiennent les murs vieillis. Des objets anciens, usés par le temps, sont dispersés autour de l'autel, évoquant une ancienne cérémonie. L'odeur de la terre et du soufre flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un seul passage mène à l'extérieur, mais des pièges anciens attendent ceux qui oseraient s'aventurer plus loin. La tension est palpable, et l'atmosphère mystérieuse et ancienne vous enveloppe.",
+    "tags": [
+      "culte",
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "grotte avec une table et des chaises",
+      "tileNumber": 347
+    }
+  }
+}

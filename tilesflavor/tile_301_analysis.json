@@ -1,0 +1,46 @@
+{
+  "301": {
+    "title": "L'Abîme des Champignons",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les murs vieillis, recouverts de têtes de mort et de tentacules qui semblent sortir du plafond. Au centre, un autel, entouré de piliers et de statues, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des traces de créatures se dessinent sur le mobilier ancien. L'odeur de soufre et de champignons morts flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre.",
+    "tags": [
+      "mystère",
+      "culte",
+      "vieillissement",
+      "soufre",
+      "champignons"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de rituel",
+      "csvDescription": "Abîme avec des champignons",
+      "tileNumber": 301
+    }
+  }
+}

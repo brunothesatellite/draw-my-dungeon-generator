@@ -1,0 +1,46 @@
+{
+  "384": {
+    "title": "La Salle Sacrée des Ténèbres",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Devant toi, une immense crypte rectangulaire s'ouvre, ses murs décrépits et ses colonnes usées témoignant de l'âge et de l'abandon. L'air est lourd, chargé d'une odeur de soufre et de mort. Des tentes et des crânes ornent les murs, tandis que le sol, marqué d'un spiral complexe, semble tisser un lien avec l'ancien. Un autel central, dépourvu de tout objet, parais attendre un culte perdu dans le temps. Tu aperçois une silhouette fantomatique, flottant au-dessus de la table, ses yeux vides et ses traits flous. Le silence est troublé par le murmure lointain d'un murmurer ancien, et tu sens que quelque chose de malveillant se cache dans l'ombre. Les pièges attendent, prêts à s'abattre sur toi.",
+    "tags": [
+      "salle sacrée",
+      "crypte",
+      "ténèbres",
+      "soufre",
+      "fantôme"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 384
+    }
+  }
+}

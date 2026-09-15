@@ -1,0 +1,47 @@
+{
+  "305": {
+    "title": "L'Abîme Sacrée",
+    "description": "Un large stone altar occupe le centre de l'espace. La lumière d'Emma, et l'air est chargé d'une odeur de soufre et de mort. Devant toi s'élève une salle rectangulaire, immense et humide, dont les murs sont couverts de taches de verdure. Des colonnes majestueuses s'élancent vers le plafond, où des spirales mystérieuses gravées dans le béton semblent danser sous la faible lumière. Au centre de la pièce, un autel de pierre massive attire ton regard. Des tentacules morts, leurs tentacules flétris, paraissent s'accrocher aux murs, tandis que des croix et des spirales gravées dans le sol te font frémir. Des symboles énigmatiques, gravés dans le marbre, attirent ton attention, et tu sens une présence ancienne et malveillante dans l'air. Des runes enchantées brillent doucement, prêtes à se révéler à ceux qui savent les déchiffrer. Les ossements humains, éparpillés ici et là, racontent des histoires d'anciens sacrifices. L'atmosphère est oppressante, et tu sens que quelque chose de terrible se cache dans l'ombre. Le mur de droite révèle un passage étroit, qui parais mener à l'inconnu. Que cherches-tu vraiment dans cet abîme sacré ?",
+    "tags": [
+      "sacrifice",
+      "mystère",
+      "anciennes runes",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large stone altar",
+      "wallDecorations": [
+        "tents of death",
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious symbols"
+      ],
+      "creaturesOrTraces": [
+        "skulls"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted runes",
+        "ancient enchantments"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "abîme",
+      "tileNumber": 305
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "401": {
+    "title": "Salle de labyrinthe",
+    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs couverts de têtes de mort sculptées dans la pierre. Un autel central, orné de cercles rituels, attire l'œil. Des piliers robustes soutiennent le plafond, tandis que le sol est marqué de cercles mystérieux. Des meubles anciens, usés par le temps, sont disséminés un peu partout. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain semble provenir de l'eau stagnante qui remplit une partie du sol. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "tags": [
+      "mystère",
+      "vieillissement",
+      "culte",
+      "vieille salle",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "salle de labyrinthe",
+      "tileNumber": 401
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "343": {
+    "title": "La Chambre des Rituels",
+    "description": "Un empty space occupe le centre de l'espace. La lumière vacille, révélant une salle immense, aux murs irréguliers et aux plafonds bas. L'air est lourd, chargé d'une odeur de soufre et de mort. Des tentacules et des tapisseries de tentes flottent dans l'air, comme s'ils vivaient d'eux-mêmes. Des spirales et des croix gravées dans le sol semblent danser sous tes pieds, tandis que des colonnes et des piliers de pierre s'élèvent comme des gardiens silencieux. Un espace vide au centre de la pièce attire ton regard, comme un point de convergence pour des forces obscures. Tu sens une présence fantomatique, un murmure lointain qui te pousse à te rapprocher. Les murs sont usés, des traces de vieilles peintures et de symboles énigmatiques sont encore visibles. Des pièges attendent, prêts à s'activer à ton approche. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce avait une vie propre, une histoire à raconter.",
+    "tags": [
+      "rituel",
+      "soufre",
+      "tentacules",
+      "spirales",
+      "colère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "empty space",
+      "wallDecorations": [
+        "tentacles",
+        "tents"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "corridors de grotte",
+      "tileNumber": 343
+    }
+  }
+}

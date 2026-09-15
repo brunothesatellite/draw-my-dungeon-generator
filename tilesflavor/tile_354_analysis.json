@@ -1,0 +1,49 @@
+{
+  "354": {
+    "title": "La Salle Sacrée des Tentacules",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, entouré de colonnes massives, attire ton regard. Des tentacules, comme ceux d'un ancien monstre marin, sont gravés dans le marbre des murs, des colonnes et même sur l'autel. Le sol, humide et glissant, est marqué d'un cercle au centre, comme un rituel ancien. Les murs, recouverts de peintures sombres et mystérieuses, semblent respirer une atmosphère de vie ancienne. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau qui coule doucement au fond de la salle, provenant d'un tuyau caché, ajoute à l'ambiance lugubre. La porte en bois, à peine visible dans l'obscurité, parais être le seul moyen de quitter cette pièce sacrée.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "autel",
+      "colonne",
+      "odeur de soufre",
+      "rituel ancien",
+      "atmosphère lugubre",
+      "eau coulante",
+      "porte en bois"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "circle"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "chest"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "salle de donjon avec un lit, une coffre et une porte en bois",
+      "tileNumber": 354
+    }
+  }
+}

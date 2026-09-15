@@ -1,0 +1,51 @@
+{
+  "363": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un altar occupe le centre de l'espace. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs énigmatiques, s'élèvent de part et d'autre d'un autel central, où des tentacules et des crânes de morts flottent dans l'air. Des spirales et des lignes mystérieuses marquent le sol, tandis que des objets étranges, insondables, sont disséminés autour. Un murmure subtil, presque imperceptible, semble provenir de l'ombre. La tension est palpable, et tu sens une présence fantomatique qui te scrute. Des pièges enchantés attendent, prêts à s'abattre sur toi. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce avait gardé un secret millénaire.",
+    "tags": [
+      "salle sacrée",
+      "tentacules",
+      "crânes de mort",
+      "colonne",
+      "spirale",
+      "mystère",
+      "pièges",
+      "atmosphère étrange"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle ouverte avec des étagères, des longues tables et des tabourets",
+      "tileNumber": 363
+    }
+  }
+}

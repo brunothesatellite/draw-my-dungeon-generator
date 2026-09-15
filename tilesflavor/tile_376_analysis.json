@@ -1,0 +1,45 @@
+{
+  "376": {
+    "title": "La Crypte des Tentacules",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres érodées par le temps. Des tentacules, comme sortis d'un cauchemar, s'accrochent aux murs, leurs nœuds noirs se détachant sur le marbre. Le sol, marqué d'un spiral complexe, semble tisser un lien avec l'ancienne magie qui réside ici. Des colonnes massives, comme des gardiens silencieux, se dressent au centre, leurs pierres usées par les siècles. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence ancienne, une force sombre qui t'observe. Les tentacules, les colonnes, le spiral, tout parais indiquer que cette crypte cache des secrets profonds et dangereux.",
+    "tags": [
+      "souterrain",
+      "dilapidé",
+      "tentacules",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "unknown",
+      "csvDescription": "souterrain sans issue",
+      "tileNumber": 376
+    }
+  }
+}

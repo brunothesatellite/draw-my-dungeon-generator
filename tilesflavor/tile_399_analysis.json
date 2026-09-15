@@ -1,0 +1,47 @@
+{
+  "399": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière tamisée filtre à travers des fissures, éclairant vaguement les colonnes vieillissantes qui se dressent comme des gardiens silencieux. Au centre, un autel sombre attire le regard, entouré de têtes de mort sculptées et de tentacules qui semblent se mouvoir dans l'ombre. Des cercles rituels gravés dans le sol évoquent des rites anciens, tandis que des traces de créatures évoquent des sacrifices récents. L'air est lourd, chargé d'une odeur de soufre et de mort, et un murmure lointain parais résonner dans les murs. La porte murée à l'extrémité de la salle parais être le seul moyen de s'échapper, mais l'eau stagnante devant elle pourrait être un piège mortel.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "sombre",
+      "vieillie",
+      "colonne"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle de destruction avec des pierres, des colonnes",
+      "tileNumber": 399
+    }
+  }
+}

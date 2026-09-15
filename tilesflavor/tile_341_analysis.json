@@ -1,0 +1,44 @@
+{
+  "341": {
+    "title": "La Salle des Sacrifices",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. La salle est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de boue, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le roc. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et un tableau de bois est posé au milieu de la pièce. L'odeur de soufre et de pourriture flotte dans l'air, et tu sens une présence étrange qui te pousse à te rapprocher de l'autel. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "grotte avec table, chaises, boîtes et tonneaux",
+      "tileNumber": 341
+    }
+  }
+}

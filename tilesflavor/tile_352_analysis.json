@@ -1,0 +1,47 @@
+{
+  "352": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette pièce rectangulaire vieillie. Les murs, couverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie macabre. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de symboles mystiques. Des barils, remplis d'une eau stagnante, sont posés contre le mur, ajoutant à l'ambiance lugubre. Tu sens une odeur de soufre et de mort qui te pénètre les narines. Un murmure étrange résonne dans l'air, comme si quelque chose attendait patiemment. La tension est palpable, et tu te demandes ce qui pourrait se cacher derrière ces murs vieillissants.",
+    "tags": [
+      "rituel",
+      "macabre",
+      "sacrifice",
+      "vieillie",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "352"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle de donjon avec une petite coffre et 2 petits tonneaux",
+      "tileNumber": 352
+    }
+  }
+}

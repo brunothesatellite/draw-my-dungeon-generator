@@ -1,0 +1,44 @@
+{
+  "391": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible, filtrant à travers des voiles de poussière, éclaire les murs vieillis, où des têtes de mort et des tentacules émergent de la peinture. Un autel central, entouré de cercles rituels, attire le regard. Des piliers robustes soutiennent le plafond, tandis que des traces de créatures marquent le sol, comme si des sacrifices récents y avaient eu lieu. Le mobilier ancien, usé par le temps, semble avoir été oublié depuis longtemps. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère menaçante. Des pièges anciens, prêts à se déclencher, rongent l'air. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "salle ouverte complète avec un petit grille sur le sol",
+      "tileNumber": 391
+    }
+  }
+}

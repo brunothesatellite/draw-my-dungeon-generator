@@ -1,0 +1,45 @@
+{
+  "409": {
+    "title": "L'Ossuaire Sacré",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. Les murs, délabrés et recouverts de tentes et de crânes, semblent murmurer des secrets millénaires. Des squelettes, éparpillés sur le sol aux motifs spiral, paraissent garder le secret de cette pièce. Des colonnes massives, comme des gardiens silencieux, se dressent de part et d'autre de l'autel central, où repose un crâne sculpté. L'air est lourd, chargé d'une odeur de mort et de mystère. Des runes énigmatiques brillent sous la lumière d'une torche que tu viens de trouver. Tu sens une présence étrange, comme si la salle était toujours habitée, même si les squelettes sont morts depuis longtemps. Un murmure lointain parais provenir de l'ombre, te poussant à explorer plus avant. L'atmosphère est oppressante, mais aussi fascinante, comme si la salle était le cœur d'un ancien culte sacré.",
+    "tags": [
+      "sacrifice",
+      "squelettes",
+      "mystère",
+      "culte",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "skeletons",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "skeletons"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Salle comme un ossuaire",
+      "tileNumber": 409
+    }
+  }
+}

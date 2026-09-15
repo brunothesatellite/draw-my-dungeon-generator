@@ -1,0 +1,48 @@
+{
+  "381": {
+    "title": "Salle Sacrée des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des siècles d'obscurité. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de runes, parais inviter à une danse ancienne. Des traces de créature, furtives et anciennes, sillonnent le sol, ajoutant une note de danger. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante, à l'entrée, murmure un secret ancien. La porte murée, à l'extrémité de la pièce, parais garder un secret plus profond. L'atmosphère est oppressante, mais aussi fascinante, comme si la salle était le cœur d'un culte ancien.",
+    "tags": [
+      "culte ancien",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 381
+    }
+  }
+}

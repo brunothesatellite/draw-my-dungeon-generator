@@ -1,0 +1,50 @@
+{
+  "388": {
+    "title": "La Chambre Sacrée des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, comme si la chaleur stagnait au fond de cette crypte. Devant toi, un autel massif de pierre, sculpté de tentacules et de crânes, semble observer tes moindres mouvements. Des colonnes majestueuses soutiennent le plafond, tandis que des spirales et des cercles gravés dans le sol te guident vers le centre. Un murmure mystique résonne dans l'air, et tu sens une présence éthérée flotter à proximité. À tes pieds, l'eau s'écoule lentement, et tu perçois un écho lointain qui parais provenir de l'entrée nord. La tension est palpable, et tu sais que quelque chose de terrible se cache dans cette pièce.",
+    "tags": [
+      "sacrée",
+      "ténèbres",
+      "mystère",
+      "creatures",
+      "salle sacrée"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large stone",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral",
+        "circle"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [
+        "north",
+        "south"
+      ],
+      "hazards": [
+        "water",
+        "mystical"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 388
+    }
+  }
+}

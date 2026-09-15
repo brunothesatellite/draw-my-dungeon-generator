@@ -1,0 +1,44 @@
+{
+  "397": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, filtrant à travers des voiles de poussière. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus. Des piliers massifs soutiennent le plafond, tandis que des barils de bois ancien sont empilés contre le mur. Des pièges sont dissimulés dans les ombres, prêts à s'activer. L'eau stagnante, noire et malsaine, coule lentement dans un coin, émettant un murmure sinistre. La tension est palpable, chaque bruit résonnant dans l'atmosphère mystérieuse et menaçante de cette salle de rituels ou de culte.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "salle circulaire avec un système mécanique pour tourner le couloir (fermé)",
+      "tileNumber": 397
+    }
+  }
+}

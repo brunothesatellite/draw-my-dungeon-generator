@@ -1,0 +1,45 @@
+{
+  "311": {
+    "title": "L'Abîme des Tentacules",
+    "description": "Des tentsacles couvrent les murs. La noirceur t'engloutit, mais tu perçois vaguement une forme étrange qui semble sortir de l'obscurité. La salle est immense, ses murs irréguliers et décrépits, éclairés par une lumière diffuse qui parais venir de nulle part. Des colonnes majestueuses s'élèvent de partout, comme des gardiens silencieux. Au centre, un autel sombre attire ton regard, entouré de tentacules qui paraissent palpiter dans l'ombre. Des spirales mystérieuses marquent le sol, et des objets énigmatiques sont disséminés un peu partout. Des fantômes flottent autour, leurs silhouettes floues et hantées. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence malveillante qui plane dans l'air, prête à te piéger. Les tentacules paraissent attendre, prêts à s'enrouler autour de toi. La tension est palpable, et tu te demandes ce que cache vraiment cette salle sacrée.",
+    "tags": [
+      "abîme",
+      "tentacules",
+      "sacré",
+      "mystère",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "central altar",
+      "wallDecorations": [
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "abîme avec une tentacule sortant de la noirceur",
+      "tileNumber": 311
+    }
+  }
+}

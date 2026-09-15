@@ -1,0 +1,41 @@
+{
+  "310": {
+    "title": "L'Abîme des Yeux",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. Devant toi s'ouvre une salle rectangulaire, éclairée par la lumière naturelle qui filtre à travers des fissures dans le plafond. L'humidité y règne, et un nuage de vapeur flotte lentement, révélant des tentacules qui semblent s'enrouler autour des murs. Au centre de la pièce, un étrange œil de verre, éblouissant, parais te fixer. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Un murmure subtil, presque imperceptible, résonne dans l'air. Un fantôme flottant, transparent et dépourvu de forme, parais errer dans l'ombre, ajoutant une note de terreur à l'atmosphère étrange. Le mysticisme qui pèse dans cette pièce est palpable, et tu sens que quelque chose de profondément ancien y réside.",
+    "tags": [
+      "rituel",
+      "fantaisie sombre",
+      "tentacules",
+      "spirales",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "damp",
+      "centralFeature": "eye-like structure",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [],
+      "hazards": [
+        "mystical energy"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "abîme avec un portail magique",
+      "tileNumber": 310
+    }
+  }
+}

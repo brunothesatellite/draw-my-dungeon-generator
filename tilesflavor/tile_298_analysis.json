@@ -1,0 +1,43 @@
+{
+  "298": {
+    "title": "L'Abîme des Tentacules",
+    "description": "Un dark pool occupe le centre de l'espace. La pièce est immense, ses murs irréguliers semblent s'effondrer sous tes yeux. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui soutiennent le plafond. L'humidité est palpable, et l'air est chargé d'une odeur de soufre et de mort. Au centre de la salle, un bassin sombre et étroit attire ton regard. Des tentacules noirs, comme ceux d'un monstre marin, émergent de l'eau, se balançant lentement. Des spirales mystérieuses marquent le sol, et des tentacules paraissent gravés dans les murs. Un objet étrange, inconnu, repose au milieu de la pièce, émettant une lueur étrange. L'atmosphère est glaçante et étrangement apaisante, comme si la salle était le cœur d'un rituel ancien. Des murmures lointains parviennent à tes oreilles, et tu sens une présence indéfinissable qui te scrute. L'abîme des Tentacules est un lieu où la peur et l'émerveillement se mêlent, où chaque coin cache un danger potentiel.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "tentacules",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "dark pool",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "mysterious object"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "dark pool"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "abîme",
+      "tileNumber": 298
+    }
+  }
+}

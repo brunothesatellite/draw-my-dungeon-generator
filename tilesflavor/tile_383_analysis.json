@@ -1,0 +1,49 @@
+{
+  "383": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière d'Emma, révélant une pièce rectangulaire immense, aux murs couverts de tentacules et de crânes de mort. Des spirales et des glyphes gravés dans le sol semblent murmurer des secrets millénaires. Les colonnes massives et les piliers sculptés de figures étranges évoquent une époque longtemps oubliée. Au centre, un autel, orné de mobilier ancien, parais être le cœur de ce sanctuaire. Les odeurs de soufre et de mort flottent dans l'air, tandis que des traces de créatures évoluant autrefois dans cette pièce s'inscrivent dans le sable. La tension est palpable, comme si quelque chose de maléfique attendait dans les ombres.",
+    "tags": [
+      "salle sacrée",
+      "ancien",
+      "creatures étranges",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted",
+        "ancient traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle ouverte complète avec un petit grille sur le sol",
+      "tileNumber": 383
+    }
+  }
+}

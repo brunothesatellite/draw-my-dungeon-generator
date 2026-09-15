@@ -1,0 +1,46 @@
+{
+  "410": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible émane d'une fenêtre étroite au fond, laissant filtrer un éclat terne. L'air est chargé d'une odeur de soufre et de mort, un mélange sinistre qui vous pique les narines. Devant vous, un autel central, orné de tentacules et de têtes de mort, attire votre regard. Des cercles rituels marquent le sol, et une table ronde avec quatre chaises vous attend, mais une figurine étrange trône sur une chaise, comme si elle avait été abandonnée. L'eau stagnante, noire et malsaine, remue doucement au fond du bassin, émettant un murmure lugubre. La tension est palpable, et vous sentez que quelque chose de terrible se cache dans cette salle.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "salle de rituel"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "figurine"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "Salle de garde avec étagère, baril, table ronde avec 4 chaises (pour jouer ou manger) et une table/chaise avec un registre",
+      "tileNumber": 410
+    }
+  }
+}

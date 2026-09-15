@@ -1,0 +1,47 @@
+{
+  "402": {
+    "title": "La Salle des Ténèbres",
+    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce rectangulaire, immense et humide. Les murs, recouverts de mousse et de lichens, semblent murmurer des secrets millénaires. Un grand cercle, étrangement lumineux, domine le centre de la pièce, entouré de tentacules et de crânes de mort. Des spirales gravées dans le sol attirent ton regard, tandis que les colonnes et les fenêtres ajoutent une touche de mystère à l'architecture. L'odeur de soufre et de moisi te pénètre les narines, et tu sens une présence étrange, comme si quelque chose t'observait. Deux fenêtres donnent sur le monde extérieur, mais elles sont fermées par des barils de bois. Le sol, couvert de mousse, est glissant et te fait trébucher. L'atmosphère est oppressante, et tu te demandes ce que cette salle rituelle cache vraiment.",
+    "tags": [
+      "rituel",
+      "mystère",
+      "mossy",
+      "tentacules",
+      "crânes de mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural light from windows",
+      "condition": "damp and mossy",
+      "centralFeature": "large circular object",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "windows"
+      ],
+      "objectsOrFurniture": [
+        "large circular object"
+      ],
+      "creaturesOrTraces": [
+        "small creature"
+      ],
+      "exits": [
+        "two windows"
+      ],
+      "hazards": [
+        "mossy floor"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "salle de labyrinthe avec grille, boîte et barils",
+      "tileNumber": 402
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "313": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "L'ambiance mysterious pèse sur la pièce. La salle est immense, rectangulaire, et la lumière y est si faible que tu ne peux distinguer que les contours des murs. L'humidité y règne, et une odeur de soufre et de mort flotte dans l'air. Les tentacules et les crânes de mort sont accrochés aux murs, comme des têtes de démon. Sur le sol, des spirales et des glyphes énigmatiques dessinent des cercles mystérieux. Les colonnes et les piliers majestueux semblent veiller sur un autel central, mais tu ne peux pas y accéder. L'atmosphère est glaçante, et tu sens une présence étrange qui t'observe. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose était à l'écoute. Les portes de la salle sont closes, et tu ne sais pas où elles mènent. L'abîme est un lieu rituel, mais tu ne sais pas quel rituel et qui l'a construit.",
+    "tags": [
+      "rituel",
+      "ténèbres",
+      "soufre",
+      "tentacules",
+      "crânes"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "unknown"
+      ],
+      "creaturesOrTraces": [
+        "unknown"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "unknown"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritualistic",
+      "csvDescription": "abîme",
+      "tileNumber": 313
+    }
+  }
+}

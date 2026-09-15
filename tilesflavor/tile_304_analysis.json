@@ -1,0 +1,47 @@
+{
+  "304": {
+    "title": "L'Abîme des Anciens",
+    "description": "Un large, dark, organic structure occupe le centre de l'espace. La lumière vacille, révélant une salle immense et décrépie, où les murs se courbent et les colonnes s'effondrent. Un large, sombre et organique structure domine le centre de la pièce, émettant une énergie ancienne et mystérieuse. Des tentacules et des tapisseries pendantes décorent les murs, tandis que des spirales et des lignes dessinent des motifs énigmatiques sur le sol. Les autels, alignés le long des murs, semblent attendre des sacrifices. L'air est saturé d'une odeur de soufre et de mort, et un murmure lointain résonne dans l'ombre. Les pierres, usées par le temps, paraissent murmurer des secrets millénaires. Un frisson te parcourt, et tu sens une présence ancienne et malveillante qui t'observe. La tension est palpable, et tu sais que tu n'es pas seul dans cette salle.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "mystère",
+      "ancien",
+      "tension"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large, dark, organic structure",
+      "wallDecorations": [
+        "tentacles",
+        "tents"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "autels"
+      ],
+      "creaturesOrTraces": [
+        "creatures"
+      ],
+      "exits": [],
+      "hazards": [
+        "enchanted",
+        "ancient"
+      ],
+      "atmosphere": "mysterious, eerie",
+      "roomPurpose": "ritualistic, ancient",
+      "csvDescription": "abîme avec un petit portail magique",
+      "tileNumber": 304
+    }
+  }
+}

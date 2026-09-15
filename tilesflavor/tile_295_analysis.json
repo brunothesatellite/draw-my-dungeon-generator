@@ -1,0 +1,43 @@
+{
+  "295": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "Des tentacles couvrent les murs. La salle est immense, ses murs irréguliers et décrépits semblent s'effondrer sur toi. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui soutiennent le plafond. Un large, sombre et mystérieux espace parais se dessiner au centre de la pièce, comme une entrée vers un autre monde. Des tentacules, noirs et sinistres, sont collés aux murs, comme s'ils attendaient de se délier pour te saisir. Sur le sol, des spirales mystérieuses paraissent gravées dans le sol, comme si elles avaient été dessinées par un esprit malveillant. L'autel au centre de la pièce est recouvert d'un tissu sombre, et tu sens une présence ancienne et puissante émaner de lui. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère oppressante. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose observait tes moindres mouvements. L'abîme est un lieu république ou ancien, et tu te demandes ce que les créatures qui y habitent ont pu faire de si terrible.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "ténèbres",
+      "tentacules",
+      "spirales"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large, dark, shadowy area",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral patterns"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "abîme",
+      "tileNumber": 295
+    }
+  }
+}

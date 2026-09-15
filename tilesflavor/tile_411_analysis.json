@@ -1,0 +1,49 @@
+{
+  "411": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux. Des cercles rituels marquent le sol, et des barils anciens sont disséminés autour. L'eau stagnante, noire et grise, remue doucement, révélant des traces de pièges anciens. La tension est palpable, et un murmure lointain semble résonner dans l'air. La salle est un lieu de culte ou de rituels, où les anciens pratiquaient leurs cérémonies.",
+    "tags": [
+      "rituels",
+      "culte",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "pas de sortie visible"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Couloir bloqué par des pierres",
+      "tileNumber": 411
+    }
+  }
+}

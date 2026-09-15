@@ -1,0 +1,43 @@
+{
+  "403": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère oppressante qui plane dans cette pièce rectangulaire vieillie. Les murs, recouverts de peintures sombres et de têtes de mort, semblent vous observer. Des tentacules émergents des murs, ajoutant une note d'horreur à l'atmosphère. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers et des colonnes majestueuses soutiennent le plafond, tandis que des barils anciens sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence indéfinissable qui plane dans l'ombre. L'eau stagnante au fond de la pièce menace de te piéger. La tension est palpable, et tu te demandes ce qui se cache derrière ces murs vieillissants.",
+    "tags": [
+      "rituels",
+      "salle de culte",
+      "atmosphère menaçante",
+      "vieillie",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "salle de labyrinthe avec grille",
+      "tileNumber": 403
+    }
+  }
+}

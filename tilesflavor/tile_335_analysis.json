@@ -1,0 +1,51 @@
+{
+  "335": {
+    "title": "La Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible, filtrant à travers des fissures dans le plafond, éclaire une pièce irrégulière, où les murs vieillis par le temps sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du sol. Un autel central, orné de cercles rituels, attire immédiatement l'attention. Des piliers robustes soutiennent le plafond, tandis que des cercles de pierre marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé par le temps, parais avoir été laissé là, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce révèle des pièges qui pourraient être activés à tout moment. La tension est palpable, chaque détail racontant une histoire de cultes obscurs et de sacrifices passés.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "tête de mort",
+      "tentacules",
+      "autel",
+      "cercles rituels",
+      "piliers",
+      "mobilier ancien",
+      "pièges",
+      "eau stagnante",
+      "atmosphère mystérieuse"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "corridor de grotte",
+      "tileNumber": 335
+    }
+  }
+}

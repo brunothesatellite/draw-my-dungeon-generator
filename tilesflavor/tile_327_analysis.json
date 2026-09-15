@@ -1,0 +1,46 @@
+{
+  "327": {
+    "title": "L'Abîme Éclaboussé",
+    "description": "Un autel ou trésor occupe le centre de l'espace. La lumière faible révèle une salle de forme irrégulière, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues évoquent l'ancienneté. Le mobilier ancien ajoute une touche de délabrement à l'atmosphère glauque. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'angle sombre. Un autel ou un trésor central attire ton regard, mais les pièges anciens t'encadrent. La tension monte avec chaque pas, et tu sens que quelque chose de terrible se cache dans l'ombre.",
+    "tags": [
+      "abîme",
+      "vieillie",
+      "mystérieuse",
+      "vieille salle",
+      "mobilier ancien",
+      "pièges anciens",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel ou trésor",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de culte ou de stockage",
+      "csvDescription": "abîme avec éclaboussure",
+      "tileNumber": 327
+    }
+  }
+}

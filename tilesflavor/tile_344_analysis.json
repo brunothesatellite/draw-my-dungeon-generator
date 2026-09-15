@@ -1,0 +1,48 @@
+{
+  "344": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Des tentsacles couvrent les murs. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre d'un autel central, où des tentacules et des crânes de morts flottent dans l'air, comme s'ils vivaient encore. Des spirales et des croix gravées dans le sol semblent indiquer un passage ancien, peut-être un rituel perdu. Des objets mystérieux, émanant d'une énergie trouble, sont disséminés un peu partout. Un murmure lointain résonne, et tu sens une présence éthérée, comme si un esprit ancien t'observait. La température est froide, et l'humidité est lourde, comme si la pièce avait été abandonnée depuis des siècles. Des pièges enchantés pourraient se dissimuler à tout moment, prêts à s'activer. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce gardait un secret millénaire.",
+    "tags": [
+      "sacré",
+      "ancien",
+      "mystère",
+      "pièges",
+      "esprit"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparition"
+      ],
+      "exits": [
+        "unknown"
+      ],
+      "hazards": [
+        "enchanted traps"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "corridors de grotte",
+      "tileNumber": 344
+    }
+  }
+}

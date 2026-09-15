@@ -1,0 +1,42 @@
+{
+  "366": {
+    "title": "La Crypte Sacrée",
+    "description": "Un porte murée occupe le centre de l'espace. Tu t'approches, sentant l'air frais et humide qui te caresse le visage. Devant toi, une petite pièce carrée, vieillie par le temps, évoque un lieu de culte ancien. Les murs, usés par les siècles, sont ornés de reliefs sculptés qui semblent raconter des mythes oubliés. Des cercles rituels marquent le sol, comme des cercles d'ombre dans la pénombre. Quatre piliers robustes soutiennent le plafond, leurs ombres dansant sur les murs. La porte murée au centre, fermée depuis des temps immémoriaux, parais tisser un lien avec l'au-delà. L'atmosphère est oppressante, mais aussi étrangement apaisante, comme si la crypte gardait un secret ancien et profond. Tu sens une présence ancienne, presque palpable, qui t'observe depuis les ténèbres.",
+    "tags": [
+      "salle de prière",
+      "vieillie",
+      "reliefs sculptés",
+      "cercles rituels",
+      "piliers",
+      "atmosphère mystérieuse",
+      "crypte sacrée",
+      "pièges anciens"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "porte murée",
+      "wallDecorations": [
+        "reliefs sculptés"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "pièges anciens"
+      ],
+      "atmosphere": "mystérieuse",
+      "roomPurpose": "salle de prière ou de culte",
+      "csvDescription": "crypte avec un sarcophage et 2 colonnes",
+      "tileNumber": 366
+    }
+  }
+}

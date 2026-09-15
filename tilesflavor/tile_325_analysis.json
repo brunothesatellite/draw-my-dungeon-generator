@@ -1,0 +1,44 @@
+{
+  "325": {
+    "title": "L'Abîme Sacré",
+    "description": "L'ambiance mysterious pèse sur la pièce. Devant toi s'ouvre un rectangle de lumière naturelle, éclairant une salle immense aux murs de pierre ancienne. Les colonnes massives, sculptées de tentacules et de crânes de mort, semblent veiller sur un autel central. Des cercles rituels marquent le sol, et les tentacules de la créature qui y repose se meuvent lentement, comme pour te surveiller. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond de l'abîme. La tension est palpable, et tu sens que quelque chose de mystérieux et de puissant se cache dans cette salle sacrée.",
+    "tags": [
+      "abîme",
+      "sacré",
+      "creatures",
+      "rituels",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "natural",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "ritual circles"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "enchanted",
+        "ancient"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "sacred",
+      "csvDescription": "grand abîme avec pont de corde et tonneau",
+      "tileNumber": 325
+    }
+  }
+}

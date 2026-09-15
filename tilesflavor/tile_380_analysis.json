@@ -1,0 +1,51 @@
+{
+  "380": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un large stone structure occupe le centre de l'espace. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs décrépits et aux colonnes robustes qui semblent avoir vu des siècles d'obscurité. Au centre, un autel massif, sculpté de tentacules et de têtes sculptées, attire ton regard. Des spirales et des croix gravées dans le sol tissent un mystère ancien. L'air est chargé d'une odeur de poussière et de mystère, et un murmure lointain parais flotter dans l'air. Des runes énigmatiques brillent sous la faible lumière, et un sentiment de présence éthérée plane dans l'atmosphère étrange et étrange. Des pièges attendent, prêts à se déclencher. La tension est palpable, et tu sens que cette chambre est bien plus qu'elle paraît.",
+    "tags": [
+      "salle sacrée",
+      "mystère",
+      "tentacules",
+      "ancien",
+      "pièges",
+      "odeur mystérieuse",
+      "atmosphère étrange"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large stone structure",
+      "wallDecorations": [
+        "sculpted heads",
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly presence"
+      ],
+      "exits": [
+        "none visible"
+      ],
+      "hazards": [
+        "traps",
+        "enchanted runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 380
+    }
+  }
+}

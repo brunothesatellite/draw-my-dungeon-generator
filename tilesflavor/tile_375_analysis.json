@@ -1,0 +1,52 @@
+{
+  "375": {
+    "title": "La Salle des Rituels",
+    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les étagères remplies de livres anciens et un fauteuil usé. Devant toi, un autel rectangulaire, vieilli, semble attendre un rituel. Des têtes de mort et des tentacules émergents des murs, comme si la salle était peuplée de créatures obscures. Des cercles rituels marquent le sol, et des piliers et des statues de pierre gardent le secret de la pièce. L'odeur de soufre et de vieux parchemins te pénètre les narines, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle de rituels.",
+    "tags": [
+      "rituel",
+      "salle obscure",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "piliers",
+      "statues",
+      "odeur de soufre",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "bibliothèque avec des étagères, un fauteuil et une table avec un livre étrange",
+      "tileNumber": 375
+    }
+  }
+}

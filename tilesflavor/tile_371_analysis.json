@@ -1,0 +1,48 @@
+{
+  "371": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des colonnes soutiennent le plafond, tandis que des barils anciens sont disséminés dans les coins. Des pièges anciens, visibles sous la poussière, attendent patiemment leur prochain victime. Deux portes, l'une à droite et l'autre à gauche, offrent l'entrée à l'obscurité. L'odeur de soufre et de vieux bois flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, chaque coin de cette salle de rituels révélant un danger potentiel.",
+    "tags": [
+      "rituels",
+      "vieillie",
+      "mystérieuse",
+      "ancien",
+      "poussière"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "deux portes"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "couloir entre deux salles ouvertes",
+      "tileNumber": 371
+    }
+  }
+}

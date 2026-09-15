@@ -1,0 +1,50 @@
+{
+  "370": {
+    "title": "La Chambre Sacrée des Anciens",
+    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui se dressent comme des gardiens silencieux. Le sol est marqué de cercles et de croix, des symboles qui semblent avoir été gravés il y a des milliers d'années. L'air est chargé d'une odeur de poussière et de mystère, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, un autel central, entouré de tentacules et de têtes de mort, parais attendre l'arrivée de quelque chose ou de quelqu'un. Les runes anciennes gravées sur les murs murmurent des secrets. Tu sens une présence ancienne, presque palpable, qui te pousse à te tenir à l'écart. Les cercles enchantés au sol paraissent prêts à se déclencher à tout moment, et les runes anciennes sont comme des yeux qui te regardent, cherchant à te révéler leurs secrets. La tension est palpable, et tu te demandes ce que cette chambre sacrée cache vraiment.",
+    "tags": [
+      "salle sacrée",
+      "colonnes",
+      "tentacules",
+      "odeur mystérieuse",
+      "ancien",
+      "chambre des morts"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "ancient",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "circles",
+        "crosses"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "furniture"
+      ],
+      "creaturesOrTraces": [
+        "traces of ancient creatures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "enchanted circles",
+        "ancient runes"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacred chamber",
+      "csvDescription": "salle avec des colonnes et 2 brasiers",
+      "tileNumber": 370
+    }
+  }
+}

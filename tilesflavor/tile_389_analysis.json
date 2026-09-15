@@ -1,0 +1,48 @@
+{
+  "389": {
+    "title": "La Chambre du Rituel",
+    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. L'air est lourd et humide, comme si la chaleur stagnait au fond de cette crypte. Devant toi, un autel circulaire, orné de bandes colorées, semble attendre un sacrifice. Des tentacules émergents des murs, comme des serpents prêts à bondir. Un crâne tombé au sol te rappelle que ce lieu a vu des rituels sombres. Des spirales et des cercles rayés marquent le sol, comme des runes anciennes. Les colonnes en bois et les piliers de pierre donnent une impression de vie ancienne. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre. L'eau qui coule doucement à tes pieds te rappelle que tu es dans un lieu où le temps parais s'écouler différemment. L'atmosphère est oppressante, mais aussi curieusement attirante, comme si le destin te poussait vers ce lieu.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "ancien",
+      "mystère",
+      "humidité"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large circular object with stripes",
+      "wallDecorations": [
+        "tentacles",
+        "tombstone"
+      ],
+      "floorMarkings": [
+        "spiral pattern",
+        "striped circle"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "wooden beams"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "small creature"
+      ],
+      "exits": [
+        "one visible"
+      ],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 389
+    }
+  }
+}

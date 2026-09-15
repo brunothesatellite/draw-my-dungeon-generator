@@ -1,0 +1,47 @@
+{
+  "331": {
+    "title": "L'Abîme Sacrifice",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière vacille, révélant une salle immense et décrépie, aux murs irréguliers et aux plafonds bas. Des colonnes massives, comme des monolithes anciens, s'élèvent de partout, leurs pierres usées par le temps. Au centre, un autel sombre, entouré de tentacules et de crânes de mort, semble aspirer l'air. Des spirales et des glyphes mystérieux gravés dans le sol te font scruter chaque coin de la pièce. L'odeur de soufre et de mort flotte dans l'air, tandis que des bruits étranges résonnent à travers les murs. Un murmure lointain parais provenir de l'ombre, et tu sens une présence indéfinissable qui te scrute. Les colonnes tremblent, et un nuage de gaz toxique se répand lentement, rendant le sol glissant. L'atmosphère est oppressante, et tu te demandes ce qui se cache vraiment dans l'abîme sacrifice.",
+    "tags": [
+      "sacrifice",
+      "abîme",
+      "soufre",
+      "tentacules",
+      "mort"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "large, dark, organic structure",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
+      "floorMarkings": [
+        "spirals",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar"
+      ],
+      "creaturesOrTraces": [
+        "unknown creature"
+      ],
+      "exits": [],
+      "hazards": [
+        "poison gas",
+        "slippery floor"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "abîme",
+      "tileNumber": 331
+    }
+  }
+}

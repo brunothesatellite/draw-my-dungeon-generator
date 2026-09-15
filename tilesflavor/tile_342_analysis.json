@@ -1,0 +1,52 @@
+{
+  "342": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. Des têtes de mort sculptées dans le linteau t'observent, leurs orbites vides semblant te fixer. Des tentacules étranges, comme ceux d'un ancien monstre marin, sont gravés dans le mur de droite, ajoutant une note de terreur à l'atmosphère mystérieuse. Au centre de la pièce, un autel, recouvert de cercles rituels et de glyphes runiques, parais attendre un rituel ancien. Des statues de pierre, étranges et déformées, gardent le secret de la salle. Le tableau au mur, avec le numéro 349, parais être un point de repère pour les explorateurs. Un spider, sa toile tendue, tuobserve de l'ombre. L'odeur de soufre et de vieux papier brûlé flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un secret ancien. La tension est palpable, chaque détail racontant une histoire de terreur et de mystère.",
+    "tags": [
+      "rituel",
+      "salle de rituel",
+      "tête de mort",
+      "tentacules",
+      "spider",
+      "soufre",
+      "vieillie",
+      "mystérieuse",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "tableau avec le numéro 349"
+      ],
+      "creaturesOrTraces": [
+        "spider"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "grotte avec tonneaux, une boîte et une pierre étrange avec des pointes",
+      "tileNumber": 342
+    }
+  }
+}

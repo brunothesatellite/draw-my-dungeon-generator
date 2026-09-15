@@ -1,0 +1,46 @@
+{
+  "336": {
+    "title": "La Salle des Anciens",
+    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de moisi et de soufre. Devant toi, un autel de pierre, entouré de cercles rituels gravés dans le sol. Des tentacules émergents des murs, leurs yeux vides t'observant. Des têtes de mort sont suspendues aux piliers, leurs visages décomposés. Un tableau de pierre, usé par le temps, te fait face, te racontant des secrets millénaires. Des traces de créature marquent le sol, comme si quelque chose de terrible avait récemment parcouru cette salle. L'eau stagnante, noire et grise, remue lentement, émettant un murmure sinistre. La porte murée à l'arrière semble taire les secrets de cette salle, mais un frisson te parcourt quand tu te rappelles que la clé manque pour l'ouvrir.",
+    "tags": [
+      "rituel ancien",
+      "salle de rituel",
+      "tentacules",
+      "têtes de mort",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "grotte avec un lit, une arche, une boîte et 3 tonneaux",
+      "tileNumber": 336
+    }
+  }
+}

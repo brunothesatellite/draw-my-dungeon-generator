@@ -1,0 +1,46 @@
+{
+  "412": {
+    "title": "La Salle des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère sinistre qui plane. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles mystiques. Des traces de créature, comme si quelque chose avait couru récemment, sont visibles sur le sol. La porte murée à l'extrémité de la salle semble fermée depuis longtemps, mais tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et l'eau stagnante au fond de la salle résonne d'un murmure sinistre. La salle est une crypte ancienne, un lieu de rituel où les forces obscures se rassemblent.",
+    "tags": [
+      "rituel",
+      "salle de rituel",
+      "salle ancienne",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [
+        "porte murée"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "Couloir bloqué par des pierres (avec un crâne de démon dans les murs)",
+      "tileNumber": 412
+    }
+  }
+}

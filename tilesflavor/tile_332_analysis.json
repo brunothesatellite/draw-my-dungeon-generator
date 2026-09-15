@@ -1,0 +1,44 @@
+{
+  "332": {
+    "title": "Le Cœur de l'Abîme",
+    "description": "Un large spiral occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, comme si la salle était immergée dans un océan souterrain. Devant toi, un large escalier en spirale s'enroule vers le ciel, mais il semble ne jamais aboutir. Les murs, recouverts de tapisseries aux motifs tentaculaires, te regardent avec un regard froid. Des crânes, des os et des squelettes de lézards sont disséminés un peu partout, comme s'ils avaient été piégés ici depuis des siècles. Des colonnes massives soutiennent le plafond, et un autel au centre de la pièce parais attendre un rituel. Le sol est marqué d'une croix, et un plumeau repose nonchalamment à côté. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'escalier. La tension est palpable, et tu sens que quelque chose de terrible se cache dans les profondeurs de cette salle.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "squelette",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "large spiral",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "cross"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "feather"
+      ],
+      "creaturesOrTraces": [
+        "skulls"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "début ou fin de l'abîme. Squelette d'un créature comme un lézard",
+      "tileNumber": 332
+    }
+  }
+}

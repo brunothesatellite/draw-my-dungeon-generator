@@ -1,0 +1,49 @@
+{
+  "386": {
+    "title": "La Chambre Sacrificielle",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. L'air est lourd, presque tangible, et une odeur de soufre et de mort flotte dans l'air. Les murs, couverts de taches de verdure, sont ornés de tentacules et de crânes, comme si la salle avait été utilisée pour des rituels obscurs. Des colonnes massives soutiennent le plafond, et au centre, un autel sombre attire ton regard. Des cercles rituels et des glyphes mystérieux marquent le sol, tandis que des figures fantomatiques flottent dans l'air, comme des esprits errants. À l'ouest, un tableau est posé sur une table, mais tu ne peux pas y distinguer ce qu'il représente. À l'est, un mur est orné de barils, et au nord, une porte se tient ouverte, révélant un passage étroit qui semble mener à un autre monde. L'atmosphère est oppressante, et tu sens que quelque chose de malveillant t'observe depuis les ténèbres.",
+    "tags": [
+      "sacrifice",
+      "rituel",
+      "fantôme",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "ritual circles",
+        "glyphs"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "north"
+      ],
+      "hazards": [
+        "traps",
+        "poison gas"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 386
+    }
+  }
+}

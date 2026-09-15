@@ -1,0 +1,43 @@
+{
+  "316": {
+    "title": "L'Abîme des Anciens",
+    "description": "Un autel occupe le centre de l'espace. Devant toi, une arche majestueuse s'élève, éclairée par une faible lueur qui semble provenir d'ailleurs. Devant l'arche, un amoncellement d'or scintille, mais le sol fissuré sous tes pieds te rappelle que tu es bien loin du confort. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules, comme si l'ancien culte qui réside ici avait des yeux partout. Des cercles rituels marquent le sol, et des piliers et statues de pierre gardent le secret de cette salle. Le mobilier, ancien et usé, parais avoir été oublié depuis longtemps. L'atmosphère est mystérieuse et menaçante, comme si l'ancien culte observait chaque mouvement. L'eau stagnante au fond de la salle résonne d'un murmure sinistre. Tu te demandes ce que cache cette salle de culte ancien.",
+    "tags": [
+      "culte ancien",
+      "or",
+      "abîme",
+      "mystère",
+      "vieillissement"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de culte ancien",
+      "csvDescription": "abîme avec une arche et de l'or devant un sol fissuré",
+      "tileNumber": 316
+    }
+  }
+}

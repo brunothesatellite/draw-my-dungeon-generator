@@ -1,0 +1,43 @@
+{
+  "302": {
+    "title": "L'Abîme des Tentacules",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La salle est immense, ses murs irréguliers et ses plafonds bas. La lumière est si faible que tu peux à peine distinguer les contours des tentacules qui semblent s'étirer de tous les côtés. L'air est lourd et humide, et tu perçois une odeur de soufre et de mort. Au centre, un espace sombre attire ton regard, comme si quelque chose y était dissimulé. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent les murs. Un objet étrange, inconnu, repose au milieu de la pièce. Les tentacules, visibles partout, paraissent attendre. L'atmosphère est glaçante, et tu sens une menace latente. Les spirales t'invitent à explorer, mais tu sais que chaque pas peut te mener à l'abîme.",
+    "tags": [
+      "abîme",
+      "tentacules",
+      "spirales",
+      "humidité",
+      "odeur de soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "dark central area",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spiral patterns"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "mysterious object"
+      ],
+      "creaturesOrTraces": [
+        "tentacles"
+      ],
+      "exits": [],
+      "hazards": [
+        "spiral patterns"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "abîme",
+      "tileNumber": 302
+    }
+  }
+}

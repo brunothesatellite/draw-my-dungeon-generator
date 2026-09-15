@@ -1,0 +1,46 @@
+{
+  "319": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "Un autel occupe le centre de l'espace. Le sol, fissuré et instable, semble s'effondrer sous tes pieds. Un tonneau, usé par le temps, repose près du trou, comme s'il avait été abandonné là depuis des siècles. Les murs, vieillis et rugueux, sont ornés de têtes de mort et de tentacules, comme si l'abîme lui-même s'était emparé de la vie. Des cercles rituels et des glyphes runiques marquent le sol, des symboles qui paraissent avoir été dessinés par des mains longtemps disparues. Des piliers et des statues, vieilles et érodées, gardent le secret de cette salle. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis des temps immémoriaux. Des pièges, invisibles, mais bien présents, attendent les intrus. L'atmosphère est oppressante, un mélange de mystère et de menace qui te pousse à chercher un moyen de quitter cette pièce. L'eau stagnante, noire et trouble, coule lentement, ajoutant à l'ambiance lugubre. Devant toi, un autel, entouré de colonnes, parais être le cœur de ce lieu. Les runes gravées sur le sol paraissent murmurer des secrets obscurs. Tu sens une présence ancienne, une force qui t'observe depuis l'ombre.",
+    "tags": [
+      "abîme",
+      "rituels",
+      "ténèbres",
+      "vieillie",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "abîme avec un sol très fissuré formant un nouveau trou. Un tonneau est près du sol fissuré",
+      "tileNumber": 319
+    }
+  }
+}

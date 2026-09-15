@@ -1,0 +1,49 @@
+{
+  "314": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "Un massive, dark, organic structure occupe le centre de l'espace. La lumière vacille, révélant une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres usées et fissurées. Au centre, un monstre colossal, une créature de la nuit, semble dormir, ses tentacules et ses tendres s'étirant vers le plafond. Des spirales mystérieuses gravent le sol, et des lignes de sève s'écoulent, comme si la salle elle-même était en train de se décomposer. Les colonnes et les piliers, anciens et robustes, paraissent soutenir un secret millénaire. Des autels sombres et des objets énigmatiques sont disséminés partout, tandis que des traces de tentacules et de formes organiques indiquent la présence d'êtres maléfiques. L'atmosphère est oppressante, un mélange de mystère et d'étrangeté. Tu sens une présence indéfinissable, comme si l'abîme était en train de te surveiller. Les gouttes de sève qui coulent paraissent murmurer des secrets obscurs. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère glauque. L'abîme est un lieu de rituels anciens, peut-être même un sanctuaire des forces obscures.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "créature ancienne",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "massive, dark, organic structure",
+      "wallDecorations": [
+        "tentacles",
+        "tendrils"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "dripping lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "autels",
+        "mysterious objects"
+      ],
+      "creaturesOrTraces": [
+        "tentacles",
+        "organic forms"
+      ],
+      "exits": [],
+      "hazards": [
+        "dripping lines",
+        "organic forms"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritualistic or ancient",
+      "csvDescription": "abîme",
+      "tileNumber": 314
+    }
+  }
+}

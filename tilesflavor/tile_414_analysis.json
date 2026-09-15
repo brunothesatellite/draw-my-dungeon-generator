@@ -1,0 +1,46 @@
+{
+  "414": {
+    "title": "Salle d'Échecs Sacrée",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de runes, parais murmurer des secrets anciens. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère sombre. L'eau stagnante, qui coule lentement, résonne d'un murmure menaçant. L'odeur de soufre et de mort flotte dans l'air, accentuant la tension. Tu sens une présence ancienne, prête à révéler ses secrets ou à te piéger.",
+    "tags": [
+      "rituel",
+      "échecs",
+      "sombre",
+      "mystère",
+      "vieillie"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "statues"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "Salle d'échecs avec pièces d'échecs",
+      "tileNumber": 414
+    }
+  }
+}

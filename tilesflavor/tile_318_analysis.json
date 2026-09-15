@@ -1,0 +1,51 @@
+{
+  "318": {
+    "title": "L'Abîme des Anciens",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière faible pénètre à peine, éclairant un sol fissuré et des champignons étranges qui semblent vibrer sous vos pas. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant vous, un autel central, entouré de piliers et de colonnes vieillies, attire votre regard. Des têtes de mort et des tentacules émergents des murs, tandis que des cercles rituels et des glyphes runiques marquent le sol. Le mobilier ancien, usé par le temps, parais attendre votre arrivée. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'eau stagnante, noire et trouble, coule lentement vers le centre de la pièce, créant un murmure sinistre. L'atmosphère est oppressante, et un frisson vous parcourt le dos. La tension est palpable, comme si quelque chose de terrible allait se déclencher.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "vieillie",
+      "squelette",
+      "têtes de mort",
+      "tentacules",
+      "glyphes runiques",
+      "mobilier ancien",
+      "eau stagnante",
+      "sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "squelette"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "abîme avec un sol très fissuré et des champignons",
+      "tileNumber": 318
+    }
+  }
+}

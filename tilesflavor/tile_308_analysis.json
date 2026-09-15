@@ -1,0 +1,40 @@
+{
+  "308": {
+    "title": "L'Abîme des Tentacules",
+    "description": "Un empty space occupe le centre de l'espace. Devant toi s'ouvre une crypte rectangulaire, éclairée par une lumière diffuse et tamisée. L'air est lourd et humide, l'odeur de soufre et de mort flotte dans l'air. Le sol est couvert d'un tapis de pierre naturelle, marqué d'un spiralé qui semble s'enfoncer vers le centre de la salle. Les murs, recouverts de tentacules qui paraissent vivants, créent une atmosphère glauque. Quatre colonnes imposantes soutiennent le plafond, tandis que des inscriptions anciennes gravées dans le mur attirent ton regard. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre. L'eau qui coule doucement au fond de la salle parais murmurer des secrets obscurs. Tu te demandes quel rituel sombre a pu avoir lieu ici.",
+    "tags": [
+      "rituel",
+      "tentacules",
+      "abîme",
+      "soufre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "empty space",
+      "wallDecorations": [
+        "tentsacles",
+        "tentsacles"
+      ],
+      "floorMarkings": [
+        "spiral"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "water"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "abîme traversé par un pont de pierre naturel",
+      "tileNumber": 308
+    }
+  }
+}

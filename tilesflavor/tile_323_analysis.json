@@ -1,0 +1,46 @@
+{
+  "323": {
+    "title": "L'Abîme des Ténèbres",
+    "description": "L'ambiance sinistre pèse sur la pièce. La lumière s'éteint, laissant place à une obscurité dense qui t'enveloppe. Devant toi, une salle de forme irrégulière, délabrée, semble avoir été abandonnée depuis des siècles. Les murs, couverts de têtes de mort et de tentacules, paraissent évoquer des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, comme si des sacrifices avaient eu lieu ici. Des piliers et une colonne majestueuse se dressent au centre, autour d'un autel qui parais avoir été délaissé. Tu perçois une odeur de soufre et de mort qui te pique les narines. L'eau stagnante, qui coule lentement, parais attendre sa prochaine victime. L'atmosphère est sinistre, presque palpable, comme si l'abîme lui-même respirait. Tu sens une présence étrange, comme si quelque chose t'observait depuis les ténèbres.",
+    "tags": [
+      "abîme",
+      "rituel",
+      "ténèbres",
+      "soufre",
+      "sacrifice"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "obscurité",
+      "condition": "délabrée",
+      "centralFeature": "autel ou mobilier",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "autel"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "abîme avec des champignons",
+      "tileNumber": 323
+    }
+  }
+}

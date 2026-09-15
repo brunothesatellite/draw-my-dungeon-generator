@@ -1,0 +1,39 @@
+{
+  "378": {
+    "title": "La Salle des Anciens",
+    "description": "Un porte murée occupe le centre de l'espace. La lumière filtre à peine à travers une fenêtre étroite, éclairant les murs vieillis par le temps. Des têtes de mort sculptées dans le linteau semblent te regarder, leurs yeux vides comme des orbites vides. Le sol est marqué de cercles rituels, leurs contours usés par l'usure. Des piliers robustes soutiennent le plafond, leurs surfaces lisses et usées par les siècles. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "salle de rituel",
+      "vieillie",
+      "mystérieuse",
+      "ancienne",
+      "eau stagnante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "porte murée",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "souterrain sans issue",
+      "tileNumber": 378
+    }
+  }
+}

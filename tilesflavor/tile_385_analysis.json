@@ -1,0 +1,50 @@
+{
+  "385": {
+    "title": "La Chambre des Rituels",
+    "description": "Un unknown occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'atmosphère est oppressante, comme si la salle était gardée par des forces obscures. Les murs, une éternité de dilapidation, sont recouverts de tentes et de crânes, des symboles de sacrifices passés. Des spirales et un cercle marquent le sol, comme si la pièce avait été utilisée pour des rituels anciens. Des colonnes et des piliers, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Au centre, un autel, dépourvu de tout objet, semble attendre un culte. Des fantômes flottent dans l'air, leurs silhouettes translucides, comme s'ils cherchaient encore à accomplir leur destin. L'odeur de moisi et de soufre te pique les narines, et tu sens une présence indéfinissable qui te scrute. Les pièges et le gaz toxique sont toujours là, prêts à t'attirer dans leur piège. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "fantôme",
+      "dilapidé",
+      "ancien"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "unknown",
+      "wallDecorations": [
+        "tents",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "spiral patterns",
+        "circle"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "columns"
+      ],
+      "objectsOrFurniture": [
+        "altar",
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figures"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "traps",
+        "poison gas"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "salle ouverte complète",
+      "tileNumber": 385
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "406": {
+    "title": "La Salle des Rituels",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. L'atmosphère est oppressante, presque palpable. Au centre de la pièce, un autel sombre attire le regard, entouré de tentacules et de têtes de mort sculptées dans le mur. Des cercles rituels marquent le sol, et une table, simple et ancienne, occupe un coin. Des traces de pas, comme si quelqu'un avait récemment quitté la pièce, sont visibles sur le sol. L'odeur de soufre et de vieux papier humide flotte dans l'air, tandis que l'eau stagnante menace de s'écouler du mur. La tension est palpable, et un murmure lointain semble provenir de l'angle sombre de la pièce. La porte ouverte laisse entrevoir un passage étroit qui parais mener à d'autres mystères.",
+    "tags": [
+      "rituels",
+      "vieillie",
+      "mystérieuse",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "traces de pas"
+      ],
+      "exits": [
+        "porte ouverte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "Salle de cuisine",
+      "tileNumber": 406
+    }
+  }
+}

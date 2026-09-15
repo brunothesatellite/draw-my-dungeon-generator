@@ -1,0 +1,45 @@
+{
+  "405": {
+    "title": "Salle des Sacrifices",
+    "description": "Un autel occupe le centre de l'espace. Les murs, usés et couverts de taches, sont ornés de têtes de mort et de tentacules qui paraissent jaillir du plafond. Un autel central, entouré de cercles rituels, attire immédiatement l'attention. Des piliers et des colonnes, vieillies, soutiennent le toit, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos. Devant vous, un seul passage parais mener à l'extérieur.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "sinistre",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle de labyrinthe avec grille",
+      "tileNumber": 405
+    }
+  }
+}

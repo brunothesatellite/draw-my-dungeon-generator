@@ -1,0 +1,52 @@
+{
+  "400": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les silhouettes des colonnes qui se dressent comme des sentinelles dévastées. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de cercles rituels qui semblent avoir été dessinés par des mains tremblantes. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens de secrets millénaires. Le sol est marqué de cercles rituels, et des barils de bois ancien sont empilés contre le mur, leurs couvercles érodés par le temps. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante coule lentement vers le centre de la salle, formant un miroir sombre qui reflète les ombres qui dansent autour de toi. L'atmosphère est sinistre, presque palpable, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "salle de destruction",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels",
+      "pièges anciens",
+      "eau stagnante",
+      "atmosphère sinistre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "salle de destruction avec des pierres, des colonnes",
+      "tileNumber": 400
+    }
+  }
+}

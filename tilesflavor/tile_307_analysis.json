@@ -1,0 +1,46 @@
+{
+  "307": {
+    "title": "L'Abîme des Tentacules",
+    "description": "L'ambiance mysterious and eerie pèse sur la pièce. Devant toi, un mur de grotte s'élève, éclairé par une lumière diffuse qui semble provenir de nulle part. L'air est lourd et humide, et tu perçois une odeur de soufre qui te pique les narines. Devant le mur, un bassin sombre et étroit attire ton regard. Des tentacules, noirs et sinistres, paraissent s'enrouler autour de la surface de l'eau, comme s'ils attendaient l'ordre de se déployer. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Un objet étrange, enveloppé dans une émanation de mystère, repose au centre de la pièce. Une silhouette fantomatique, floue et translucide, parais errer dans l'ombre, ajoutant une note de peur à l'atmosphère déjà étrange. L'abîme est un lieu de rituel, et tu sens une présence ancienne et puissante qui t'observe.",
+    "tags": [
+      "rituel",
+      "tentacules",
+      "soufre",
+      "spirales",
+      "colonne",
+      "mystère"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "dim",
+      "condition": "damp",
+      "centralFeature": "dark pool",
+      "wallDecorations": [
+        "tentacles"
+      ],
+      "floorMarkings": [
+        "spirals"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "mysterious object"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "water hazard"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "abîme devant un mur de grotte",
+      "tileNumber": 307
+    }
+  }
+}

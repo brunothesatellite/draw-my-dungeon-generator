@@ -1,0 +1,46 @@
+{
+  "333": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière faible pénètre à peine, éclairant des murs vieillis et des piliers robustes qui semblent avoir vu des siècles d'obscurité. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de tentacules et de têtes de mort sculptées dans le mur. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des rituels obscurs. Des traces de créature, comme des griffes profondes, sillonnent le sol, ajoutant une note de menace à l'atmosphère déjà glauque. L'eau stagnante, noire et trouble, remonte doucement le long du mur, prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "salle de culte",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels",
+        "glyphes runiques"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonne"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "traces de créature"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ou de culte",
+      "csvDescription": "grotte",
+      "tileNumber": 333
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "349": {
+    "title": "La Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. Les murs vieillis par le temps sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des cercles de pierre marquent le sol. Le mobilier ancien, usé par le temps, semble avoir été abandonné. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette pièce. L'eau stagnante, visible dans un coin, parais prête à te submerger. La tension est palpable, chaque bruit pouvant être un avertissement de danger imminent.",
+    "tags": [
+      "rituels",
+      "sacrifices",
+      "vieillie",
+      "mystérieuse",
+      "menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "salle carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "pièges anciens"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels ou de culte",
+      "csvDescription": "corridors avec fentes et tonneau",
+      "tileNumber": 349
+    }
+  }
+}

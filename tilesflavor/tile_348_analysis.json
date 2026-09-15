@@ -1,0 +1,47 @@
+{
+  "348": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle irrégulière, vieillie et sombre. Les murs, recouverts de peintures sombres et de têtes de mort, semblent observer tes moindres mouvements. Un autel central, orné de tentacules et de runes anciennes, attire ton regard. Des cercles rituels marquent le sol, et des piliers et colonnes soutiennent la structure. Une table, ancienne et usée, repose au milieu de la pièce. Des pièges sont dissimulés partout, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La porte, à l'extrémité de la salle, parais tailler un chemin vers l'inconnu. L'atmosphère sinistre te pousse à explorer ce lieu, mais chaque pas parais te mener plus profondément dans l'obscurité.",
+    "tags": [
+      "salle de rituel",
+      "vieillie",
+      "sinistre",
+      "crypte",
+      "pièges"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "irrégulière",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers",
+        "colonnnes"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [
+        "porte"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "grotte avec une fente, beaucoup de branches, une arche après avoir passé des planches (comme un piège)",
+      "tileNumber": 348
+    }
+  }
+}

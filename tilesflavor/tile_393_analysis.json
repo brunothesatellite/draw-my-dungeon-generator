@@ -1,0 +1,44 @@
+{
+  "393": {
+    "title": "Salle des Sacrifices",
+    "description": "Des têtes de mort couvrent les murs. La faible lumière filtre à travers des fenêtres brisées, éclairant des statues grotesques qui semblent veiller sur un autel central. Des cercles de pierre rituels marquent le sol, et des tentacules émergents des murs, comme des monstres gardiens. Des têtes de mort sont sculptées dans les pierres, ajoutant une touche d'horreur à l'atmosphère sinistre. Des grilles métalliques, dissimulées derrière le mobilier, paraissent prêtes à déverser un poison ou de la fumée. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. Un frisson vous parcourt alors que vous vous approchez de l'autel, sentant une présence malveillante vous observez.",
+    "tags": [
+      "rituel",
+      "sacrifice",
+      "statues",
+      "tentacules",
+      "soufre"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "carrée",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier"
+      ],
+      "creaturesOrTraces": [
+        "pièges"
+      ],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "sinistre",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "salle ouverte avec des statues et des cercles de pierre sur le sol (2 grilles métalliques semblent pouvoir déverser du poison ou de la fumée)",
+      "tileNumber": 393
+    }
+  }
+}

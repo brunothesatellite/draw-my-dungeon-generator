@@ -1,0 +1,42 @@
+{
+  "345": {
+    "title": "La Crypte des Anciens",
+    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils en bois sont posés contre le mur. La grille au centre du sol parais prête à s'effondrer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La tension est palpable, et tu sens que quelque chose de glaçant se cache dans l'ombre.",
+    "tags": [
+      "rituel",
+      "vieillie",
+      "mystérieuse",
+      "soufre",
+      "tentacules"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "table"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituels",
+      "csvDescription": "grotte avec lit, table, chaises, 2 arches, une boîte et 2 tonneaux. Une grille est au centre du sol",
+      "tileNumber": 345
+    }
+  }
+}

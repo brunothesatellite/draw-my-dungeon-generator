@@ -1,0 +1,47 @@
+{
+  "346": {
+    "title": "La Crypte des Anciens",
+    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière y est faible, comme si elle avait été éteinte depuis des siècles. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers massifs, attire ton regard. Des têtes de mort sculptées ornent les murs, tandis que des cercles rituels marquent le sol. Des tentacules, visibles sous la surface de l'eau stagnante, semblent attendre l'arrivée de quelqu'un. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère lugubre. L'unique sortie parais menacer de plus en plus de mystère. Tu sens une présence ancienne, presque palpable, qui te scrute.",
+    "tags": [
+      "grotte",
+      "rituel",
+      "vieillie",
+      "têtes de mort",
+      "tentacules",
+      "mobilier ancien",
+      "atmosphère menaçante"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "mobilier ancien"
+      ],
+      "creaturesOrTraces": [
+        "tentacules"
+      ],
+      "exits": [
+        "un seul"
+      ],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et menaçante",
+      "roomPurpose": "salle de rituel ancien",
+      "csvDescription": "grotte avec une arche",
+      "tileNumber": 346
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "315": {
+    "title": "L'Abîme Sacrée",
+    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Le sol, recouvert de cercles rituels, semble tisser un tapis de magie ancienne. À l'entrée, un autel de pierre, usé par le temps, attire ton regard. Des têtes de mort sculptées dans le mur te regardent avec un regard vide, comme si elles avaient été oubliées depuis des siècles. Les piliers massifs, sculptés de motifs archaïques, paraissent soutenir le plafond, mais tu sens une humidité stagnante qui monte de la terre. Au centre de la pièce, une boîte et un tonneau sont posés, comme si quelqu'un avait laissé là un objet important. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne de la salle. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre.",
+    "tags": [
+      "rituel",
+      "sombre",
+      "vieillie",
+      "mystère",
+      "abîme"
+    ],
+    "sourceFeatures": {
+      "roomSize": "petite",
+      "roomShape": "rectangulaire",
+      "lighting": "faible",
+      "condition": "vieillie",
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort"
+      ],
+      "floorMarkings": [
+        "cercles rituels"
+      ],
+      "architecturalDetails": [
+        "piliers"
+      ],
+      "objectsOrFurniture": [
+        "boîte",
+        "anneau"
+      ],
+      "creaturesOrTraces": [],
+      "exits": [],
+      "hazards": [
+        "eau stagnante"
+      ],
+      "atmosphere": "mystérieuse et ancienne",
+      "roomPurpose": "salle de rituel",
+      "csvDescription": "abîme avec une boîte et un tonneau",
+      "tileNumber": 315
+    }
+  }
+}
