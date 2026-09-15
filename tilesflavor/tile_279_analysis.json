@@ -1,14 +1,13 @@
 {
   "279": {
-    "title": "Égout des Anciens",
-    "description": "Tu te trouves dans un égout étroit et humide, où l'eau stagnante reflète les murs de pierre. Le sol est recouvert de cercles rituels anciens, qui semblent avoir été dessinés il y a des siècles. Des piliers massifs soutiennent le plafond, créant une atmosphère sinistre. Au centre de l'eau, une plateforme rectangulaire supporte un baril ancien, et une petite boîte est posée dessus. Un octopus, ses tentacules flottant dans l'eau, semble nager lentement autour de la plateforme. Des têtes de mort et des tentacules sont gravés sur les murs, ajoutant à l'atmosphère macabre. La porte murée au fond semble être le seul moyen de quitter cet endroit. La lumière est faible, rendant l'endroit encore plus sombre et mystérieux.",
+    "title": "Égout du Tentacule",
+    "description": "L'égout est étroit et humide, avec des murs de pierre rugueuse qui s'effritent sous l'humidité. Le sol est recouvert d'une eau stagnante, où flotte un squelette flottant. Au centre de l'égout, une plateforme circulaire en pierre est posée sur l'eau, entourée d'un cercle rituel ancien gravé dans le sol. Un tonneau de bois, usé par le temps, repose contre le mur, et une petite boîte en métal est posée sur la plateforme. Un octopus nage lentement autour de la plateforme, ses tentacules s'enroulant autour de la boîte métallique. L'air est chargé d'une odeur nauséabonde, et les murs sont parsemés de têtes de mort et de tentacules étranges. La lumière est faible, filtrant à travers des éclats de soleil qui perforent les nuages sombres. Les piliers de pierre, anciens et usés, soutiennent le plafond qui menace de s'effondrer. L'atmosphère est sinistre et oppressante, comme si l'égout était le dernier refuge d'une créature ancienne et maléfique.",
     "tags": [
-      "épave",
+      "égoût",
+      "tentacule",
       "rituel",
-      "tête de mort",
-      "tentacules",
-      "égout",
-      "salle de rituel"
+      "squelette",
+      "octopus"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "147": {
-    "title": "Couloir des Sacrifices",
-    "description": "Le couloir est étroit et sombre, éclairé par une faible lumière qui se répand à peine. Les murs, usés et recouverts de traces de vieilles peintures, semblent raconter des histoires oubliées. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. À l'extrémité du couloir, un coffre de bois, fermé et ancien, semble garder un secret. Un tableau, délavé, est posé contre le mur, mais son contenu est difficile à distinguer dans l'obscurité. À droite, une fenêtre laisse entrer une brise froide, révélant un paysage sombre et mystérieux. L'eau stagnante, noire et trouble, se forme dans un coin, menaçant de s'étendre. Le couloir est une voie sombre et sinistre, où chaque pas semble résonner dans l'ancienne et lugubre atmosphère.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir est étroit et sinistre, éclairé par une faible lumière qui se répand à peine. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. À l'extrémité du couloir, un coffre de bois ancien est posé sur une table, son contenu mystérieux. À droite, une fenêtre laisse entrer une eau stagnante qui remonte lentement le couloir. Le couloir est une voie sombre et sinistre, où chaque pas semble résonner dans l'ancienne pierre.",
     "tags": [
       "couloir",
       "rituel",
-      "sacrifice",
       "vieillie",
-      "sinistre"
+      "sinistre",
+      "coffre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

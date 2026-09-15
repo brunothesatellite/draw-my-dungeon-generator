@@ -1,13 +1,13 @@
 {
   "209": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules qui semblent surgir du néant. Des cercles rituels émaillent le sol, marquant l'ancien passage de rituels obscurs. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne, recouverte de poussière, semble avoir été oubliée depuis des siècles. L'atmosphère est oppressante, et l'eau stagnante au fond du passage menace de vous engloutir. À chaque pas, vous entendez le grincement des pierres et le murmure des souvenirs lointains. À l'extrémité du couloir, une porte massive semble protéger un secret ancien.",
+    "title": "Couloir des Escaliers d'Escalade",
+    "description": "Le couloir est étroit et sombre, éclairé par une faible lumière qui filtre à travers des voûtes de pierre usées. Les murs sont recouverts de cercles rituels anciens, leurs symboles érodés par le temps. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies. À la fin du couloir, une porte massive se dresse devant vous, sa peinture écaillée révélant des traces de vieilles peintures. Des escaliers d'escalade menant à un niveau supérieur sont gravés dans le mur à votre droite, leurs marches usées et rugueuses. L'air est chargé d'une odeur de moisi et d'eau stagnante qui se répand dans le couloir. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien rituel. À votre gauche, une table en bois usée repose contre le mur, son dessus couvert de poussière et de traces de vieilles offrandes. Le couloir est envahi par une atmosphère sinistre, accentuée par les ombres qui dansent sur les murs.",
     "tags": [
-      "couloir",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "salle de rituel"
+      "escaliers",
+      "escalade",
+      "rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

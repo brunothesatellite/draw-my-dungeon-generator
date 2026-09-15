@@ -1,13 +1,13 @@
 {
   "40": {
-    "title": "Salle des Anciens",
-    "description": "La salle est rectangulaire, mesurant 40x40 pieds, et éclairée par la lumière naturelle qui filtre à travers les fenêtres non visibles. La pièce est en bon état, avec des piliers massifs soutenant le plafond voûté. Au centre de la pièce se dresse un autel, orné de têtes de mort et de tentacules qui semblent jaillir du sol. Sur les murs, des cercles rituels sont gravés, et des soleils étranges, semblables à des dessins magiques, sont dessinés. Un obélisque majestueux domine l'ensemble, évoquant une ancienne civilisation perdue. Une table est placée dans un coin, sans doute pour les rituels. Des pièges anciens sont dissimulés dans les coins de la pièce, prêts à se déclencher à tout moment. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été abandonnée depuis des siècles.",
+    "title": "Salle des Soleils Étranges",
+    "description": "La salle est rectangulaire, mesurant 40x40 pieds, avec un sol en pierre lisse et bien entretenue. La lumière naturelle pénètre à travers de grandes fenêtres, révélant un paysage lointain. Au centre de la pièce se dresse une cheminée massive, dont les flammes danseuses émettent une lueur dorée. À côté de la cheminée, un obélisque de pierre blanche domine la pièce, orné de quatre soleils étranges dessinés avec une énergie magique palpable. Des cercles rituels sont gravés dans le sol, formant un carré au centre de la pièce. Des piliers robustes soutiennent les murs, et une table en bois est placée dans un coin, sans objet apparent. À l'ouest de la pièce, une porte se trouve, menant à un autre couloir. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été utilisée pour des rituels sacrés depuis des siècles.",
     "tags": [
       "Salle",
-      "Ancien",
-      "Rituel",
-      "Têtes de Mort",
-      "Tentacules"
+      "Soleils Étranges",
+      "Cheminée",
+      "Obélisque",
+      "Salle de Culte"
     ],
     "sourceFeatures": {
       "roomSize": "40x40",

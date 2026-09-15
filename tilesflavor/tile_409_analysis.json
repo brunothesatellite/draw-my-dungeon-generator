@@ -1,20 +1,20 @@
 {
   "409": {
-    "title": "Salle des Ossuaires",
-    "description": "La salle est immense, ses murs irréguliers et délabrés laissent entrevoir des squelettes éparpillés dans tous les coins. Des colonnes et des piliers supportent le plafond, dont les arches délicates sont tachées de mousse. La lumière diffuse, tamisée par les nuages de poussière qui flottent dans l'air, éclaire les spirales mystérieuses gravées dans le sol. Un autel, sombre et ancien, se dresse au centre de la pièce, entouré de squelettes alignés en cercles concentriques. Des tentes et des crânes ornent les murs, ajoutant à l'atmosphère lugubre. Des runes enchantées brillent doucement, prêtes à révéler leurs secrets à ceux qui savent les déchiffrer. La salle est un lieu sacré, où les morts sont réunis pour des rituels obscurs.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est immense, son plan irrégulier laissant entrevoir des recoins sombres et mystérieux. La lumière tamisée émane des torches anciennes qui flottent dans l'air, créant des ombres danseuses sur les murs. La salle est en ruine, les colonnes et les piliers délabrés témoignant de l'âge et de l'abandon. Des squelettes, éparpillés un peu partout, semblent avoir été jetés ici, leurs ossements éparpillés sur le sol marqué de spirales mystérieuses. Un autel, dépourvu de tout autelier, se dresse au centre de la pièce, son existence ajoutant à l'atmosphère étrange de la salle. Des runes enchantées brillent doucement, prêtes à révéler leurs secrets à ceux qui savent les déchiffrer. L'air est chargé d'une odeur de poussière et de mort, rendant l'atmosphère encore plus étrange et menaçante. Cette salle, autrefois lieu de sacrifices, semble maintenant être un ossuaire, un lieu où les morts dorment encore.",
     "tags": [
-      "Salle",
-      "Ossuaire",
-      "Sacrifice",
-      "Mystère",
-      "Ancien"
+      "ossuaire",
+      "sacrifice",
+      "squelette",
+      "salle",
+      "ruines"
     ],
     "sourceFeatures": {
       "roomSize": "large",
       "roomShape": "irregular",
       "lighting": "dim",
       "condition": "dilapidated",
-      "centralFeature": "skeletons",
+      "centralFeature": "squelettes",
       "wallDecorations": [
         "tents",
         "skulls"
@@ -30,7 +30,7 @@
         "altar"
       ],
       "creaturesOrTraces": [
-        "skeletons"
+        "squelettes"
       ],
       "exits": [],
       "hazards": [

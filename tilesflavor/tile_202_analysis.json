@@ -1,13 +1,16 @@
 {
   "202": {
-    "title": "Passage des Sacrifices",
-    "description": "Le couloir s'élargit progressivement, formant un rectangle large et rectiligne. La lumière tamisée émane des torches anciennes qui se balancent au bout de cordes, créant une ambiance sinistre. Les murs, couverts de traces de vieilles peintures et de symboles énigmatiques, semblent avoir été abandonnés depuis des siècles. Des colonnes massives, ornées de motifs sculptés, soutiennent le plafond qui s'effondre peu à peu, laissant échapper des nuages de poussière. Des cercles rituels sont gravés au sol, marquant le passage d'un espace sacré. Des étagères en bois, usées par le temps, sont disséminées le long des murs, mais elles sont vides. Le passage est étroit et semble ne mener nulle part, ajoutant à l'atmosphère étrange et menaçante. Des traces de sang séché sont visibles sur le sol, et l'eau stagnante au fond du couloir est toxique, ce qui rend le lieu encore plus dangereux. Les murs sont parsemés de tentacules et de crânes, rappelant l'ancien culte qui a régné ici.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir s'élargit progressivement, menant à un escalier de descente qui s'enfonce dans l'obscurité. Les murs, recouverts de peintures sombres et de symboles énigmatiques, semblent avoir été érodés par le temps. Des colonnes massives, usées par l'humidité, soutiennent le plafond qui menace de s'effondrer. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien rituel sacré. Des étagères, remplies de livres et de papiers jaunis, sont alignées contre le mur, tandis que des tentacules noirs, visibles à travers les fissures, ajoutent une touche d'étrangeté à l'atmosphère. La descente est dangereuse, car l'eau stagnante au fond du couloir est empoisonnée. La seule lumière vient d'une petite fenêtre au bout du couloir, éclairant les murs et les colonnes, mais ne révélant pas la fin de ce passage mystérieux.",
     "tags": [
-      "couloir",
+      "escaliers",
+      "descente",
       "sacrifice",
-      "ancien culte",
-      "toxique",
-      "mystérieux"
+      "rituel",
+      "étagères",
+      "tentacules",
+      "poison",
+      "couloir"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,22 +1,22 @@
 {
   "1": {
-    "title": "La Salle des Anciens",
-    "description": "Vous pénétrez dans une salle immense, carrée et sombre, où les murs anciens et usés semblent murmurer des secrets millénaires. La lumière diffuse et diffuse éclaire les spirales et les croix gravées sur le sol, tandis que les colonnes et les piliers sculptés ajoutent une touche de majesté à l'atmosphère étrange. Un mystérieux coffre, orné de symboles énigmatiques, repose au centre de la pièce, entouré de tentacules et de têtes de mort qui semblent garder le secret de la salle. Des traces de pas fantomatiques se dessinent sur le sol, et un murmure lointain semble provenir de l'ombre. Un passage secret, dissimulé par une toile de toile, vous attend à l'extrémité de la pièce. Les anciens ont laissé derrière eux des pièges et des trappes, prêts à vous piéger si vous vous approchez trop près de l'objet mystérieux.",
+    "title": "Salle des Obélisques",
+    "description": "La salle est immense, presque carrée, avec des colonnes massives qui soutiennent un plafond ancien et voûté. La lumière tamisée émane des fenêtres étroites, créant une ambiance mystérieuse et étrange. Les sols sont marqués de spirales et de croix, des symboles anciens qui semblent avoir été gravés il y a des siècles. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche macabre à l'atmosphère. Un obélisque majestueux domine le centre de la pièce, entouré de colonnes élancées qui semblent avoir été sculptées par des mains invisibles. Un coffre mystérieux repose dans un coin, son contenu caché à tous les regards. Un passage secret se trouve dans un coin, dissimulé par des rideaux de toile qui semblent avoir été abandonnés depuis longtemps. Des pièges sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. La présence d'une entité fantomatique plane dans l'air, rendant l'atmosphère encore plus étrange et menaçante.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Mystère",
-      "Pièges",
-      "Tentacules"
+      "salle",
+      "obélisque",
+      "colonnes",
+      "mystère",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",
       "roomShape": "square",
       "lighting": "dim",
       "condition": "ancient",
-      "centralFeature": "mysterious box",
+      "centralFeature": "obélisque",
       "wallDecorations": [
-        "tentsacles",
+        "tentacles",
         "heads of death"
       ],
       "floorMarkings": [

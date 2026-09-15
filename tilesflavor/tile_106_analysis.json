@@ -1,13 +1,13 @@
 {
   "106": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les voûtes. Les murs vieillis sont ornés de piliers et de statues, ajoutant une touche de mystère à l'atmosphère sinistre. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Un tableau avec le numéro 106 est accroché au mur, ajoutant une touche de mystère supplémentaire. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. L'eau stagnante au fond de la salle ajoute une touche de danger, et un souffle froid s'élève de la surface, indiquant la présence d'une créature ou d'un esprit malveillant. La salle semble être le lieu de rituels anciens, mais elle est maintenant abandonnée et remplie de mystères.",
+    "title": "Salle des Rituels",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les pierres étranges alignées au centre. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ornent les murs vieillis. Un tableau avec le numéro 106 est accroché au mur, ajoutant une touche étrange à l'atmosphère sinistre. Une grille métallique repose au-dessus des pierres, comme si elle avait été utilisée pour maintenir quelque chose en place. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. L'eau stagnante dans un coin de la salle ajoute à l'atmosphère lugubre.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "mystère",
-      "vieillie",
-      "eau stagnante"
+      "salle",
+      "pierres",
+      "cercles rituels",
+      "statues"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

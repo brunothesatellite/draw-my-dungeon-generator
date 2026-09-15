@@ -1,13 +1,12 @@
 {
   "391": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol légèrement incliné. La lumière tamisée pénètre à travers des fenêtres étroites, révélant un espace vieillissant et mystérieux. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules sont suspendus aux murs, ajoutant une atmosphère menaçante. Des piliers robustes soutiennent le plafond, et des meubles anciens sont disposés autour de la pièce. Des traces de créatures indiquent que la salle a été utilisée récemment. Le sol est marqué de cercles rituels, et des pièges anciens sont dissimulés dans les recoins. La salle est une salle de rituels ou de culte, et l'ambiance est mystérieuse et menaçante.",
+    "title": "Salle des Rituels",
+    "description": "La salle est étroite et rectangulaire, avec un sol légèrement délavé par le temps. Un petit grille est posé sur le sol, comme si quelqu'un avait tenté de bloquer l'accès. Les murs sont recouverts de cercles rituels, des symboles mystérieux qui semblent avoir été dessinés il y a des siècles. Des piliers massifs soutiennent le plafond, leurs surfaces usées par l'humidité et le temps. Le mobilier ancien est réparti autour de la pièce, des sièges et des tables en bois usé, témoignant de l'ancienneté du lieu. La lumière est faible, filtrant à travers une fenêtre à l'arrière de la salle, donnant une ambiance mystérieuse et menaçante. Des traces de créatures étranges sont visibles sur le sol, comme si des êtres maléfiques avaient récemment visité ce lieu. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. La salle semble avoir été utilisée pour des rituels ou des cultes, et les cercles rituels en sont la preuve évidente.",
     "tags": [
       "rituels",
-      "culte",
-      "vieillie",
+      "salle",
       "mystérieuse",
-      "menaçante"
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +34,7 @@
       "hazards": [
         "pièges anciens"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "salle ouverte complète avec un petit grille sur le sol",
       "tileNumber": 391

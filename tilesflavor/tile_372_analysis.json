@@ -1,13 +1,14 @@
 {
   "372": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints autrefois. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et un autel est placé au centre de la pièce. Des statues de taille moyenne, vieillies et érodées, sont alignées le long des murs, et un squelette humain est étendu entre deux d'entre elles. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. L'eau stagnante recouvre le sol dans une partie de la salle, rendant l'endroit glissant et dangereux. La porte ouverte au fond laisse entrevoir un passage sombre qui semble mener à d'autres mystères.",
+    "title": "Salle des Statues",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels. La lumière est faible, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers majestueux soutiennent le plafond, et des statues gigantesques sont alignées le long des murs. Un squelette, visiblement ancien, repose au milieu des statues, et un piège mystérieux semble se cacher dans les statues. Un autel est placé au centre de la pièce, et une porte ouverte permet d'entrer et de sortir. L'eau stagnante dans un coin de la salle ajoute à la menace potentielle. Cette salle était une salle de culte ancien, où des rituels sombres étaient peut-être pratiqués.",
     "tags": [
-      "salle",
-      "culte ancien",
-      "macabre",
-      "rituel",
-      "vieillie"
+      "statues",
+      "squelette",
+      "piège",
+      "salle de culte",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

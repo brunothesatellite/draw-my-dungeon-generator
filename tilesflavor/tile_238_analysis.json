@@ -1,13 +1,12 @@
 {
   "238": {
-    "title": "Salle des Rituels du Lion",
-    "description": "Cette salle ouverte, de taille petite et de forme irrégulière, évoque un lieu de culte ancien. La faible lumière qui y pénètre accentue l'atmosphère mystérieuse et menaçante qui plane dans l'air. Les murs vieillis sont marqués de cercles rituels, et des piliers robustes soutiennent le plafond. Des têtes de mort et des tentacules étranges ornent les murs, ajoutant une touche d'horreur à l'ambiance. Le sol est marqué de cercles rituels, et des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté du lieu. L'eau stagnante qui s'est formée dans un coin de la salle rend l'atmosphère encore plus menaçante. Cette salle, bien que petite, est le cœur de la cérémonie, où les rituels et les cultes sont célébrés.",
+    "title": "Salle du Lion",
+    "description": "La salle est étroite et irrégulière, avec un plafond bas et des murs vieillis par le temps. Le sol est couvert de cercles rituels, leurs contours usés par l'usure. Des piliers massifs soutiennent le toit, leurs surfaces lisses et usées par les années. Le dessin d'une tête de lion, ancien et délavé, est gravé sur le mur de face, son regard perçant semblant surveiller les environs. Le mobilier ancien, usé et délabré, est réparti autour de la pièce, ajoutant à l'atmosphère mystérieuse. La lumière est faible, filtrant à travers des fenêtres étroites, créant des ombres danseuses sur les murs. L'air est chargé d'une odeur ancienne et mystérieuse. Des eaux stagnantes se trouvent dans un coin de la pièce, leur surface trouble reflétant les murs alentour. La salle semble être un lieu de rituels ou de culte, chaque détail y pointant vers une histoire ancienne et sombre.",
     "tags": [
       "rituel",
       "salle",
-      "lion",
-      "mystère",
-      "culte"
+      "tête de lion",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

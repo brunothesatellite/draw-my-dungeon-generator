@@ -1,13 +1,13 @@
 {
   "6": {
-    "title": "Chambre des Anciens",
-    "description": "La chambre des Anciens est une salle immense, de forme rectangulaire, aux murs couverts de reliefs sculptés qui racontent des mythes et des légendes. La lumière y pénètre à peine, éclairant vaguement les croix, les lignes et les points gravés sur le sol. Des colonnes et des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et étrange de la pièce. Au centre de la pièce, un cercle avec un motif de grille semble être le point focal de cette chambre, entouré d'un objet mystérieux qui émet une étrange lueur. Des runes anciennes gravées sur les murs et le sol ajoutent une touche de danger à l'atmosphère déjà étrange. Des tentacules s'agissent dans l'air, rappelant les créatures qui habitent les profondeurs obscures. La chambre des Anciens est un lieu de rituel, mais aussi un piège mortel pour ceux qui oseraient y pénétrer.",
+    "title": "Salle du Trône Ancien",
+    "description": "La salle est immense, rectangulaire et recouverte d'une épaisse couche de poussière qui s'accumule sur les croix, les lignes et les points gravés sur le sol. Les murs, ornés de reliefs sculptés, sont parsemés de colonnes et de piliers massifs qui soutiennent une voûte ancienne. Au centre de la pièce, un trou avec une grille métallique est entouré d'un cercle mystérieux gravé d'anciennes runes. Un objet mystérieux, dont la nature est inconnue, repose au milieu de la pièce, émettant une faible lumière. L'atmosphère est étrangement étrange, comme si la salle était le témoin d'actes sacrés et secrets. Des tentacules émergent parfois du trou, ajoutant une note de menace à l'ambiance déjà sinistre.",
     "tags": [
       "ritual chamber",
-      "ancient runes",
+      "ancient",
       "mysterious object",
       "tentacles",
-      "ancient chamber"
+      "ancient runes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

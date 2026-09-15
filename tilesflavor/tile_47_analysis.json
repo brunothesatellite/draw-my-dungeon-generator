@@ -1,13 +1,13 @@
 {
   "47": {
-    "title": "Salle des Anciens",
-    "description": "La salle est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté. La lumière naturelle filtre à travers une fenêtre au fond, éclairant la pièce d'une lueur diffuse. La moiteur de l'air est perceptible, et des taches de mousse s'accumulent sur le sol, où un cercle rituel est gravé au centre. Des colonnes majestueuses soutiennent le plafond, et des tentes de mort ornent les murs, ajoutant une atmosphère de mystère et d'ancienneté. Un grand autel occupe l'angle, et un vieux tableau est posé contre le mur, mais il est difficile de distinguer ce qu'il représente. La seule sortie mène à un couloir sombre, et le sol humide est un danger à ne pas négliger.",
+    "title": "Salle des Trous et Grille",
+    "description": "La salle est immense et rectangulaire, éclairée par la lumière naturelle filtrant à travers une fenêtre au fond. Les murs sont recouverts d'une couche de mousse et de végétation, donnant une ambiance humide et ancienne. Au centre de la pièce, une grille métallique est ouverte, révélant quatre trous noirs qui semblent mener à un autre monde. Des colonnes majestueuses soutiennent le plafond, et des tentes de mort sont suspendues aux murs, ajoutant une touche macabre à l'atmosphère. Un cercle rituel est gravé au sol, marquant un espace sacré. Un simple table est placée près de la grille, sans objet apparent. La seule issue de la pièce est un couloir étroit qui semble mener à l'inconnu. Le sol est recouvert d'une couche de mousse glissante, rendant la marche dangereuse. Cette salle, bien que mystérieuse, semble être un lieu de culte ancien, peut-être un sanctuaire ou un lieu de rituels obscurs.",
     "tags": [
-      "salle",
       "ancien",
       "rituel",
       "mystère",
-      "mystique"
+      "salle sacrée",
+      "mousse"
     ],
     "sourceFeatures": {
       "roomSize": "large",

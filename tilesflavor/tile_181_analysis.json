@@ -1,13 +1,13 @@
 {
   "181": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules qui semblent surgir du néant. Des cercles rituels émaillent le sol, marquant un passage ancien et sacré. Des piliers et des statues, délabrés, gardent le secret de l'endroit. Un autel, entouré de tentacules, se dresse au fond du passage, évoquant l'ancienne puissance qui y réside. La lumière est faible, filtrant à travers des fissures dans le plafond, créant un halo de mystère. L'eau stagnante, noire et trouble, s'accumule dans un coin, ajoutant à l'atmosphère sinistre. Des traces de pas, anciennes et mystérieuses, sillonnent le sol, indiquant que des créatures ou des êtres ont déjà exploré ce lieu. À chaque pas, le passage résonne d'échos lointains, comme si les âmes des anciens y résonnaient encore.",
+    "title": "Escalier Descendant",
+    "description": "Le couloir s'élargit brusquement pour révéler un escalier descendant menant à l'obscurité. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces ornées de statues étranges qui semblent veiller sur le passage. Un tableau de bois, usé par l'humidité, repose contre le mur, son dessus recouvert de poussière. À l'extrémité de l'escalier, une porte ouverte laisse entrevoir une étendue d'eau stagnante, son niveau basé sur des traces de pas qui s'y reflètent. L'atmosphère sinistre est accentuée par les murs vieillis et les ombres qui dansent sur le sol, marqué de cercles rituels.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Mystère",
-      "Rituel",
-      "Tentacules"
+      "escalier",
+      "descendant",
+      "salle carrée",
+      "vieillie",
+      "rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "48": {
-    "title": "Couloir des Sacrifices",
-    "description": "Le couloir étroit et sombre s'enfonce dans l'obscurité, ses murs vieillis et fissurés témoignant de l'âge et de l'abandon. Des cercles rituels émaillent le sol, marquant un chemin qui semble avoir été oublié depuis longtemps. À l'extrémité du couloir, une porte ouverte laisse entrevoir une lumière faible, mais indécise. Des têtes de mort sculptées ornent les murs, ajoutant une note macabre à l'atmosphère mystérieuse. Des piliers robustes soutiennent le plafond, tandis qu'une table avec des rayures, probablement utilisée pour des rituels, occupe le centre du couloir. L'eau stagnante, noire et trouble, s'accumule au sol, créant un danger potentiel pour les explorateurs. Le couloir, bien qu'étroit, semble avoir été conçu pour une raison précise, peut-être pour des sacrifices ou des rituels obscurs.",
+    "title": "Couloir des Sarcophages",
+    "description": "Le couloir est étroit et sombre, les murs sont recouverts de sarcophages anciens, leurs couvercles fissurés laissent filtrer une lueur faible. Des cercles rituels sont gravés dans le sol, marquant le passage. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. À l'extrémité du couloir, une porte ouverte laisse entrevoir une eau stagnante. Des têtes de mort sont suspendues aux murs, ajoutant à l'atmosphère mystérieuse et menaçante. La table au centre du couloir, marquée de rayures, semble avoir été utilisée pour des rituels obscurs. Les murs sont décorés de têtes de mort, et le sol est marqué de cercles rituels. Les piliers massifs et la porte ouverte donnent sur une eau stagnante, rendant le lieu dangereux et imprévisible.",
     "tags": [
-      "Couloir",
-      "Sacrifices",
-      "Rituels",
-      "Macabre",
-      "Ancien"
+      "couloir",
+      "sarcophage",
+      "rituel",
+      "mystérieux",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

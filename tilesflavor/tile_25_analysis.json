@@ -1,13 +1,13 @@
 {
   "25": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Le sol est couvert de cercles rituels, marqués de sang séché et de poussière. Des piliers massifs soutiennent le plafond, leurs surfaces usées par l'humidité. Un bassin rempli d'eau stagnante occupe le centre de la pièce, entouré d'un autel de pierre où des têtes de mort et des tentacules émergent de l'eau. Des têtes de mort sculptées sont disposées sur les murs, tandis que des tentacules semblent s'enrouler autour de la salle, ajoutant une atmosphère de menace. Un grand table est placé près de l'autel, probablement pour les offrandes. La fumée s'échappe de l'autel, indiquant que quelque chose y brûle ou brûlait récemment. La salle est vide, mais l'air y résonne d'une présence ancienne et menaçante.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La lumière est faible, émanant d'une fontaine au centre qui alimente un bassin rempli d'eau stagnante. Des piliers massifs soutiennent le plafond, et une table ancienne est posée près de la fontaine. Des têtes de mort et des tentacules sont suspendus aux murs, ajoutant une atmosphère menaçante à la pièce. L'air est chargé d'une fumée dense, provenant d'un autel au fond de la salle. Les cercles rituels marquent les limites de la pièce, et les piliers sont ornés de motifs étranges. La salle semble être un lieu de rituel ou de sacrifice, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "Salle",
-      "Sacrifice",
-      "Ancien",
-      "Tentacules",
-      "Mystère"
+      "rituel",
+      "sacrifice",
+      "anciens",
+      "salle",
+      "fontaine"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

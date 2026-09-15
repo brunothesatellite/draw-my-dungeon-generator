@@ -1,13 +1,13 @@
 {
   "236": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des fenêtres brisées. Le sol est marqué de cercles rituels et de glyphes runiques, qui semblent avoir été dessinés avec une énergie ancienne. Des piliers massifs soutiennent le plafond, et des statues étranges sont disséminées à travers la pièce, ajoutant à l'atmosphère mystérieuse. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui a régné ici. Le mobilier ancien est délabré, mais semble avoir été utilisé pour des rituels. L'eau stagnante dans un coin de la pièce est un danger potentiel. La salle semble être le cœur d'un ancien sanctuaire, où des rituels et des sacrifices étaient pratiqués.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et irrégulière, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de piliers et de statues, ajoutant une touche de mystère à l'ensemble. Au centre de la pièce, un grand mandala fait face à un autel, entouré de cercles rituels et de glyphes runiques. Des têtes de mort et des tentacules sont visibles sur les murs, ajoutant une touche d'horreur à l'atmosphère. Le sol est marqué de cercles rituels et de glyphes runiques, et des statues sont disséminées à travers la pièce. Des objets anciens sont posés sur des meubles, et l'eau stagnante dans un coin de la salle ajoute une touche de danger. La salle semble être un lieu de rituels ou de culte, et le dessin magique au centre de la pièce attire l'attention des explorateurs. Les murs vieillis et les objets anciens donnent une impression de vieillesse et d'abandon, mais la présence de cercles rituels et de tentacules indique que ce lieu a été utilisé pour des rituels sombres.",
     "tags": [
-      "Salle des Rituels",
-      "Ancien Culte",
-      "Sacrifices",
-      "Têtes de Mort",
-      "Tentacules"
+      "rituel",
+      "salle",
+      "mandala",
+      "tête de mort",
+      "tentacule"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

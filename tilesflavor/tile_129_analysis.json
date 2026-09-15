@@ -1,20 +1,19 @@
 {
   "129": {
-    "title": "Salle des Rituels Infinis",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues étranges sont disséminées à travers la pièce, ajoutant à l'atmosphère mystérieuse. Le mobilier ancien est délabré, et des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui réside ici. L'eau stagnante au centre de la pièce est un danger à ne pas négliger. La salle semble être le cœur d'un ancien sanctuaire, où des rituels infinis sont célébrés.",
+    "title": "Salle des Dragons Infinis",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de piliers et de statues, et le sol est marqué de cercles rituels et de glyphes runiques. Des têtes de mort et des tentacules sont visibles sur les murs, ajoutant à l'ambiance sinistre. Le mobilier ancien est dispersé autour de la pièce, et une eau stagnante s'accumule dans un coin, créant un danger potentiel. Le dragon infini, majestueux et infini, se dresse au centre de la salle, son regard perçant et menaçant. Les cercles rituels et les glyphes runiques indiquent que cette pièce était utilisée pour des rituels ou des cultes. Les piliers et les statues ajoutent une touche d'ancienneté et de mystère à l'ensemble.",
     "tags": [
-      "rituels",
-      "salle sacrée",
-      "têtes de mort",
-      "tentacules",
-      "ancien culte"
+      "Salle",
+      "Dragons",
+      "Rituels",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "dragon infini",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

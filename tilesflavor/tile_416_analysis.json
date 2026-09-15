@@ -1,20 +1,20 @@
 {
   "416": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol marqué de cercles rituels. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, comme si quelque chose y était caché. La faible lumière qui pénètre à travers la fenêtre ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers robustes soutiennent le plafond, et des traces de mobilier ancien sont encore visibles, malgré l'abandon. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'ambiance. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est le cœur d'un rituel ancien, et les murs semblent avoir un mouvement circulaire, comme si quelque chose y était caché.",
+    "title": "Salle Circulaire avec Coffre",
+    "description": "Tu te trouves dans une petite salle carrée, faiblement éclairée, où les murs semblent avoir un mouvement circulaire, ouvrant et se refermant lentement. Le sol est marqué de cercles rituels anciens, et des piliers massifs soutiennent le plafond vieilli. Un coffre circulaire, ancien et rouillé, repose au centre de la pièce, entouré de mobilier ancien et délabré. À travers une fenêtre étroite, tu aperçois une eau stagnante qui semble bouillonnante, ajoutant à l'atmosphère mystérieuse et menaçante de la salle. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, ouvrant et se refermant lentement, créant une ambiance de présence ancienne et inquiétante.",
     "tags": [
       "rituel",
-      "salle",
-      "mystère",
-      "ancien",
-      "tête de mort"
+      "salle circulaire",
+      "coffre",
+      "murs circulaires",
+      "atmosphère mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "coffre",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

@@ -3,4 +3,10 @@
 * Généner de nouvelles descriptions en renforçant encore les notes de l'auteur (csvDescription), exemple tuile 427 :
   "csvDescription": "Magasin avec table, boîtes, étagères et barils",
   "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés au sol. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers robustes soutiennent les murs, et des têtes de mort et des tentacules étranges sont suspendus aux parois, ajoutant une touche d'horreur à l'ambiance. Un autel central, orné de symboles obscurs, domine la pièce. Des barils et des boîtes sont empilés sur une table au milieu de la salle, et des étagères remplies de mystérieux objets sont visibles à l'arrière. L'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus menaçante.",
-    
+
+PROMPT ANALYSE 
+Dans les descriptions il y a encore beaucoup de salles des anciens, ou xxx des anciens. Je veux vraiment renforcer les notes de l'auteur (csvDescription) pour qu'elles soient absolument prises dans la description. Par exemple tuile 427 :
+  "csvDescription": "Magasin avec table, boîtes, étagères et barils",
+  "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés au sol. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers robustes soutiennent les murs, et des têtes de mort et des tentacules étranges sont suspendus aux parois, ajoutant une touche d'horreur à l'ambiance. Un autel central, orné de symboles obscurs, domine la pièce. Des barils et des boîtes sont empilés sur une table au milieu de la salle, et des étagères remplies de mystérieux objets sont visibles à l'arrière. L'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus menaçante.",
+    La description devrait vraiment mentionner un magasin.
+Analyse les descriptions de tilesflavor2/ pour voir quand le csvDescription n'a pas du tout été pris en compte dans la description et liste les numéros des tuiles à reprendre. Propose aussi un vrai plan de régénération des tuiles pour obligatoirement utiliser csvDescription 

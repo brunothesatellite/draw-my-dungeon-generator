@@ -1,13 +1,13 @@
 {
   "256": {
-    "title": "L'Égout des Anciens",
-    "description": "Au cœur de l'obscurité, un égout immense s'ouvre, sa forme rectangulaire imposante. La grille au centre, étrangement alignée, semble protéger un secret. Le sol, humide et glissant, est marqué de spirales mystérieuses qui semblent danser sous la faible lumière qui filtre à travers les poutres délabrées. Des colonnes massives, ornées de tentacules, soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un autel, étrangement intact malgré l'humidité, se dresse au fond, son visage sculpté semblant observer les visiteurs. Les spirales et les tentacules, comme des indices secrets, guident le regard vers un mystérieux œil au centre de la pièce, semblant surveiller chaque mouvement. Les murs, usés par le temps, sont parsemés de tentacules qui semblent vivre leur propre vie, ajoutant une touche d'effrayante réalité à l'atmosphère. Les échos de pas lointains et les murmures de l'eau qui coule dans l'égout créent une ambiance de suspense et de mystère.",
+    "title": "L'Égout des Spirales",
+    "description": "Au cœur de l'obscurité, un égout rectangulaire s'ouvre, sa taille imposante révélant un passage étroit et lugubre. La grille métallique au centre émet un claquement sourd chaque fois qu'un personnage s'aventure à traverser. Un tonneau, usé par le temps, repose sur le sol, son bois craquelé évoquant l'histoire oubliée de ce lieu. Les murs, humides et froids, sont ornés de tentacules qui semblent se mouvoir lentement, ajoutant une note de menace à l'atmosphère déjà mystérieuse. Des spirales gravées dans le sol indiquent un chemin à suivre, mais chaque pas semble faire naître de nouvelles tentacules. Des colonnes robustes soutiennent le plafond, leurs pierres usées par les eaux stagnantes. Un autel, dépourvu de tout objet, se dresse au fond du passage, son existence ajoutant une note de mystère à l'ensemble. Les spirales et les tentacules, symboles de l'obscurité qui règne ici, font de cet égout un lieu à la fois fascinant et terrifiant.",
     "tags": [
-      "Égout",
-      "Anciens",
-      "Mystère",
-      "Tentacules",
-      "Spirales"
+      "épouvantail",
+      "rituel",
+      "tentacules",
+      "obscurité",
+      "épave"
     ],
     "sourceFeatures": {
       "roomSize": "large",

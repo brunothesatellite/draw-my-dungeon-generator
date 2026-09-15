@@ -1,11 +1,11 @@
 {
   "37": {
-    "title": "Chambre des Anciens",
-    "description": "La chambre des Anciens est une salle rectangulaire, immense et sombre, éclairée par la faible lumière filtrant à travers un unique fenêtre. Les murs, recouverts de mousse et de végétation, donnent une impression de vie ancienne et mystérieuse. Un grand cercle de pierre, étrangement intact malgré l'humidité, domine le centre de la pièce. Des colonnes majestueuses soutiennent le plafond, et un tapis suspendu aux murs semble être un objet de culte ancien. Un simple table, posée au milieu de la pièce, semble être le seul meuble de cette salle. La mousse qui recouvre le sol forme un motif spiralé, ajoutant à l'atmosphère énigmatique de la pièce. La chambre des Anciens semble avoir été utilisée pour des rituels anciens, et les murs sont ornés de tentes de pierre, peut-être des objets sacrés. La seule issue de cette pièce est une fenêtre étroite, qui semble être la seule lumière et la seule voie de sortie pour ceux qui s'y aventurent.",
+    "title": "Salle avec Trou",
+    "description": "La salle est immense, de forme rectangulaire, avec un plafond voûté qui laisse filtrer une lumière naturelle à travers un grand trou dans le mur. La pièce est recouverte d'une couche de mousse épaisse, qui s'agrippe aux pierres humides et aux murs couverts de mousse. Un grand cercle de pierre, lisse et lisse, occupe le centre de la pièce, entouré d'un motif de spirale gravé dans le sol. Des colonnes massives soutiennent le plafond, et un tableau est posé contre le mur, accroché à une tente suspendue. Un vieux bureau en bois est placé près du mur, laissant entrevoir un espace étroit qui semble mener à un autre endroit. La mousse et les algues ont colonisé les parois, créant une atmosphère mystérieuse et ancienne. Cette pièce semble avoir été utilisée pour des rituels, comme en témoigne la présence du grand cercle central.",
     "tags": [
       "rituel",
-      "ancien",
       "mystère",
+      "ancien",
       "salle",
       "mousse"
     ],
@@ -26,9 +26,6 @@
       ],
       "objectsOrFurniture": [
         "table"
-      ],
-      "creaturesOrTraces": [
-        "none"
       ],
       "exits": [
         "window"

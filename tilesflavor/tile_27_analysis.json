@@ -1,22 +1,24 @@
 {
   "27": {
-    "title": "Salle des Rituels",
-    "description": "Tu te trouves dans une petite salle rectangulaire, éclairée par une faible lumière qui se répand à peine. Les murs vieillis et usés sont recouverts de cercles rituels, des symboles mystiques qui semblent avoir été dessinés il y a des siècles. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et lisses reflétant faiblement la lumière. Au centre de la pièce, une table ancienne et usée est posée, son bois craquelé et son métal rouillé témoignant de l'âge et de l'abandon. À l'entrée, une porte ouverte laisse entrevoir une eau stagnante qui s'étend au-delà, un danger potentiel pour ceux qui cherchent à explorer plus loin. L'atmosphère est sinistre, pesante, comme si la salle avait été utilisée pour des rituels sombres et sacrilèges.",
+    "title": "Salle des Cercles",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis. Des cercles rituels marquent le sol, et des piliers massifs soutiennent le plafond. Une statue massive, probablement en pierre, domine le centre de la pièce, sur une table ancienne. Des traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'air est humide, et l'eau stagnante s'accumule dans les coins. La porte ouverte au fond laisse entrevoir un autre espace, mais l'entrée semble bloquée par une barrière invisible.",
     "tags": [
-      "rituel",
-      "salle",
+      "statue",
+      "cercles rituels",
+      "piliers",
+      "salle de rituel",
       "vieillie",
-      "eau stagnante",
-      "piliers"
+      "humide"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "table",
+      "centralFeature": "autel",
       "wallDecorations": [
-        "cercles rituels"
+        "têtes de mort",
+        "tentacules"
       ],
       "floorMarkings": [
         "cercles rituels"

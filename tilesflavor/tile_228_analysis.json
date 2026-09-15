@@ -1,13 +1,16 @@
 {
   "228": {
-    "title": "La Prison Sacrée",
-    "description": "Dans l'obscurité qui règne dans cette prison sacrée, les cellules sont fermées par des barreaux rouillés, et les grilles au sol semblent avoir été là depuis des siècles. Les cellules, de taille modeste mais rectangulaires, sont sombres et dilapidées, leurs murs recouverts de symboles mystérieux et de cercles rituels. Des colonnes et des piliers imposants soutiennent le plafond, ajoutant à l'atmosphère étrange de l'endroit. Un autel, orné d'une statue étrange, se dresse au centre de la pièce, évoquant une ancienne cérémonie sacrée. Des tentes et des crânes sont suspendus aux murs, ajoutant une touche macabre à l'ensemble. La pièce est plongée dans une lumière diffuse, rendant l'atmosphère encore plus mystérieuse et étrange. Des gaz toxiques pourraient s'échapper à tout moment, et des pièges cachés pourraient attendre à chaque coin. Les cellules sont vides, mais l'air semble chargé d'une présence éthérée, comme si des esprits errants y avaient une présence indiscutable.",
+    "title": "Prison des Cellules Fermées",
+    "description": "Vous pénétrez dans un couloir étroit et lugubre, éclairé par une faible lumière qui filtre à travers des barreaux rouillés. Les parois sont recouvertes de peintures sombres et de symboles énigmatiques gravés dans le mur. À votre droite, vous apercevez quatre cellules rectangulaires, fermées par des barreaux massifs. Chaque cellule est séparée par des colonnes massives, et au sol, vous remarquez des grilles qui servent de lits rudimentaires. Les cellules semblent abandonnées depuis longtemps, les barreaux rouillés et les lits usés témoignant de l'oubli. Des cercles rituels et des glyphes mystérieux sont gravés au sol, évoquant une ancienne cérémonie ou un rituel sacré. L'atmosphère est pesante et étrangement familière, comme si vous aviez déjà vu quelque chose de semblable. Des ombres flottent dans l'air, et vous avez l'impression que des esprits errants se promènent dans ce lieu oublié.",
     "tags": [
-      "Prison",
-      "Sacrée",
-      "Mystère",
-      "Gaz Toxiques",
-      "Pièges"
+      "prison",
+      "cellules",
+      "grilles",
+      "sol",
+      "lits",
+      "cellule",
+      "fermées",
+      "barreaux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

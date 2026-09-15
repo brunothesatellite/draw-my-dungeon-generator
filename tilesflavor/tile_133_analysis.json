@@ -1,13 +1,13 @@
 {
   "133": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et rectangulaire, éclairée par la lumière naturelle qui filtre à travers une fenêtre au centre. Les murs sont ornés de têtes de mort, symboles de la mort et de la réincarnation. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Une table, simple et ancienne, occupe un coin de la pièce, peut-être un lieu de réunion ou de méditation. La condition de la salle est bonne, mais l'air y flotte une odeur de poussière et d'ancienneté. Les cercles rituels au sol sont un danger potentiel, car ils pourraient être activés par un malicieux ou un initiateur. La fenêtre est la seule issue de cette salle, offrant une vue sur un paysage lointain, mais aussi un passage potentiel pour les intrus.",
+    "title": "Salle des Sarcophages",
+    "description": "La salle est petite et rectangulaire, éclairée par la lumière naturelle qui filtre à travers une fenêtre au centre. Les murs sont ornés de têtes de mort, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels sont gravés sur le sol, marquant des points de passage ou de pouvoir. Des piliers robustes soutiennent le plafond, tandis qu'une table solitaire est placée au milieu de la pièce. Le sarcophage, ancien et massif, repose au fond de la salle, son couvercle fermé. La condition de la pièce est bonne, mais l'air y est chargé d'une odeur de poussière et de mystère. Les cercles rituels sur le sol sont un danger potentiel, car ils peuvent être activés par un malicieux. Cette salle semble être un lieu de réunion ou de méditation, peut-être même un sanctuaire ancien.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituels",
-      "Mystérieuse",
-      "Têtes de Mort"
+      "salle",
+      "sarcophage",
+      "tombe",
+      "rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

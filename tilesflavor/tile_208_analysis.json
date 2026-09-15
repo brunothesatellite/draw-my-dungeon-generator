@@ -1,13 +1,13 @@
 {
   "208": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sombre, éclairé par une faible lumière qui filtre à travers des fissures dans le plafond. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage d'un rituel ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'ambiance de décrépitude. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger potentiel pour les explorateurs. Le passage des Anciens est un lieu de rituels, où les anciens pratiquaient des cérémonies sombres et mystérieuses.",
+    "title": "Escalier de Descente",
+    "description": "Le couloir étroit et sombre s'élargit peu à peu, menant à un escalier de descente qui semble avoir été taillé dans le roc. Les marches en pierre sont usées, marquées par des milliers de pas. Des cercles rituels sont gravés dans le sol, éclairés par une faible lumière qui pénètre à travers une fissure au plafond. Des piliers massifs soutiennent le passage, leurs surfaces vieillies par le temps. Le mobilier ancien, délabré, est empilé contre le mur, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. L'eau stagnante, noire et trouble, remonte jusqu'à mi-marche, créant un danger potentiel pour ceux qui descendent. Les murs sont ornés de têtes de mort et de tentacules, rappelant l'ancienne présence d'une civilisation étrange et perdue.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Mystère",
-      "Ancienneté"
+      "escaliers",
+      "descente",
+      "mystérieux",
+      "vieillie",
+      "rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

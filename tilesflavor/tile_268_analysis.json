@@ -1,13 +1,13 @@
 {
   "268": {
-    "title": "Égout des Anciens",
-    "description": "Tu te trouves dans un égout immense, rectangulaire et sombre. Les murs sont humides et recouverts de spirales mystérieuses gravées dans le béton. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Des tentacules émergent des parois, leurs yeux lumineux fixant le visiteur. Un grand baril de bois, usé par le temps, repose au fond de l'égout, tandis qu'une table en bois sombre est posée contre le mur. Le tout est plongé dans une ambiance étrange et mystérieuse, comme si l'égout était le témoin d'anciennes cérémonies rituelles. Des traces de pas fantomatiques se dessinent sur le sol, et l'eau stagnante au fond révèle des reflets étranges. Les tentacules semblent attendre, prêts à s'agripper à qui osera approcher.",
+    "title": "Égout des Boîtes",
+    "description": "L'égout est large et rectangulaire, avec un plafond bas et des murs humides qui reflètent faiblement la lumière qui pénètre à travers les éclairs de pluie. Des spirales gravées dans le sol indiquent un ancien rituel, maintenant abandonné. Des colonnes massives soutiennent le plafond, et des tentacules émergent des murs, ajoutant une touche de mystère à l'atmosphère déjà sombre. Un grand tonneau, probablement un baril, repose au fond de l'égout, son contenu inconnu. Des petites boîtes, peut-être des coffres ou des contenants de stockage, sont disséminées un peu partout, leur contenu mystérieux. Un objet circulaire, de taille considérable, occupe le centre de l'égout, son rôle inconnu. Des yeux écarlates peints sur les murs semblent surveiller les visiteurs, ajoutant une note de peur. L'égout est humide et glissant, avec des flaques d'eau stagnante qui peuvent être dangereuses. La présence d'une silhouette fantomatique flottant dans l'air ajoute une note de mystère et de danger à l'endroit. Les tentacules et les yeux peints donnent l'impression que cet égout est un lieu sacré ou rituel, maintenant abandonné.",
     "tags": [
       "épouvantail",
       "rituel",
-      "égout",
-      "tentes",
-      "mystère"
+      "tentacules",
+      "églout",
+      "boîtes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

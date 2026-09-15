@@ -1,13 +1,13 @@
 {
   "205": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de cercles rituels et de glyphes runiques qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies par les siècles. Le sol est marqué de cercles rituels et de glyphes runiques, semblant indiquer un ancien rituel. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. Le passage est étroit et sinueux, avec une fenêtre au bout qui semble offrir une vue sur un paysage lointain. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le mobilier, si il y en a, est ancien et usé, ajoutant à l'ambiance d'ancienneté et de mystère. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui habitent ces lieux. Les cercles rituels et les glyphes runiques indiquent que ce passage a été utilisé pour des rituels anciens et mystérieux. Les piliers massifs et les marques sur le sol témoignent de l'ancienneté et de l'importance de ce lieu. La fenêtre au bout du passage offre une vue sur un paysage lointain, mais l'eau stagnante au fond est un danger à ne pas négliger.",
+    "title": "Couloir des Escaliers d'Escalade",
+    "description": "Le couloir est étroit et sinueux, avec des escaliers d'escalade qui serpentent au-dessus de votre tête. Les murs sont recouverts de peintures rupestres qui semblent vieillies par le temps. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant le passage de l'ancien culte qui régnait ici. Des piliers massifs soutiennent le plafond, ajoutant à l'ambiance sinistre de l'endroit. Le couloir est faiblement éclairé, ce qui rend l'atmosphère encore plus oppressante. Des traces de vieillissement sont visibles partout, avec des taches de peinture qui se sont dégradées au fil du temps. À l'extrémité du couloir, une fenêtre laisse entrer une faible lumière, mais l'air est saturé d'une odeur de moisi et d'eau stagnante qui s'accumule dans les coins. Des pièges sont dissimulés dans les ombres, prêts à s'abattre sur les intrus. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui ont autrefois vécu ici.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Horreur",
-      "Ancienneté"
+      "couloir",
+      "escaliers",
+      "rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

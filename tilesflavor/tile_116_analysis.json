@@ -1,13 +1,12 @@
 {
   "116": {
-    "title": "Salle des Rituels",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les piliers et les colonnes vieillies. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des cercles de pierre et des symboles mystiques sont gravés dans le sol. Des piliers et des colonnes soutiennent le plafond, ornés de mobilier ancien et de têtes de mort sculptées. L'atmosphère est mystérieuse et ancienne, renforcée par l'eau stagnante qui s'accumule dans un coin de la pièce. La seule issue mène à un couloir sombre et inconnu. Cette salle était une salle de culte, où des rituels sombres étaient célébrés.",
+    "title": "Salle des Toiles d'Araignées",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui filtre à travers les voiles de poussière qui flottent dans l'air. Les murs vieillis sont recouverts de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers et des colonnes robustes soutiennent le plafond, qui est recouvert de toiles d'araignées gigantesques. Le mobilier ancien, usé et poussiéreux, est disposé de manière étrange, comme si quelqu'un avait cherché à dissimuler quelque chose. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un miroir sombre qui reflète les ombres des toiles et des murs. L'atmosphère est mystérieuse et ancienne, comme si cette salle avait été utilisée pour des rituels obscurs il y a très longtemps. Un seul passage mène à l'extérieur, mais il semble être bloqué par une toile d'araignée gigantesque.",
     "tags": [
-      "Salle de Culte",
-      "Ancien",
-      "Rituels",
-      "Mystère",
-      "Salle"
+      "salle",
+      "rituel",
+      "toile",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

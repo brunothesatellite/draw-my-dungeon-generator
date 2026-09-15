@@ -1,13 +1,13 @@
 {
   "142": {
-    "title": "Couloir des Sacrifices",
-    "description": "Vous vous trouvez dans un couloir étroit et sombre, les murs délabrés et recouverts de tentacules qui semblent vouloir vous saisir. Des spirales gravées dans le sol vous guident vers un espace vide au bout du couloir. Des colonnes massives, usées par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, dépourvu de tout objet, se dresse au centre du couloir, évoquant une ancienne cérémonie sacrée. Le crâne d'un monstre émerge de la terre à l'entrée du couloir, un témoin macabre de l'histoire qui s'est déroulée ici. La lumière est faible, mais suffisante pour voir les traces de sang séché sur les murs et le sol, indiquant que des sacrifices ont eu lieu ici. L'atmosphère est oppressante et étrangement calme, comme si le lieu attendait une nouvelle victime.",
+    "title": "Couloir des Amphores",
+    "description": "Vous vous trouvez dans un couloir étroit et sombre, les murs recouverts de spirales énigmatiques gravées dans le ciment. Des colonnes massives, comme des piliers de pierre, se dressent de part et d'autre, ajoutant une touche de majesté à cette atmosphère lugubre. Le sol est marqué de spirales, comme si quelqu'un avait tenté de dessiner un rituel ancien. Des amphores, des barils de vin ou de bière, sont empilés ici et là, leurs bouchons cassés et leurs contenants vides, témoignant d'une ancienne activité. Au fond du couloir, un crâne de monstre, enterré dans le sol, émet une odeur nauséabonde qui vous pique les narines. L'air est lourd et chargé d'une tension étrange, comme si quelque chose de maléfique se cachait dans l'ombre. Des tentacules, semblables à ceux d'un monstre marin, sont peints sur les murs, ajoutant une touche de terreur à l'atmosphère. Un autel, vide et recouvert de tissus usés, se dresse au centre du couloir, comme si quelqu'un avait tenté de sacrifier ici. Des pièges sont dissimulés dans les ombres, prêts à s'abattre sur les intrus. L'endroit est dilapidé, les murs fissurés et les colonnes inclinées, comme si le temps avait laissé sa marque sur ce lieu sacré et abandonné.",
     "tags": [
       "couloir",
-      "sacrifice",
-      "macabre",
-      "ancien",
-      "tentaclés"
+      "amphores",
+      "monstre",
+      "enterré",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",
@@ -28,6 +28,9 @@
       ],
       "objectsOrFurniture": [
         "altar"
+      ],
+      "creaturesOrTraces": [
+        "ghostly figure"
       ],
       "exits": [
         "none"

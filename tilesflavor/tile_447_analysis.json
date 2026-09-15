@@ -1,14 +1,16 @@
 {
   "447": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "Tu te trouves dans une petite salle carrée, vieillie et sombre. La faible lumière qui pénètre à travers les fissures dans les murs te permet de distinguer les cercles rituels gravés au sol, qui semblent avoir été usés par le temps. Des piliers massifs soutiennent le plafond, leurs surfaces rugueuses témoignant de l'âge et de l'usure. Un autel central, recouvert d'un tissu usé, semble être le point focal de cette salle. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère sinistre. Une table, ancienne et usée, est placée devant l'autel, mais elle semble être abandonnée depuis longtemps. L'eau stagnante qui s'est formée dans un coin de la salle est un danger à ne pas négliger. La salle est dépourvue d'issues, mais l'air y est lourd et chargé d'une énergie ancienne et mystérieuse.",
+    "title": "La Cage Circulaire",
+    "description": "Dans cette petite salle carrée, la lumière faible éclaire une cage circulaire en fer forgé, dont la porte est ouverte. Des cercles rituels gravés dans le sol évoquent une ancienne cérémonie. Des piliers massifs soutiennent le plafond vieilli, et une table en bois sombre est posée au centre de la pièce. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule au fond de la salle. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui s'y tenait.",
     "tags": [
       "rituel",
-      "salle",
+      "cercles rituels",
+      "cage",
+      "porte",
+      "salle carrée",
       "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "autel"
+      "sinistre",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

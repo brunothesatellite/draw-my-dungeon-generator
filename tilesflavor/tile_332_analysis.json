@@ -1,13 +1,13 @@
 {
   "332": {
-    "title": "Fin de l'Abîme",
-    "description": "Vous vous trouvez au cœur d'un abîme mystérieux, où le temps semble s'écouler lentement. La lumière est faible, presque inexistante, et l'air est saturé d'une humidité étouffante. Le sol est marqué d'une croix, symbole d'une ancienne cérémonie. Des colonnes majestueuses soutiennent le plafond, et des tentacules noirs serpentent le long des murs, rappelant l'existence d'êtres maléfiques. Un squelette de lézard, décomposé, repose au centre de la pièce, témoin de rituels passés. Des crânes humains sont disséminés un peu partout, témoignant de sacrifices anciens. La pièce est vide d'entrées, mais un danger latent plane, représenté par un grand escalier en spirale qui semble mener à l'inconnu. L'atmosphère est pesante, presque oppressante, et chaque bruit semble amplifié dans ce lieu d'abandon et de mystère.",
+    "title": "Début de l'Abîme",
+    "description": "Vous vous trouvez au cœur de l'abîme, un lieu sinistre et mystérieux. Le sol est marqué d'une croix, symbole de l'initiation ou de la fin d'un long voyage. La lumière est faible, émanant d'une source lointaine, et l'air est saturé d'une humidité étouffante. Des colonnes majestueuses soutiennent le plafond, tandis que des plumes de plume flottent dans l'air, comme si un vent fantomatique les soufflait. Le squelette d'un lézard, décomposé mais intact, repose au centre de la pièce, comme témoin de l'ancien. Les murs sont ornés de tentacules et de crânes, ajoutant à l'atmosphère lugubre. Un grand escalier en spirale, enroulé dans l'obscurité, semble vous guider vers l'inconnu. L'abîme est un lieu de rituel, où les anciens pratiquaient des cérémonies sombres. Les murs sont humides et recouverts de mousse, et les ombres dansent sur le sol, créant un sentiment de menace. Les créatures de l'abîme se cachent dans les recoins, prêtes à bondir. Vous vous demandez si vous êtes au début ou à la fin de ce voyage infernal.",
     "tags": [
       "abîme",
       "rituel",
       "squelette",
-      "tentacules",
-      "sacrifice"
+      "lézard",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

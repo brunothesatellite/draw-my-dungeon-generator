@@ -1,13 +1,14 @@
 {
   "203": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant l'ancien passage de rituels obscurs. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne, recouverte de poussière, repose au fond du couloir. L'atmosphère est oppressante, et l'eau stagnante au fond du passage résonne d'un murmure sinistre. À chaque pas, le bruit de l'eau et les ombres qui se déplacent dans l'obscurité créent une ambiance de terreur. La porte à l'extrémité semble fermée, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose veillait toujours sur ce lieu.",
+    "title": "Escaliers d'Escalade",
+    "description": "Le couloir étroit et rectangulaire semble avoir été creusé à la hâte, ses murs sont couverts de traces de vieillissement et de l'humidité. Les piliers massifs, usés par le temps, supportent le poids du passage. À chaque pas, le sol émet un grincement sourd, comme si le couloir avait une vie propre. Des cercles rituels sont gravés dans le sol, éclairés par une faible lumière qui se réfléchit sur les murs. Un escalier d'escalade, taillé dans le roc, mène vers un niveau inférieur. À l'entrée, une table en bois, usée par le temps, est posée sur le sol. À l'horizon, une porte en bois, légèrement érodée, semble être la seule issue. L'air est saturé d'une odeur de moisi et d'eau stagnante, qui remonte du fond du couloir. Des têtes de mort et des tentacules émergent des murs, ajoutant à l'atmosphère sinistre. La présence de l'eau stagnante au fond du couloir est un danger à ne pas sous-estimer.",
     "tags": [
+      "escaliers",
+      "escalade",
       "couloir",
       "rituel",
-      "tête de mort",
-      "tentacules",
-      "ancien"
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

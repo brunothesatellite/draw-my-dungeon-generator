@@ -1,20 +1,20 @@
 {
   "258": {
-    "title": "Passerelles du Cœur Égouté",
-    "description": "Au cœur de l'égout, deux passerelles en bois sombre s'étendent sur une plateforme centrale, formant un carré parfait. Les murs, usés par le temps, sont recouverts de reliefs sculptés représentant des figures mystérieuses. Des cercles rituels gravés dans le sol évoquent une ancienne cérémonie. Le pilier central, robuste et vieilli, semble être le point de convergence de ces passerelles. L'air est chargé d'une odeur de moisi et d'eau stagnante, rendant l'atmosphère oppressante. La faible lumière qui filtre à travers les ouvertures étroites des murs ajoute à l'ambiance mystérieuse et ancienne de ce lieu. Les murs vieillis et les reliefs sculptés racontent des histoires oubliées, tandis que l'eau stagnante au pied des passerelles rappelle l'ancien rituel qui s'y déroulait.",
+    "title": "Egout des Passerelles",
+    "description": "L'égout est étroit et sombre, avec des murs vieillis et des piliers qui soutiennent la structure. Deux passerelles en bois, usées par le temps, s'étendent sur toute la longueur du passage, menant à une plateforme centrale. Sur cette plateforme, une grande amphore en terre cuite repose, son contenu inconnu. Des cercles rituels gravés dans le sol évoquent des anciens rituels. Les reliefs sculptés sur les murs racontent des histoires mystérieuses, mais leur signification reste un mystère. L'atmosphère est pesante et mystérieuse, comme si les esprits des anciens observaient encore ce lieu. L'eau stagnante au fond du passage ajoute à l'ambiance lugubre. La petite taille et la forme rectangulaire du passage donnent l'impression d'avoir été conçu pour une utilisation spécifique, peut-être même pour des rituels sacrés.",
     "tags": [
       "Passage",
-      "Égout",
-      "Salle de Culte",
-      "Ancien Rituel",
-      "Atmosphère Mysterieuse"
+      "Egout",
+      "Passerelles",
+      "Amphore",
+      "Cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "pilier central",
+      "centralFeature": "piliers central",
       "wallDecorations": [
         "reliefs sculptés"
       ],

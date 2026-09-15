@@ -1,13 +1,12 @@
 {
   "402": {
-    "title": "La Salle du Labyrinthe",
-    "description": "Au cœur de l'ancien donjon, une salle de labyrinthe immense vous accueille. La lumière naturelle filtre à travers les fenêtres, éclairant les murs couverts de mousse et de lierre. Des spirales mystérieuses marquent le sol, tandis que des colonnes élancées et des fenêtres hautes donnent une impression de hauteur et de majesté. Le grand cercle au centre de la pièce attire votre attention, semblant être le point focal de cette salle. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'horreur à l'atmosphère étrange. Deux fenêtres donnent sur le monde extérieur, mais elles sont souvent bouchées par des barils et des coffres, rendant l'issue difficile à trouver. Le sol, couvert de mousse, est glissant et peut être dangereux pour les explorateurs non préparés. Cette salle est bien plus qu'un simple espace de labyrinthe : elle est le cœur d'un rituel ancien, et les traces de pas sur le sol semblent indiquer qu'elle a été utilisée récemment. Les murs sont parsemés de symboles énigmatiques, et les tentacules semblent vivants, prêts à s'attaquer aux intrus. La salle est un lieu de mystère et de peur, où les secrets de l'ancien donjon se cachent derrière chaque coin.",
+    "title": "Salle de Labyrinthe avec Grille, Boîte et Barils",
+    "description": "La salle de labyrinthe est immense, son plan rectangulaire s'étend sous vos yeux. La lumière naturelle filtre à travers les fenêtres, éclairant les murs humides et couverts de mousse. Des spirales gravées dans le sol vous guident vers le centre de la pièce, où se dresse un grand objet circulaire, mystérieux et imposant. Des colonnes majestueuses soutiennent le plafond, tandis que des fenêtres permettent une vue sur l'extérieur. Les barils, empilés contre le mur, semblent abandonnés depuis des siècles. Un petit monstre, probablement un rat ou un souris, s'agite nerveusement dans un coin, ajoutant une touche d'effroi à l'atmosphère étrange de la pièce. Les tentacules et les têtes de mort ornent les murs, rappelant l'ancien culte qui a peut-être eu lieu ici. Les deux fenêtres offrent une issue, mais la mousse et les racines qui s'y enfoncent rendent l'accès dangereux. Cette salle, avec son labyrinthe, sa grille, sa boîte et ses barils, semble être le cœur d'un rituel ancien, maintenant abandonné.",
     "tags": [
       "labyrinthe",
-      "rituel",
-      "mystère",
-      "horreur",
-      "donjon"
+      "grille",
+      "boîte",
+      "barils"
     ],
     "sourceFeatures": {
       "roomSize": "large",

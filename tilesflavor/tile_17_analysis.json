@@ -1,13 +1,13 @@
 {
   "17": {
-    "title": "Chambre des Anciens",
-    "description": "La chambre des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de sculptures et de reliefs sculptés. La lumière y est faible, créant une ambiance mystérieuse et ancienne. Le sol est marqué de croix, de lignes pointillées et de motifs spirales, comme si une ancienne cérémonie avait eu lieu ici. Deux grandes structures circulaires, semblables à des autels, sont visibles au centre de la pièce. Des statues majestueuses, probablement des divinités ou des anciens guerriers, sont disséminées dans la pièce, ajoutant à l'atmosphère sacrée. Les murs sont ornés de tentacules, des créatures étranges qui semblent veiller sur la pièce. Les conditions de la pièce sont humides, ce qui ajoute à l'ambiance lugubre. Des cercles enchantés sont gravés au sol, prêts à se révéler dangereux à tout moment. La chambre est vide, mais les traces de tentacules indiquent qu'elle a été récemment utilisée. L'air y est chargé d'une odeur ancienne et mystérieuse, comme si les esprits des anciens y vivaient encore.",
+    "title": "Salle des Anciens",
+    "description": "Dans cette vaste salle rectangulaire, les murs sont recouverts de sculptures et de tentacules qui semblent sortir de nulle part. La lumière tamisée émane des croix et des lignes pointillées qui marquent le sol, formant des spirales mystérieuses. Deux grands trous, fermés par une grille de fer, sont visibles au centre de la pièce, comme si quelque chose y était dissimulé. Les colonnes massives et les statues évoquent une ancienne civilisation perdue. Les autels sont alignés le long des murs, et des cercles enchantés flottent dans l'air, prêts à se manifester. Les conditions humides et les tentacules qui pendent des murs ajoutent une atmosphère de mystère et d'ancienneté à cette salle rituelle.",
     "tags": [
-      "ritual chamber",
-      "ancient",
-      "mystical",
-      "enchanted",
-      "sacred"
+      "rituel",
+      "ancien",
+      "salle",
+      "tentacules",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

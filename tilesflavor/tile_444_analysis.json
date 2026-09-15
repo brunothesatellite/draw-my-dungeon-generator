@@ -1,13 +1,14 @@
 {
   "444": {
-    "title": "Passage Rituel",
-    "description": "Le passage Rituel est étroit et sombre, éclairé par une faible lueur qui semble provenir d'une source inconnue. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels marquent le sol, indiquant un passage sacré. Des piliers massifs soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger potentiel. L'atmosphère est pesante, chargée d'une tension inquiétante qui semble provenir de l'ancien culte qui y a régné.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sombre, ses murs rectangulaires et vieillis par le temps. La faible lumière qui pénètre à travers les fissures révèle des cercles rituels gravés dans le sol, marquant l'ancienne importance de ce lieu. Des piliers massifs soutiennent le plafond, leurs colonnes usées par le temps. Le mobilier ancien, délabré, est disséminé ici et là, témoignant de l'occupation passée. Deux trous, dont les grilles ont été enlevées, sont connectés par ces salles, offrant un passage secret entre les deux espaces. L'atmosphère est mystérieuse et menaçante, accentuée par l'eau stagnante qui s'accumule dans les coins. Les salles sont utilisées pour des rituels ou des cultes, et les cercles rituels indiquent leur ancienne utilisation pour des cérémonies sacrées. Les piliers et les cercles rituels sont les éléments centraux de ce lieu, tandis que les salles séparées et les trous connectés offrent un passage secret.",
     "tags": [
-      "Passage",
-      "Rituel",
-      "Ancien Culte",
-      "Têtes de Mort",
-      "Tentacules"
+      "rituels",
+      "culte",
+      "séparées",
+      "trous",
+      "grilles",
+      "connectés"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

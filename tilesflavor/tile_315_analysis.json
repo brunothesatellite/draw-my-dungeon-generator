@@ -1,13 +1,13 @@
 {
   "315": {
-    "title": "Abîme des Anciens",
-    "description": "Dans l'abîme, la lumière vacille et les ombres se mêlent aux murs vieillis. La petite salle rectangulaire est éclairée par une faible lueur qui semble provenir d'une source inconnue. Les cercles rituels gravés au sol évoquent des temps anciens et mystérieux. Des piliers robustes soutiennent les murs, tandis que des têtes de mort sculptées ornent les parois, ajoutant une touche d'effrayante réalité à l'atmosphère. Un anneau et une boîte sont posés au centre de la pièce, comme si quelqu'un avait laissé un message ou un objet important. L'eau stagnante au fond de la salle ajoute une note de danger, car elle pourrait être contaminée. Les cercles rituels et les têtes de mort indiquent que cette pièce a probablement été utilisée pour des rituels anciens et sacrés. Les murs vieillis et les piliers robustes donnent à cette salle un air de mystère et d'ancienneté, comme si elle avait été oubliée depuis des siècles.",
+    "title": "Abîme des Sacrifices",
+    "description": "Dans l'abîme, un espace rectangulaire et vieilli, la lumière est faible et les ombres dansent sur les murs. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des têtes de mort sont sculptées dans les murs, ajoutant une atmosphère de mystère et d'ancienneté. Un abîme profond s'ouvre devant vous, avec un tonneau et une boîte posés au bord. L'air est chargé d'une odeur de vieilles pierres et d'anciennes cérémonies. Des cercles rituels marquent le sol, et un anneau est posé sur une pierre au centre de la pièce. L'eau stagnante au fond de l'abîme est un danger à ne pas négliger. Cette salle est destinée à des rituels sacrés, et les murs sont décorés de têtes de mort, rappelant l'importance de ces cérémonies. L'abîme est une source de mystère et d'ancienneté, et les cercles rituels marquent l'endroit où les anciens pratiquaient leurs sacrifices.",
     "tags": [
       "abîme",
       "rituel",
       "sacrifice",
-      "vieillie",
-      "mystérieuse"
+      "têtes de mort",
+      "salle de rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

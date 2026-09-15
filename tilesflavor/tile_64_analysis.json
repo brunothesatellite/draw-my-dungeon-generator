@@ -1,13 +1,12 @@
 {
   "64": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière. Des cercles rituels et des glyphes runiques sont gravés dans le sol, entourant un autel central. Des statues et des piliers ornent les murs, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre. Des cercles rituels et des glyphes runiques marquent le sol, et des piliers et des statues ornent les murs. Des traces de créatures sont visibles sur le sol, et une eau stagnante menace les coins de la salle. La salle semble être un lieu de rituels anciens, avec des objets et des meubles anciens dispersés un peu partout. Les murs sont recouverts de têtes de mort et de tentacules, et l'atmosphère est sinistre et oppressante.",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des fenêtres brisées. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues étranges sont alignées le long des murs. Des petites pierres et des champignons poussent sur le sol, ajoutant une touche de nature sauvage à l'atmosphère sinistre. Le mobilier ancien est délabré, et des traces de créatures indéfinies sont visibles sur les murs. L'eau stagnante dans un coin de la salle ajoute à l'ambiance lugubre. Cette salle semble être un lieu de rituels anciens, où les anciens pratiquaient des cérémonies mystiques.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituels",
-      "Têtes de Mort",
-      "Tentacules"
+      "rituels",
+      "anciens",
+      "salle",
+      "mystique"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

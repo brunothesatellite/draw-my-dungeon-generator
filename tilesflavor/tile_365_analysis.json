@@ -1,13 +1,13 @@
 {
   "365": {
-    "title": "Crypte des Anciens",
-    "description": "Tu te retrouves dans une crypte étroite et sombre, où la lumière filtre à peine à travers des voûtes de pierre usées. La pièce est rectangulaire et petite, avec des murs vieillis qui portent encore les stigmates de l'ancien culte qui y régnait. Des cercles rituels sont gravés au sol, marquant les emplacements d'anciennes pratiques sacrées. Des piliers robustes soutiennent la voûte, tandis que des autels sont disséminés un peu partout, témoignant de l'importance de ce lieu pour les anciens. Des têtes de mort sculptées ornent les murs, ajoutant une touche macabre à l'atmosphère déjà lugubre. La porte, la seule issue de cette crypte, semble pesante et ancienne, comme si elle avait été fermée depuis des siècles. Les cercles rituels au sol sont un danger à ne pas négliger, car ils pourraient activer des sorts ou des sorts de protection. La crypte est remplie d'une atmosphère mystérieuse et menaçante, où chaque coin cache un secret ancien et potentiellement dangereux.",
+    "title": "Crypte du Cercueil",
+    "description": "Dans cette crypte sombre et étroite, une table en pierre ancienne repose au centre, sur laquelle trône un cercueil de bois sombre. Les murs, recouverts de têtes de mort sculptées, semblent murmurer des secrets millénaires. Des cercles rituels gravés dans le sol émettent une faible lumière, éclairant la pièce de manière inquiétante. Des piliers massifs soutiennent le plafond, tandis qu'un autel en pierre est placé contre l'une des parois. La porte, la seule issue de cette crypte, semble pesante et résistante, comme si elle avait été fermée depuis des siècles. L'atmosphère est oppressante, et les cercles rituels posent un danger latent pour quiconque ose les approcher.",
     "tags": [
-      "Crypte",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Sacrifices"
+      "crypte",
+      "cercueil",
+      "table en pierre",
+      "têtes de mort",
+      "salle de rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

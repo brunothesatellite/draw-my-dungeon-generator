@@ -8,6 +8,124 @@ OUTPUT_DIR = Path("tilesflavor2")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
+def extract_keywords(csv_desc: str) -> tuple:
+    """Extrait les mots-clés d'une csvDescription. Retourne (concrets, abstraits)."""
+    import re
+    stop_words = {
+        "avec", "dans", "pour", "sur", "sous", "chez", "vers", "entre",
+        "une", "des", "les", "un", "du", "de", "la", "le", "et", "ou",
+        "est", "sont", "été", "être", "avoir", "fait", "faites",
+        "ce", "se", "ne", "pas", "plus", "moins", "très", "peu",
+        "que", "qui", "quoi", "où", "comment", "quand",
+        "je", "tu", "il", "elle", "nous", "vous", "ils", "elles",
+        "mon", "ton", "son", "ma", "ta", "sa", "mes", "tes", "ses",
+        "par", "comme", "mais", "aussi", "quelque", "quelques",
+        "tout", "tous", "toute", "toutes", "autre", "autres",
+        "même", "mêmes", "encore", "bien", "mal", "ici",
+        "salle", "couloir", "passage", "corridor", "pièce",
+    }
+    abstract_words = {
+        "magique", "étrange", "étranges", "ancien", "ancienne", "anciens",
+        "mystérieux", "mystérieuse", "sombre", "sombres", "sinistre",
+        "effrayant", "effrayante", "lugubre", "menaçant", "menaçante",
+        "obscur", "obscure", "magiques", "ouvert", "ouverte", "ouverts", "ouvertes",
+        "complet", "complète", "complets", "complètes",
+    }
+    text = csv_desc.lower()
+    text = re.sub(r"[/\\]", " ", text)
+    text = re.sub(r"[^\w\s]", " ", text)
+    words = text.split()
+    concrets = []
+    abstracts = []
+    for w in words:
+        if w in stop_words or len(w) <= 2:
+            continue
+        if w in abstract_words:
+            abstracts.append(w)
+        else:
+            concrets.append(w)
+    return list(dict.fromkeys(concrets)), list(dict.fromkeys(abstracts))
+
+
+# Synonymes acceptés pour la vérification
+SYNONYMS = {
+    "égout": ["souterrain", "canalisation", "drainage", "égouts"],
+    "souterrain": ["égout", "canalisation"],
+    "couloir": ["corridor", "passage", "couloirs"],
+    "corridor": ["couloir", "passage", "corridors"],
+    "tonneau": ["baril", "tonneaux", "barils"],
+    "baril": ["tonneau", "barils", "tonneaux"],
+    "caisse": ["coffre", "boîte", "caisses", "coffres", "boîtes"],
+    "coffre": ["caisse", "boîte", "coffres", "caisses", "boîtes"],
+    "boîte": ["caisse", "coffre", "boîtes", "caisses", "coffres"],
+    "escalier": ["marches", "rampe", "escaliers"],
+    "escaliers": ["escalier", "marches", "rampe"],
+    "colonne": ["pilier", "colonnade", "colonnes", "piliers"],
+    "pilier": ["colonne", "colonnade", "piliers", "colonnes"],
+    "porte": ["entrée", "sortie", "ouverture", "portes"],
+    "dessin": ["gravure", "symbole", "marque", "peinture", "dessins", "gravures", "symboles", "marques"],
+    "gravure": ["dessin", "symbole", "marque", "gravures"],
+    "trou": ["ouverture", "passage", "trous"],
+    "grille": ["barreaux", "treillis", "grilles"],
+    "table": ["pupitre", "tables"],
+    "chaise": ["tabouret", "chaises", "tabourets"],
+    "étagère": ["rayon", "étagères", "rayons"],
+    "sarcophage": ["tombe", "cercueil", "sarcophages", "tombes", "cercueils"],
+    "tombe": ["sarcophage", "cercueil", "tombes", "cercueils"],
+    "fontaine": ["bassin", "fontaines", "bassins"],
+    "bassin": ["fontaine", "bassins", "fontaines"],
+    "araignée": ["araignées"],
+    "grotte": ["caverne", "antre", "grottes"],
+    "abîme": ["gouffre", "précipice", "abîmes", "gouffres"],
+    "gouffre": ["abîme", "précipice", "gouffres"],
+    "obélisque": ["monolithe", "obélisques", "monolithes"],
+    "statue": ["figurine", "sculpture", "statues", "figurines", "sculptures"],
+    "lit": ["couche", "grabat", "lits", "couches", "grabats"],
+    "cheminée": ["foyer", "âtre", "cheminées"],
+    "prison": ["cellule", "geôle", "prisons", "cellules", "geôles"],
+    "cellule": ["prison", "geôle", "cellules", "geôles"],
+    "mur": ["paroi", "murs", "parois"],
+    "sol": ["pavé", "dallage", "sols", "pavés", "dallages"],
+    "eau": ["flaque", "mare", "eaux", "flaques", "mares"],
+    "monstre": ["créature", "bête", "monstres", "créatures", "bêtes"],
+    "créature": ["monstre", "bête", "créatures", "monstres", "bêtes"],
+    "trésor": ["richesse", "butin", "trésors", "richesses", "butins"],
+    "piège": ["trap", "snare", "pièges", "trappes"],
+    "épée": ["lame", "sabre", "épées", "lames", "sabres"],
+    "potion": ["elixir", "philtre", "potions", "elixirs", "philtres"],
+    "livre": ["tome", "grimoire", "livres", "tomes", "grimoires"],
+    "bougie": ["chandelle", "torche", "bougies", "chandelles", "torches"],
+    "corde": ["cordage", "liane", "cordes", "cordages", "lianes"],
+    "pont": ["passerelle", "viaduc", "ponts", "passerelles", "viaducs"],
+    "arche": ["arc", "passerelle", "arches"],
+    "escalier descendant": ["descente", "pente descendante"],
+    "escalier montant": ["montée", "pente montante"],
+    "champignon": ["champignons", "champignon"],
+    "dragon": ["dragons"],
+    "vortex": ["tourbillon", "vortex"],
+    "grille carrée": ["carré", "quadrangulaire"],
+}
+
+
+def keywords_present(keywords: list, description: str) -> list:
+    """Vérifie quels mots-clés sont présents dans la description. Retourne les manquants."""
+    desc_lower = description.lower()
+    missing = []
+    for kw in keywords:
+        if kw in desc_lower:
+            continue
+        # Variations : pluriel, singulier
+        variants = [kw + "s", kw + "es", kw.rstrip("s"), kw.rstrip("es")]
+        if any(v in desc_lower for v in variants):
+            continue
+        # Synonymes
+        syns = SYNONYMS.get(kw, [])
+        if any(s in desc_lower for s in syns):
+            continue
+        missing.append(kw)
+    return missing
+
+
 def filter_features(sf, csv_desc):
     """Filtre les features : garde l'ambiance, supprime les hallucinations."""
     csv_lower = csv_desc.lower()
@@ -43,23 +161,33 @@ def filter_features(sf, csv_desc):
 def build_prompt(tile_num, csv_desc, filtered_sf, full_sf):
     """Construit le prompt de regeneration."""
     features_json = json.dumps(filtered_sf, indent=2, ensure_ascii=False)
+    concrets, abstracts = extract_keywords(csv_desc)
+    keywords_str = ", ".join(concrets)
 
     return (
         "Tu es un auteur de donjons pour jeux de role OSR (DCC, OSE, Shadowdark). "
         "Tu ecris en francais.\n\n"
         "Tu dois decrire un lieu de donjon.\n\n"
-        f"### DESCRIPTION DE L'AUTEUR (source de verite ABSOLUE) ###\n"
-        f"C'est la seule donnee fiable sur le CONTENU et le TYPE de lieu. "
-        f"Tu DOIS respecter le type de lieu mentionne.\n"
-        f'Si la description dit "couloir", c est un couloir, PAS une salle.\n'
-        f'Si la description dit "grotte", c est une grotte, PAS une salle.\n'
-        f'Si la description dit "escalier", decris l escalier.\n'
-        f'Si la description dit "riviere", decris la riviere.\n'
-        f'Ne JAMAIS remplacer le type de lieu par "salle".\n\n'
+        "### DESCRIPTION DE L'AUTEUR (source de verite ABSOLUE) ###\n"
+        "C'est la seule donnee fiable sur le CONTENU et le TYPE de lieu.\n"
+        "Tu DOIS respecter le type de lieu mentionne.\n"
+        'Si la description dit "couloir", c est un couloir, PAS une salle.\n'
+        'Si la description dit "grotte", c est une grotte, PAS une salle.\n'
+        'Si la description dit "escalier", decris l escalier.\n'
+        'Si la description dit "riviere", decris la riviere.\n'
+        'Si la description dit "egout", decris l egout.\n'
+        'Si la description dit "abime", decris l abime.\n'
+        'Ne JAMAIS remplacer le type de lieu par "salle" ou "piece".\n\n'
         f'"{csv_desc}"\n\n'
-        f"### AMBIANCE VISUELLE (complement) ###\n"
-        f"Ces informations decrivent l'atmosphere et l'etat du lieu. "
-        f"Utilise-les pour enrichir la description, mais ne les prefere PAS a la description de l'auteur.\n"
+        f"### MOTS-CLES OBLIGATOIRES ###\n"
+        f"Les mots suivants doivent IMPERATIVEMENT apparaitre dans ta description :\n"
+        f"**{keywords_str}**\n"
+        f"Chaque mot doit etre mentionne au moins une fois.\n"
+        f"Tu peux utiliser des synonymes (baril=tonneau, pilier=colonne, etc.).\n"
+        f"Si tu oublies un mot, la description sera REJETEE.\n\n"
+        "### AMBIANCE VISUELLE (complement) ###\n"
+        "Ces informations decrivent l'atmosphere et l'etat du lieu. "
+        "Utilise-les pour enrichir la description, mais ne les prefere PAS a la description de l'auteur.\n"
         f"{features_json}\n\n"
         "### REGLES IMPERATIVES ###\n"
         "1. La description de l'auteur est la BASE. Les details visuels sont un COMPLEMENT.\n"
@@ -68,13 +196,18 @@ def build_prompt(tile_num, csv_desc, filtered_sf, full_sf):
         "fontaine, sarcophage, champignon, araignee, alligator, cheminée, etc.), "
         "tu DOIS le decrire en detail.\n"
         "4. NE PAS ajouter d'elements absents de la description de l'auteur.\n"
-        "5. NE PAS mentionner de tentacules, autels, têtes de mort SAUF si "
-        "la description de l'auteur le mentionne explicitement.\n\n"
+        "5. NE PAS mentionner de tentacules, autels, têtes de mort, cercles rituels, "
+        "sang, squelettes, crânes, momies, zombies, squelette, "
+        "SAUF si la description de l'auteur le mentionne explicitement.\n"
+        "6. Les mots-cles OBLIGATOIERS doivent tous apparaitre.\n"
+        "7. NE PAS ecrire 'salle des anciens', 'crypte des anciens' ou tout titre avec 'des anciens'.\n\n"
         "### TITRE ###\n"
         "Cree un titre unique et evocateur, lie a ce que le lieu contient.\n"
-        "Le titre doit refleter le type de lieu (Couloir, Grotte, Pasage, etc.).\n"
+        "Le titre doit refleter le type de lieu (Couloir, Grotte, Passage, etc.).\n"
+        "Le titre doit contenir un element concret du lieu (pas 'des anciens').\n"
         "INTERDIT: 'Crypte des Anciens', 'Salle des Sacrifices', 'Salle des Anciens', "
-        "'Chambre Sacrée', 'Abîme des Tentacules', 'Salle des Rituels'.\n\n"
+        "'Chambre Sacrée', 'Abîme des Tentacules', 'Salle des Rituels', "
+        "tout titre se terminant par 'des Anciens', tout titre avec 'Anciens'.\n\n"
         "### STYLE ###\n"
         "- 200 a 350 mots, deuxieme personne.\n"
         "- Evocateur, immersif, utilisable en jeu.\n"
@@ -244,6 +377,17 @@ def main():
                 except json.JSONDecodeError as e:
                     print(f"  [retry {attempt+1}/3] JSON invalide: {e}")
                     del content, json_str
+                    time.sleep(args.delay)
+                    continue
+
+                # Verifier que les mots-cles sont presents dans la description
+                concrets, abstracts = extract_keywords(csv_desc)
+                tile_data = result.get(str(tile_num), result.get(tile_num, {}))
+                desc = tile_data.get("description", "")
+                missing = keywords_present(concrets, desc)
+                if missing:
+                    print(f"  [retry {attempt+1}/3] Mots-cles manquants: {', '.join(missing)}")
+                    del result, content, json_str
                     time.sleep(args.delay)
                     continue
 

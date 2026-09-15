@@ -1,13 +1,13 @@
 {
   "201": {
-    "title": "Couloir des Reliques",
-    "description": "Le couloir des Reliques est étroit et sinueux, taillé dans le roc. Les murs, ornés de reliefs sculptés, racontent des mythes anciens. Des cercles rituels marquent le sol, évoquant des pratiques cultuelles. À l'extrémité du couloir, une fenêtre laisse filtrer la lumière du jour, révélant un paysage lointain. Des piliers majestueux soutiennent le plafond, tandis qu'une table en pierre est posée au centre. Les murs sont parsemés de têtes de mort, symboles de la mort et de la réincarnation. Des tentacules sombres, prêts à bondir, se cachent dans les recoins, ajoutant une note de menace à l'atmosphère mystérieuse. Le couloir, bien que petit, est rectangulaire et bien éclairé par la lumière naturelle qui pénètre par la fenêtre. Il semble être le passage vers un sanctuaire ou un lieu de culte, où des rituels sont peut-être encore pratiqués.",
+    "title": "Couloir des Escaliers d'Escalade",
+    "description": "Le couloir est étroit et sinueux, avec des escaliers d'escalade qui serpentent le long des murs. Les murs sont ornés de reliefs sculptés représentant des figures mystérieuses. Des cercles rituels sont gravés dans le sol, marquant le passage de l'un à l'autre des escaliers. Des piliers massifs soutiennent le plafond, ajoutant à l'ambiance sombre et ancienne du lieu. Un grand tableau est posé contre un mur, probablement utilisé pour des rituels. À l'extrémité du couloir, une fenêtre laisse entrer une lumière naturelle qui éclaire la pièce. Tout autour, les murs sont recouverts de peintures anciennes, et des tentacules s'agissent discrètement dans l'air, prêts à bondir. La présence de têtes de mort sur le sol indique que ce couloir a été un lieu de culte ou de sacrifice. L'atmosphère est mystérieuse et chargée d'histoire, invitant les explorateurs à découvrir les secrets qui se cachent dans ce passage.",
     "tags": [
-      "Couloir",
-      "Reliques",
-      "Mystère",
-      "Rituel",
-      "Tentacules"
+      "couloir",
+      "escaliers",
+      "rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

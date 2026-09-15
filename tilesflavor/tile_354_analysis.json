@@ -1,13 +1,13 @@
 {
   "354": {
-    "title": "Salle Sacrée des Ancêtres",
-    "description": "Cette vaste salle rectangulaire, éclairée par une faible lumière tamisée, révèle un sol humide et marqué d'un cercle au centre. Les murs, ornés de tentacules étranges, sont soutenus par de solides piliers. Un coffre en bois sombre repose contre le mur, tandis qu'une porte en bois massif ferme l'entrée. La salle, bien que vide, dégage une atmosphère mystérieuse et sacrée, comme si elle avait été utilisée pour des rituels anciens. Les tentacules sur les murs semblent vivants, ajoutant une touche d'effrayante réalité à l'ambiance. L'eau stagnante au sol indique que la salle pourrait être inondée à tout moment, rendant l'exploration dangereuse.",
+    "title": "Salle de Repos du Donjon",
+    "description": "Cette salle de donjon, large et rectangulaire, est éclairée d'une manière sombre et diffuse, ce qui ajoute à son mystère. La pièce est humide, ce qui souligne l'ancienneté et l'isolement du lieu. Au centre de la pièce, un lit confortable est posé sur une couche de laine épaisse, protégé par une tente de toile. À côté du lit, une grande coffre en bois, fermée par une serrure ancienne, semble garder des secrets. Une porte en bois solide, légèrement usée, ferme l'entrée de la salle. Les murs sont ornés de tentacules sculptés, ajoutant une touche de surnaturel à l'atmosphère. Des cercles de poussière marquent le sol, probablement des empreintes de pas anciens. Des colonnes robustes soutiennent le plafond, et les murs sont percés de trous pour les poutres. La salle semble être un endroit sacré, peut-être un lieu de repos ou de méditation pour les gardiens du donjon.",
     "tags": [
-      "salle sacrée",
-      "rituels anciens",
-      "tentacules",
-      "salle de donjon",
-      "salle humide"
+      "donjon",
+      "lit",
+      "coffre",
+      "porte",
+      "bois"
     ],
     "sourceFeatures": {
       "roomSize": "large",

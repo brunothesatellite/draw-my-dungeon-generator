@@ -1,13 +1,13 @@
 {
   "240": {
     "title": "Salle de Culte Ancienne",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs, couverts de traces de vieilles peintures, sont ornés de têtes de mort sculptées dans le marbre, ajoutant une note macabre à l'atmosphère mystérieuse. Au centre de la pièce, un autel est gravé de cercles rituels, semblant avoir été abandonné depuis des siècles. Des piliers massifs soutiennent le plafond, et le sol est marqué de lignes de pierre qui semblent avoir un sens sacré. Des meubles rustiques sont disséminés un peu partout, témoignant de l'activité ancienne qui a eu lieu ici. L'eau stagnante, noire et trouble, remplit une partie de la pièce, créant un miroir sombre qui reflète les têtes de mort et les cercles rituels. La salle est vide, mais l'air y résonne d'une présence ancienne et inquiétante.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La faible lumière qui pénètre à travers les voûtes de pierre laisse deviner des piliers massifs qui soutiennent le plafond. Des têtes de mort sont sculptées dans les murs, ajoutant une atmosphère de mystère et de danger. Au centre de la pièce, un autel est orné d'un dessin complexe qui semble représenter un temple. Des meubles rustiques sont disposés autour de la pièce, mais peu de lumière les éclaire. L'eau stagnante dans un coin de la salle rend l'endroit humide et glissant. La salle semble être un lieu de culte ancien, où des rituels mystiques étaient peut-être pratiqués.",
     "tags": [
-      "Salle de Culte",
-      "Ancien Temple",
-      "Mystère",
-      "Rituel",
-      "Têtes de Mort"
+      "culte",
+      "rituel",
+      "salle",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

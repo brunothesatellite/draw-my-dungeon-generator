@@ -1,14 +1,13 @@
 {
   "267": {
-    "title": "Égout des Sacrifices",
-    "description": "Dans ce couloir étroit et sombre, l'odeur de l'eau stagnante et de la putréfaction flotte dans l'air. Les murs, usés et recouverts de mousse, sont ornés de piliers et de statues vieillies, témoins de l'ancienne gloire. Des cercles rituels sont gravés au sol, marquant l'ancien emplacement d'un autel. Des têtes de mort et des tentacules émergent des murs, rappelant les créatures qui habitent ces lieux. Une boîte ouverte, semblant être la « maison » d'un créature, repose au fond de l'égout, émanant une odeur nauséabonde. La lumière faible, filtrant à travers des fissures dans le plafond, révèle des meubles anciens et des objets mystérieux. À l'extrémité du couloir, une porte murée semble être le seul moyen de sortir de ce lieu sinistre.",
+    "title": "L'Égout des Sacrifices",
+    "description": "Dans ce couloir étroit et sombre, l'égout avec eau sortant d'un tuyau semble être la demeure d'une créature. La boîte ouverte, semblant être sa maison, est recouverte d'une patine de vieillissement. Les murs, recouverts de cercles rituels, sont ornés de statues et de piliers, témoignant d'une ancienne civilisation. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère sinistre de ce lieu. L'eau stagnante dans l'égout est un danger à ne pas négliger. La porte murée au fond semble être le seul moyen de quitter ce lieu, mais elle est fermée depuis des siècles.",
     "tags": [
-      "égoût",
+      "égoïsme",
       "rituels",
-      "créatures",
-      "sacrifices",
-      "vieillissement",
-      "putréfaction"
+      "créature",
+      "sacrifice",
+      "égoïsme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "égout avec eau sortant d'un tuyau. Une boîte ouverte semble être la « maison » d'un créature",
       "tileNumber": 267

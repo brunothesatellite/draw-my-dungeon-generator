@@ -1,13 +1,13 @@
 {
   "363": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre est immense, avec des murs de pierre qui semblent avoir été sculptés par les mains des dieux. Des colonnes massives soutiennent le plafond voûté, et des spirales et des lignes gravées dans le sol évoquent des symboles anciens et mystérieux. La lumière tamisée émane des fenêtres étroites, révélant une ambiance sombre et étrange. Des objets étranges et mystérieux sont disséminés un peu partout, semblant attendre leur révélation. Des tentacules et des têtes de mort ornent les murs, ajoutant à l'atmosphère sinistre. La pièce est dépourvue d'issues, et des pièges enchantés sont prêts à s'activer à la moindre intrusion. La présence d'un esprit fantomatique plane dans l'air, rendant l'atmosphère encore plus oppressante. Cette chambre sacrée, ancienne et mystérieuse, semble avoir été le lieu de rituels et de sacrifices, maintenant abandonnée et oubliée.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, rectangulaire et aux murs couverts de marbre ancien. La lumière tamisée émane des fenêtres étroites, révélant des étagères massives remplies de manuscrits et de livres anciens. Des longues tables en bois sombre sont alignées le long des murs, chacune accompagnée de tabourets en cuir usé. Des colonnes massives soutiennent le plafond voûté, orné de spirales et de lignes mystérieuses gravées dans le marbre. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère étrange à l'endroit. Des objets mystérieux, dont certains semblent vivants, sont disséminés parmi les meubles. La pièce est silencieuse, mais une présence fantomatique plane dans l'air, rendant l'atmosphère encore plus énigmatique. Les anciens qui ont créé cette salle semblent avoir laissé derrière eux des pièges enchantés, prêts à se déclencher à tout moment.",
     "tags": [
       "salle",
-      "ancienne",
-      "rituel",
-      "sacrifice",
-      "mystère"
+      "étagères",
+      "tables",
+      "tabourets",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "138": {
     "title": "Couloir des Assiettes",
-    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps. La faible lumière qui filtre à travers une fissure au bout du couloir éclaire des assiettes en terre cuite posées dans un renfoncement. Des cercles rituels sont gravés au sol, marquant un chemin qui semble mener à un but inconnu. Les piliers massifs, usés par le temps, ajoutent à l'atmosphère mystérieuse et menaçante qui plane dans cette partie du donjon. Le mobilier ancien, délabré, semble avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie du couloir, créant un danger potentiel pour les explorateurs. Les têtes de mort et les tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance déjà sombre. Cette salle semble être un lieu de rituels ou de culte, mais son ancien usage reste un mystère.",
+    "description": "Le couloir est étroit et sinueux, éclairé par une faible lumière qui se répand dans l'air poussiéreux. Les murs, vieillis par le temps, sont ornés de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par les années. À l'extrémité du couloir, un trou mène à l'inconnu, et dans un renfoncement à droite, on peut apercevoir des assiettes empilées, comme si quelqu'un avait laissé son repas là. Le mobilier ancien, usé et poussiéreux, est disséminé ici et là, ajoutant à l'atmosphère mystérieuse et menaçante du lieu. L'eau stagnante au fond du couloir, à l'endroit où le trou semble s'ouvrir, ajoute une note de danger à cette ancienne voie.",
     "tags": [
       "couloir",
       "rituels",
-      "têtes de mort",
-      "tentacules",
-      "eau stagnante"
+      "vieillie",
+      "assiettes",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

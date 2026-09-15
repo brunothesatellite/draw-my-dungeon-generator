@@ -1,24 +1,20 @@
 {
   "427": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés au sol. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers robustes soutiennent les murs, et des têtes de mort et des tentacules étranges sont suspendus aux parois, ajoutant une touche d'horreur à l'ambiance. Un autel central, orné de symboles obscurs, domine la pièce. Des barils et des boîtes sont empilés sur une table au milieu de la salle, et des étagères remplies de mystérieux objets sont visibles à l'arrière. L'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus menaçante.",
+    "title": "Magasin des Anciens",
+    "description": "Dans ce petit magasin rectangulaire, les murs vieillis et les étagères en bois sont chargés de boîtes et de barils. La faible lumière qui filtre à travers les volets usés révèle une table au centre, entourée de chaises en bois usé. Les étagères sont remplies de divers objets, dont des boîtes de toutes tailles et des barils de vin ou d'eau. Des cercles rituels sont gravés au sol, et des piliers massifs soutiennent le plafond. L'atmosphère est mystérieuse et menaçante, comme si le lieu avait connu des temps obscurs et secrets.",
     "tags": [
+      "magasin",
       "rituel",
-      "culte",
-      "salle sacrée",
-      "mystère",
-      "horreur"
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
-      "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
-      ],
+      "centralFeature": "table",
+      "wallDecorations": [],
       "floorMarkings": [
         "cercles rituels"
       ],

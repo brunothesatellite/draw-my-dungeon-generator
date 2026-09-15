@@ -1,13 +1,13 @@
 {
   "32": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre est immense, son plafond voûté est soutenu par de puissants piliers et colonnes sculptées de motifs complexes. La lumière naturelle filtre à travers de grands fenêtres, éclairant les murs couverts de mousse et de lichens. Des spirales mystérieuses et un croix gravées dans le sol attirent l'œil, tandis que des tentacules et des têtes de mort ornent les murs. Un autel, symbole de sacrifices anciens, se dresse au centre de la pièce, entouré d'un espace vide qui semble inviter à l'exploration. Les murs sont décorés de tentacules et de têtes de mort, ajoutant une atmosphère de mystère et d'ancienneté. Des empreintes de pas, peut-être celles d'anciens rituels, marquent le sol. La chambre est accessible par deux portes, l'une au nord et l'autre au sud, et est parsemée de dangers tels que le sol mouillé et les motifs de spirales qui peuvent être glissants. L'atmosphère est pesante, presque palpable, comme si les murs murmuraient des secrets millénaires.",
+    "title": "Chambre des Sacrifices",
+    "description": "La grande salle rectangulaire est éclairée par la lumière naturelle qui filtre à travers les fenêtres. La pièce est humide et recouverte de mousse, donnant une ambiance mystérieuse et ancienne. Au centre de la pièce, une cheminée massive domine le décor, émettant une fumée épaisse qui se dissipe lentement. Des motifs de spirales et de croix sont gravés sur le sol, marquant des emplacements sacrés. Les colonnes et les piliers sculptés de manière élaborée entourent la pièce, ajoutant à son caractère antique. Un autel, orné de tentacules et de têtes de mort, se trouve au milieu de la pièce, servant probablement de point central pour les rituels. Des empreintes de pas mystérieuses sont visibles sur le sol, comme si quelqu'un avait récemment traversé cette pièce. Les murs sont décorés de tentacules et de têtes de mort, renforçant l'atmosphère macabre. À l'ouest, une porte large donne accès à un couloir sombre, tandis qu'à l'est, une autre porte mène à une autre pièce. Les murs sont humides et recouverts de mousse, et les motifs de spirales et de croix sont encore plus visibles. Les tentacules et les têtes de mort ajoutent une touche d'horreur à l'ensemble. La pièce est un lieu de sacrifice, où des rituels sombres sont célébrés depuis des temps immémoriaux.",
     "tags": [
       "sacrifice",
+      "rituel",
       "ancien",
       "mystère",
-      "rituel",
-      "mystique"
+      "macabre"
     ],
     "sourceFeatures": {
       "roomSize": "large",

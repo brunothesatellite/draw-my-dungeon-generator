@@ -1,13 +1,12 @@
 {
   "383": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "Vous entrez dans une salle immense, aux murs couverts de spirales et de glyphes anciens. La lumière tamisée émane des colonnes massives qui soutiennent le plafond voûté. Des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère sinistre à l'endroit. Le sol est marqué de spirales et de symboles mystérieux, semblant guider le regard vers un autel central. Des traces de créatures anciennes sont visibles sur les parois, témoignant de l'ancienneté et de la puissance de ce lieu. La chambre est entourée de colonnes et de pilastres, créant un espace majestueux et sacré. Tout autour, le mobilier ancien est dissimulé, prêt à être découvert. Les anciens secrets de ce lieu sont à portée de main, mais les dangers potentiels sont nombreux. Les enchantements et les pièges anciens sont prêts à vous accueillir si vous osez approcher.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, rectangulaire et dégage une atmosphère mystérieuse et étrange. La lumière tamisée éclaire les spirales et les glyphes gravés sur le sol, qui semblent anciens et mystérieux. Des colonnes massives soutiennent le plafond, et des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'horreur à l'ambiance. Un petit grille est posé sur le sol, comme si quelqu'un avait tenté de bloquer l'accès à cette pièce sacrée. Des traces de créatures anciennes sont visibles sur les murs et le sol, témoignant de l'activité passée de cette salle. Les objets mobiliers sont dispersés, laissant une impression de désordre et d'abandon. Les anciens traps et les effets enchantés rendent cette salle dangereuse et imprévisible. La salle est vide, mais l'atmosphère suggère qu'elle a été utilisée pour des rituels sacrés et peut-être même des sacrifices.",
     "tags": [
-      "salle",
-      "ancien",
-      "sacré",
-      "mystère",
-      "creatures anciennes"
+      "salle sacrée",
+      "anciens",
+      "rituels",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

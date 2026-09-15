@@ -1,13 +1,13 @@
 {
   "119": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui ont vu des siècles d'usure. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules sont sculptés dans les pierres, ajoutant une atmosphère de mystère et de danger. Des piliers robustes soutiennent le plafond, et des meubles anciens sont disposés autour de la pièce, témoignant de l'ancienneté de ce lieu. L'eau stagnante se forme dans un coin, un danger potentiel pour les explorateurs. La seule sortie mène à un couloir sombre et inconnu, où les ombres dansent et les murmures de l'ancienneté résonnent.",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis, où des têtes de mort et des tentacules étranges sont sculptés dans le marbre. Des cercles rituels dessinent des motifs mystérieux sur le sol, marquant l'ancienne importance de ce lieu. Des piliers massifs soutiennent le plafond, tandis que des meubles anciens, usés par le temps, sont disposés autour d'une petite table et de chaises. L'atmosphère est pesante et mystérieuse, comme si les anciens rituels qui se déroulaient ici avaient laissé un sillage de malédiction. Un seul passage conduit à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la salle rend l'endroit dangereux à traverser. Les murs sont parsemés de traces de vieilles pierres et de mystérieux symboles, rappelant l'histoire oubliée de ce lieu.",
     "tags": [
       "rituels",
       "salle",
-      "vieillie",
-      "mystérieuse",
-      "ancien"
+      "anciens",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Salle avec petite table/chaises et couloir",
       "tileNumber": 119

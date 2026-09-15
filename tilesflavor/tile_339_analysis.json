@@ -1,13 +1,13 @@
 {
   "339": {
     "title": "Grotte des Anciens Sacrifices",
-    "description": "La grotte est étroite et sombre, les murs de pierre lisse sont recouverts de têtes de mort et de tentacules qui semblent avoir été sculptés par les mains de l'oubli. Deux pièces distinctes sont séparées par un mur en bois usé, qui semble avoir été percé par des forces obscures. À l'entrée de chaque pièce, une table et des chaises sont disposées, comme si un rituel avait récemment eu lieu. Un autel central, orné de cercles rituels, domine la pièce principale. Des piliers robustes soutiennent le plafond, et des traces de créatures étranges marquent le sol. La grotte est remplie d'air sinistre, et les ombres dansent sur les murs, rappelant l'ancienne puissance qui réside ici.",
+    "description": "Dans cette grotte étroite et sombre, deux pièces distinctes sont séparées par un mur en bois usé. La première, plus petite, abrite une table en pierre et des chaises en bois vieillies, entourées d'arches et de tonneaux. La seconde, plus grande, est ornée d'un autel ancien et de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et le mobilier ancien semble avoir été abandonné depuis des siècles. La lumière faible pénètre à travers des fissures dans le plafond, éclairant les cercles rituels et les traces de créatures qui sillonnent le sol. L'atmosphère sinistre de cette grotte est accentuée par les murmures lointains et les ombres qui se déplacent dans les recoins. Les pièges anciens sont nombreux, prêts à se déclencher sur les intrus imprudents.",
     "tags": [
-      "Grotte",
-      "Anciens Sacrifices",
-      "Rituels Anciens",
-      "Têtes de Mort",
-      "Tentacules"
+      "grotte",
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "pièges anciens"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "grotte (2 pièces séparées par un mur en bois) avec table, chaises, arche et tonneaux",
       "tileNumber": 339

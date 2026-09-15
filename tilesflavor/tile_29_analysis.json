@@ -1,13 +1,13 @@
 {
   "29": {
     "title": "Salle du Vortex Magique",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers les fissures dans les pierres donne une ambiance mystérieuse et ancienne. Des cercles rituels sont gravés dans le sol, entourant un autel central qui semble avoir été le point focal de rituels passés. Des piliers robustes soutiennent les murs, ajoutant à l'atmosphère de vieilles pierres et de mystère. Les murs sont ornés de têtes de mort, rappelant l'importance des rituels et des sacrifices qui ont eu lieu ici. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. L'eau stagnante au fond de la salle, probablement due à une ancienne fontaine, ajoute une touche de danger à l'atmosphère déjà sombre et mystérieuse.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au centre. La faible lumière qui pénètre à travers les piliers dégage une ambiance mystérieuse et ancienne. Des têtes de mort sont suspendues aux murs, ajoutant une touche macabre à l'atmosphère. Un vortex magique se trouve au cœur de la pièce, émettant une lumière bleutée et un murmure surnaturel. L'eau stagnante au sol est un danger potentiel pour les explorateurs imprudents. Cette salle semble être un lieu de rituel, avec des piliers et des marquages qui semblent avoir été utilisés pour des cérémonies anciennes.",
     "tags": [
-      "Salle",
-      "Vortex Magique",
-      "Rituel",
-      "Ancien",
-      "Mystère"
+      "rituel",
+      "vortex",
+      "mystère",
+      "ancien",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

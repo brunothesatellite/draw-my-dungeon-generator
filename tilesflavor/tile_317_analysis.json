@@ -1,13 +1,13 @@
 {
   "317": {
-    "title": "Salle des Sacrifices",
-    "description": "La salle des sacrifices est petite et carrée, avec un sol vieilli et des cercles rituels gravés au centre. La lumière est faible, accentuant l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et les têtes de mort et des tentacules sont visibles sur les parois. L'eau stagnante remplit la moitié du sol, créant un danger potentiel. Le sol est marqué de cercles rituels, et les murs sont ornés de têtes de mort et de tentacules, rappelant les sacrifices passés. La pièce est vieillie, avec des traces de vieilles cérémonies et de rituels anciens. Les piliers robustes et les murs délavés ajoutent à l'atmosphère sinistre de la salle des sacrifices.",
+    "title": "Fissure du Sacrifice",
+    "description": "Tu te trouves dans un abîme étroit et sombre, où la lumière pénètre à peine. Le sol est fissuré, révélant une étendue d'eau stagnante au fond. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies et usées. L'atmosphère est sinistre, accentuée par les ombres qui dansent sur les parois. Tu sens une présence ancienne, presque palpable, dans cette salle de rituel. Les eaux stagnantes au fond du abîme sont un danger à ne pas sous-estimer.",
     "tags": [
-      "rituel",
+      "abîme",
       "sacrifice",
-      "tête de mort",
-      "tentacule",
-      "abîme"
+      "rituel",
+      "eau stagnante",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

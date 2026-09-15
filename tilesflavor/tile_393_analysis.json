@@ -1,15 +1,14 @@
 {
   "393": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et carrée, avec un sol vieilli et des marques de cercles rituels gravées dans le sol. Des statues étranges, semblant garder un secret, sont alignées le long des murs. Deux grilles métalliques, posées sur le sol, semblent prêtes à déverser un poison ou de la fumée. Des piliers massifs soutiennent le plafond, et des têtes de mort sculptées ornent les murs, ajoutant à l'atmosphère sinistre. Le faible éclairage rend l'endroit encore plus menaçant. Des meubles anciens sont disséminés un peu partout, ajoutant une touche de mystère à la pièce. L'eau stagnante au fond de la salle est un danger à ne pas négliger.",
+    "title": "Salle des Statues",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand à peine. Le sol est couvert de cercles de pierre, des symboles mystérieux qui semblent avoir été dessinés il y a des siècles. Des statues de pierre, vieilles et usées, sont alignées le long des murs, leurs visages étranges et inquiétants. Deux grilles métalliques, anciennes et rouillées, sont visibles au centre de la pièce. Elles semblent pouvoir déverser du poison ou de la fumée, un mystère qui plane dans l'air sinistre de la salle. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère d'ancienneté et de mystère. Des traces de mobilier sont encore visibles, mais la salle semble abandonnée depuis longtemps. L'eau stagnante au fond de la pièce ajoute à l'ambiance lugubre, rendant l'endroit encore plus effrayant.",
     "tags": [
-      "rituel",
-      "statue",
+      "statues",
+      "cercles",
+      "pierre",
+      "grilles",
       "poison",
-      "tête de mort",
-      "salle",
-      "vieillie",
-      "sinistre"
+      "fumée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

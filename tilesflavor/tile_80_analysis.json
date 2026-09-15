@@ -1,13 +1,13 @@
 {
   "80": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir vu des siècles d'usure. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère mystérieuse. Un autel central, orné de symboles énigmatiques, domine la pièce. Une table avec l'inscription '80' est placée devant l'autel, comme si elle attendait d'être utilisée pour un rituel ancien. L'eau stagnante qui s'est formée dans un coin de la salle est un danger potentiel pour les explorateurs imprudents. La salle semble avoir été utilisée pour des rituels ou des cultes, et l'atmosphère ancienne et mystérieuse en fait un lieu à la fois fascinant et effrayant.",
+    "title": "Salle des Caisses",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers une fenêtre brisée éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et une table avec l'inscription '80' est placée au centre de la pièce. Des caisses empilées contre le mur sud semblent remplies de mystères inexplorés. L'atmosphère est mystérieuse et ancienne, comme si cette salle avait été utilisée pour des rituels ou des cultes lointains. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre. Les caisses, les piliers et les cercles rituels sont les éléments clés de ce lieu, qui semble avoir été oublié depuis longtemps.",
     "tags": [
       "rituel",
-      "culte",
-      "macabre",
-      "vieillie",
-      "salle"
+      "salle",
+      "caisses",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

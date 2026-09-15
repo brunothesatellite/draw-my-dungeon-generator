@@ -1,0 +1,3028 @@
+{
+  "ok": [
+    2,
+    9,
+    14,
+    18,
+    30,
+    31,
+    46,
+    51,
+    53,
+    57,
+    58,
+    60,
+    61,
+    65,
+    69,
+    73,
+    74,
+    75,
+    79,
+    82,
+    83,
+    84,
+    86,
+    87,
+    91,
+    101,
+    102,
+    103,
+    105,
+    108,
+    110,
+    118,
+    120,
+    122,
+    126,
+    128,
+    130,
+    138,
+    139,
+    140,
+    143,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    182,
+    187,
+    188,
+    189,
+    190,
+    192,
+    193,
+    197,
+    198,
+    210,
+    212,
+    224,
+    230,
+    231,
+    232,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    249,
+    250,
+    251,
+    252,
+    253,
+    255,
+    259,
+    261,
+    262,
+    263,
+    264,
+    265,
+    267,
+    269,
+    272,
+    273,
+    274,
+    277,
+    279,
+    283,
+    284,
+    285,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    304,
+    305,
+    306,
+    307,
+    308,
+    310,
+    311,
+    312,
+    313,
+    314,
+    318,
+    319,
+    321,
+    322,
+    326,
+    331,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    342,
+    343,
+    344,
+    346,
+    347,
+    359,
+    366,
+    370,
+    371,
+    373,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    382,
+    386,
+    388,
+    389,
+    390,
+    397,
+    398,
+    399,
+    400,
+    401,
+    403,
+    404,
+    405,
+    406,
+    408,
+    416,
+    417,
+    418,
+    421,
+    422,
+    425,
+    430,
+    432,
+    433,
+    435,
+    437,
+    438,
+    439,
+    449,
+    450,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460
+  ],
+  "partial": [
+    1,
+    6,
+    16,
+    21,
+    23,
+    25,
+    26,
+    28,
+    40,
+    76,
+    90,
+    94,
+    100,
+    111,
+    124,
+    125,
+    127,
+    132,
+    135,
+    136,
+    141,
+    142,
+    146,
+    148,
+    180,
+    184,
+    185,
+    186,
+    211,
+    213,
+    214,
+    215,
+    218,
+    220,
+    226,
+    227,
+    228,
+    229,
+    235,
+    237,
+    238,
+    239,
+    248,
+    254,
+    256,
+    257,
+    258,
+    260,
+    268,
+    271,
+    275,
+    276,
+    278,
+    280,
+    281,
+    286,
+    303,
+    309,
+    315,
+    316,
+    317,
+    320,
+    323,
+    324,
+    325,
+    327,
+    328,
+    329,
+    330,
+    332,
+    339,
+    340,
+    341,
+    345,
+    348,
+    349,
+    351,
+    352,
+    354,
+    355,
+    356,
+    357,
+    360,
+    361,
+    362,
+    364,
+    365,
+    367,
+    368,
+    369,
+    372,
+    374,
+    383,
+    391,
+    393,
+    394,
+    395,
+    396,
+    402,
+    410,
+    419,
+    420,
+    423,
+    424,
+    426,
+    427,
+    429,
+    436,
+    440,
+    442,
+    446
+  ],
+  "missing": [
+    4,
+    12,
+    13,
+    17,
+    19,
+    22,
+    27,
+    29,
+    32,
+    35,
+    37,
+    38,
+    39,
+    47,
+    50,
+    52,
+    55,
+    64,
+    80,
+    81,
+    89,
+    95,
+    96,
+    106,
+    109,
+    112,
+    113,
+    115,
+    116,
+    117,
+    119,
+    121,
+    123,
+    129,
+    131,
+    133,
+    134,
+    137,
+    144,
+    145,
+    147,
+    149,
+    181,
+    183,
+    191,
+    194,
+    195,
+    196,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    216,
+    217,
+    219,
+    221,
+    222,
+    223,
+    225,
+    233,
+    234,
+    236,
+    240,
+    241,
+    266,
+    270,
+    282,
+    353,
+    358,
+    363,
+    381,
+    384,
+    385,
+    387,
+    392,
+    407,
+    409,
+    411,
+    412,
+    413,
+    414,
+    415,
+    428,
+    431,
+    434,
+    441,
+    443,
+    444,
+    445,
+    447,
+    448,
+    451
+  ],
+  "no_csv": [
+    3,
+    5,
+    7,
+    8,
+    10,
+    11,
+    15,
+    20,
+    24,
+    33,
+    34,
+    36,
+    41,
+    42,
+    43,
+    44,
+    45,
+    48,
+    49,
+    54,
+    56,
+    59,
+    62,
+    63,
+    66,
+    67,
+    68,
+    70,
+    71,
+    72,
+    77,
+    78,
+    85,
+    88,
+    92,
+    93,
+    97,
+    98,
+    99,
+    104,
+    107,
+    114,
+    350
+  ],
+  "details": {
+    "1": {
+      "tile": 1,
+      "status": "partial",
+      "csvDescription": "Salle avec obélisque et colonnes",
+      "missing": [
+        "obélisque"
+      ],
+      "found": [
+        "colonnes"
+      ]
+    },
+    "3": {
+      "tile": 3,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "4": {
+      "tile": 4,
+      "status": "missing",
+      "csvDescription": "Couloir avec petite salle",
+      "missing": [
+        "petite"
+      ],
+      "found": []
+    },
+    "5": {
+      "tile": 5,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "6": {
+      "tile": 6,
+      "status": "partial",
+      "csvDescription": "Salle avec un trou avec grille",
+      "missing": [
+        "trou"
+      ],
+      "found": [
+        "grille"
+      ]
+    },
+    "7": {
+      "tile": 7,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "8": {
+      "tile": 8,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "10": {
+      "tile": 10,
+      "status": "no_elements",
+      "csvDescription": "Couloir et salle",
+      "missing": [],
+      "found": []
+    },
+    "11": {
+      "tile": 11,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "12": {
+      "tile": 12,
+      "status": "missing",
+      "csvDescription": "Couloir avec dessin magique au sol",
+      "missing": [
+        "dessin magique sol"
+      ],
+      "found": []
+    },
+    "13": {
+      "tile": 13,
+      "status": "missing",
+      "csvDescription": "Salle avec pierres étranges... peut-être un piège",
+      "missing": [
+        "pierres étranges peutêtre piège"
+      ],
+      "found": []
+    },
+    "15": {
+      "tile": 15,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "16": {
+      "tile": 16,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec colonnes",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "colonnes"
+      ]
+    },
+    "17": {
+      "tile": 17,
+      "status": "missing",
+      "csvDescription": "Salle avec 2 trous (fermés par grille)",
+      "missing": [
+        "trous"
+      ],
+      "found": []
+    },
+    "19": {
+      "tile": 19,
+      "status": "missing",
+      "csvDescription": "Salle avec dessin étrange",
+      "missing": [
+        "dessin étrange"
+      ],
+      "found": []
+    },
+    "20": {
+      "tile": 20,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "21": {
+      "tile": 21,
+      "status": "partial",
+      "csvDescription": "Salle avec table et chaises",
+      "missing": [
+        "chaises"
+      ],
+      "found": [
+        "table"
+      ]
+    },
+    "22": {
+      "tile": 22,
+      "status": "missing",
+      "csvDescription": "Salle avec 2 flashs dessinés",
+      "missing": [
+        "flashs dessinés"
+      ],
+      "found": []
+    },
+    "23": {
+      "tile": 23,
+      "status": "partial",
+      "csvDescription": "Salle avec petite sanctuaire et colonne",
+      "missing": [
+        "petite sanctuaire"
+      ],
+      "found": [
+        "colonne"
+      ]
+    },
+    "24": {
+      "tile": 24,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "25": {
+      "tile": 25,
+      "status": "partial",
+      "csvDescription": "Salle avec bassin et fontaine",
+      "missing": [
+        "fontaine"
+      ],
+      "found": [
+        "bassin"
+      ]
+    },
+    "26": {
+      "tile": 26,
+      "status": "partial",
+      "csvDescription": "Canal d'eau entre 2 murs avec pont",
+      "missing": [
+        "canal deau"
+      ],
+      "found": [
+        "murs",
+        "pont"
+      ]
+    },
+    "27": {
+      "tile": 27,
+      "status": "missing",
+      "csvDescription": "Salle avec statue",
+      "missing": [
+        "statue"
+      ],
+      "found": []
+    },
+    "28": {
+      "tile": 28,
+      "status": "partial",
+      "csvDescription": "Salle avec dessin « ancien » et 4 colonnes",
+      "missing": [
+        "dessin ancien"
+      ],
+      "found": [
+        "colonnes"
+      ]
+    },
+    "29": {
+      "tile": 29,
+      "status": "missing",
+      "csvDescription": "Salle avec vortex magique",
+      "missing": [
+        "vortex magique"
+      ],
+      "found": []
+    },
+    "32": {
+      "tile": 32,
+      "status": "missing",
+      "csvDescription": "Salle avec cheminée",
+      "missing": [
+        "cheminée"
+      ],
+      "found": []
+    },
+    "33": {
+      "tile": 33,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "34": {
+      "tile": 34,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "35": {
+      "tile": 35,
+      "status": "missing",
+      "csvDescription": "Salle avec œil dessiné au sol",
+      "missing": [
+        "œil dessiné sol"
+      ],
+      "found": []
+    },
+    "36": {
+      "tile": 36,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "37": {
+      "tile": 37,
+      "status": "missing",
+      "csvDescription": "Salle avec trou",
+      "missing": [
+        "trou"
+      ],
+      "found": []
+    },
+    "38": {
+      "tile": 38,
+      "status": "missing",
+      "csvDescription": "Salle avec soleil magique et tonneaux",
+      "missing": [
+        "soleil magique",
+        "tonneaux"
+      ],
+      "found": []
+    },
+    "39": {
+      "tile": 39,
+      "status": "missing",
+      "csvDescription": "Salle avec lit",
+      "missing": [
+        "lit"
+      ],
+      "found": []
+    },
+    "40": {
+      "tile": 40,
+      "status": "partial",
+      "csvDescription": "Salle avec cheminée, obélisque et 4 soleils étranges\n« magiques » dessinés",
+      "missing": [
+        "cheminée"
+      ],
+      "found": [
+        "obélisque",
+        "soleils étranges magiques dessinés"
+      ]
+    },
+    "41": {
+      "tile": 41,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "42": {
+      "tile": 42,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "43": {
+      "tile": 43,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "44": {
+      "tile": 44,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "45": {
+      "tile": 45,
+      "status": "no_elements",
+      "csvDescription": "Couloir (avec numéro 46)",
+      "missing": [],
+      "found": []
+    },
+    "47": {
+      "tile": 47,
+      "status": "missing",
+      "csvDescription": "Salle avec 4 trous et 1 grille ouverte",
+      "missing": [
+        "trous",
+        "grille ouverte"
+      ],
+      "found": []
+    },
+    "48": {
+      "tile": 48,
+      "status": "no_elements",
+      "csvDescription": "Couloir (avec sarcophage dans les murs)",
+      "missing": [],
+      "found": []
+    },
+    "49": {
+      "tile": 49,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "50": {
+      "tile": 50,
+      "status": "missing",
+      "csvDescription": "Salle avec tonneaux",
+      "missing": [
+        "tonneaux"
+      ],
+      "found": []
+    },
+    "52": {
+      "tile": 52,
+      "status": "missing",
+      "csvDescription": "couloirs",
+      "missing": [
+        "couloirs"
+      ],
+      "found": []
+    },
+    "54": {
+      "tile": 54,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "55": {
+      "tile": 55,
+      "status": "missing",
+      "csvDescription": "Couloir avec un petit conduit (pas d'eau)",
+      "missing": [
+        "petit conduit"
+      ],
+      "found": []
+    },
+    "56": {
+      "tile": 56,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "59": {
+      "tile": 59,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "62": {
+      "tile": 62,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "63": {
+      "tile": 63,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "64": {
+      "tile": 64,
+      "status": "missing",
+      "csvDescription": "Salle avec des petites pierres ou champignon",
+      "missing": [
+        "petites pierres champignon"
+      ],
+      "found": []
+    },
+    "66": {
+      "tile": 66,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "67": {
+      "tile": 67,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "68": {
+      "tile": 68,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "70": {
+      "tile": 70,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "71": {
+      "tile": 71,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "72": {
+      "tile": 72,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "76": {
+      "tile": 76,
+      "status": "partial",
+      "csvDescription": "Salle avec un soleil magique dessiné et 4 colonnes",
+      "missing": [
+        "colonnes"
+      ],
+      "found": [
+        "soleil magique dessiné"
+      ]
+    },
+    "77": {
+      "tile": 77,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "78": {
+      "tile": 78,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "80": {
+      "tile": 80,
+      "status": "missing",
+      "csvDescription": "Salle avec des caisses",
+      "missing": [
+        "caisses"
+      ],
+      "found": []
+    },
+    "81": {
+      "tile": 81,
+      "status": "missing",
+      "csvDescription": "Salle avec un dessin étrange",
+      "missing": [
+        "dessin étrange"
+      ],
+      "found": []
+    },
+    "85": {
+      "tile": 85,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "88": {
+      "tile": 88,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "89": {
+      "tile": 89,
+      "status": "missing",
+      "csvDescription": "Couloir sans issue",
+      "missing": [
+        "issue"
+      ],
+      "found": []
+    },
+    "90": {
+      "tile": 90,
+      "status": "partial",
+      "csvDescription": "Couloir sans issue avec des petites pierres",
+      "missing": [
+        "petites pierres"
+      ],
+      "found": [
+        "issue"
+      ]
+    },
+    "92": {
+      "tile": 92,
+      "status": "no_elements",
+      "csvDescription": "Couloir avec une salle (sans issue)",
+      "missing": [],
+      "found": []
+    },
+    "93": {
+      "tile": 93,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "94": {
+      "tile": 94,
+      "status": "partial",
+      "csvDescription": "Autel avec des tentacules et des choses étranges dessinées",
+      "missing": [
+        "choses étranges dessinées"
+      ],
+      "found": [
+        "autel",
+        "tentacules"
+      ]
+    },
+    "95": {
+      "tile": 95,
+      "status": "missing",
+      "csvDescription": "3 couloirs sans issue",
+      "missing": [
+        "couloirs",
+        "issue"
+      ],
+      "found": []
+    },
+    "96": {
+      "tile": 96,
+      "status": "missing",
+      "csvDescription": "couloirs",
+      "missing": [
+        "couloirs"
+      ],
+      "found": []
+    },
+    "97": {
+      "tile": 97,
+      "status": "no_elements",
+      "csvDescription": "salle",
+      "missing": [],
+      "found": []
+    },
+    "98": {
+      "tile": 98,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "99": {
+      "tile": 99,
+      "status": "no_elements",
+      "csvDescription": "couloir",
+      "missing": [],
+      "found": []
+    },
+    "100": {
+      "tile": 100,
+      "status": "partial",
+      "csvDescription": "Salle sans issue (sorties bloquées par des pierres, des barils et des caisses) Dessins sur le sol",
+      "missing": [
+        "issue dessins"
+      ],
+      "found": [
+        "sol"
+      ]
+    },
+    "104": {
+      "tile": 104,
+      "status": "no_elements",
+      "csvDescription": "Salle",
+      "missing": [],
+      "found": []
+    },
+    "106": {
+      "tile": 106,
+      "status": "missing",
+      "csvDescription": "Salle avec un grille et 6 pierres étranges alignées",
+      "missing": [
+        "grille",
+        "pierres étranges alignées"
+      ],
+      "found": []
+    },
+    "107": {
+      "tile": 107,
+      "status": "no_elements",
+      "csvDescription": "Couloir",
+      "missing": [],
+      "found": []
+    },
+    "109": {
+      "tile": 109,
+      "status": "missing",
+      "csvDescription": "Couloirs étranges avec des fils d'araignée",
+      "missing": [
+        "couloirs étranges",
+        "fils daraignée"
+      ],
+      "found": []
+    },
+    "111": {
+      "tile": 111,
+      "status": "partial",
+      "csvDescription": "Couloir étrange avec des fils d'araignée et une araignée géante (cachée ou dans les murs)",
+      "missing": [
+        "fils daraignée"
+      ],
+      "found": [
+        "étrange",
+        "araignée géante"
+      ]
+    },
+    "112": {
+      "tile": 112,
+      "status": "missing",
+      "csvDescription": "Couloirs étranges avec des fils d'araignée",
+      "missing": [
+        "couloirs étranges",
+        "fils daraignée"
+      ],
+      "found": []
+    },
+    "113": {
+      "tile": 113,
+      "status": "missing",
+      "csvDescription": "Salle avec une toile d'araignée",
+      "missing": [
+        "toile daraignée"
+      ],
+      "found": []
+    },
+    "114": {
+      "tile": 114,
+      "status": "no_elements",
+      "csvDescription": "Couloir (toile d'araignée dans les murs)",
+      "missing": [],
+      "found": []
+    },
+    "115": {
+      "tile": 115,
+      "status": "missing",
+      "csvDescription": "Salle avec des dessins au sol",
+      "missing": [
+        "dessins sol"
+      ],
+      "found": []
+    },
+    "116": {
+      "tile": 116,
+      "status": "missing",
+      "csvDescription": "Salle avec une toile d'araignée",
+      "missing": [
+        "toile daraignée"
+      ],
+      "found": []
+    },
+    "117": {
+      "tile": 117,
+      "status": "missing",
+      "csvDescription": "Salle de repos (3 tables et chaises)",
+      "missing": [
+        "repos"
+      ],
+      "found": []
+    },
+    "119": {
+      "tile": 119,
+      "status": "missing",
+      "csvDescription": "Salle avec petite table/chaises et couloir",
+      "missing": [
+        "petite tablechaises"
+      ],
+      "found": []
+    },
+    "121": {
+      "tile": 121,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "123": {
+      "tile": 123,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec une grille",
+      "missing": [
+        "ouverte",
+        "grille"
+      ],
+      "found": []
+    },
+    "124": {
+      "tile": 124,
+      "status": "partial",
+      "csvDescription": "Salle ouverte, quelques choses étranges et petites sont grimpant sur les murs et un tentacule sort d'un trou",
+      "missing": [
+        "ouverte",
+        "quelques choses étranges",
+        "petites grimpant",
+        "tentacule sort dun trou"
+      ],
+      "found": [
+        "murs"
+      ]
+    },
+    "125": {
+      "tile": 125,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec 3 pierres étranges sur le sol",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "pierres étranges",
+        "sol"
+      ]
+    },
+    "127": {
+      "tile": 127,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec des dessins floraux au sol",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "dessins floraux sol"
+      ]
+    },
+    "129": {
+      "tile": 129,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec dragon infini",
+      "missing": [
+        "ouverte",
+        "dragon infini"
+      ],
+      "found": []
+    },
+    "131": {
+      "tile": 131,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "132": {
+      "tile": 132,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec 2 grilles",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "grilles"
+      ]
+    },
+    "133": {
+      "tile": 133,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec un sarcophage / tombe",
+      "missing": [
+        "ouverte",
+        "sarcophage tombe"
+      ],
+      "found": []
+    },
+    "134": {
+      "tile": 134,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "135": {
+      "tile": 135,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec une fontaine",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "fontaine"
+      ]
+    },
+    "136": {
+      "tile": 136,
+      "status": "partial",
+      "csvDescription": "Couloirs avec des barils et des caisses sur un côté",
+      "missing": [
+        "couloirs"
+      ],
+      "found": [
+        "barils",
+        "caisses",
+        "côté"
+      ]
+    },
+    "137": {
+      "tile": 137,
+      "status": "missing",
+      "csvDescription": "Couloir avec quelque chose comme un piège (9 trous sur le sol comme des pointes ou des lances pourraient sortir)",
+      "missing": [
+        "piège"
+      ],
+      "found": []
+    },
+    "141": {
+      "tile": 141,
+      "status": "partial",
+      "csvDescription": "2 couloirs séparés. L'un passe sous l'autre. Au centre du haut, une pierre étrange sort du sol",
+      "missing": [
+        "couloirs séparés lun passe"
+      ],
+      "found": [
+        "lautre centre haut",
+        "pierre étrange sort sol"
+      ]
+    },
+    "142": {
+      "tile": 142,
+      "status": "partial",
+      "csvDescription": "Couloirs avec amphores, crâne de monstre enterré",
+      "missing": [
+        "couloirs",
+        "amphores"
+      ],
+      "found": [
+        "crâne monstre enterré"
+      ]
+    },
+    "144": {
+      "tile": 144,
+      "status": "missing",
+      "csvDescription": "Couloirs séparés (je me suis trompé de nombre)",
+      "missing": [
+        "couloirs séparés"
+      ],
+      "found": []
+    },
+    "145": {
+      "tile": 145,
+      "status": "missing",
+      "csvDescription": "Couloirs séparés (je me suis trompé de nombre)",
+      "missing": [
+        "couloirs séparés"
+      ],
+      "found": []
+    },
+    "146": {
+      "tile": 146,
+      "status": "partial",
+      "csvDescription": "Couloir avec une grille enfouie dans les murs … pourquoi ?",
+      "missing": [
+        "murs pourquoi"
+      ],
+      "found": [
+        "grille enfouie"
+      ]
+    },
+    "147": {
+      "tile": 147,
+      "status": "missing",
+      "csvDescription": "Couloir avec un petit coffre",
+      "missing": [
+        "petit coffre"
+      ],
+      "found": []
+    },
+    "148": {
+      "tile": 148,
+      "status": "partial",
+      "csvDescription": "Couloir avec une chose étrange au sol, comme si le sol était contaminé par quelque chose. Un petit autel avec des glyphes est placé dans le couloir …",
+      "missing": [
+        "si sol était contaminé petit autel"
+      ],
+      "found": [
+        "étrange sol",
+        "glyphes placé"
+      ]
+    },
+    "149": {
+      "tile": 149,
+      "status": "missing",
+      "csvDescription": "Couloirs",
+      "missing": [
+        "couloirs"
+      ],
+      "found": []
+    },
+    "180": {
+      "tile": 180,
+      "status": "partial",
+      "csvDescription": "Couloir de grotte avec champignons",
+      "missing": [
+        "grotte"
+      ],
+      "found": [
+        "champignons"
+      ]
+    },
+    "181": {
+      "tile": 181,
+      "status": "missing",
+      "csvDescription": "Couloir avec escalier descendant",
+      "missing": [
+        "escalier descendant"
+      ],
+      "found": []
+    },
+    "183": {
+      "tile": 183,
+      "status": "missing",
+      "csvDescription": "Salle avec grand escalier montant",
+      "missing": [
+        "grand escalier montant"
+      ],
+      "found": []
+    },
+    "184": {
+      "tile": 184,
+      "status": "partial",
+      "csvDescription": "Salle avec obélisque, colonnes et grand escalier montant",
+      "missing": [
+        "obélisque",
+        "colonnes"
+      ],
+      "found": [
+        "grand escalier montant"
+      ]
+    },
+    "185": {
+      "tile": 185,
+      "status": "partial",
+      "csvDescription": "Salle avec dessin magique et grand escalier descendant",
+      "missing": [
+        "grand escalier descendant"
+      ],
+      "found": [
+        "dessin magique"
+      ]
+    },
+    "186": {
+      "tile": 186,
+      "status": "partial",
+      "csvDescription": "Salle avec colonnes et pavés étranges avec grand escalier descendant",
+      "missing": [
+        "pavés étranges"
+      ],
+      "found": [
+        "colonnes",
+        "grand escalier descendant"
+      ]
+    },
+    "191": {
+      "tile": 191,
+      "status": "missing",
+      "csvDescription": "Couloir avec escalier montant",
+      "missing": [
+        "escalier montant"
+      ],
+      "found": []
+    },
+    "194": {
+      "tile": 194,
+      "status": "missing",
+      "csvDescription": "Couloir avec escalier descendant",
+      "missing": [
+        "escalier descendant"
+      ],
+      "found": []
+    },
+    "195": {
+      "tile": 195,
+      "status": "missing",
+      "csvDescription": "Séparées avec escalier montant et descendant",
+      "missing": [
+        "séparées",
+        "escalier montant",
+        "descendant"
+      ],
+      "found": []
+    },
+    "196": {
+      "tile": 196,
+      "status": "missing",
+      "csvDescription": "Salle avec porte magique",
+      "missing": [
+        "porte magique"
+      ],
+      "found": []
+    },
+    "199": {
+      "tile": 199,
+      "status": "missing",
+      "csvDescription": "Salle avec porte magique",
+      "missing": [
+        "porte magique"
+      ],
+      "found": []
+    },
+    "200": {
+      "tile": 200,
+      "status": "missing",
+      "csvDescription": "Salle avec porte magique",
+      "missing": [
+        "porte magique"
+      ],
+      "found": []
+    },
+    "201": {
+      "tile": 201,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": []
+    },
+    "202": {
+      "tile": 202,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers de descente",
+      "missing": [
+        "escaliers descente"
+      ],
+      "found": []
+    },
+    "203": {
+      "tile": 203,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": []
+    },
+    "204": {
+      "tile": 204,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers de descente",
+      "missing": [
+        "escaliers descente"
+      ],
+      "found": []
+    },
+    "205": {
+      "tile": 205,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": []
+    },
+    "206": {
+      "tile": 206,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers de descente",
+      "missing": [
+        "escaliers descente"
+      ],
+      "found": []
+    },
+    "207": {
+      "tile": 207,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": []
+    },
+    "208": {
+      "tile": 208,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers de descente",
+      "missing": [
+        "escaliers descente"
+      ],
+      "found": []
+    },
+    "209": {
+      "tile": 209,
+      "status": "missing",
+      "csvDescription": "Couloir avec escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": []
+    },
+    "211": {
+      "tile": 211,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec grille",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "grille"
+      ]
+    },
+    "213": {
+      "tile": 213,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec dessin de tête de taureau",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "dessin tête taureau"
+      ]
+    },
+    "214": {
+      "tile": 214,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec tonneaux",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "tonneaux"
+      ]
+    },
+    "215": {
+      "tile": 215,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec dessin de poing",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "dessin poing"
+      ]
+    },
+    "216": {
+      "tile": 216,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec fontaine (ou petit bassin)",
+      "missing": [
+        "ouverte",
+        "fontaine"
+      ],
+      "found": []
+    },
+    "217": {
+      "tile": 217,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "218": {
+      "tile": 218,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec colonnes et dessin de serpent",
+      "missing": [
+        "ouverte",
+        "colonnes"
+      ],
+      "found": [
+        "dessin serpent"
+      ]
+    },
+    "219": {
+      "tile": 219,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec 4 petites coffres",
+      "missing": [
+        "ouverte",
+        "petites coffres"
+      ],
+      "found": []
+    },
+    "220": {
+      "tile": 220,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec trappe au sol",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "trappe sol"
+      ]
+    },
+    "221": {
+      "tile": 221,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "222": {
+      "tile": 222,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec colonnes",
+      "missing": [
+        "ouverte",
+        "colonnes"
+      ],
+      "found": []
+    },
+    "223": {
+      "tile": 223,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "225": {
+      "tile": 225,
+      "status": "missing",
+      "csvDescription": "Salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": []
+    },
+    "226": {
+      "tile": 226,
+      "status": "partial",
+      "csvDescription": "Salle avec le trésor le plus grand jamais vu et une porte en fer",
+      "missing": [
+        "trésor grand jamais vu"
+      ],
+      "found": [
+        "porte fer"
+      ]
+    },
+    "227": {
+      "tile": 227,
+      "status": "partial",
+      "csvDescription": "Salle avec 9 coffres et une porte en pierre",
+      "missing": [
+        "coffres"
+      ],
+      "found": [
+        "porte pierre"
+      ]
+    },
+    "228": {
+      "tile": 228,
+      "status": "partial",
+      "csvDescription": "Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux",
+      "missing": [
+        "lits"
+      ],
+      "found": [
+        "prison",
+        "cellules",
+        "grilles sol",
+        "cellule cellules fermées barreaux"
+      ]
+    },
+    "229": {
+      "tile": 229,
+      "status": "partial",
+      "csvDescription": "Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux. Il y a un trou dans une pièce noire, fermée par une porte",
+      "missing": [
+        "cellules",
+        "grilles sol",
+        "lits",
+        "cellule cellules fermées barreaux il trou",
+        "noire",
+        "fermée porte"
+      ],
+      "found": [
+        "prison"
+      ]
+    },
+    "233": {
+      "tile": 233,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec dessin de crâne",
+      "missing": [
+        "ouverte",
+        "dessin crâne"
+      ],
+      "found": []
+    },
+    "234": {
+      "tile": 234,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec dessin de château et d'épées",
+      "missing": [
+        "ouverte",
+        "dessin château",
+        "dépées"
+      ],
+      "found": []
+    },
+    "235": {
+      "tile": 235,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec dessin d'écu",
+      "missing": [
+        "dessin décu"
+      ],
+      "found": [
+        "ouverte"
+      ]
+    },
+    "236": {
+      "tile": 236,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec dessin magique (comme un mandala)",
+      "missing": [
+        "ouverte",
+        "dessin magique"
+      ],
+      "found": []
+    },
+    "237": {
+      "tile": 237,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec 4 colonnes et dessin de diamant",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "colonnes",
+        "dessin diamant"
+      ]
+    },
+    "238": {
+      "tile": 238,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec dessin de tête de lion",
+      "missing": [
+        "dessin tête lion"
+      ],
+      "found": [
+        "ouverte"
+      ]
+    },
+    "239": {
+      "tile": 239,
+      "status": "partial",
+      "csvDescription": "Salle ouverte avec dessin de tête de dragon",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "dessin tête dragon"
+      ]
+    },
+    "240": {
+      "tile": 240,
+      "status": "missing",
+      "csvDescription": "Salle ouverte avec dessin de temple",
+      "missing": [
+        "ouverte",
+        "dessin temple"
+      ],
+      "found": []
+    },
+    "241": {
+      "tile": 241,
+      "status": "missing",
+      "csvDescription": "Siphon sortant du mur",
+      "missing": [
+        "siphon sortant mur"
+      ],
+      "found": []
+    },
+    "248": {
+      "tile": 248,
+      "status": "partial",
+      "csvDescription": "Siphon croisé avec 3 ponts",
+      "missing": [
+        "siphon croisé"
+      ],
+      "found": [
+        "ponts"
+      ]
+    },
+    "254": {
+      "tile": 254,
+      "status": "partial",
+      "csvDescription": "égout avec grille au sol",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "grille sol"
+      ]
+    },
+    "256": {
+      "tile": 256,
+      "status": "partial",
+      "csvDescription": "égout avec grille au centre et baril au sol",
+      "missing": [
+        "baril sol"
+      ],
+      "found": [
+        "égout",
+        "grille centre"
+      ]
+    },
+    "257": {
+      "tile": 257,
+      "status": "partial",
+      "csvDescription": "égout avec boîte",
+      "missing": [
+        "boîte"
+      ],
+      "found": [
+        "égout"
+      ]
+    },
+    "258": {
+      "tile": 258,
+      "status": "partial",
+      "csvDescription": "égout avec 2 passerelles menant sur une plateforme centrale et amphore",
+      "missing": [
+        "passerelles menant",
+        "amphore"
+      ],
+      "found": [
+        "égout",
+        "plateforme centrale"
+      ]
+    },
+    "260": {
+      "tile": 260,
+      "status": "partial",
+      "csvDescription": "égout avec barils (deux flottants et un sur le sol)",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "barils"
+      ]
+    },
+    "266": {
+      "tile": 266,
+      "status": "missing",
+      "csvDescription": "égout avec une planche utilisée pour faire un pont",
+      "missing": [
+        "égout",
+        "planche utilisée",
+        "faire pont"
+      ],
+      "found": []
+    },
+    "268": {
+      "tile": 268,
+      "status": "partial",
+      "csvDescription": "égout avec petites boîtes et baril",
+      "missing": [
+        "petites boîtes"
+      ],
+      "found": [
+        "égout",
+        "baril"
+      ]
+    },
+    "270": {
+      "tile": 270,
+      "status": "missing",
+      "csvDescription": "égout avec 2 tuyaux déversant de l'eau",
+      "missing": [
+        "égout",
+        "tuyaux déversant leau"
+      ],
+      "found": []
+    },
+    "271": {
+      "tile": 271,
+      "status": "partial",
+      "csvDescription": "égout avec escalier d'escalade et tuyau sortant du mur",
+      "missing": [
+        "escalier descalade"
+      ],
+      "found": [
+        "égout",
+        "tuyau sortant mur"
+      ]
+    },
+    "275": {
+      "tile": 275,
+      "status": "partial",
+      "csvDescription": "égout avec grille et escalier descendant",
+      "missing": [
+        "égout",
+        "escalier descendant"
+      ],
+      "found": [
+        "grille"
+      ]
+    },
+    "276": {
+      "tile": 276,
+      "status": "partial",
+      "csvDescription": "égout avec boîte et 2 escaliers (l'un est descendant, l'autre est grimpant)",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "boîte",
+        "escaliers"
+      ]
+    },
+    "278": {
+      "tile": 278,
+      "status": "partial",
+      "csvDescription": "égout avec barils",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "barils"
+      ]
+    },
+    "280": {
+      "tile": 280,
+      "status": "partial",
+      "csvDescription": "égout avec pont de corde",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "pont corde"
+      ]
+    },
+    "281": {
+      "tile": 281,
+      "status": "partial",
+      "csvDescription": "égout avec grille au sol",
+      "missing": [
+        "égout"
+      ],
+      "found": [
+        "grille sol"
+      ]
+    },
+    "282": {
+      "tile": 282,
+      "status": "missing",
+      "csvDescription": "égout mort",
+      "missing": [
+        "égout mort"
+      ],
+      "found": []
+    },
+    "286": {
+      "tile": 286,
+      "status": "partial",
+      "csvDescription": "grotte avec escalier d'escalade",
+      "missing": [
+        "escalier descalade"
+      ],
+      "found": [
+        "grotte"
+      ]
+    },
+    "303": {
+      "tile": 303,
+      "status": "partial",
+      "csvDescription": "abîme avec des petites pierres formant un cercle, une épée et un pont de corde",
+      "missing": [
+        "petites pierres formant cercle"
+      ],
+      "found": [
+        "abîme",
+        "épée",
+        "pont corde"
+      ]
+    },
+    "309": {
+      "tile": 309,
+      "status": "partial",
+      "csvDescription": "grotte avec des escaliers d'escalade",
+      "missing": [
+        "escaliers descalade"
+      ],
+      "found": [
+        "grotte"
+      ]
+    },
+    "315": {
+      "tile": 315,
+      "status": "partial",
+      "csvDescription": "abîme avec une boîte et un tonneau",
+      "missing": [
+        "tonneau"
+      ],
+      "found": [
+        "abîme",
+        "boîte"
+      ]
+    },
+    "316": {
+      "tile": 316,
+      "status": "partial",
+      "csvDescription": "abîme avec une arche et de l'or devant un sol fissuré",
+      "missing": [
+        "lor devant sol fissuré"
+      ],
+      "found": [
+        "abîme",
+        "arche"
+      ]
+    },
+    "317": {
+      "tile": 317,
+      "status": "partial",
+      "csvDescription": "abîme avec une fissure sur le sol",
+      "missing": [
+        "abîme",
+        "fissure"
+      ],
+      "found": [
+        "sol"
+      ]
+    },
+    "320": {
+      "tile": 320,
+      "status": "partial",
+      "csvDescription": "petit chemin entre deux abîmes",
+      "missing": [
+        "petit chemin"
+      ],
+      "found": [
+        "deux abîmes"
+      ]
+    },
+    "323": {
+      "tile": 323,
+      "status": "partial",
+      "csvDescription": "abîme avec des champignons",
+      "missing": [
+        "abîme"
+      ],
+      "found": [
+        "champignons"
+      ]
+    },
+    "324": {
+      "tile": 324,
+      "status": "partial",
+      "csvDescription": "Grand abîme avec la moitié d'un pont de corde",
+      "missing": [
+        "grand abîme"
+      ],
+      "found": [
+        "moitié dun pont corde"
+      ]
+    },
+    "325": {
+      "tile": 325,
+      "status": "partial",
+      "csvDescription": "grand abîme avec pont de corde et tonneau",
+      "missing": [
+        "grand abîme"
+      ],
+      "found": [
+        "pont corde",
+        "tonneau"
+      ]
+    },
+    "327": {
+      "tile": 327,
+      "status": "partial",
+      "csvDescription": "abîme avec éclaboussure",
+      "missing": [
+        "éclaboussure"
+      ],
+      "found": [
+        "abîme"
+      ]
+    },
+    "328": {
+      "tile": 328,
+      "status": "partial",
+      "csvDescription": "abîme avec des escaliers grimpant dans le mur de la grotte. Un tonneau est placé à proximité des escaliers",
+      "missing": [
+        "escaliers grimpant"
+      ],
+      "found": [
+        "abîme",
+        "mur grotte tonneau placé proximité escaliers"
+      ]
+    },
+    "329": {
+      "tile": 329,
+      "status": "partial",
+      "csvDescription": "portail magique entre deux abîmes",
+      "missing": [
+        "deux abîmes"
+      ],
+      "found": [
+        "portail magique"
+      ]
+    },
+    "330": {
+      "tile": 330,
+      "status": "partial",
+      "csvDescription": "abîme avec un « pont » fait avec des planches",
+      "missing": [
+        "pont fait"
+      ],
+      "found": [
+        "abîme",
+        "planches"
+      ]
+    },
+    "332": {
+      "tile": 332,
+      "status": "partial",
+      "csvDescription": "début ou fin de l'abîme. Squelette d'un créature comme un lézard",
+      "missing": [
+        "début fin labîme squelette dun créature"
+      ],
+      "found": [
+        "lézard"
+      ]
+    },
+    "339": {
+      "tile": 339,
+      "status": "partial",
+      "csvDescription": "grotte (2 pièces séparées par un mur en bois) avec table, chaises, arche et tonneaux",
+      "missing": [
+        "arche",
+        "tonneaux"
+      ],
+      "found": [
+        "grotte",
+        "table",
+        "chaises"
+      ]
+    },
+    "340": {
+      "tile": 340,
+      "status": "partial",
+      "csvDescription": "corridor de grotte avec escaliers",
+      "missing": [
+        "escaliers"
+      ],
+      "found": [
+        "grotte"
+      ]
+    },
+    "341": {
+      "tile": 341,
+      "status": "partial",
+      "csvDescription": "grotte avec table, chaises, boîtes et tonneaux",
+      "missing": [
+        "table",
+        "chaises"
+      ],
+      "found": [
+        "grotte",
+        "boîtes",
+        "tonneaux"
+      ]
+    },
+    "345": {
+      "tile": 345,
+      "status": "partial",
+      "csvDescription": "grotte avec lit, table, chaises, 2 arches, une boîte et 2 tonneaux. Une grille est au centre du sol",
+      "missing": [
+        "lit"
+      ],
+      "found": [
+        "grotte",
+        "table",
+        "chaises",
+        "arches",
+        "boîte",
+        "tonneaux grille centre sol"
+      ]
+    },
+    "348": {
+      "tile": 348,
+      "status": "partial",
+      "csvDescription": "grotte avec une fente, beaucoup de branches, une arche après avoir passé des planches (comme un piège)",
+      "missing": [
+        "beaucoup branches"
+      ],
+      "found": [
+        "grotte",
+        "fente",
+        "arche après avoir passé planches"
+      ]
+    },
+    "349": {
+      "tile": 349,
+      "status": "partial",
+      "csvDescription": "corridors avec fentes et tonneau",
+      "missing": [
+        "corridors"
+      ],
+      "found": [
+        "fentes",
+        "tonneau"
+      ]
+    },
+    "350": {
+      "tile": 350,
+      "status": "no_elements",
+      "csvDescription": "corridor",
+      "missing": [],
+      "found": []
+    },
+    "351": {
+      "tile": 351,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec boîte et tonneau",
+      "missing": [
+        "donjon",
+        "boîte"
+      ],
+      "found": [
+        "tonneau"
+      ]
+    },
+    "352": {
+      "tile": 352,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec une petite coffre et 2 petits tonneaux",
+      "missing": [
+        "donjon"
+      ],
+      "found": [
+        "petite coffre",
+        "petits tonneaux"
+      ]
+    },
+    "353": {
+      "tile": 353,
+      "status": "missing",
+      "csvDescription": "souterrain avec des couloirs et des pièges (des pointes sortent des murs, des branches, des pierres spéciales sur le sol). Un petit cage est dans un cul-de-sac et il y a un tonneau",
+      "missing": [
+        "souterrain",
+        "couloirs",
+        "pièges petit cage",
+        "culdesac",
+        "il tonneau"
+      ],
+      "found": []
+    },
+    "354": {
+      "tile": 354,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec un lit, une coffre et une porte en bois",
+      "missing": [
+        "donjon"
+      ],
+      "found": [
+        "lit",
+        "coffre",
+        "porte bois"
+      ]
+    },
+    "355": {
+      "tile": 355,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec un tonneau et une boîte",
+      "missing": [
+        "donjon"
+      ],
+      "found": [
+        "tonneau",
+        "boîte"
+      ]
+    },
+    "356": {
+      "tile": 356,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec un trou, un tonneau et une coffre",
+      "missing": [
+        "donjon",
+        "trou"
+      ],
+      "found": [
+        "tonneau",
+        "coffre"
+      ]
+    },
+    "357": {
+      "tile": 357,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec des branches",
+      "missing": [
+        "donjon"
+      ],
+      "found": [
+        "branches"
+      ]
+    },
+    "358": {
+      "tile": 358,
+      "status": "missing",
+      "csvDescription": "salle de donjon avec un trou carré",
+      "missing": [
+        "donjon",
+        "trou carré"
+      ],
+      "found": []
+    },
+    "360": {
+      "tile": 360,
+      "status": "partial",
+      "csvDescription": "salle de donjon avec un lit, des tables avec des chaises, 2 boîtes et 2 tonneaux",
+      "missing": [
+        "donjon",
+        "lit",
+        "boîtes",
+        "tonneaux"
+      ],
+      "found": [
+        "tables",
+        "chaises"
+      ]
+    },
+    "361": {
+      "tile": 361,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec des étagères et un feu au centre",
+      "missing": [
+        "ouverte",
+        "feu centre"
+      ],
+      "found": [
+        "étagères"
+      ]
+    },
+    "362": {
+      "tile": 362,
+      "status": "partial",
+      "csvDescription": "salle de trône avec un tapis et 2 colonnes",
+      "missing": [
+        "trône",
+        "colonnes"
+      ],
+      "found": [
+        "tapis"
+      ]
+    },
+    "363": {
+      "tile": 363,
+      "status": "missing",
+      "csvDescription": "salle ouverte avec des étagères, des longues tables et des tabourets",
+      "missing": [
+        "ouverte",
+        "étagères",
+        "longues tables",
+        "tabourets"
+      ],
+      "found": []
+    },
+    "364": {
+      "tile": 364,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec des tables, des chaises et des tonneaux",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "tables",
+        "chaises",
+        "tonneaux"
+      ]
+    },
+    "365": {
+      "tile": 365,
+      "status": "partial",
+      "csvDescription": "crypte avec un cercueil sur une table en pierre",
+      "missing": [
+        "cercueil",
+        "table pierre"
+      ],
+      "found": [
+        "crypte"
+      ]
+    },
+    "367": {
+      "tile": 367,
+      "status": "partial",
+      "csvDescription": "salle de torture avec un rack, une table avec des outils, un brasier, un tonneau et d'autres choses horribles",
+      "missing": [
+        "dautres choses horribles"
+      ],
+      "found": [
+        "torture",
+        "rack",
+        "table",
+        "outils",
+        "brasier",
+        "tonneau"
+      ]
+    },
+    "368": {
+      "tile": 368,
+      "status": "partial",
+      "csvDescription": "salle avec de petits tonneaux et des boîtes",
+      "missing": [
+        "petits tonneaux"
+      ],
+      "found": [
+        "boîtes"
+      ]
+    },
+    "369": {
+      "tile": 369,
+      "status": "partial",
+      "csvDescription": "salle avec des colonnes, une statue de dieu monstre et une table de sorcier",
+      "missing": [
+        "colonnes"
+      ],
+      "found": [
+        "statue dieu monstre",
+        "table sorcier"
+      ]
+    },
+    "372": {
+      "tile": 372,
+      "status": "partial",
+      "csvDescription": "salle avec des statues et un squelette entre elles … piège dans les statues ?",
+      "missing": [
+        "elles piège"
+      ],
+      "found": [
+        "statues",
+        "squelette"
+      ]
+    },
+    "374": {
+      "tile": 374,
+      "status": "partial",
+      "csvDescription": "salle de sorcier avec des étagères en laiton, une table avec des potions et des bougies, une table avec un livre de sorts",
+      "missing": [
+        "sorcier"
+      ],
+      "found": [
+        "étagères laiton",
+        "table",
+        "potions",
+        "bougies",
+        "livre sorts"
+      ]
+    },
+    "381": {
+      "tile": 381,
+      "status": "missing",
+      "csvDescription": "salle ouverte complète",
+      "missing": [
+        "ouverte complète"
+      ],
+      "found": []
+    },
+    "383": {
+      "tile": 383,
+      "status": "partial",
+      "csvDescription": "salle ouverte complète avec un petit grille sur le sol",
+      "missing": [
+        "ouverte complète",
+        "petit grille"
+      ],
+      "found": [
+        "sol"
+      ]
+    },
+    "384": {
+      "tile": 384,
+      "status": "missing",
+      "csvDescription": "salle ouverte complète",
+      "missing": [
+        "ouverte complète"
+      ],
+      "found": []
+    },
+    "385": {
+      "tile": 385,
+      "status": "missing",
+      "csvDescription": "salle ouverte complète",
+      "missing": [
+        "ouverte complète"
+      ],
+      "found": []
+    },
+    "387": {
+      "tile": 387,
+      "status": "missing",
+      "csvDescription": "salle ouverte complète",
+      "missing": [
+        "ouverte complète"
+      ],
+      "found": []
+    },
+    "391": {
+      "tile": 391,
+      "status": "partial",
+      "csvDescription": "salle ouverte complète avec un petit grille sur le sol",
+      "missing": [
+        "ouverte complète",
+        "petit grille"
+      ],
+      "found": [
+        "sol"
+      ]
+    },
+    "392": {
+      "tile": 392,
+      "status": "missing",
+      "csvDescription": "salle ouverte complète",
+      "missing": [
+        "ouverte complète"
+      ],
+      "found": []
+    },
+    "393": {
+      "tile": 393,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec des statues et des cercles de pierre sur le sol (2 grilles métalliques semblent pouvoir déverser du poison ou de la fumée)",
+      "missing": [
+        "ouverte",
+        "cercles pierre"
+      ],
+      "found": [
+        "statues",
+        "sol"
+      ]
+    },
+    "394": {
+      "tile": 394,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec des statues et des cercles de pierre sur le sol (une grille métallique semble pouvoir déverser du poison ou de la fumée)",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "statues",
+        "cercles pierre",
+        "sol"
+      ]
+    },
+    "395": {
+      "tile": 395,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec bassin de sang, insectes, statues",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "bassin sang",
+        "insectes",
+        "statues"
+      ]
+    },
+    "396": {
+      "tile": 396,
+      "status": "partial",
+      "csvDescription": "salle ouverte avec un autel sacrificiel sur une plateforme. Table en pierre avec un livre et des bougies à l'arrière de la salle",
+      "missing": [
+        "ouverte",
+        "plateforme table pierre",
+        "bougies larrière"
+      ],
+      "found": [
+        "autel sacrificiel",
+        "livre"
+      ]
+    },
+    "402": {
+      "tile": 402,
+      "status": "partial",
+      "csvDescription": "salle de labyrinthe avec grille, boîte et barils",
+      "missing": [
+        "grille",
+        "boîte"
+      ],
+      "found": [
+        "labyrinthe",
+        "barils"
+      ]
+    },
+    "407": {
+      "tile": 407,
+      "status": "missing",
+      "csvDescription": "Atelier de pharmacien",
+      "missing": [
+        "atelier pharmacien"
+      ],
+      "found": []
+    },
+    "409": {
+      "tile": 409,
+      "status": "missing",
+      "csvDescription": "Salle comme un ossuaire",
+      "missing": [
+        "ossuaire"
+      ],
+      "found": []
+    },
+    "410": {
+      "tile": 410,
+      "status": "partial",
+      "csvDescription": "Salle de garde avec étagère, baril, table ronde avec 4 chaises (pour jouer ou manger) et une table/chaise avec un registre",
+      "missing": [
+        "garde",
+        "tablechaise"
+      ],
+      "found": [
+        "étagère",
+        "baril",
+        "table ronde",
+        "chaises",
+        "registre"
+      ]
+    },
+    "411": {
+      "tile": 411,
+      "status": "missing",
+      "csvDescription": "Couloir bloqué par des pierres",
+      "missing": [
+        "bloqué pierres"
+      ],
+      "found": []
+    },
+    "412": {
+      "tile": 412,
+      "status": "missing",
+      "csvDescription": "Couloir bloqué par des pierres (avec un crâne de démon dans les murs)",
+      "missing": [
+        "bloqué pierres"
+      ],
+      "found": []
+    },
+    "413": {
+      "tile": 413,
+      "status": "missing",
+      "csvDescription": "Salle de formation (cible pour archers, poupées en bois, étagère d'armes, barils, ... )",
+      "missing": [
+        "formation"
+      ],
+      "found": []
+    },
+    "414": {
+      "tile": 414,
+      "status": "missing",
+      "csvDescription": "Salle d'échecs avec pièces d'échecs",
+      "missing": [
+        "déchecs",
+        "pièces déchecs"
+      ],
+      "found": []
+    },
+    "415": {
+      "tile": 415,
+      "status": "missing",
+      "csvDescription": "Salle d'échecs avec pièces d'échecs",
+      "missing": [
+        "déchecs",
+        "pièces déchecs"
+      ],
+      "found": []
+    },
+    "419": {
+      "tile": 419,
+      "status": "partial",
+      "csvDescription": "2 salles séparées avec cheminée de chaque côté du mur de séparation. Un coffre dans une salle et un petit baril dans l'autre",
+      "missing": [
+        "lautre"
+      ],
+      "found": [
+        "salles séparées",
+        "cheminée chaque côté mur séparation coffre",
+        "petit baril"
+      ]
+    },
+    "420": {
+      "tile": 420,
+      "status": "partial",
+      "csvDescription": "Salle des latrines avec baril",
+      "missing": [
+        "latrines"
+      ],
+      "found": [
+        "baril"
+      ]
+    },
+    "423": {
+      "tile": 423,
+      "status": "partial",
+      "csvDescription": "observatoire avec sphère armillaire et télescope",
+      "missing": [
+        "sphère armillaire",
+        "télescope"
+      ],
+      "found": [
+        "observatoire"
+      ]
+    },
+    "424": {
+      "tile": 424,
+      "status": "partial",
+      "csvDescription": "Petit cours d'eau sortant d'un mur avec passerelle en corde",
+      "missing": [
+        "petit cours deau sortant dun mur"
+      ],
+      "found": [
+        "passerelle corde"
+      ]
+    },
+    "426": {
+      "tile": 426,
+      "status": "partial",
+      "csvDescription": "Autel de sacrifice avec statue d'araignée et colonnes. Certains gouttières sont pleines de sang sec",
+      "missing": [
+        "statue daraignée"
+      ],
+      "found": [
+        "autel sacrifice",
+        "colonnes certains gouttières pleines sang sec"
+      ]
+    },
+    "427": {
+      "tile": 427,
+      "status": "partial",
+      "csvDescription": "Magasin avec table, boîtes, étagères et barils",
+      "missing": [
+        "magasin"
+      ],
+      "found": [
+        "table",
+        "boîtes",
+        "étagères",
+        "barils"
+      ]
+    },
+    "428": {
+      "tile": 428,
+      "status": "missing",
+      "csvDescription": "Salle glacée",
+      "missing": [
+        "glacée"
+      ],
+      "found": []
+    },
+    "429": {
+      "tile": 429,
+      "status": "partial",
+      "csvDescription": "salle du conseil avec table, chaises, colonnes et cheminées",
+      "missing": [
+        "colonnes",
+        "cheminées"
+      ],
+      "found": [
+        "conseil",
+        "table",
+        "chaises"
+      ]
+    },
+    "431": {
+      "tile": 431,
+      "status": "missing",
+      "csvDescription": "Couloir avec petite salle",
+      "missing": [
+        "petite"
+      ],
+      "found": []
+    },
+    "434": {
+      "tile": 434,
+      "status": "missing",
+      "csvDescription": "Pont en bois pourri passant au-dessus d'une salle",
+      "missing": [
+        "pont bois pourri passant audessus dune"
+      ],
+      "found": []
+    },
+    "436": {
+      "tile": 436,
+      "status": "partial",
+      "csvDescription": "grande vasque dans salle ouverte",
+      "missing": [
+        "ouverte"
+      ],
+      "found": [
+        "grande vasque"
+      ]
+    },
+    "440": {
+      "tile": 440,
+      "status": "partial",
+      "csvDescription": "Fin d'une rivière avec ponton brisé",
+      "missing": [
+        "ponton brisé"
+      ],
+      "found": [
+        "fin dune rivière"
+      ]
+    },
+    "441": {
+      "tile": 441,
+      "status": "missing",
+      "csvDescription": "Couloirs",
+      "missing": [
+        "couloirs"
+      ],
+      "found": []
+    },
+    "442": {
+      "tile": 442,
+      "status": "partial",
+      "csvDescription": "Rivière avec 2 alligators en combat",
+      "missing": [
+        "alligators combat"
+      ],
+      "found": [
+        "rivière"
+      ]
+    },
+    "443": {
+      "tile": 443,
+      "status": "missing",
+      "csvDescription": "salle avec 12 portes et pilier central",
+      "missing": [
+        "12 portes",
+        "pilier central"
+      ],
+      "found": []
+    },
+    "444": {
+      "tile": 444,
+      "status": "missing",
+      "csvDescription": "2 salles séparées. 2 trous (grilles enlevées) sont connectés par ces salles",
+      "missing": [
+        "salles séparées trous connectés salles"
+      ],
+      "found": []
+    },
+    "445": {
+      "tile": 445,
+      "status": "missing",
+      "csvDescription": "Prison ouverte",
+      "missing": [
+        "prison ouverte"
+      ],
+      "found": []
+    },
+    "446": {
+      "tile": 446,
+      "status": "partial",
+      "csvDescription": "cage carrée dans grande salle",
+      "missing": [
+        "cage carrée"
+      ],
+      "found": [
+        "grande"
+      ]
+    },
+    "447": {
+      "tile": 447,
+      "status": "missing",
+      "csvDescription": "Cage circulaire avec porte ouverte dans une salle",
+      "missing": [
+        "cage circulaire",
+        "porte ouverte"
+      ],
+      "found": []
+    },
+    "448": {
+      "tile": 448,
+      "status": "missing",
+      "csvDescription": "Couloir passant sous un autre couloir",
+      "missing": [
+        "passant"
+      ],
+      "found": []
+    },
+    "451": {
+      "tile": 451,
+      "status": "missing",
+      "csvDescription": "Salle avec une colonne géante",
+      "missing": [
+        "colonne géante"
+      ],
+      "found": []
+    }
+  }
+}

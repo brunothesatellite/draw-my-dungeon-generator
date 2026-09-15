@@ -1,13 +1,13 @@
 {
   "204": {
     "title": "Couloir des Anciens",
-    "description": "Le couloir des Anciens est étroit et sombre, ses murs de pierre vieillie sont parsemés de têtes de mort sculptées dans le marbre. Des cercles rituels énigmatiques marquent le sol, tandis que des piliers massifs soutiennent le plafond. Un vieux tableau, recouvert de poussière, repose contre le mur, son cadre encadrant des images floues et mystérieuses. À l'extrémité du couloir, une porte murée, fermée depuis des siècles, semble garder un secret ancien. L'air est chargé d'une atmosphère menaçante, comme si les esprits des anciens observaient encore les envahisseurs de ce lieu sacré. Des traces de sang séché sont visibles sur le sol, indiquant que des rituels ont été pratiqués ici il y a longtemps. L'eau stagnante au fond du couloir, à l'endroit où l'eau s'accumule, est un danger à ne pas négliger.",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs vieillis par le temps et les épreuves. Des piliers massifs soutiennent le plafond, tandis que des cercles rituels émaillent le sol, marquant l'ancienne puissance qui réside ici. La faible lumière qui pénètre à travers les fissures révèle des têtes de mort sculptées dans le mur, rappelant l'horreur des sacrifices passés. Un escalier de descente, usé par les milliers de pas qui l'ont emprunté, mène à une porte murée, dont la clé est perdue dans les légendes. Un tableau, délabré, repose contre le mur, son contenu inconnu. L'atmosphère est pesante, chargée d'une histoire ancienne et mystérieuse. Les eaux stagnantes au fond du couloir ajoutent à l'ambiance menaçante, dissimulant des dangers potentiels. Les anciens rituels qui se déroulaient ici semblent avoir laissé leur empreinte indélébile dans ce lieu.",
     "tags": [
       "couloir",
       "rituel",
       "ancien",
-      "mystère",
-      "sécrétion"
+      "sacrifice",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

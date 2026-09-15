@@ -1,13 +1,13 @@
 {
   "200": {
-    "title": "La Salle des Rituels Sacrés",
-    "description": "La salle est immense, ses murs irréguliers semblent avoir été sculptés par les mains d'un ancien maître. La lumière tamisée émane des fenêtres étroites, révélant un intérieur délabré mais chargé d'histoire. Des colonnes et des piliers soutiennent le plafond, ornés de tentes et de crânes qui semblent garder le secret des rituels passés. Des spirales mystérieuses marquent le sol, conduisant vers un centre où se dresse un autel, symbole de l'ancienne puissance qui réside ici. Les murs sont parsemés de dessins énigmatiques, et l'atmosphère est pesante, presque oppressante. Les rares traces de vie sont des pièges dissimulés, prêts à se déclencher à tout moment. Cette salle est le cœur de la magie, le lieu où les rituels les plus puissants sont célébrés.",
+    "title": "Salle avec Porte Magique",
+    "description": "La salle est immense, ses murs irréguliers semblent avoir été sculptés par les mains d'un ancien maître. La lumière tamisée émane des fenêtres étroites, révélant un intérieur délabré mais chargé d'histoire. Des colonnes et des piliers soutiennent le plafond, ornés de tentes et de crânes, témoignant d'anciennes cérémonies. Des spirales mystérieuses marquent le sol, semblant guider le regard vers un œil-like structure au centre de la pièce. L'atmosphère est pesante, presque oppressante, comme si la salle gardait un secret ancien et puissant. L'unique porte magique, à l'extrémité de la pièce, semble prête à se refermer sur ceux qui oseraient y pénétrer. Les objets sacrés, comme l'autel, sont visibles, mais leur pouvoir est perdu dans le temps. Les pièges sont nombreux, prêts à s'activer sur le moindre mouvement.",
     "tags": [
+      "porte magique",
+      "salle sacrée",
       "rituel",
-      "sacrifice",
-      "mystère",
       "ancien",
-      "salle"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

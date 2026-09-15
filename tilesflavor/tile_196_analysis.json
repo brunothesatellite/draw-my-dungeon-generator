@@ -1,13 +1,13 @@
 {
   "196": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "Cette salle, de taille petite et de forme irrégulière, émane d'une atmosphère sinistre et mystérieuse. La faible lumière qui pénètre à travers les fissures dans le plafond révèle des cercles rituels et des glyphes runiques gravés dans le sol, marquant l'ancienneté et la puissance de ce lieu. Les murs vieillis sont ornés de statues et de piliers, ajoutant à l'aura sacrée de la pièce. Des têtes de mort et des tentacules émergent des murs, rappelant les anciens rituels et les créatures qui y ont vécu. Le mobilier ancien est dispersé autour de l'espace, ajoutant une touche d'obscure sophistication. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est le cœur des rituels les plus sacrés et les plus puissants de la crypte.",
+    "title": "Salle des Sacrifices",
+    "description": "La porte magique se trouve au fond de cette petite salle irrégulière, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ajoutent une touche d'architectural mystique. Le mobilier ancien semble avoir été abandonné depuis longtemps, ajoutant à l'ambiance lugubre de la pièce. L'eau stagnante au fond de la salle est un danger à ne pas négliger. Cette salle, bien que petite, est le cœur des rituels les plus sombres et les plus anciens.",
     "tags": [
       "rituels",
-      "sacrés",
-      "anciens",
-      "mystérieux",
-      "sinistre"
+      "sacrifices",
+      "porte magique",
+      "salle vieillie",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "207": {
-    "title": "Couloir des Anciens",
-    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'unique source de lumière. Les piliers massifs, ornés de têtes de mort et de tentacules, semblent garder un secret millénaire. Des cercles rituels gravés au sol indiquent l'ancienne utilisation de ce lieu pour des cérémonies mystiques. Les marquages au sol, +1 et 207, semblent indiquer une position ou une destination spécifique. L'atmosphère est pesante, presque tangible, comme si les âmes des anciens observaient encore les passants. Les piliers et les têtes de mort ajoutent une touche d'effrayante beauté à ce lieu qui semble avoir été conçu pour les rituels les plus sombres.",
+    "title": "Couloir des Escaliers d'Escalade",
+    "description": "Le couloir est étroit et sinueux, avec des escaliers d'escalade qui serpentent à travers les murs. Les murs sont recouverts de peintures anciennes qui semblent avoir été effacées par le temps. Des piliers massifs soutiennent le plafond, et des têtes de mort sculptées sont disséminées un peu partout, ajoutant une touche macabre à l'atmosphère. Le sol est marqué de symboles mystérieux, dont un cercle rituel au centre. La lumière est faible, filtrant à travers des fenêtres étroites, ce qui rend l'endroit encore plus sombre et mystérieux. Les murs vieillis et les piliers robustes donnent une impression de vieilles pierres qui ont vu des siècles d'histoire. Les escaliers d'escalade sont escarpés et difficiles à gravir, mais offrent une perspective sur les mystères qui se cachent au-delà.",
     "tags": [
-      "Couloir",
-      "Anciens",
-      "Rituels",
-      "Têtes de Mort",
-      "Tentacules"
+      "escaliers",
+      "escalade",
+      "mystérieux",
+      "vieillie",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,10 +1,10 @@
 {
   "340": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est un corridor étroit et tortueux qui s'enfonce profondément dans les entrailles de la grotte. Les murs rugueux et fissurés sont recouverts de peintures anciennes qui semblent avoir été effacées par le temps. La faible lumière qui filtre à travers les fissures éclaire les cercles rituels gravés au sol, qui semblent avoir été utilisés pour des cérémonies obscures. Des piliers massifs, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Des traces de créatures mystérieuses marquent le sol, indiquant que ce passage est fréquenté par des créatures étranges. À l'extrémité du corridor, une porte murée semble avoir été murée depuis longtemps, mais une sensation de présence continue à flotter dans l'air, comme si quelque chose veillait toujours sur ce lieu. L'atmosphère est oppressante, mêlant une mystérieuse fascination à une menace sous-jacente.",
+    "title": "Passage de la Grotte des Escaliers",
+    "description": "Le passage de la grotte des escaliers est étroit et sinueux, taillé dans le roc. Les murs irréguliers sont parsemés de têtes de mort et de tentacules qui semblent avoir échoué ici il y a des siècles. La lumière pénètre à peine à travers les fissures du plafond, créant un halo de mystère et de menace. Des cercles rituels sont gravés dans le sol, marquant l'ancien passage de rituels obscurs. Des piliers robustes soutiennent le passage, tandis que des meubles anciens sont disséminés ici et là, témoignant de l'occupation ancienne de ce lieu. À l'extrémité du passage, une porte murée semble avoir été abandonnée, laissant entrevoir un mystère inexploré. L'eau stagnante au fond du passage ajoute à l'atmosphère lugubre, rendant le passage dangereux à traverser. Les murs sont vieillis, et l'air est chargé d'une odeur de poussière et de mystère ancien.",
     "tags": [
-      "corridor",
       "grotte",
+      "escaliers",
       "rituel",
       "ancien",
       "mystère"

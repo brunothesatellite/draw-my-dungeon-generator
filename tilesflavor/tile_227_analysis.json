@@ -1,13 +1,13 @@
 {
   "227": {
-    "title": "Salle des Rituels Anciens",
-    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Des cercles rituels marquent le sol, et des piliers soutiennent le plafond. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère mystérieuse et ancienne. Une porte en pierre, fermée, se trouve au fond de la salle, et de l'eau stagnante s'accumule au sol, rendant l'endroit dangereux.",
+    "title": "Salle des Anciens",
+    "description": "Dans cette petite et rectangulaire salle, la lumière faible éclaire les murs vieillis et les piliers massifs qui soutiennent le plafond. Les cercles rituels gravés au sol semblent attendre un rituel ancien. À l'entrée, une porte en pierre massive est fermée par un grand coffre en bois sombre. À l'intérieur, neuf coffres de bois sombre sont alignés contre le mur, leurs serrures rouillées et leurs cadenas cassés. Le mobilier ancien, usé et poussiéreux, est réparti autour de la pièce, ajoutant à l'atmosphère mystérieuse et ancienne. L'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus oppressante. Les cercles rituels au sol et les piliers massifs donnent à cette salle un air de sanctuaire ancien, mais l'abandon et les coffres ouverts laissent entrevoir un passé sombre et mystérieux.",
     "tags": [
+      "salle",
       "rituels",
-      "mystère",
-      "vieillissement",
-      "têtes de mort",
-      "tentacules"
+      "coffres",
+      "porte",
+      "pierres"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

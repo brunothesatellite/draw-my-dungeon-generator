@@ -1,13 +1,13 @@
 {
   "257": {
     "title": "Égout avec Boîte",
-    "description": "Vous vous trouvez dans un égout immense, rectangulaire et sombre. La lumière est faible, presque inexistante, et l'air est saturé d'une odeur nauséabonde. Les murs sont humides et recouverts de traces de vagues et de cercles, comme si de l'eau avait récemment coulé. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Des tentes sont accrochées aux murs, peut-être pour dissimuler des objets précieux ou des rituels secrets. Un autel, étrangement intact dans ce lieu sinistre, semble être le point focal de cette pièce. L'eau qui coule au fond du bassin est calme, mais vous sentez une présence mystérieuse qui plane dans l'air. Il n'y a pas de sortie visible, et l'égout semble s'achever en un point obscur. Les murs sont parsemés de cercles et de marques, comme si des rituels sacrés y avaient été pratiqués. La tension est palpable, et vous avez l'impression que quelque chose de terrible se cache dans les profondeurs de cet égout.",
+    "description": "L'égout étroit et tortueux s'enfonce dans les profondeurs, ses parois rugueuses et humides reflétant faiblement la lumière qui pénètre à travers les fissures. Des traces de vagues et de cercles marquent le sol, comme si quelqu'un avait récemment plongé ici. Des colonnes robustes soutiennent le plafond, tandis que des tentes sont suspendues aux murs, peut-être pour abriter des créatures ou des objets précieux. L'air est humide et chargé d'une odeur de terre et d'eau stagnante. À l'extrémité de ce passage, une boîte métallique brille sous la faible lumière, son contenu mystérieux. L'égout semble sans issue, mais une sensation de présence étrange plane dans l'air, comme si quelque chose attendait au-delà de cette boîte. Les murs sont ornés de tentes, et l'atmosphère est mystérieuse, presque sacrée, comme si ce lieu avait une fonction rituelle ancienne.",
     "tags": [
       "épave",
-      "rituel",
       "sacrifice",
-      "sombre",
-      "épave sacrée"
+      "épaves",
+      "épave sacrée",
+      "épave mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "large",

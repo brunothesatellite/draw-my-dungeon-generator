@@ -1,13 +1,13 @@
 {
   "50": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et basse, avec des murs de pierre vieillie qui ont vu des siècles s'écouler. La lumière pénètre à peine à travers les fissures dans le plafond, créant un halo de faible éclat qui éclaire les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. À l'entrée, une statue ancienne, probablement en marbre, garde la porte fermée. Les murs sont ornés de têtes de mort sculptées et de tentacules qui semblent sortir du plafond, ajoutant une touche d'horreur à l'atmosphère sinistre. L'eau stagnante, noire et trouble, remplit une partie de la salle, créant un miroir sombre qui reflète les ombres et les murmures de la nuit. La salle semble être un lieu de rituel ancien, où des cultes sombres ont probablement eu lieu il y a des siècles.",
+    "title": "Salle des Tonneaux Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol couvert de cercles rituels. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, et une statue étrange se dresse au centre de la pièce. Des tonneaux, remplis d'un liquide trouble, sont alignés le long des murs, leur contenu inconnu. L'eau stagnante au sol indique un danger potentiel. La salle semble être un lieu de rituel ancien, mais son usage exact reste un mystère.",
     "tags": [
-      "Salle",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Sombre"
+      "rituel",
+      "tonneaux",
+      "salle",
+      "sinistre",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

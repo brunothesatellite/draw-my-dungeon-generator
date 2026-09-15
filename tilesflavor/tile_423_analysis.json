@@ -1,13 +1,13 @@
 {
   "423": {
     "title": "Observatoire Ancien",
-    "description": "Vous pénétrez dans une petite pièce rectangulaire, éclairée par une faible lumière qui se répand à peine. La pièce est vieillie, les murs recouverts d'un vernis terni qui laisse entrevoir des traces de vieilles peintures. Des cercles rituels sont gravés au sol, formant un motif complexe qui semble avoir perdu son sens au fil du temps. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'effrayante mystérieux à l'atmosphère. Au centre de la pièce, un robot suspendu semble veiller sur les lieux, son visage métallique fixe et impassible. Une boîte en bois, fermée à clé, repose sur une table en bois usé. L'observatoire est un laboratoire ou un lieu de stockage, mais les objets et les décorations suggèrent une utilisation plus ancienne et plus secrète. Des pièges électriques sont dissimulés dans les murs, prêts à frapper à tout moment.",
+    "description": "Dans ce petit observatoire rectangulaire, la lumière faible et la poussière qui flotte dans l'air donnent une ambiance mystérieuse et menaçante. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un robot suspendu au plafond semble veiller sur l'endroit. Un télescope et une sphère armillaire sont visibles, témoignant de l'ancienne activité scientifique qui s'y déroulait. Une boîte se trouve au centre de la pièce, peut-être un coffre ancien. Des pièges électriques sont dissimulés dans les murs, prêts à s'activer à tout moment.",
     "tags": [
       "Observatoire",
       "Ancien",
-      "Mystérieux",
-      "Pièges",
-      "Robot"
+      "Sphère Armillaire",
+      "Télescope",
+      "Mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

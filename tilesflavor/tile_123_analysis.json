@@ -1,23 +1,23 @@
 {
   "123": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs vieillis sont recouverts de cercles rituels énigmatiques, et des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre à l'endroit. Des piliers massifs soutiennent le plafond, et le sol est marqué de cercles rituels. Des meubles anciens sont disséminés un peu partout, ajoutant à l'ambiance d'oubli et de mystère. L'eau stagnante se forme dans un coin, créant un danger potentiel. Cette salle est dédiée à des rituels obscurs et est le cœur de la crypte des Anciens.",
+    "title": "Grille Vieillie",
+    "description": "Tu te trouves dans une petite salle rectangulaire, faiblement éclairée. La lumière diffuse et froide semble venir de loin, sans source visible. La pièce est vieillie, les murs sont couverts de traces de temps et de poussière. Au centre de la pièce, une grille métallique est posée sur le sol, entourée de cercles rituels dessinés au sol. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. Des meubles anciens sont empilés contre le mur, leurs formes étranges et usées par le temps. L'air est lourd et chargé d'une atmosphère sinistre, comme si la salle avait été utilisée pour des rituels obscurs. L'eau stagnante se forme dans un coin, créant un miroir sombre qui reflète les ombres de la pièce. La grille semble être le point central de cette salle, mais tu ne sais pas à quoi elle sert.",
     "tags": [
-      "rituels",
-      "salle",
+      "rituel",
       "vieillie",
-      "sinistre",
-      "têtes de mort"
+      "salle",
+      "grille",
+      "cercles rituels",
+      "piliers"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "grille",
       "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
+        "cercles rituels"
       ],
       "floorMarkings": [
         "cercles rituels"

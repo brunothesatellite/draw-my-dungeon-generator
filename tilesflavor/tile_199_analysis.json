@@ -1,11 +1,11 @@
 {
   "199": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et carrée, avec un sol vieilli et marqué de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et des traces de mobilier ancien sont encore visibles, malgré l'abandon. L'air est chargé d'une odeur de poussière et de mystère. Un autel central, orné de têtes de mort et de tentacules, semble être le point focal de cette salle. Des pièges sont dissimulés dans les ombres, prêts à s'activer à la moindre intrusion. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger.",
+    "title": "Salle des Rituels",
+    "description": "La porte magique se trouve au fond de cette petite salle carrée, éclairée par une faible lumière qui se répand à peine. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant l'ancienne gloire de ce lieu. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Des meubles anciens sont disséminés un peu partout, ajoutant à l'atmosphère sinistre de la pièce. L'eau stagnante au centre de la salle est un danger à ne pas négliger. Cette salle est dédiée à des rituels obscurs, et la porte magique semble être le seul moyen de quitter ce lieu.",
     "tags": [
       "rituels",
-      "sacrifices",
-      "mystère",
+      "porte magique",
+      "salle",
       "vieillie",
       "sinistre"
     ],
