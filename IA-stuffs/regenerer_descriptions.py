@@ -213,15 +213,25 @@ def main():
                                     candidate = raw[start:i+1]
                                     try:
                                         parsed = json.loads(candidate)
-                                        # Si c'est un objet avec une clé numérique, l'utiliser
                                         if isinstance(parsed, dict) and any(k.isdigit() for k in parsed):
                                             json_str = candidate
-                                        # Si c'est un objet avec title/description, le wrapper
                                         elif isinstance(parsed, dict) and "description" in parsed:
                                             json_str = json.dumps({str(tile_num): parsed}, ensure_ascii=False)
                                     except json.JSONDecodeError:
                                         pass
                                     break
+
+                # Dernier recours : parser directement le raw
+                if not json_str:
+                    try:
+                        parsed = json.loads(raw)
+                        if isinstance(parsed, dict):
+                            if str(tile_num) in parsed:
+                                json_str = json.dumps(parsed, ensure_ascii=False)
+                            elif "description" in parsed:
+                                json_str = json.dumps({str(tile_num): parsed}, ensure_ascii=False)
+                    except json.JSONDecodeError:
+                        pass
 
                 if not json_str:
                     print(f"  [retry {attempt+1}/3] Pas de JSON (key='{key}' found={key_pos >= 0})")

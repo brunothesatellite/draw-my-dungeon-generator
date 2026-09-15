@@ -1,13 +1,13 @@
 {
   "188": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette petite pièce rectangulaire. Les murs vieillis et fissurés sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et un tableau simple est posé sur une table au centre de la pièce. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te rapprocher de l'autel. L'eau stagnante au fond de la salle semble attendre son heure pour se réveiller. Tu entends un murmure lointain, comme si quelqu'un observait les intrus depuis l'ombre.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et basse, avec un escalier circulaire descendant au centre. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne est posée au milieu de la pièce. La lumière faible pénètre à travers une petite fenêtre au fond, révélant une eau stagnante qui remonte lentement le long de l'escalier. La salle semble avoir été utilisée pour des rituels anciens, et les cercles rituels indiquent qu'elle était probablement un lieu de sacrifice. La porte à l'extrémité de la salle semble être la seule issue, mais elle est fermée par une barrière de pierre ancienne.",
     "tags": [
       "rituel",
       "sacrifice",
       "vieillie",
       "sinistre",
-      "autel"
+      "escalier circulaire"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,18 +1,14 @@
 {
   "390": {
-    "title": "La Chambre Sacrée des Tentacules",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs décrépits et aux colonnes robustes qui semblent avoir vu des siècles d'obscurité. L'air est chargé d'une odeur de soufre et de mort, et tu sens une présence étrange qui te scrute. Au centre, un autel sombre, orné de tentacules et de crânes, attire ton regard. Des cercles rituels et des runes mystiques marquent le sol, tandis qu'un objet mystérieux repose sur une table en ruine. Des traces de pas fantomatiques sillonnent les murs, et un murmure lointain parais provenir de l'ombre. La porte se trouve à l'extrémité de la pièce, dissimulée par un rideau de tissu usé. Les tentacules qui dépassent de l'autel paraissent attendre, prêts à s'enrouler autour de toi. Les runes et les cercles rituels évoquent des forces obscures, et tu sens que cette pièce est bien plus qu'un simple sanctuaire. Les tentacules, les crânes et les runes paraissent être les clés pour comprendre l'histoire de cette chambre sacrée.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de tentacules et de crânes humains. La lumière tamisée émane des fenêtres étroites, révélant une atmosphère mystérieuse et étrange. Les colonnes massives et les piliers sculptés donnent une impression de grandeur et de puissance ancienne. Des cercles rituels et des runes mystiques marquent le sol, tandis qu'un objet mystérieux repose au centre de la pièce. Un murmure subtil et un fantôme hanté flottent dans l'air, ajoutant à l'ambiance sinistre. Un seul passage, dissimulé derrière un rideau de rideau, mène à une autre pièce, mais les pièges et les trappes attendent ceux qui oseront y pénétrer. La chambre sacrée des Anciens est un lieu de culte ancien, où les rituels et les sacrifices étaient pratiqués il y a des siècles.",
     "tags": [
       "salle sacrée",
-      "tentacules",
-      "crânes",
       "rituels",
-      "soufre",
-      "présence étrange",
-      "autel mystique",
-      "porte dissimulée",
-      "mystère",
-      "fantôme"
+      "tentesacles",
+      "crânes",
+      "sacrifices",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

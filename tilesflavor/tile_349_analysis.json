@@ -1,13 +1,13 @@
 {
   "349": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. Les murs vieillis par le temps sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des cercles de pierre marquent le sol. Le mobilier ancien, usé par le temps, semble avoir été abandonné. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette pièce. L'eau stagnante, visible dans un coin, parais prête à te submerger. La tension est palpable, chaque bruit pouvant être un avertissement de danger imminent.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre sont usés par le temps et les époques. Des fentes étroites laissent filtrer une faible lumière, révélant des traces de tonneaux anciens coincés dans les coins. Les piliers massifs, usés par les siècles, semblent garder des secrets millénaires. Des cercles rituels gravés au sol évoquent des cultes obscurs. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps. L'atmosphère est oppressante, et l'eau stagnante au fond du passage ajoute à la menace qui plane. Les têtes de mort et les tentacules qui s'agissent dans l'ombre ajoutent une note de terreur à cette ancienne voie sacrée.",
     "tags": [
-      "rituels",
-      "sacrifices",
-      "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Menace"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

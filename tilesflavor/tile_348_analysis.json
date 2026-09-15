@@ -1,13 +1,13 @@
 {
   "348": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle irrégulière, vieillie et sombre. Les murs, recouverts de peintures sombres et de têtes de mort, semblent observer tes moindres mouvements. Un autel central, orné de tentacules et de runes anciennes, attire ton regard. Des cercles rituels marquent le sol, et des piliers et colonnes soutiennent la structure. Une table, ancienne et usée, repose au milieu de la pièce. Des pièges sont dissimulés partout, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La porte, à l'extrémité de la salle, parais tailler un chemin vers l'inconnu. L'atmosphère sinistre te pousse à explorer ce lieu, mais chaque pas parais te mener plus profondément dans l'obscurité.",
+    "title": "Grotte des Anciens",
+    "description": "Vous pénétrez dans une grotte étroite, où la lumière filtre à travers une fente étroite au plafond. Des branches s'entrelacent autour de vous, créant un tapis naturel qui semble avoir été sculpté par le temps. Après avoir franchi une série de planches instables, vous vous trouvez devant une arche majestueuse, comme si vous aviez passé un test de survie. La grotte est petite et irrégulière, avec des murs vieillis qui portent les stigmates de l'âge. Des cercles rituels sont gravés dans le sol, et des piliers et des colonnes soutiennent la structure. Un autel, orné de têtes de mort et de tentacules, domine le centre de la grotte. Une table, ancienne et usée, est placée à côté de l'autel. L'atmosphère est sinistre, accentuée par l'eau stagnante qui s'accumule dans les coins. Cette grotte est la salle de rituel des Anciens, un lieu où les secrets les plus sombres sont gardés.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "sinistre",
-      "crypte",
-      "pièges"
+      "grotte",
+      "rituel",
+      "sombre",
+      "secrets",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

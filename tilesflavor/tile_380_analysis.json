@@ -1,15 +1,13 @@
 {
   "380": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Un large stone structure occupe le centre de l'espace. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs décrépits et aux colonnes robustes qui semblent avoir vu des siècles d'obscurité. Au centre, un autel massif, sculpté de tentacules et de têtes sculptées, attire ton regard. Des spirales et des croix gravées dans le sol tissent un mystère ancien. L'air est chargé d'une odeur de poussière et de mystère, et un murmure lointain parais flotter dans l'air. Des runes énigmatiques brillent sous la faible lumière, et un sentiment de présence éthérée plane dans l'atmosphère étrange et étrange. Des pièges attendent, prêts à se déclencher. La tension est palpable, et tu sens que cette chambre est bien plus qu'elle paraît.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La Chambre Sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de sculptures étranges et de tentacules qui semblent se mouvoir dans l'obscurité. La lumière tamisée émane des fenêtres hautes, révélant un sol marqué de spirales et de croix, symboles mystiques. Des colonnes et des piliers imposants soutiennent le plafond, tandis qu'un grand autel se dresse au centre de la pièce. Des runes enchantées brillent doucement, émettant une lumière bleutée qui éveille une atmosphère étrange et menaçante. Des traces de pas fantomatiques se dessinent sur le sol, et une présence ghostly flotte dans l'air, rendant l'endroit encore plus inquiétant. Les murs sont ornés de têtes sculptées, ajoutant à l'aura sacrée et mystique de la pièce. Les dangers潜伏在四周，陷阱和魔法符文随时可能触发，使这个神圣的殿堂充满了未知的危险。",
     "tags": [
       "salle sacrée",
+      "anciens",
+      "rituels",
       "mystère",
-      "tentacules",
-      "ancien",
-      "pièges",
-      "odeur mystérieuse",
-      "atmosphère étrange"
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

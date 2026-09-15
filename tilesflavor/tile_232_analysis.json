@@ -1,18 +1,13 @@
 {
   "232": {
-    "title": "La Salle du Trône",
-    "description": "Des têtes de mort couvrent les murs. Les colonnes massives, usées par le temps, semblent veiller sur un autel central, où des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens. Des cercles rituels marquent le sol, et des barils de vin rouillés sont empilés dans un coin, témoignant d'une ancienne cérémonie. L'odeur de moisi et de soufre flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui remplit une fosse au centre de la pièce. La tension est palpable, et un frisson vous parcourt le dos. Devant vous, un autel, un piège attend, et la salle murmure des secrets obscurs.",
+    "title": "Salle du Trône Sacrée",
+    "description": "La salle du trône sacrée est étroite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur gloire. La lumière pénètre à peine à travers les fenêtres brisées, créant un halo de mystère et de menace. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers et des colonnes imposantes soutiennent le plafond, tandis que des chaises et des colonnes ornent la plateforme du trône. Un tapis ancien repose sur le sol, devant le trône, ajoutant une touche de richesse à l'atmosphère sombre. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. L'air est lourd, et l'eau stagnante se forme dans les coins, ajoutant une touche de danger à l'endroit. La salle est un lieu de culte, où les anciens pratiquaient des rituels sombres et mystérieux.",
     "tags": [
-      "salle du trône",
-      "vieillie",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "mystérieuse",
-      "menaçante",
-      "vieille salle",
-      "autel central"
+      "Salle du Trône",
+      "Salle de Culte",
+      "Rituel",
+      "Anciens",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

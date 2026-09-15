@@ -1,13 +1,13 @@
 {
   "81": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, mais tu perçois une ombre qui danse sur le mur. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été abandonnée depuis des siècles. Les murs, vieillis et fissurés, sont recouverts de têtes de mort sculptées et de tentacules qui semblent sortir du plafond. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des barils de bois ancien sont empilés contre le mur, et des pièges anciens sont dissimulés dans les recoins. L'odeur de soufre et de moisi flotte dans l'air, et tu sens une présence étrange qui t'observe. L'eau stagnante se répand lentement sur le sol, créant une tension palpable. La salle parais être un lieu de rituels ou de culte, mais quels secrets cache-t-elle vraiment ?",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des murs qui ont vu des siècles d'usure. La faible lumière qui pénètre à travers une fenêtre brisée éclaire des cercles rituels gravés au sol, qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère mystérieuse. Des cercles rituels sont gravés au sol, et des piliers majestueux soutiennent le plafond. Des meubles anciens sont dispersés un peu partout, ajoutant à l'ambiance ancienne et sacrée de la pièce. L'eau stagnante dans un coin de la salle rend l'atmosphère encore plus lugubre. Les murs sont ornés de têtes de mort et de tentacules, tandis que des cercles rituels marquent le sol. Des piliers imposants soutiennent le plafond, et des meubles anciens sont disséminés un peu partout. L'atmosphère est mystérieuse et ancienne, et la salle semble avoir été utilisée pour des rituels ou des cultes.",
     "tags": [
-      "rituel",
-      "salle ancienne",
-      "mystère",
-      "tête de mort",
-      "tentacules"
+      "rituels",
+      "culte",
+      "macabre",
+      "ancien",
+      "salle sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

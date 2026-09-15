@@ -1,13 +1,13 @@
 {
   "382": {
-    "title": "La Salle des Anciens",
-    "description": "Un large circular object with markings occupe le centre de l'espace. La lumière naturelle qui filtre à travers le plafond central éclaire une pièce immense et rectangulaire, où l'humidité et la verdure de la mousse recouvrent les murs et le sol. Devant toi, un autel circulaire, orné de symboles mystérieux, attire ton regard. Les sculptures de têtes sculptées et les tentacules qui semblent jaillir des murs ajoutent une atmosphère de terreur. Des tapisseries aux motifs énigmatiques flottent au-dessus de tes têtes, tandis que des lignes et des spirales dessinent des motifs sur le sol. Les colonnes et les statues de pierre, vieilles et érodées, paraissent garder un secret ancien. Tu sens une odeur de soufre et de vieilles pierres, tandis que des tentacules émergent du sol, prêts à frapper. La tension est palpable, et tu te demandes ce que cette salle rituelle a pu voir et faire depuis des millénaires.",
+    "title": "Chambre des Anciens",
+    "description": "La chambre des Anciens est une salle ouverte complète, immense et rectangulaire, éclairée par une lumière naturelle provenant d'un grand ouverture au centre. La pièce est recouverte d'une couche de mousse épaisse, rendant le sol glissant et impraticable. Des spirales, des points et des lignes dessinent des motifs mystérieux sur le sol, semblant indiquer un ancien rituel. Des colonnes et des statues ornent les murs, ajoutant à l'atmosphère antique et mystérieuse de la pièce. Un autel, orné de symboles énigmatiques, se dresse au centre de la pièce, entouré de tentacules qui semblent sortir du sol. Les murs sont décorés de têtes sculptées et de tentacules, tandis que des tapisseries représentant des scènes obscures sont suspendues aux poutres. La chambre des Anciens est un lieu de culte ancien, où des rituels sombres et des sacrifices mystiques ont probablement eu lieu. Les tentacules qui sortent du sol et les murs recouverts de mousse ajoutent une touche de danger à cette atmosphère ancienne et mystérieuse.",
     "tags": [
-      "ritual chamber",
-      "ancient secrets",
-      "mystical symbols",
-      "tentacles",
-      "mossy floor"
+      "rituel",
+      "mystère",
+      "ancien",
+      "sacrifice",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

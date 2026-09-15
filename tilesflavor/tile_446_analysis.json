@@ -1,13 +1,13 @@
 {
   "446": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et délabrée. Les murs, recouverts de peintures sombres, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "title": "Cage Carrée dans Grande Salle",
+    "description": "Dans cette grande salle, les murs sont recouverts de peintures sombres et vieillies, qui semblent avoir été peintes par des mains expertes. La lumière pénètre à peine à travers les fenêtres brisées, créant un halo de ténèbres qui se répand sur le sol. La salle est rectangulaire et petite, avec des piliers massifs qui soutiennent le plafond voûté. Des cercles rituels sont gravés dans le sol, marquant un espace sacré au centre de la pièce. Des têtes de mort et des tentacules peints sur les murs ajoutent une atmosphère sinistre à l'ensemble. Le mobilier est ancien et usé, avec des meubles qui semblent avoir été utilisés pour des rituels obscurs. Une porte à l'extrémité de la salle semble être la seule issue, mais l'eau stagnante qui s'est formée au sol rend l'accès difficile. Cette salle est dédiée à un culte ancien, et les cercles rituels indiquent qu'elle est utilisée pour des cérémonies sacrées.",
     "tags": [
-      "culte sombre",
-      "vieillie",
-      "rituel",
-      "sinistre",
-      "salle de culte"
+      "Salle de Culte",
+      "Ancien Culte",
+      "Salle Sacrée",
+      "Salle Ancienne",
+      "Salle Sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

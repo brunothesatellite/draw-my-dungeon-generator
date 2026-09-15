@@ -1,13 +1,13 @@
 {
   "260": {
-    "title": "La Crypte des Anciens",
-    "description": "Un large stone structure occupe le centre de l'espace. La lumière vacillante révèle une salle rectangulaire, immense et humide, où les murs sont recouverts de tentacules et de crânes de mort. Le sol est marqué de spirales et de glyphe mystérieux, tandis que des colonnes et des piliers soutiennent le plafond. Au centre, un autel massif attire ton regard, et tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain semble provenir de l'eau qui coule dans les barils flottants. Les runes mystiques gravées sur les murs paraissent attendre que quelqu'un les déchiffre. Tu te demandes ce que cache cette crypte et qui pourrait être l'unknown creature qui t'observe.",
+    "title": "L'Égout des Barils Flottants",
+    "description": "Dans ce couloir étroit et humide, les barils de bois flottent sur l'eau stagnante, leurs formes arrondies se reflétant dans le miroir liquide. Les spirales et les glyphes gravés dans le sol semblent danser sous la faible lumière qui filtre à travers les poutrelles de bois. Les colonnes et les piliers de pierre, ornés de tentacules et de têtes de mort, ajoutent une touche macabre à l'atmosphère étrange. Un autel, étrangement intact malgré l'humidité, semble être le point focal de cette chambre sacrée. Les runes mystiques gravées sur les murs émettent une lueur faible, révélant des secrets anciens. Les barils flottants, deux au-dessus de l'eau et un sur le sol, semblent être des gardiens silencieux de ce lieu. Les murs sont recouverts de tentacules et de têtes de mort, tandis que les spirales et les glyphes gravés dans le sol semblent danser sous la faible lumière qui filtre à travers les poutrelles de bois. Les colonnes et les piliers de pierre, ornés de tentacules et de têtes de mort, ajoutent une touche macabre à l'atmosphère étrange. Un autel, étrangement intact malgré l'humidité, semble être le point focal de cette chambre sacrée. Les runes mystiques gravées sur les murs émettent une lueur faible, révélant des secrets anciens. Les barils flottants, deux au-dessus de l'eau et un sur le sol, semblent être des gardiens silencieux de ce lieu.",
     "tags": [
-      "crypte",
+      "égoût",
+      "barils",
       "sacré",
-      "mystère",
-      "tentacules",
-      "crânes"
+      "mystique",
+      "macabre"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "344": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Des tentsacles couvrent les murs. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre d'un autel central, où des tentacules et des crânes de morts flottent dans l'air, comme s'ils vivaient encore. Des spirales et des croix gravées dans le sol semblent indiquer un passage ancien, peut-être un rituel perdu. Des objets mystérieux, émanant d'une énergie trouble, sont disséminés un peu partout. Un murmure lointain résonne, et tu sens une présence éthérée, comme si un esprit ancien t'observait. La température est froide, et l'humidité est lourde, comme si la pièce avait été abandonnée depuis des siècles. Des pièges enchantés pourraient se dissimuler à tout moment, prêts à s'activer. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce gardait un secret millénaire.",
+    "title": "Passages Souterrains Sacrés",
+    "description": "Les corridors de grotte s'enfoncent dans l'obscurité, leurs parois rugueuses et couvertes de spirales et de croix gravées. La lumière diffuse et diffuse donne une ambiance étrange à l'endroit, rendant chaque pas un défi à l'exploration. Les colonnes et les piliers anciens, sculptés de motifs complexes, semblent veiller sur les visiteurs. Des objets mystérieux, dont la nature est inconnue, sont disséminés ici et là, ajoutant à l'atmosphère énigmatique. Les tentacules et les têtes de mort, suspendus aux murs, rappellent l'ancienneté et la puissance de ce lieu. Des créatures fantomatiques, visibles à peine, glissent parfois le long des parois, ajoutant une note de peur à l'exploration. Les sorties semblent inconnues, et les pièges enchantés risquent de se déclencher à tout moment. Cette grotte sacrée, ancienne et mystérieuse, semble garder des secrets profonds et des pouvoirs inexplorés.",
     "tags": [
-      "sacré",
-      "ancien",
-      "mystère",
-      "pièges",
-      "esprit"
+      "Ancien",
+      "Sacré",
+      "Mystère",
+      "Grotte",
+      "Passage"
     ],
     "sourceFeatures": {
       "roomSize": "large",

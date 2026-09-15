@@ -1,14 +1,13 @@
 {
   "296": {
-    "title": "L'Abîme Sacrée",
-    "description": "Un autel ou mobilier important occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel de pierre, usé par le temps, domine la pièce. Des tentacules phosphorescents s'enroulent autour de ses colonnes, comme des serpents de nuit. Des cercles rituels gravés dans le sol émettent un faible éclat, tandis que des glyphes runiques se dessinent sur les murs, comme des yeux fixes sur toi. Des têtes de mort, sculptées avec une finesse macabre, sont suspendues aux murs, leurs yeux vides semblant te suivre. Des traces de pas, comme ceux d'un monstre ancien, marquent le sol, se perdant dans l'obscurité. L'eau stagnante, noire et fétide, remue lentement au fond d'un bassin au centre de la pièce. L'atmosphère est sinistre et oppressante, comme si la salle était le cœur d'un culte ancien. Les piliers, robustes et usés, paraissent soutenir un plafond qui menace de s'effondrer à tout moment.",
+    "title": "L'Abîme des Anciens",
+    "description": "Vous vous trouvez dans un abîme étroit et sinistre, dont les parois rugueuses et usées semblent avoir vu des milliers d'années. La lumière est si faible que vous ne pouvez distinguer que les contours des formes qui vous entourent. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un chemin qui semble mener à l'obscurité. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, orné de symboles énigmatiques, se dresse au centre de la pièce, entouré de mobilier ancien et usé. Des traces de créatures étranges sont visibles sur le sol, comme si des êtres maléfiques avaient récemment parcouru ce lieu. L'air est saturé d'une odeur de pourriture et de mystère, rendant l'atmosphère encore plus sinistre. L'abîme semble être un lieu de culte ou de rituel, où des sacrifices et des cérémonies sombres ont probablement eu lieu au fil des siècles.",
     "tags": [
+      "abîme",
       "rituel",
-      "culte",
-      "sombre",
-      "vieille salle",
-      "tête de mort",
-      "tentacules"
+      "sacrifice",
+      "mystère",
+      "vieille et usée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

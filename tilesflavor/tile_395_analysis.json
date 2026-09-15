@@ -1,13 +1,13 @@
 {
   "395": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère glauque qui plane. La pièce est petite, carrée, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches de sang séchées, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le mobilier ancien parais avoir été laissé là depuis longtemps. L'eau stagnante, noire et putride, coule lentement vers le centre de la pièce, formant un bassin de sang. L'odeur de putréfaction et de soufre te pique les narines. Tu sens une présence ancienne, bientôt palpable, qui te scrute du fond de cette salle mystérieuse et ancienne. L'arche à l'extrémité de la pièce parais être le seul moyen de sortir de cette crypte. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand lentement à travers les piliers vieillis. Des cercles rituels marquent le sol, entourant un bassin de sang qui reflète les ombres des statues qui gardent le lieu. Des insectes volent autour, leurs ailes brisées par l'ancienneté de l'endroit. Des têtes de mort et des tentacules s'enroulent sur les murs, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. Le mobilier ancien est dispersé autour de l'espace, semblant avoir été oublié depuis des siècles. L'arche au fond de la salle semble être le seul moyen de quitter ce lieu, mais l'eau stagnante qui s'accumule autour de l'entrée pourrait être un obstacle à franchir.",
     "tags": [
-      "salle de culte",
-      "rituel sombre",
-      "putréfaction",
-      "ancien autel",
-      "bassin de sang"
+      "Salle Sacrée",
+      "Anciens",
+      "Rituels",
+      "Sang",
+      "Statues"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

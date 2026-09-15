@@ -1,13 +1,11 @@
 {
   "307": {
-    "title": "L'Abîme des Tentacules",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. Devant toi, un mur de grotte s'élève, éclairé par une lumière diffuse qui semble provenir de nulle part. L'air est lourd et humide, et tu perçois une odeur de soufre qui te pique les narines. Devant le mur, un bassin sombre et étroit attire ton regard. Des tentacules, noirs et sinistres, paraissent s'enrouler autour de la surface de l'eau, comme s'ils attendaient l'ordre de se déployer. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Un objet étrange, enveloppé dans une émanation de mystère, repose au centre de la pièce. Une silhouette fantomatique, floue et translucide, parais errer dans l'ombre, ajoutant une note de peur à l'atmosphère déjà étrange. L'abîme est un lieu de rituel, et tu sens une présence ancienne et puissante qui t'observe.",
+    "title": "Abîme Murmurant",
+    "description": "Devant toi s'ouvre un abîme sombre, une fissure étroite dans le mur de la grotte. L'air humide et froid pénètre dans ton esprit, te donnant l'impression que tu es en présence d'une puissance ancienne et malveillante. Les spirales gravées dans le sol te guident vers le centre de l'abîme, où un bassin sombre et étroit semble t'attendre. Les colonnes massives qui soutiennent le plafond semblent vieillies par le temps, leurs pierres ébréchées et usées. Un objet mystérieux repose au fond de l'abîme, son contour indistinct et son pouvoir inconnu. L'atmosphère est étrangement calme, mais l'air est chargé d'une tension inquiétante. Tu sens que quelque chose t'observe, un fantôme ou un esprit ancien, prêt à te révéler son secret s'il te le permet. Les eaux de l'abîme sont dangereuses, et un simple mouvement peut les faire bouillir et te piéger dans leur tourbillon.",
     "tags": [
+      "abîme",
+      "grotte",
       "rituel",
-      "tentacules",
-      "soufre",
-      "spirales",
-      "colonne",
       "mystère"
     ],
     "sourceFeatures": {

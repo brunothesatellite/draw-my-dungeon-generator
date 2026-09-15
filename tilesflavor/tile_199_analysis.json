@@ -1,13 +1,13 @@
 {
   "199": {
-    "title": "La Salle des Sacrifices",
-    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle carrée aux murs vieillis et aux sols couverts de cercles rituels et de glyphes runiques. La faible lumière qui filtre à travers les fenêtres voilées éclaire les têtes de mort et les tentacules qui ornent les murs, ajoutant une note d'horreur à l'atmosphère glauque. Au centre de la pièce, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des siècles d'obscurité. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des barils de bois ancien sont disséminés un peu partout, leur contenu mystérieux. Des pièges sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque bruit pouvant révéler un danger latent.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et carrée, avec un sol vieilli et marqué de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et des traces de mobilier ancien sont encore visibles, malgré l'abandon. L'air est chargé d'une odeur de poussière et de mystère. Un autel central, orné de têtes de mort et de tentacules, semble être le point focal de cette salle. Des pièges sont dissimulés dans les ombres, prêts à s'activer à la moindre intrusion. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger.",
     "tags": [
-      "rituel",
-      "sacrifice",
+      "rituels",
+      "sacrifices",
+      "mystère",
       "vieillie",
-      "sinistre",
-      "salle de rituels"
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

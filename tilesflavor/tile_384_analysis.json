@@ -1,13 +1,13 @@
 {
   "384": {
-    "title": "La Salle Sacrée des Ténèbres",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Devant toi, une immense crypte rectangulaire s'ouvre, ses murs décrépits et ses colonnes usées témoignant de l'âge et de l'abandon. L'air est lourd, chargé d'une odeur de soufre et de mort. Des tentes et des crânes ornent les murs, tandis que le sol, marqué d'un spiral complexe, semble tisser un lien avec l'ancien. Un autel central, dépourvu de tout objet, parais attendre un culte perdu dans le temps. Tu aperçois une silhouette fantomatique, flottant au-dessus de la table, ses yeux vides et ses traits flous. Le silence est troublé par le murmure lointain d'un murmurer ancien, et tu sens que quelque chose de malveillant se cache dans l'ombre. Les pièges attendent, prêts à s'abattre sur toi.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, presque carrée, avec des murs décrépits et des piliers massifs qui soutiennent une voûte sombre. La lumière diffuse pénètre à travers des fenêtres brisées, créant un éclairage tamisé qui souligne les spirales gravées dans le sol. Des tapisseries déchirées sont accrochées aux murs, ornées de tentes et de crânes humains, rappelant l'ancienne vénération des anciens. Un autel central, délabré, semble avoir été le point focal de cérémonies passées. Un vieux tableau, encadré de bois usé, est posé contre un mur, mais son contenu est difficile à distinguer dans l'obscurité. Des ombres flottantes, visibles à peine, semblent errer dans l'air, ajoutant à l'atmosphère mystérieuse de la pièce. Les murs sont parsemés de symboles énigmatiques, et des pièges sont dissimulés dans les recoins, prêts à se déclencher à tout moment.",
     "tags": [
       "salle sacrée",
-      "crypte",
-      "ténèbres",
-      "soufre",
-      "fantôme"
+      "anciens",
+      "rituels",
+      "mystère",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

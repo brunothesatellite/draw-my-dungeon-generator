@@ -1,20 +1,13 @@
 {
   "205": {
-    "title": "La Crypte des Anciens",
-    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier d'escalade menant à l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers robustes soutiennent les murs. Des barils de vin rouillés sont disséminés un peu partout, et des pièges attendent patiemment. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les recoins. La fenêtre au fond laisse entrer une lueur de lumière froide, mais l'eau stagnante menace de vous noyer. L'atmosphère sinistre est palpable, et tu sens que quelque chose de terrible se cache dans cette salle de rituel.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de cercles rituels et de glyphes runiques qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies par les siècles. Le sol est marqué de cercles rituels et de glyphes runiques, semblant indiquer un ancien rituel. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. Le passage est étroit et sinueux, avec une fenêtre au bout qui semble offrir une vue sur un paysage lointain. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le mobilier, si il y en a, est ancien et usé, ajoutant à l'ambiance d'ancienneté et de mystère. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui habitent ces lieux. Les cercles rituels et les glyphes runiques indiquent que ce passage a été utilisé pour des rituels anciens et mystérieux. Les piliers massifs et les marques sur le sol témoignent de l'ancienneté et de l'importance de ce lieu. La fenêtre au bout du passage offre une vue sur un paysage lointain, mais l'eau stagnante au fond est un danger à ne pas négliger.",
     "tags": [
-      "escalier d'escalade",
-      "autel",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "glyphes runiques",
-      "piliers",
-      "barils",
-      "pièges",
-      "fenêtre",
-      "eau stagnante",
-      "salle de rituel"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Horreur",
+      "Ancienneté"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -45,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Couloir avec escaliers d'escalade",
       "tileNumber": 205

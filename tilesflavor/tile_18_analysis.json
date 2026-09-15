@@ -1,13 +1,13 @@
 {
   "18": {
-    "title": "Le Sanctuaire des Tentacules",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, entouré de colonnes massives, attire ton regard. Des spirales mystérieuses marquent le sol, et des tentacules émergents des murs, comme s'ils tentaient de te saisir. Le silence est troublé par un murmure lointain, et tu sens une présence étrange qui plane dans l'air. Le tableau est complet, mais tu ne peux pas voir le reste de la pièce. Les barils sont empilés contre le mur, et un tableau trône au centre, mais tu ne peux pas y lire les inscriptions. Les barils sont vides, et le tableau est dépourvu de tout signe de vie. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans cette salle.",
+    "title": "Salle des Boîtes Sacrées",
+    "description": "La salle est immense, son plafond voûté et sa largeur impressionnante. Les murs, couverts de spirales mystérieuses, sont ornés de tentacules qui semblent vivants, se balançant doucement dans l'air humide. Des colonnes massives, sculptées de motifs complexes, soutiennent le toit. Le sol est marqué de spirales, comme si une force invisible les avait gravées. Un grand autel, entouré de boîtes de toutes tailles, occupe le centre de la pièce. La lumière tamisée émane des fenêtres étroites, créant une ambiance sombre et énigmatique. Les boîtes, certaines ouvertes, révèlent des objets étranges et mystérieux. Des pièges sont dissimulés un peu partout, prêts à s'activer à la moindre intrusion. La salle semble être un lieu de culte ancien, dédié à des forces obscures et sacrées.",
     "tags": [
-      "sacré",
-      "mystérieux",
-      "tentacules",
-      "soufre",
-      "murmure"
+      "Salle Sacrée",
+      "Tentacules",
+      "Spirales",
+      "Pièges",
+      "Autel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

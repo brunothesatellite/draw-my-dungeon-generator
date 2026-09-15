@@ -1,13 +1,13 @@
 {
   "117": {
     "title": "Salle de Repos Sacrée",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, comme si la salle était baignée dans un éclat ancien et mystérieux. Des piliers robustes soutiennent le plafond, et au centre, un autel sombre attire le regard. Des têtes de mort sculptées dans le mur et des tentacules émergents des angles, ajoutant une note d'horreur à l'atmosphère. Des cercles rituels gravés dans le sol semblent inviter à une danse initiatique. La chaleur humide et l'odeur de soufre flottent dans l'air, tandis que le souffle d'un monstre ancien se fait entendre, créant une tension palpable. La table ronde et la chaise sont simples, bientôt insignifiantes face à l'aura de mystère qui plane dans cette salle de culte. Un frisson vous parcourt alors que vous vous demandez ce qui se cache derrière cette porte ouverte.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Au centre de la pièce, un autel est entouré de cercles rituels, marquant l'ancienne importance de ce lieu. Des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne. Trois tables rondes et des chaises sont disposées autour de l'autel, prêtes pour les rituels. Une porte ouverte permet d'entrer et d'en sortir, tandis que l'eau stagnante dans un coin de la pièce constitue un danger potentiel. La salle, bien que modeste, semble avoir été le cœur d'une ancienne cérémonie sacrée.",
     "tags": [
-      "culte",
-      "vieillie",
-      "mystérieuse",
-      "souffle",
-      "rituel"
+      "Salle de Culte",
+      "Ancien Culte",
+      "Rituels Sacrés",
+      "Salle de Repos",
+      "Salle Sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

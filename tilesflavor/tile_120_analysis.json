@@ -1,20 +1,20 @@
 {
   "120": {
-    "title": "La Salle du Sacrifice",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un bassin étrange au centre. Le liquide sombre et inconnu y brille sous la faible lumière filtrant par la fenêtre au nord. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et les piliers et colonnes, robustes et vieilles, semblent soutenir un autel ou un trésor. Une table, simple et ancienne, repose au milieu de la pièce. Des pièges attendent, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les murs. La porte ouest parais fermée, mais tu sens une présence mystérieuse derrière elle. L'eau stagnante au centre de la salle est un danger à ne pas sous-estimer.",
+    "title": "Salle du Bassin Étrange",
+    "description": "La salle est une pièce carrée de 120 pieds de côté, aux murs usés et aux piliers massifs qui soutiennent une voûte ancienne. Un bassin sombre et inconnu occupe le centre de la pièce, son liquide stagnant reflétant les ombres qui dansent sur les parois. Des cercles rituels sont gravés dans le sol, entourant une table en bois usée qui semble avoir été utilisée pour des rituels. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche de mystère à l'atmosphère déjà ancienne. La lumière pénètre à travers une fenêtre au nord, révélant une vue sur une forêt lointaine. La salle semble avoir été utilisée pour des cultes ou des rituels, et les traces de vieilles pratiques sont encore visibles dans les marques sur le sol et les objets anciens. L'eau stagnante au centre de la salle est un danger à ne pas négliger, car elle peut contenir des créatures ou des substances inconnues.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "vieille salle",
-      "bassin sombre"
+      "Salle",
+      "Ancienne",
+      "Mystérieuse",
+      "Rituel",
+      "Liquide Inconnu"
     ],
     "sourceFeatures": {
       "roomSize": "120",
       "roomShape": "salle carrée",
       "lighting": "fenêtre au nord",
       "condition": "vieille et usée",
-      "centralFeature": "autel ou trésor",
+      "centralFeature": "bassin étrange",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

@@ -1,13 +1,13 @@
 {
   "410": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible émane d'une fenêtre étroite au fond, laissant filtrer un éclat terne. L'air est chargé d'une odeur de soufre et de mort, un mélange sinistre qui vous pique les narines. Devant vous, un autel central, orné de tentacules et de têtes de mort, attire votre regard. Des cercles rituels marquent le sol, et une table ronde avec quatre chaises vous attend, mais une figurine étrange trône sur une chaise, comme si elle avait été abandonnée. L'eau stagnante, noire et malsaine, remue doucement au fond du bassin, émettant un murmure lugubre. La tension est palpable, et vous sentez que quelque chose de terrible se cache dans cette salle.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles usés, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Une table ronde, entourée de quatre chaises, est placée au centre, avec un registre posé dessus. Un baril, probablement rempli de vin ou de bière, est adossé contre un mur, tandis qu'une étagère en bois contient divers objets. Une porte à l'extrémité de la salle semble être le seul accès à l'extérieur, mais l'eau stagnante au sol indique un danger potentiel. L'atmosphère sinistre de la pièce est accentuée par les murmures lointains et les ombres qui se déplacent discrètement.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "salle de rituel"
+      "Salle de Rituels",
+      "Anciens Cultes",
+      "Salle Sacrée",
+      "Salle de Garde",
+      "Salle Vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -26,7 +26,9 @@
         "piliers"
       ],
       "objectsOrFurniture": [
-        "table"
+        "table",
+        "baril",
+        "étagère"
       ],
       "creaturesOrTraces": [
         "figurine"

@@ -1,13 +1,13 @@
 {
   "404": {
-    "title": "Salle de labyrinthe",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu dois te rapprocher pour distinguer les détails. Les murs, couverts de mousse et de crasse, semblent avoir été oubliés depuis des siècles. Un autel, entouré de piliers usés, domine la pièce. Des têtes de mort sculptées sont accrochées aux murs, ajoutant une note macabre à l'atmosphère. Des cercles rituels gravés dans le sol attirent ton attention, évoquant des secrets enfouis. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis longtemps. L'odeur de moisi et de soufre te pique les narines, et un murmure lointain parais provenir de l'angle sombre. L'eau stagnante, visible dans un coin, parais prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Salle de labyrinthe des Anciens",
+    "description": "La salle de labyrinthe des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand lentement à travers les piliers. Les murs sont ornés de têtes de mort, symboles de la mort et de la réincarnation, tandis que des cercles rituels marquent le sol. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'accès difficile. L'atmosphère est mystérieuse et ancienne, comme si les murs avaient des yeux et des oreilles, écoutant les murmures des cultistes qui y pratiquaient leurs rituels.",
     "tags": [
-      "mystère",
-      "vieillie",
-      "culte",
-      "vieille salle",
-      "rituel"
+      "Salle de labyrinthe",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

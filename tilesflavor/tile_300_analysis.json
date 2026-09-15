@@ -1,13 +1,13 @@
 {
   "300": {
-    "title": "L'Abîme des Tentacules",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La salle est immense, ses murs irréguliers et ses plafonds bas. La lumière est si faible que tu peux à peine distinguer les détails. Le sol est couvert de spirales sombres qui semblent gravées dans le sol. Des tentacules, noirs et sinistres, s'enroulent autour des colonnes de pierre qui soutiennent le plafond. Un mystérieux objet, émanant d'une étrange énergie, se dresse au centre de la pièce. Les tentacules qui t'entourent paraissent attendre, prêts à s'agripper à la moindre occasion. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère oppressante. Tu sens une présence ancienne et malveillante qui plane dans cette salle, comme si elle avait été utilisée pour des rituels obscurs. Les spirales sur le sol paraissent être un piège, peut-être un sortilège ancien. L'abîme est un endroit où la peur et l'incertitude règnent en maître.",
+    "title": "L'Abîme des Anciens",
+    "description": "Vous vous trouvez au cœur d'un abîme profond et sombre, une cavité immense qui semble s'ouvrir sur un autre monde. Les murs de pierre sont fissurés et recouverts de spirales mystérieuses qui semblent gravées dans le rocher. Des colonnes de pierre émergeant de nulle part ajoutent une touche de majesté à cette atmosphère étrange. Le sol est marqué de ces mêmes spirales, qui semblent se perdre dans le noir profond de l'abîme. Un objet étrange, inconnu, repose au milieu de cette cavité, émettant une faible lumière bleutée qui éclaire partiellement l'endroit. L'air est lourd et chargé d'une tension palpable, comme si quelque chose de terrible se cachait dans les profondeurs de cet abîme. Les murs sont parsemés de tentacules noirs qui semblent se mouvoir lentement, ajoutant une note d'horreur à l'atmosphère déjà sinistre. L'abîme est un lieu rituelique ou ancien, où les anciens pratiquaient des sacrifices ou des rituels obscurs.",
     "tags": [
       "abîme",
-      "tentacules",
       "rituel",
-      "spirales",
-      "soufre"
+      "sacrifice",
+      "tentacules",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

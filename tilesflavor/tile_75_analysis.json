@@ -1,15 +1,13 @@
 {
   "75": {
-    "title": "La Salle des Ténèbres",
-    "description": "Tu te retrouves dans un espace étroit, presque suffocant, où la lumière se fait rare. Les murs, usés et couverts de mousse, semblent avoir vu des siècles d'abandon. Devant toi, un autel carré, entouré de piliers massifs, attire ton regard. Des têtes de mort sculptées dans le mur, comme des gardiens silencieux, te fixent. Sur le sol, des cercles rituels dessinent des motifs sombres, comme des cercles d'ombre. Des tentacules, minces et sinistres, paraissent sortir du sol, comme des serpents prêts à bondir. L'odeur de la mort et de l'humidité se mêle à l'air, créant une atmosphère glaçante. L'eau stagnante, noire et trouble, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Passage des Anciens",
+    "description": "Le couloir sans issue s'inscrit dans un mur de pierre vieillie, érodée par le temps et les éternels flots de l'eau stagnante qui le traverse. Les murs sont ornés de têtes de mort sculptées, rappelant l'ancienne croyance locale. Des cercles rituels dessinent des motifs mystérieux au sol, évoquant des rituels passés. Des piliers massifs soutiennent le plafond, tandis que des meubles anciens sont disséminés ici et là, témoignant de l'occupation ancienne. L'atmosphère est oppressante, mêlant mystère et angoisse, comme si le passé s'était emmêlé dans le présent. Les flots de l'eau stagnante créent un bruit sourd et régulier, ajoutant à l'ambiance lugubre. Les têtes de mort et les cercles rituels évoquent une ancienne cérémonie, peut-être même un culte ancien. Les piliers et les meubles anciens racontent des histoires de l'ancien temps, mais le passage est sans issue, comme si le destin voulait que l'on ne puisse jamais quitter ce lieu.",
     "tags": [
-      "salle de culte",
-      "vieillie",
-      "têtes de mort",
-      "cercles rituels",
-      "tentacules",
-      "eau stagnante",
-      "atmosphère mystérieuse"
+      "Passage",
+      "Ancien",
+      "Culte",
+      "Mystère",
+      "Eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

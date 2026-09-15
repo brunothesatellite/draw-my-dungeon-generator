@@ -1,13 +1,13 @@
 {
   "313": {
     "title": "L'Abîme des Ténèbres",
-    "description": "L'ambiance mysterious pèse sur la pièce. La salle est immense, rectangulaire, et la lumière y est si faible que tu ne peux distinguer que les contours des murs. L'humidité y règne, et une odeur de soufre et de mort flotte dans l'air. Les tentacules et les crânes de mort sont accrochés aux murs, comme des têtes de démon. Sur le sol, des spirales et des glyphes énigmatiques dessinent des cercles mystérieux. Les colonnes et les piliers majestueux semblent veiller sur un autel central, mais tu ne peux pas y accéder. L'atmosphère est glaçante, et tu sens une présence étrange qui t'observe. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose était à l'écoute. Les portes de la salle sont closes, et tu ne sais pas où elles mènent. L'abîme est un lieu rituel, mais tu ne sais pas quel rituel et qui l'a construit.",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Ses parois sombres et humides sont ornées de tentacules et de têtes de mort, rappelant l'horreur qui y règne. Des spirales et des glyphes mystérieux gravés dans le sol semblent indiquer un passage ancien, peut-être un rituel ancien. Les colonnes et les piliers massifs, éclairés par une lumière diffuse, donnent une impression de grandeur et de mystère. L'atmosphère est oppressante, et chaque bruit semble amplifié dans cet espace étendu. Les murs sont recouverts de peintures sombres et de symboles énigmatiques, et les tentacules qui pendent du plafond semblent prêts à s'enrouler autour de vous. L'abîme est un lieu de rituels obscurs, et les traces de sacrifices anciens sont encore visibles dans les coins les plus reculés. Les sorties semblent inconnues, et les dangers potentiels sont nombreux. L'abîme des Ténèbres est un lieu de terreur et de mystère, où les secrets les plus profonds de l'univers sont peut-être dissimulés.",
     "tags": [
+      "abîme",
       "rituel",
       "ténèbres",
-      "soufre",
-      "tentacules",
-      "crânes"
+      "sacrifice",
+      "obscurité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

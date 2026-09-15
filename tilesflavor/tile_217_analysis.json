@@ -1,13 +1,13 @@
 {
   "217": {
-    "title": "La Salle des Ténèbres",
-    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. La pièce est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches noires et de croix énigmatiques gravées dans le béton. Des tentacules et des crânes de mort sont suspendus aux murs, comme des têtes de démon. Des spirales mystérieuses marquent le sol, et des colonnes massives soutiennent le plafond. Tu sens une odeur de soufre et de mort qui te pèse sur les narines. L'atmosphère est oppressante, et tu as l'impression que quelque chose t'observe. Tu ne peux pas voir où se trouvent les sorties, et les dangers potentiels sont inconnus. La salle parais être un lieu de rituel ou de sacrifice, mais son exacte destination reste un mystère.",
+    "title": "La Salle des Miroirs",
+    "description": "La salle est immense, presque carrée, avec des murs décrépits et des colonnes de pierre qui se dressent comme des gardiens silencieux. La lumière pénètre à peine à travers les fenêtres brisées, créant un éclairage tamisé qui rend l'atmosphère encore plus mystérieuse. Des spirales et des croix sont gravées sur le sol, formant un motif complexe qui semble avoir été oublié depuis des siècles. Les murs sont ornés de tentacules et de têtes de mort, ajoutant une touche d'horreur à l'ambiance déjà étrange. La salle semble avoir été utilisée pour des rituels obscurs, mais son exacte destination reste un mystère. Les colonnes et les murs sont recouverts de peintures anciennes, dont certaines sont difficiles à distinguer. Les miroirs anciens, posés sur les murs, reflètent des images étranges et déformées, rendant la salle encore plus inquiétante. Les miroirs sont les seuls objets visibles, et leur surface est parsemée de taches noires, comme si des forces maléfiques les avaient marqués.",
     "tags": [
-      "mystère",
-      "rituel",
-      "souffle de mort",
-      "tentacules",
-      "crânes"
+      "Salle ouverte",
+      "Mystérieuse",
+      "Horrible",
+      "Ancienne",
+      "Rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

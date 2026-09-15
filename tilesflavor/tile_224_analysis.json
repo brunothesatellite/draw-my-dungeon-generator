@@ -1,13 +1,13 @@
 {
   "224": {
-    "title": "La Chambre Sacrificielle des Dragons Viking",
-    "description": "Un large stone altar occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, humide et recouverte de mousse. Les quatre colonnes majestueuses semblent avoir été érigées il y a des siècles, leurs pierres usées par le temps. Au centre, un autel de pierre massive attire ton regard, gravé de runes sombres et de symboles énigmatiques. Des tentacules et des crânes ornent les murs, tandis que des spirales mystérieuses marquent le sol. L'odeur de la terre et du vieux bois flotte dans l'air, ajoutant à l'atmosphère lugubre. L'arche au fond de la pièce parais tailler le chemin vers un autre monde. Les runes gravées sur l'autel paraissent murmurer des secrets anciens, et les spirales sur le sol semblent prêtes à t'attirer dans un piège mortel. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette pièce.",
+    "title": "Chambre Sacrée Viking",
+    "description": "La chambre sacrée viking est une salle ouverte de taille imposante, rectangulaire et éclairée par la lumière naturelle qui filtre à travers les fenêtres. Les murs sont recouverts d'une couche de mousse et de végétation, donnant à la pièce une ambiance humide et ancienne. Au centre de la pièce se dresse un large autel en pierre, orné d'un dessin de dragon viking qui semble veiller sur le sanctuaire. Des spirales mystérieuses marquent le sol, ajoutant à l'atmosphère énigmatique de la pièce. Les colonnes massives et l'arche majestueuse au fond de la pièce renforcent l'impression de grandeur et de mystère. L'atmosphère est pesante et chargée d'une aura sacrée, comme si la pièce avait été utilisée pour des rituels anciens et sacrés.",
     "tags": [
-      "sacrifice",
-      "dragons vikings",
-      "ancien",
-      "mystère",
-      "haut lieu"
+      "Salle Sacrée",
+      "Dragon Viking",
+      "Mystère",
+      "Ancien",
+      "Rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "234": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fissures entre les pierres éclaire vaguement les têtes de mort sculptées dans le mur, comme des gardiens silencieux. Au centre, un autel de pierre, usé par les siècles, semble attendre un rituel ancien. Des cercles rituels gravés dans le sol, comme des cercles de poussière, attirent l'œil, tandis que les piliers massifs, sculptés de motifs archaïques, paraissent murmurer des secrets oubliés. L'odeur de la terre et du vieux bois flotte dans l'air, mêlée à une note de mystère ancien. La tension est palpable, comme si la salle était prête à se réveiller à tout moment.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Vous entrez dans une salle rectangulaire, petite et vieillie, éclairée par une faible lumière qui se répand à peine. Les murs sont ornés de têtes de mort, symboles de la mort et de la réincarnation. Au centre de la pièce, un autel est dressé, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne de la salle. L'atmosphère est pesante, presque oppressante, comme si la salle avait été utilisée pour des rituels sombres et sacrés. Une porte murée se trouve au fond de la pièce, semblant être le seul moyen de quitter cette salle de rituel. Les cercles rituels gravés dans le sol sont un danger potentiel, car ils peuvent être activés par un malicieux ou un initiateur de rituel.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystère",
-      "sacrifice",
-      "ancien"
+      "Salle",
+      "Rituels",
+      "Ancien",
+      "Mystère",
+      "Sacrés"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "cercles rituels"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Salle ouverte avec dessin de château et d'épées",
       "tileNumber": 234

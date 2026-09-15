@@ -1,13 +1,15 @@
 {
   "90": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fissures entre les pierres éclaire un autel central, entouré de piliers massifs. Des têtes de mort sculptées dans le mur, des tentacules émergeant des ombres, attirent l'œil. Des cercles rituels gravés dans le sol attirent votre attention, tandis que l'odeur de soufre et de mort flotte dans l'air. L'eau stagnante, visible dans un coin, semble prête à se lever à tout moment. La tension est palpable, comme si quelque chose attendait votre arrivée.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir étroit et sinistre semble avoir été creusé à la hâte, les pierres de taille se succédant sans ordre apparent. La lumière est faible, filtrant à peine à travers des fissures dans le plafond. Les murs, usés et rugueux, portent encore les stigmates de l'ancien rituel qui y a eu lieu. Des cercles rituels, usés par le temps, marquent le sol, comme si quelqu'un avait tenté de les effacer. Des piliers massifs, vieillis par les siècles, soutiennent le plafond, leurs surfaces lisses et lisses contrastant avec les pierres plus rugueuses du sol.\n\nAu centre du couloir, une table ancienne, recouverte d'un tissu usé, semble avoir été utilisée pour des sacrifices. Des têtes de mort, étranges et déformées, sont empilées sur le côté, comme si elles avaient été jetées là après avoir été utilisées. Des tentacules, noirs et gluants, s'étendent du plafond, se mêlant aux piliers et aux murs, créant une atmosphère sinistre et oppressante. L'eau stagnante, noire et putride, remplit une partie du couloir, créant un danger potentiel pour les explorateurs.\n\nLe couloir semble sans issue, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose attendait au bout. Les murs murmurent des secrets anciens, et les ombres dansent sur le sol, ajoutant à l'atmosphère de mystère et de peur. Les explorateurs qui entrent dans ce couloir doivent être prêts à affronter ce qui les attend, car le danger n'est pas loin.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "salle de rituel"
+      "Couloir",
+      "Sacrifices",
+      "Tentacules",
+      "Têtes de Mort",
+      "Ancien Rituel",
+      "Atmosphère Sinistre",
+      "Eau Stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

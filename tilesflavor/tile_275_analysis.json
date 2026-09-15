@@ -1,13 +1,13 @@
 {
   "275": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Un autel central attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des tentures sombres flottent au vent. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère lugubre. L'eau stagnante coule lentement dans un coin, émettant un murmure sinistre. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "title": "Escalier Descendant aux Cercles Rituels",
+    "description": "L'escalier descend lentement, ses marches de pierre usées par le temps se creusant sous vos pas. À chaque pas, vous sentez un léger écho résonner dans les murs de pierre. Au fond de l'escalier, une grille métallique sert de seuil, protégeant un passage étroit. Au-delà de la grille, une lumière faible pénètre, révélant un espace rectangulaire aux murs vieillis. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, tandis que des tentures sombres flottent au vent, ajoutant à l'atmosphère mystérieuse. Des cercles de lumière se dessinent sur le sol, probablement des restes de rituels anciens. Le mobilier ancien, usé par le temps, est disséminé autour de la pièce, ajoutant à l'ambiance d'oubli et de mystère. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel. La pièce semble être un lieu de culte ou de rituels, avec des traces de tentacules et de têtes de mort disséminées dans les recoins. L'atmosphère est pesante et menaçante, comme si quelque chose de maléfique attendait dans les ténèbres.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystérieuse",
-      "tentacules",
-      "autel"
+      "égoïsme",
+      "rituels",
+      "sacrifices",
+      "mystère",
+      "ancienneté"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

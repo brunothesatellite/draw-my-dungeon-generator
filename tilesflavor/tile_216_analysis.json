@@ -1,13 +1,13 @@
 {
   "216": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un personnage occupe le centre de l'espace. La lumière y pénètre à peine, éclairant vaguement les piliers massifs qui soutiennent le plafond. Des têtes de mort sculptées ornent les murs, leurs yeux vides semblant vous observer. Au centre, un autel de pierre, entouré de cercles rituels, attire votre attention. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau stagnante résonne sous vos pieds. La fenêtre, à l'extrémité de la pièce, parais être la seule issue, mais elle est obstruée par une toile de toile. La tension monte avec chaque pas que vous faites dans cette atmosphère glauque.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec un sol légèrement délavé par le temps. La lumière tamisée pénètre à travers une fenêtre étroite au fond de la pièce, révélant une atmosphère mystérieuse et vieillie. Des cercles rituels sont gravés dans le sol, entourant un autel central qui semble avoir été délaissé depuis longtemps. Des piliers robustes soutiennent les murs, et des têtes de mort sont suspendues aux parois, ajoutant une touche macabre à l'ambiance. L'eau stagnante dans le bassin au centre de la pièce reflète les murs et les têtes de mort, créant un miroir lugubre. L'endroit semble avoir été un lieu de culte ancien, mais les rituels sont maintenant oubliés.",
     "tags": [
-      "culte sombre",
-      "salle de sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "vieille salle"
+      "Salle Sacrée",
+      "Anciens",
+      "Culte",
+      "Têtes de Mort",
+      "Fontaine"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

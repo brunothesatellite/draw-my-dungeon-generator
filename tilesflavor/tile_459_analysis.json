@@ -1,13 +1,13 @@
 {
   "459": {
-    "title": "La Salle des Morts",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours des cercueils empilés au fond. L'air est lourd, chargé d'une odeur de pourriture et de soufre. Les murs, vieillis et fissurés, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Un autel central, recouvert de mobilier ancien, attire ton regard. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Tu sens une présence étrange, comme si quelque chose t'observait. L'eau stagnante au fond de la salle résonne d'un murmure sinistre. La tension est palpable, et tu te demandes ce qui se cache derrière ces cercueils.",
+    "title": "Salle des Cercueils",
+    "description": "La salle est étroite et mal éclairée, ses murs irréguliers semblent avoir été façonnés par la main de l'oubli. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, tandis que des cercles de lumière faible éclairent vaguement l'atmosphère sinistre. Le sol est couvert de cercles rituels, et des cercueils anciens sont empilés contre le mur, leurs couvercles fissurés et rouillés. Des traces de vieilles pierres et de mobilier ancien sont visibles, ajoutant à l'ambiance vieillie et mystérieuse de la pièce. L'eau stagnante se répand lentement dans un coin, créant un danger potentiel. Les murs sont ornés de têtes de mort et de tentacules, rappelant l'ancien culte qui a régné ici. La salle semble être un lieu de rituels, mais son passé obscur et son état dégradé la rendent dangereuse pour les explorateurs non initiés.",
     "tags": [
-      "rituels sombres",
-      "salle de morts",
-      "vieillie",
-      "têtes de mort",
-      "tentacules"
+      "Salle",
+      "Rituels",
+      "Ancien Culte",
+      "Cercueils",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,15 +1,13 @@
 {
   "346": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière y est faible, comme si elle avait été éteinte depuis des siècles. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers massifs, attire ton regard. Des têtes de mort sculptées ornent les murs, tandis que des cercles rituels marquent le sol. Des tentacules, visibles sous la surface de l'eau stagnante, semblent attendre l'arrivée de quelqu'un. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère lugubre. L'unique sortie parais menacer de plus en plus de mystère. Tu sens une présence ancienne, presque palpable, qui te scrute.",
+    "title": "La Grotte des Anciens",
+    "description": "La grotte avec une arche semble avoir été utilisée pour des rituels anciens. Les murs, usés par le temps, sont ornés de têtes de mort qui semblent regarder les visiteurs avec un regard menaçant. Des cercles rituels gravés dans le sol indiquent l'ancienne importance de ce lieu. Des piliers robustes soutiennent la voûte, tandis que du mobilier ancien est dissimulé dans les recoins. L'atmosphère est mystérieuse et menaçante, accentuée par l'eau stagnante qui s'accumule dans le fond de la grotte. Un seul passage mène à l'extérieur, rendant l'endroit isolé et difficile à quitter.",
     "tags": [
       "grotte",
       "rituel",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "mobilier ancien",
-      "atmosphère menaçante"
+      "ancien",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

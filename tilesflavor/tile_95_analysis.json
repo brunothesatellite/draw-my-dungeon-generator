@@ -1,13 +1,14 @@
 {
   "95": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière pénètre à peine à travers les fenêtres étroites, éclairant les murs vieillis et les piliers usés. Un autel central, recouvert de têtes de mort et de tentacules, attire immédiatement l'attention. Des cercles rituels marquent le sol, et une table, la seule meuble, semble avoir été utilisée pour des sacrifices. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, chaque bruit résonnant dans cette crypte sinistre.",
+    "title": "Salle des Anciens",
+    "description": "Vous pénétrez dans une salle carrée, minuscule et vieillie, éclairée par une faible lumière qui se répand à peine. Les murs sont recouverts de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont dessinés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne se trouve au centre de la pièce. À l'extrémité de la salle, une fenêtre laisse entrer une eau stagnante qui remue lentement, créant un bruit sourd et sinistre. La salle semble être un lieu de rituel ancien, mais elle est désertée depuis longtemps, laissant place à une atmosphère sinistre et oppressante.",
     "tags": [
-      "rituel ancien",
-      "salle de sacrifice",
-      "atmosphère sombre",
+      "rituel",
+      "ancien",
+      "salle",
       "vieillie",
-      "squelette"
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "3 couloirs sans issue",
       "tileNumber": 95

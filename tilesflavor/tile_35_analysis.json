@@ -1,13 +1,13 @@
 {
   "35": {
     "title": "Salle des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. L'air est lourd, chargé d'une odeur de moisi et de soufre. Tu t'approches, et tes yeux s'adaptent lentement à la faible lumière qui filtre à travers des fenêtres brisées. Les murs, usés par le temps, sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et des barils de bois ancien sont empilés contre le mur, leur surface rugueuse évoquant des années d'oubli. L'eau stagnante, noire et trouble, remonte jusqu'à tes chevilles, créant une tension palpable. L'atmosphère est sinistre, presque palpable, comme si la salle était le témoin de rituels obscurs et de secrets enfouis depuis des siècles.",
+    "description": "La salle est une pièce carrée de 35x35 pieds, vieillie et sombre. La faible lumière qui pénètre à travers les voûtes délavées révèle des piliers massifs et des cercles rituels gravés au sol. Des cercles de lumière émergent de ces symboles, évoquant une ancienne magie. Des têtes de mort et des tentacules s'inscrivent sur les murs, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien est dispersé autour de la pièce, et une eau stagnante s'accumule dans un coin, créant un danger potentiel. La porte murée au fond semble être le seul moyen de quitter cette salle, mais elle est fermée et verrouillée. L'ancien autel au centre de la pièce est recouvert de poussière et de mystère, semblant être le cœur de ce lieu sacré et sinistre.",
     "tags": [
-      "rituel",
-      "salle ancienne",
-      "tête de mort",
-      "tentacules",
-      "eau stagnante"
+      "Salle",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "35x35",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "Salle avec œil dessiné au sol",
       "tileNumber": 35

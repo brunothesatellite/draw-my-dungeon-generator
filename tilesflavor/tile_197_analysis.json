@@ -1,13 +1,13 @@
 {
   "197": {
-    "title": "La Salle des Sacrifices",
-    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle carrée aux murs vieillis et aux piliers massifs. La faible lumière qui filtre à travers les fenêtres usées éclaire les têtes de mort sculptées dans le mur, ajoutant une note macabre à l'atmosphère sinistre. Au centre de la pièce, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. Les piliers, usés par le temps, semblent garder des secrets, et les cercles rituels évoquent des pratiques sombres. La tension est palpable, et un frisson vous parcourt le dos. Que cherchent-ils ici ?",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite, carrée et vieillie, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Des cercles rituels marquent le sol, et des piliers robustes soutiennent les murs. Des têtes de mort sont accrochées aux murs, ajoutant une touche macabre à l'ambiance. Un autel central, orné de cercles rituels, domine la pièce. L'eau stagnante se forme dans un coin, créant un danger potentiel. La porte magique, dissimulée derrière un mur, semble être le seul moyen d'échapper à cette salle de rituels sacrés.",
     "tags": [
       "rituel",
       "macabre",
-      "sacrifice",
-      "vieillie",
-      "sinistre"
+      "salle",
+      "porte magique",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

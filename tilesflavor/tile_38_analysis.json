@@ -1,13 +1,13 @@
 {
   "38": {
-    "title": "La Salle du Neurone",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La pièce est petite, rectangulaire, et la lumière naturelle y pénètre à travers une ouverture au plafond. Les murs sont en pierre brute, et les piliers massifs semblent soutenir le plafond. Des reliefs sculptés ornent les murs, racontant des histoires anciennes. Au centre de la pièce, un autel de pierre est gravé de cercles rituels, et des piliers majestueux se dressent autour de lui. L'odeur de terre humide et de mystère flotte dans l'air, et un murmure lointain parais provenir de l'angle nord-ouest. Le sol est couvert de poussière, et un piège attend patiemment, prêts à s'activer.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et rectangulaire, éclairée par la lumière naturelle qui filtre à travers des ouvertures dans le plafond. Les murs sont ornés de reliefs sculptés représentant des figures mystérieuses, tandis que des cercles rituels marquent le sol. Des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère sombre et mystérieuse de la pièce. Un autel, au centre de la salle, semble être le point focal de cette ancienne salle de rituel. Le sol est marqué de cercles rituels, et des piliers majestueux soutiennent le plafond. La pièce est en bon état, mais un piège attend les intrus prêts à déclencher une séquence de destruction. Les reliefs sculptés racontent des histoires anciennes, et l'atmosphère générale est celle d'un lieu sacré et puissant, où des rituels importants ont été pratiqués.",
     "tags": [
       "rituel",
+      "salle",
       "mystère",
-      "pierres sculptées",
-      "pièce ancienne",
-      "salle de culte"
+      "ancien",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

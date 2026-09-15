@@ -1,13 +1,13 @@
 {
   "15": {
-    "title": "La Crypte des Tentacules",
-    "description": "Un unknown occupe le centre de l'espace. La pièce est immense, mais son irrégularité la rend difficile à mesurer. La lumière est si faible que tu peux à peine distinguer les contours des murs, qui semblent s'effondrer sous tes yeux. L'atmosphère est oppressante, comme si la salle était un vestige d'un passé oublié. Des colonnes et des piliers, usés par le temps, se dressent comme des gardiens silencieux. Sur les murs, des tentacules et des crânes de mort sont sculptés, comme si la salle était un sanctuaire de créatures obscures. Des spirales et des croix gravées dans le sol paraissent indiquer un passage ancien, peut-être un rituel perdu. Tu sens une odeur de soufre et de mort qui te pique les narines. Le silence est troublé par un murmure lointain, comme si quelque chose attendait dans l'ombre. La tension est palpable, et tu sais que tu n'es pas seul dans cette crypte.",
+    "title": "Salle des Ténèbres",
+    "description": "La salle est immense, ses murs irréguliers semblent avoir été sculptés par les mains de l'oubli. La lumière y pénètre à peine, filtrant à travers des fissures minuscules, créant un éclairage tamisé qui évoque l'obscurité la plus profonde. La salle est en ruine, les murs et le sol recouverts de spirales et de croix gravées, comme si un culte ancien avait laissé ses empreintes ici. Des colonnes et des piliers, délabrés, se dressent ici et là, ajoutant à l'atmosphère lugubre. Les tentacules et les têtes de mort, suspendus aux murs, semblent regarder les visiteurs avec un regard menaçant. Les marques de croix et de spirales sur le sol semblent indiquer un passage ancien, peut-être un rituel perdu. La salle est vide, mais l'air y résonne d'échos lointains, comme si des murmures et des prières répétées y avaient été entendus il y a des siècles. Les murs sont parsemés de taches de couleur sombre, comme si des liquides noirs y avaient été versés. Les arches et les colonnes, malgré leur état délabré, semblent avoir été sculptées avec une précision qui évoque un passé glorieux. La salle est un lieu de mystère et de terreur, où les secrets les plus profonds de l'univers se cachent peut-être encore.",
     "tags": [
-      "crypte",
-      "tentacules",
-      "soufre",
+      "salle",
+      "ruines",
+      "obscurité",
       "rituel",
-      "sombre"
+      "ténèbres"
     ],
     "sourceFeatures": {
       "roomSize": "large",

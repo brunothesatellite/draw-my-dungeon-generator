@@ -1,17 +1,13 @@
 {
   "203": {
-    "title": "La Crypte des Anciens",
-    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier d'escalade menant à l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un squelette, presque intact, repose près de la table, qui semble avoir été utilisée pour des rituels. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La porte à l'extrémité de la salle parais fermée, mais tu sens une présence étrange derrière elle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant l'ancien passage de rituels obscurs. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne, recouverte de poussière, repose au fond du couloir. L'atmosphère est oppressante, et l'eau stagnante au fond du passage résonne d'un murmure sinistre. À chaque pas, le bruit de l'eau et les ombres qui se déplacent dans l'obscurité créent une ambiance de terreur. La porte à l'extrémité semble fermée, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose veillait toujours sur ce lieu.",
     "tags": [
-      "escalier d'escalade",
-      "autel",
-      "têtes de mort",
-      "cercles rituels",
-      "squelette",
-      "porte",
-      "eau stagnante",
-      "salle de rituel",
-      "atmosphère sinistre"
+      "couloir",
+      "rituel",
+      "tête de mort",
+      "tentacules",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

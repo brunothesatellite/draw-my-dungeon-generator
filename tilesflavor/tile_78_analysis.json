@@ -1,13 +1,13 @@
 {
   "78": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort et des tentacules qui semblent jaillir des murs, comme si la salle était peuplée de créatures obscures. Au centre, un autel sombre attire le regard, entouré de cercles rituels et de glyphes runiques qui brillent faiblement. Des piliers et des statues anciennes ornent les murs, tandis que des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de moisi pèse lourdement dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, comme si quelque chose de terrible se cachait dans cette salle de rituels sacrés.",
+    "title": "Salle des Anciens",
+    "description": "La salle des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se filtre à travers des voiles de poussière. Les murs sont recouverts de cercles rituels et de glyphes runiques, des symboles mystérieux qui semblent avoir été gravés il y a des siècles. Des piliers massifs soutiennent le plafond, et des statues étranges, aux visages déformés, gardent le silence. Le sol est marqué de cercles rituels et de glyphes runiques, et des cercles de poussière indiquent les emplacements d'anciennes pratiques. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sombre. Le mobilier ancien est délabré, et une eau stagnante s'accumule dans un coin, créant un piège mortel. La porte murée au fond semble être le seul moyen de quitter cette salle, mais elle est fermée par une barrière invisible. La salle des Anciens est un lieu de rituels, mais aussi un endroit où les anciens ont peut-être sacrifié des innocents.",
     "tags": [
-      "rituels",
-      "salle obscure",
-      "creatures sombres",
-      "atmosphère mystérieuse",
-      "vieillie"
+      "rituel",
+      "sacrifice",
+      "tête de mort",
+      "tentacules",
+      "salle des Anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

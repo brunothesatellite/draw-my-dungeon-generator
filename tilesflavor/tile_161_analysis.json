@@ -1,13 +1,13 @@
 {
   "161": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière faible, filtrant à travers des fissures dans le plafond, ne parvient pas à éclairer plus de quelques mètres. Les murs, usés et recouverts de mousse, semblent avoir vu des siècles d'oubli. Un autel central, entouré de piliers massifs, attire immédiatement l'attention. Des têtes de mort sculptées dans le marbre ornent les murs, tandis que des tentacules étranges, comme sortis d'un cauchemar, pendent du plafond. Des cercles rituels gravés dans le sol attirent votre regard, paraissant inviter à une danse mortelle. Le sol, recouvert de mobilier usé, laisse entrevoir des traces de créatures, comme si des monstres avaient récemment parcouru ces lieux. L'air est lourd, chargé d'une odeur de soufre et de mort, et un murmure lointain parais résonner dans les recoins. L'eau stagnante, noire et trouble, occupe un coin de la pièce, prête à se lever en un instant. La tension est palpable, comme si quelque chose de terrible se cachait dans l'ombre.",
+    "title": "Grotte des Anciens",
+    "description": "Cette grotte, minuscule et ronde, est éclairée par une faible lumière qui filtre à travers des fentes dans le plafond. Les murs vieillis sont recouverts de cercles rituels, des symboles anciens qui semblent avoir été dessinés il y a des siècles. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des traces de créatures se dessinent sur le sol, indiquant que des êtres ont récemment visité ce lieu. Le mobilier, délabré, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin de la grotte, reflétant les ombres des cercles rituels. Des champignons et des champignons géants poussent sur les murs et le sol, ajoutant une touche de mystère à cet endroit. Les têtes de mort et les tentacules qui ornent les murs semblent être des vestiges d'un culte ancien.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "creatures",
-      "mystère"
+      "Grotte",
+      "Anciens",
+      "Cercles Rituels",
+      "Champignons",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

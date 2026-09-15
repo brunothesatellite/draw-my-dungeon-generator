@@ -1,13 +1,14 @@
 {
   "447": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent inviter à une danse macabre. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Un spider, ses yeux vides, parais attendre son heure. La table, au fond, parais avoir été utilisée pour des rituels passés. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce, créant un murmure sinistre. L'atmosphère est oppressante, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Tu te trouves dans une petite salle carrée, vieillie et sombre. La faible lumière qui pénètre à travers les fissures dans les murs te permet de distinguer les cercles rituels gravés au sol, qui semblent avoir été usés par le temps. Des piliers massifs soutiennent le plafond, leurs surfaces rugueuses témoignant de l'âge et de l'usure. Un autel central, recouvert d'un tissu usé, semble être le point focal de cette salle. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère sinistre. Une table, ancienne et usée, est placée devant l'autel, mais elle semble être abandonnée depuis longtemps. L'eau stagnante qui s'est formée dans un coin de la salle est un danger à ne pas négliger. La salle est dépourvue d'issues, mais l'air y est lourd et chargé d'une énergie ancienne et mystérieuse.",
     "tags": [
       "rituel",
-      "sacrifice",
+      "salle",
       "vieillie",
-      "sinistre",
-      "têtes de mort"
+      "têtes de mort",
+      "tentacules",
+      "autel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

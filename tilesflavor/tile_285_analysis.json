@@ -1,13 +1,13 @@
 {
   "285": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de peintures archaïques, semblent se déchirer sous tes yeux. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels marquent le sol, tandis que des statues de pierre gardent les coins. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. La porte, en bois usé, parais taire les secrets de cette salle. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, comme si les forces obscures de l'ancien se réveillent.",
+    "title": "Passage des Égouts",
+    "description": "Le passage est étroit et bas, avec un plafond en tuiles qui semble avoir été endommagé par l'humidité. Des cercles rituels sont gravés dans le sol, marquant un chemin ancien. Des piliers et des statues de pierre sont disséminés à travers le passage, ajoutant une touche de mystère à l'atmosphère sinistre. À l'extrémité du passage, une passerelle en bois permet de traverser un égout mort, où des barils et une épée sont abandonnés. L'eau stagnante au fond de l'égout réfléchit les ombres qui dansent dans la faible lumière qui pénètre par une petite ouverture au plafond. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à ce lieu oublié.",
     "tags": [
-      "rituel",
-      "squelette",
-      "tentacules",
-      "soufre",
-      "vieillie"
+      "Passage",
+      "Égout",
+      "Salle de Rituels",
+      "Mystère",
+      "Mystique"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

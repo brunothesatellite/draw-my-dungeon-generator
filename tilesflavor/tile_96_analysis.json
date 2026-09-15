@@ -1,13 +1,13 @@
 {
   "96": {
-    "title": "La Chambre des Rituels Anciens",
-    "description": "Des tented walls couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'atmosphère est oppressante, comme si la pièce était gardée par des forces obscures. Devant toi, une structure massive en pierre domine la pièce, ses angles émoussés par le temps. Des colonnes robustes soutiennent le plafond, tandis que des tentes de toile sont suspendues aux murs, comme pour protéger quelque chose de précieux. Des spirales mystérieuses marquent le sol et des traces de pas, comme ceux d'âmes errantes, sont gravées dans le sol. Les murs sont recouverts de runes anciennes, et des objets brisés sont éparpillés un peu partout. La chaleur humide et l'odeur de soufre te pénètrent les narines, et tu sens une présence étrange qui plane dans l'air. Des murmures lointains semblent provenir de l'angle sombre de la pièce. Les trappes sont bien visibles, prêtes à s'abattre sur qui oserait s'approcher trop près.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'insinue lentement dans l'obscurité, ses murs irréguliers et délabrés semblant avoir été sculptés par les mains des dieux. Les spirales gravées dans le sol semblent danser sous vos pieds, tandis que les colonnes majestueuses, érodées par le temps, vous guident vers l'ancien sanctuaire. La lumière diffuse qui filtre à travers les tentes suspendues sur les murs ajoute une atmosphère étrange à l'air sinistre. Des ombres flottantes, telles des apparitions fantomatiques, se profilent contre les parois, ajoutant une note de mystère à l'air sinistre. Les pièces de mobilier brisées sont disséminées ici et là, témoignant de l'abandon et de l'oubli qui règnent dans ce lieu. Les pièces de ce couloir sont parsemées de pièges, prêts à vous piéger à tout moment. À chaque pas, vous vous rapprochez de l'ancien sanctuaire, où des rituels obscurs ont probablement eu lieu il y a des milliers d'années.",
     "tags": [
-      "rituel",
+      "couloir",
       "ancien",
+      "rituel",
       "mystère",
-      "trappe",
-      "soufre"
+      "délapidé"
     ],
     "sourceFeatures": {
       "roomSize": "large",

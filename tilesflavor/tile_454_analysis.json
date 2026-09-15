@@ -1,12 +1,12 @@
 {
   "454": {
-    "title": "La Crypte des Tentacules",
-    "description": "Des têtes de mort couvrent les murs. Les murs vieillis par le temps sont recouverts de têtes de mort sculptées, leurs yeux vides semblant te suivre. Des tentacules émergent d'un trou au centre de la pièce, leurs mouvements lents et sinistres. Des cercles rituels gravés dans le sol te guident vers un autel au milieu de la salle, entouré de piliers massifs. L'odeur de moisi et de soufre te pique le nez, et tu sens une présence étrange qui t'observe. Un spider tapisse les murs, prête à bondir. Les vieux pièges anciens attendent patiemment leur prochain victime. La tension est palpable, et tu te demandes ce que cache vraiment cette crypte.",
+    "title": "Couloir des Tentacules",
+    "description": "Le couloir semble avoir été creusé à la hâte, les murs sont rugueux et recouverts de traces de vieilles peintures. À l'extrémité du couloir, un trou noir attire l'œil. Des tentacules sombres sortent de ce trou, ondulant lentement dans l'obscurité. Le sol est marqué de cercles rituels, des symboles énigmatiques qui semblent avoir été dessinés par une main froide et ancienne. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. La lumière est faible, filtrant à travers des fissures dans le plafond, créant des ombres danseuses qui se déplacent sur les murs. L'atmosphère est sinistre, pesante, comme si le couloir était le passage d'une puissance ancienne et malveillante. Des traces de vieilles pierres et de poussière recouvrent les murs, témoignant de l'ancienneté et de l'abandon de ce lieu. À l'entrée du couloir, une araignée géante semble attendre, prête à bondir.",
     "tags": [
-      "crypte",
+      "couloir",
       "tentacules",
-      "rituel",
-      "vieillie",
+      "rituels",
+      "ancien",
       "sinistre"
     ],
     "sourceFeatures": {

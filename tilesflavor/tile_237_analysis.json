@@ -1,16 +1,13 @@
 {
   "237": {
-    "title": "La Salle du Diamant",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les colonnes de pierre, éclairant les tentacules et les crânes qui ornent les murs. Le sol, marqué de spirales mystérieuses, semble tisser un tapis de magie. Au centre, un autel ancien, sculpté de symboles énigmatiques, attire ton regard. Des monstres, silencieux et menaçants, se cachent dans les ombres, prêts à bondir. L'air est chargé d'une odeur de soufre et de mystère, et un murmure lointain parais résonner dans les murs. L'enchanté spiral, un piège mortel, se trouve au cœur de la salle, prête à tuer.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, ses murs de pierre ancienne sont ornés de tentacules et de têtes de mort, symboles de la puissance et de la mort. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le centre de la pièce. Quatre imposantes colonnes soutiennent le plafond, formant un carré parfait au milieu de la salle. Le dessin de diamant gravé au sol attire l'œil, semblant inciter à l'exploration. La lumière naturelle pénètre à travers des ouvertures non visibles, créant un éclairage tamisé qui rend l'atmosphère encore plus énigmatique. Cette salle, ancienne et sacrée, semble avoir été utilisée pour des rituels importants, mais son exacte destination reste un mystère. Les spirales enchantées qui entourent le diamant central sont particulièrement dangereuses, car elles peuvent attirer les créatures malveillantes. Aucune sortie visible n'existe, mais les murs et le plafond sont parsemés de traces de passages secrets, prouvant que cette salle n'est pas isolée.",
     "tags": [
-      "mystère",
-      "sacré",
-      "tentacules",
-      "crânes",
-      "spirales",
-      "enchanted spiral",
-      "monstres",
-      "autel"
+      "Salle Sacrée",
+      "Anciens",
+      "Tentacules",
+      "Mystère",
+      "Rituels"
     ],
     "sourceFeatures": {
       "roomSize": "large",

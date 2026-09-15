@@ -1,18 +1,13 @@
 {
   "177": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle rectangulaire, vieillie et recouverte de mousse. Les murs, crevassés et fissurés, sont ornés de têtes de mort et de tentacules, comme si une créature ancienne avait marqué son empreinte. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de moisi se mêle à l'air, créant une ambiance sinistre. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau stagnante, visible dans un coin, semble prête à se lever à tout moment. La crypte murmure des secrets obscurs, et tu te demandes ce qu'elle cache vraiment.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc de la grotte. Les murs, couverts de champignons étranges, semblent vivants sous la lumière faible qui filtre à travers les fissures. Un trou étrange est enfoui dans les parois, comme s'il avait été creusé par des forces obscures. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Les piliers massifs, usés par le temps, soutiennent le passage, tandis que des traces de vieilles pierres et de mobilier ancien sont disséminés ici et là. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans les coins, créant un miroir lugubre qui reflète les ombres qui hantent ce lieu. Les têtes de mort et les tentacules qui pendent des murs ajoutent une touche d'horreur à l'ambiance déjà oppressante. Les Anciens qui ont créé ce passage semblent avoir laissé derrière eux des traces de leur passage, des pièges et des secrets inexplorés.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "mobilier ancien",
-      "pièges",
-      "eau stagnante",
-      "ambiance sinistre"
+      "grotte",
+      "rituel",
+      "ancien",
+      "sinistre",
+      "passage"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

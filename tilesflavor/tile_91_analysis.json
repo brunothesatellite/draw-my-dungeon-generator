@@ -1,13 +1,13 @@
 {
   "91": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de mort et de soufre. Devant toi, un autel sombre, entouré de piliers usés, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. Les murs, recouverts de tentacules et de têtes de mort, semblent te regarder avec un malaise palpable. Un tableau, posé sur une table, parais attendre ton approche. À droite, une porte menacée par l'eau stagnante te bloque l'accès. L'atmosphère sinistre te pousse à chercher un moyen de contourner cette épreuve.",
+    "title": "Couloir des Rituels Sacrés",
+    "description": "Le couloir est étroit et sinistre, ses murs irréguliers et vieillis par le temps. La faible lumière qui pénètre à travers les fissures révèle des cercles rituels gravés dans le sol, qui semblent avoir été utilisés pour des cérémonies obscures. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Une table, usée par le temps, est posée au fond du couloir, sans doute utilisée pour les rituels. Une créature étrange, aux formes indéfinies et aux tentacules qui semblent sortir des murs, se dresse dans l'ombre, observant les visiteurs avec un regard perçant. L'eau stagnante qui s'accumule au fond du couloir est un danger à ne pas négliger. La porte à l'extrémité semble être la seule issue, mais elle est fermée et verrouillée.",
     "tags": [
+      "couloir",
       "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "creatures étranges"
+      "créature étrange",
+      "eau stagnante",
+      "atmosphère sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

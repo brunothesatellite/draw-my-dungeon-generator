@@ -1,17 +1,13 @@
 {
   "379": {
-    "title": "La Chambre Sacrée des Tentacules",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de crânes et de tentacules qui paraissent avoir griffé la pierre. Des cercles rituels et des runes mystiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Des colonnes et des piliers, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Au centre, un autel, délabré, parais avoir été le point focal de ces cérémonies. Un objet mystérieux, dont la nature est inconnue, repose sur l'autel, émettant une étrange énergie. Une présence fantomatique plane dans l'air, comme si quelque chose veillait toujours sur ce lieu. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère encore plus étrange. Un murmure lointain parais provenir de l'entrée cachée, où une porte se trouve dissimulée derrière un mur de pierre. Les tentacules qui dépassent des murs paraissent attendre, prêts à s'agripper à tout intrus. La tension est palpable, et tu sens que quelque chose de terrible a eu lieu ici il y a longtemps.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de tentacules et de crânes humains. La lumière y est si faible que les ombres dansent sur le sol, où des cercles rituels et des runes mystiques sont gravés. Des colonnes et des piliers imposants soutiennent le plafond, qui semble prêt à s'effondrer à tout moment. Un objet mystérieux, dont la nature est inconnue, repose au centre de la pièce, entouré d'une aura de mystère. Des traces de créatures éthérées flottent dans l'air, et un secret sombre semble se cacher derrière une porte dissimulée dans un mur. Les dangers潜伏在角落，等待着胆大的探索者。",
     "tags": [
-      "sacré",
-      "tentacules",
+      "salle sacrée",
       "rituels",
-      "fantôme",
-      "mystère",
-      "abandonné",
-      "soufre",
-      "épique",
-      "horreur"
+      "tentesacles",
+      "crânes",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

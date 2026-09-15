@@ -1,13 +1,13 @@
 {
   "155": {
-    "title": "La Chambre Sacrée des Ombres",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière tamisée filtre à travers les énormes champignons qui poussent au centre de la salle, projetant des ombres danseuses sur les parois irrégulières. L'air est lourd, chargé d'une odeur de terre humide et d'anciens secrets. Les murs, couverts de tentes et de masques, semblent raconter des histoires oubliées. Des colonnes majestueuses soutiennent le plafond, et un autel central, orné de statues mystérieuses, attire ton regard. Des spirales mystiques marquent le sol, et des fantômes flottent autour de toi, leurs silhouettes translucides glissant entre les colonnes. La tension est palpable, et tu sens que quelque chose de terrible se cache dans l'ombre. Des pièges enchantés pourraient se déclencher à tout moment, prêts à t'attirer dans un piège mortel.",
+    "title": "La Grotte des Champignons Sacrés",
+    "description": "Au cœur de la forêt sombre, une grotte majestueuse se dresse, éclairée par une lueur diffuse qui semble provenir des mycètes qui poussent sur ses parois. La grotte est immense, ses murs irréguliers ornés de tentes et de masques suspendus, comme si elle avait été utilisée par des peuples oubliés. Des motifs de spirales gravés dans le sol attirent l'œil, semblant former un chemin qui guide le visiteur vers le centre. Des colonnes élancées, sculptées de motifs complexes, se dressent à l'intérieur, ajoutant à l'atmosphère mystérieuse de la grotte. Statues étranges, aux formes étranges, gardent les passages, leurs visages délavés par le temps. La grotte est si ancienne qu'elle semble avoir été sacrée depuis des millénaires, et les champignons qui poussent sur ses parois semblent vivre en symbiose avec elle. Les esprits des anciens, visibles sous forme de figures fantomatiques, errent parfois dans les recoins, ajoutant une touche d'effroi à l'atmosphère déjà sombre. Les enchanteurs qui se risquent à entrer doivent être prêts à affronter les pièges magiques qui guettent à chaque coin.",
     "tags": [
-      "sacrée",
-      "mystérieuse",
-      "ancienne",
-      "enchanteur",
-      "fantôme"
+      "grotte",
+      "sacré",
+      "mystère",
+      "enchanteurs",
+      "champignons"
     ],
     "sourceFeatures": {
       "roomSize": "large",

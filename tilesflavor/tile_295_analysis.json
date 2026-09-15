@@ -1,13 +1,13 @@
 {
   "295": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Des tentacles couvrent les murs. La salle est immense, ses murs irréguliers et décrépits semblent s'effondrer sur toi. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui soutiennent le plafond. Un large, sombre et mystérieux espace parais se dessiner au centre de la pièce, comme une entrée vers un autre monde. Des tentacules, noirs et sinistres, sont collés aux murs, comme s'ils attendaient de se délier pour te saisir. Sur le sol, des spirales mystérieuses paraissent gravées dans le sol, comme si elles avaient été dessinées par un esprit malveillant. L'autel au centre de la pièce est recouvert d'un tissu sombre, et tu sens une présence ancienne et puissante émaner de lui. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère oppressante. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose observait tes moindres mouvements. L'abîme est un lieu république ou ancien, et tu te demandes ce que les créatures qui y habitent ont pu faire de si terrible.",
+    "title": "L'Abîme des Anciens",
+    "description": "Vous vous trouvez dans un abîme immense, une cavité sombre et profonde qui semble s'ouvrir dans le cœur de la terre. Les murs de pierre sont rugueux et fissurés, laissant entrevoir des couches de roche plus claires sous la surface. Des spirales mystérieuses gravées dans le sol vous guident vers le centre de cette cavité, où une lumière faible et diffuse éclaire une zone sombre et énigmatique. Des colonnes de pierre, érodées par le temps, se dressent ici et là, ajoutant à l'atmosphère lugubre de l'endroit. Un autel, délabré et recouvert de poussière, semble avoir été un temps le centre d'une cérémonie ancienne. Les murs sont ornés de tentacules noirs, qui semblent vivants et qui se déplacent lentement, ajoutant une note d'horreur à l'ambiance. Les spirales gravées dans le sol vous attirent inexorablement vers le centre de l'abîme, où une ombre immense et sombre semble se profiler. Les murs sont recouverts de poussière et de débris, et les colonnes sont érodées, mais l'atmosphère mystérieuse et étrange de l'endroit persiste.",
     "tags": [
       "abîme",
       "rituel",
-      "ténèbres",
+      "ancien",
       "tentacules",
-      "spirales"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

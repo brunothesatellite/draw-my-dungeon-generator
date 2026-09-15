@@ -1,20 +1,13 @@
 {
   "335": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible, filtrant à travers des fissures dans le plafond, éclaire une pièce irrégulière, où les murs vieillis par le temps sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du sol. Un autel central, orné de cercles rituels, attire immédiatement l'attention. Des piliers robustes soutiennent le plafond, tandis que des cercles de pierre marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé par le temps, parais avoir été laissé là, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce révèle des pièges qui pourraient être activés à tout moment. La tension est palpable, chaque détail racontant une histoire de cultes obscurs et de sacrifices passés.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc de la grotte. Sa petite taille et sa forme irrégulière rendent chaque pas un défi. La faible lumière qui filtre à travers les fissures éclaire les murs vieillis, où des têtes de mort et des tentacules émergent de la roche, ajoutant une atmosphère menaçante. Des cercles rituels gravés dans le sol indiquent que ce passage a été utilisé pour des rituels ou des cultes. Des piliers robustes soutiennent le plafond, tandis que des meubles anciens sont disséminés ici et là, témoignant de l'ancienne occupation du lieu. L'eau stagnante au fond du passage est un danger à ne pas négliger. La présence de pièges et de créatures indésirables rend ce passage des Anciens un endroit à éviter pour les explorateurs non avertis.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "tête de mort",
-      "tentacules",
-      "autel",
-      "cercles rituels",
-      "piliers",
-      "mobilier ancien",
-      "pièges",
-      "eau stagnante",
-      "atmosphère mystérieuse"
+      "Passage",
+      "Grotte",
+      "Rituels",
+      "Anciens",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

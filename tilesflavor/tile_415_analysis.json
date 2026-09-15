@@ -1,13 +1,12 @@
 {
   "415": {
-    "title": "La Chambre Sacrée des Échecs",
-    "description": "Des tentsacles couvrent les murs. La lumière tamisée éclaire une salle carrée immense, où les murs anciens semblent murmurer des secrets millénaires. Des colonnes majestueuses soutiennent le plafond voûté, tandis que des tentacules et des crânes sculptés ornent les murs, ajoutant une touche d'horreur à l'atmosphère étrange. Au centre, un autel aux lignes spirales et hachurées attire ton regard, comme une invitation à l'exploration. Des runes anciennes gravées dans le sol paraissent murmurer des sorts puissants. Un murmure lointain résonne, et tu sens une présence fantomatique flotter dans l'air, comme si une âme errait encore dans ce lieu sacré. L'odeur de la terre humide et de l'encens ancien te pénètre les narines, ajoutant à l'ambiance mystérieuse. Un escalier en spirale parais tailler le sol, promettant des révélations inattendues. La tension est palpable, et tu te demandes ce que cache vraiment cette chambre sacrée.",
+    "title": "Salle d'échecs des Anciens",
+    "description": "Cette vaste salle carrée, aux murs anciens et aux colonnes imposantes, évoque une époque longtemps disparue. La lumière tamisée émane des fenêtres hautes, révélant un décor mystérieux orné de tentacules et de crânes. Au centre de la pièce, un grand échiquier aux pièces d'époque, entouré d'un halo de spirales et de hachures gravées dans le sol, attire l'attention. Un autel, placé au fond, semble être le point focal de cette pièce sacrée. L'atmosphère est pesante et étrange, comme si la salle gardait un secret ancien et puissant. Des runes anciennes et un spiral enchanté sont dissimulés dans les recoins, prêts à révéler leurs secrets à ceux qui savent les déchiffrer. La présence d'une silhouette fantomatique, qui semble observer les joueurs, ajoute une touche de mystère à cette pièce.",
     "tags": [
-      "échecs",
-      "sacrée",
-      "mystère",
+      "échiquier",
+      "salle sacrée",
       "ancien",
-      "fantôme"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

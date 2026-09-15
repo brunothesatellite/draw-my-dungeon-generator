@@ -1,13 +1,13 @@
 {
   "274": {
-    "title": "L'Égout Tourbillonnant",
-    "description": "Un autel occupe le centre de l'espace. Un autel central, orné de têtes de mort et de tentacules, semble crier au mystère. Des cercles rituels gravés dans le sol attirent l'œil, tandis que des piliers robustes soutiennent le plafond. Une statue, étrange et ancienne, domine l'ensemble, son regard perçant. L'odeur de soufre et d'humidité se mêle à l'air, créant une atmosphère glauque. Des traces de créature marquent le sol, comme si quelque chose de maléfique avait récemment parcouru ces lieux. La fenêtre au fond laisse filtrer une lueur faible, révélant un tourbillon d'eau stagnante qui parais attendre son heure. La tension est palpable, chaque coin de cette salle révélant un danger potentielle.",
+    "title": "Égout Tourbillonnant",
+    "description": "Dans ce bassin d'égout rectangulaire, la vie s'est éteinte depuis des siècles. Les murs vieillis et fissurés sont ornés de cercles rituels, des symboles anciens qui semblent avoir été oubliés. La faible lumière qui pénètre à travers une fenêtre étroite éclaire les piliers massifs qui soutiennent le plafond. Une statue étrange, probablement une divinité ancienne, se dresse au centre du bassin, son visage décomposé par le temps. L'eau stagnante tourbillonne au centre, créant un effet hypnotique qui attire les regards. Des têtes de mort et des tentacules émergent de l'eau, ajoutant une touche de menace à l'atmosphère déjà mystérieuse. Les cercles rituels sur le sol semblent inviter à une ancienne cérémonie, mais leur signification est perdue dans les âges. La présence de traces de créature indique que ce lieu a été visité récemment, peut-être par des explorateurs curieux ou des créatures malveillantes. La tension est palpable, chaque coin de ce bassin semble cacher un secret ancien et potentiellement dangereux.",
     "tags": [
-      "rituel ancien",
-      "épave",
+      "égoïsme",
+      "rituel",
+      "ancien",
       "tourbillon",
-      "soufre",
-      "vieillie"
+      "égoïsme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "151": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y pénètre à peine, éclairant vaguement les têtes de mort sculptées dans le mur et les tentacules qui semblent s'en détacher. Un autel central, orné de cercles rituels, domine la pièce. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol. Des traces de créatures étranges sillonnent les murs, et un mobilier ancien est dissimulé dans un coin. L'atmosphère sinistre est palpable, et un murmure lointain parais résonner dans les recoins obscurs. Des pièges anciens attendent, prêts à s'abattre sur l'intrus imprudent.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol. Des piliers majestueux se dressent au centre, soutenant une structure ancienne qui semble avoir été utilisée pour des rituels. Des têtes de mort et des tentacules étranges sont gravés sur les murs, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels sont gravés dans le sol, marquant l'ancien espace de culte. Le mobilier ancien est disséminé autour de la grotte, témoignant de l'ancienne civilisation qui l'habitait. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La grotte est un lieu de culte, où les anciens pratiquaient des rituels sombres et mystiques.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "creatures étranges",
-      "pièges anciens"
+      "Grotte",
+      "Anciens",
+      "Rituels",
+      "Champignons",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

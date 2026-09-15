@@ -1,13 +1,13 @@
 {
   "106": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y est faible, comme si elle avait été éteinte depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire le regard. Des piliers et des statues gardent le secret de cette pièce. Un tableau avec le numéro 106 est accroché au mur, comme une trace de l'ancien occupant. Un souffle froid et humide s'infiltre, portant avec lui l'odeur de la mort et du mystère. L'eau stagnante dans un coin menace de vous engloutir. La tension est palpable, comme si quelque chose attendait votre arrivée.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les voûtes. Les murs vieillis sont ornés de piliers et de statues, ajoutant une touche de mystère à l'atmosphère sinistre. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Un tableau avec le numéro 106 est accroché au mur, ajoutant une touche de mystère supplémentaire. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. L'eau stagnante au fond de la salle ajoute une touche de danger, et un souffle froid s'élève de la surface, indiquant la présence d'une créature ou d'un esprit malveillant. La salle semble être le lieu de rituels anciens, mais elle est maintenant abandonnée et remplie de mystères.",
     "tags": [
       "rituel",
+      "sacrifice",
+      "mystère",
       "vieillie",
-      "souffle",
-      "eau stagnante",
-      "têtes de mort"
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,18 +1,13 @@
 {
   "13": {
-    "title": "La Salle des Anciens",
-    "description": "Des tented tentacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, recouverte d'une couche de mousse et de végétation. Les murs, ornés de tentacules sculptés et de têtes de créatures étranges, semblent murmurer des secrets millénaires. Au centre, un autel aux reliefs complexes attire ton regard, comme une invitation à l'obscurité. Des spirales et des croix gravées dans le sol te font scruter chaque coin, tandis que les piliers aux runes mystérieuses ajoutent une touche de gravité à l'atmosphère. Des statues anciennes gardent le silence, et les tables de pierre paraissent attendre un rituel ancien. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans l'ombre. Les deux fenêtres latérales laissent filtrer un vent glacial, et l'odeur de soufre et de moisi te rappelle l'ancienneté de ce lieu. La salle est un mélange de mystère et de menace, un endroit où les rituels anciens se déroulent encore, et où les secrets de l'âge des ténèbres attendent d'être révélés.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La Chambre Sacrée des Anciens est une salle immense, rectangulaire, éclairée par la lumière naturelle qui filtre à travers deux fenêtres latérales. Les murs sont recouverts d'une couche de mousse et de végétation, donnant à l'endroit une ambiance humide et mystérieuse. Des motifs de spirales et de croix sont gravés dans le sol, formant un mystérieux diagramme. Des colonnes ornées de runes majestueuses soutiennent le plafond, tandis que des poutres en bois ajoutent une touche de rusticité à l'architecture. Des tables en pierre et des statues anciennes sont disposées stratégiquement, semblant attendre l'arrivée d'un initiateur. Les fenêtres latérales laissent entrevoir un paysage verdoyant, mais l'atmosphère de la pièce est plus que suffisamment énigmatique pour suggérer des secrets cachés. Des pièges et des surfaces glissantes sont dissimulés, prêts à mettre en garde les intrus. La Chambre Sacrée des Anciens est un lieu sacré, destiné aux rituels et aux cérémonies les plus anciennes.",
     "tags": [
-      "mystère",
-      "rituel",
-      "ancien",
-      "salle sacrée",
-      "tension",
-      "creatures étranges",
+      "salle",
       "rituels",
-      "mystère ancien",
-      "salle des ténèbres",
-      "salle des anciens"
+      "mystère",
+      "ancienneté",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

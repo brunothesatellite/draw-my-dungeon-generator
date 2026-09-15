@@ -1,13 +1,13 @@
 {
   "24": {
-    "title": "La Chambre Sacrée des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des colonnes qui se dressent comme des gardiens silencieux. L'air est lourd, presque oppressant, et l'odeur de soufre te pique les narines. Devant toi, un autel rectangulaire, taillé dans une pierre sombre, attire ton regard. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le marbre, semblant tendre vers le ciel. Des croix et des points noirs marquent le sol, comme des runes anciennes. Les statues, vieilles et érodées, gardent un air de mystère. Les glyphes gravés dans le sol paraissent attendre que quelqu'un les déchiffre. L'atmosphère est glaçante, et tu sens une présence indéfinissable qui plane dans l'air. Les colonnes, les tentacules, les runes, tout parais te dire que cette pièce a un secret à révéler.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La Chambre Sacrée des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de tentacules qui semblent vivre d'une vie propre. La lumière y est si faible que les ombres dansent sur le sol, formant des croix et des points qui semblent danser au rythme d'une musique inaudible. L'humidité y règne en maître, rendant le sol glissant et marqué de croix et de points qui semblent indiquer un ancien rituel. Des colonnes majestueuses soutiennent le plafond, et des statues de pierre, sculptées avec une précision incroyable, gardent le secret de l'endroit. Les tentacules qui couvrent les murs semblent se mouvoir, créant une atmosphère de mystère et de peur. Les glyphes gravés sur les murs racontent l'histoire des Anciens, mais leur signification reste un mystère pour ceux qui ne sont pas initiés. Les tentacules semblent attendre, prêts à s'attaquer à ceux qui oseraient perturber cet espace sacré.",
     "tags": [
+      "salle",
       "sacré",
+      "tentaclés",
       "mystère",
-      "tentacules",
-      "colonne",
-      "runes"
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "large",

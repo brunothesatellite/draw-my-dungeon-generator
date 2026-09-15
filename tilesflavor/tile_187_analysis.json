@@ -1,13 +1,13 @@
 {
   "187": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois un écho lointain, comme si la pierre elle-même respirait. La salle est petite, carrée, et semble avoir été abandonnée depuis des siècles. Les murs, vieillis et fissurés, sont recouverts de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Des cercles rituels et des glyphes runiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Deux colonnes robustes soutiennent le plafond, et un autel central, usé par le temps, parais être le point focal de cette ancienne salle de culte. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange, comme si des forces obscures y demeuraient encore. Le mur de droite parais recouvert d'un tapis de tentacules, et tu entends un murmure lointain, comme si quelque chose attendait dans l'ombre. Les anciens pièges sont toujours là, prêts à se déclencher.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite, carrée et légèrement inclinée vers le haut. La lumière tamisée émane des fenêtres étroites, révélant un intérieur vieilli et mystérieux. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et une colonne majestueuse dominent l'espace. Un autel central, orné de têtes de mort et de tentacules, attire l'œil. La fontaine au centre de la pièce émet une odeur étrange, et un escalier circulaire monte vers l'obscurité. Les murs sont recouverts de peintures anciennes, et des pièges anciens sont dissimulés dans les recoins. L'atmosphère est pesante et menaçante, comme si la salle avait été utilisée pour des rituels obscurs.",
     "tags": [
-      "culte ancien",
-      "salle de rituel",
-      "vieillie",
-      "mystérieuse",
-      "tentacules"
+      "Salle",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Pièges"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

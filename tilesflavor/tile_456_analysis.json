@@ -1,13 +1,13 @@
 {
   "456": {
-    "title": "Salle du Culte Ancien",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, révélant une pièce rectangulaire vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des rituels anciens. Deux piliers robustes soutiennent le plafond, tandis que des colonnes majestueuses encadrent l'autel central. Le mobilier ancien, usé par le temps, parais avoir été abandonné depuis longtemps. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère glauque. Devant toi, un seul passage conduit à l'extérieur, mais l'eau stagnante au sol te fait hésiter. La tension est palpable, comme si quelque chose de terrible attendait au-delà de cette porte.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Un ancien sarcophage trone au milieu de la pièce, ses paroies sont couvertes de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers et des colonnes soutiennent le plafond, leurs surfaces vieillies par l'humidité et le temps. Le sol est marqué de cercles rituels et de glyphes runiques, semblant indiquer un ancien rituel. Des cercles de lumière se dessinent sur le sol, probablement la trace de l'ancien autel qui se trouvait ici. Des traces de mobilier ancien sont encore visibles, mais la plupart des meubles ont disparu, laissant place à une atmosphère de mystère et d'ancienneté. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la salle rend l'accès difficile. L'air est chargé d'une odeur ancienne et mystérieuse, et des murmures lointains semblent provenir de l'endroit. La salle est une salle de culte, un lieu où les anciens pratiquaient des rituels obscurs et sacrés.",
     "tags": [
+      "salle",
       "culte",
-      "vieillie",
       "rituels",
-      "soufre",
-      "tensions"
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de culte",
       "csvDescription": "Salle avec un sarcophage",
       "tileNumber": 456

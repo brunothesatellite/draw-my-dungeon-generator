@@ -1,13 +1,13 @@
 {
   "392": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, filtrant à travers des fenêtres brisées, éclairant des têtes de mort sculptées dans le mur et des tentacules qui semblent sortir du plafond. Au centre, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des traces de créatures évoquent des sacrifices passés. Le mobilier est minimal, juste un autel et quelques barils cachés dans un coin. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide résonne dans les recoins. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis par le temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. Des cercles rituels sont gravés au sol, et des traces de créatures indiquent que la salle a été utilisée récemment. Le mobilier est ancien et délabré, mais des pièges anciens sont dissimulés dans les recoins. La salle semble avoir été utilisée pour des rituels sombres, et les anciens qui l'ont habitée ont laissé derrière eux des traces indélébiles.",
     "tags": [
-      "rituel",
-      "sacrifice",
+      "rituels",
+      "macabre",
       "vieillie",
-      "sinistre",
-      "creatures"
+      "salle",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,19 +1,13 @@
 {
   "419": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et un tabouret en bois est posé à côté de l'autel. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te tenir à l'écart. À droite, un coffre est enterré dans le sol, et à gauche, un petit baril semble attendre son tour. La porte à l'extrémité de la salle parais fermée, mais tu sais que des pièges t'attendent derrière. L'eau stagnante au sol est un danger à ne pas sous-estimer. La salle est une crypte ancienne, un lieu de rituel sombre et sinistre.",
+    "title": "Les Sœurs Sacrées",
+    "description": "Dans ce couloir étroit et sinistre, deux salles rectangulaires se dressent face à face, séparées par un mur de pierre. Chaque côté de ce mur est orné d'une cheminée, émettant une faible lumière qui éclaire les salles. La petite taille de ces salles, avec leurs murs vieillis et leurs sols marqués de cercles rituels, évoque une ancienne salle de rituel. Un coffre en bois sombre repose dans l'une des salles, tandis qu'un petit baril en cuir est posé dans l'autre. Un tabouret en bois est également visible dans l'une des salles, ajoutant à l'atmosphère d'oubli et de mystère. La porte à l'extrémité du couloir semble être la seule issue, mais elle est bloquée par une eau stagnante qui s'est infiltrée dans le couloir. L'atmosphère sinistre de ce lieu est accentuée par les têtes de mort et les tentacules qui semblent émerger des murs, ajoutant une touche d'horreur à l'expérience.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "soufre",
-      "tête de mort",
-      "tentacules",
-      "autel",
-      "piliers",
-      "coffre",
-      "baril",
-      "pièges",
-      "eau stagnante"
+      "Couloir",
+      "Salle de Rituel",
+      "Ancien",
+      "Mystère",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

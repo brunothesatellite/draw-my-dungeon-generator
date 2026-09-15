@@ -1,13 +1,13 @@
 {
   "325": {
-    "title": "L'Abîme Sacré",
-    "description": "L'ambiance mysterious pèse sur la pièce. Devant toi s'ouvre un rectangle de lumière naturelle, éclairant une salle immense aux murs de pierre ancienne. Les colonnes massives, sculptées de tentacules et de crânes de mort, semblent veiller sur un autel central. Des cercles rituels marquent le sol, et les tentacules de la créature qui y repose se meuvent lentement, comme pour te surveiller. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond de l'abîme. La tension est palpable, et tu sens que quelque chose de mystérieux et de puissant se cache dans cette salle sacrée.",
+    "title": "L'Abîme des Tentacules",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Un pont de corde tordue, tendue entre deux falaises escarpées, vous permet de traverser ce gouffre infini. À vos pieds, un tonneau de bois, crevé par les années, semble attendre votre passage. Les murs de pierre ancienne sont marqués de cercles rituels, des symboles mystérieux qui semblent avoir été dessinés par des mains longtemps disparues. Des tentacules de couleur sombre, semblables à ceux d'un monstre marin, pendent des plafonds, ajoutant une touche d'effrayante réalité à l'atmosphère lugubre. Des têtes de mort, sculptées avec une précision saisissante, sont accrochées aux murs, rappelant l'horreur qui réside dans ce lieu. L'air est chargé d'une odeur de poussière et de mystère, et les échos de vos pas résonnent dans l'abîme. Le pont de corde est fragile, et vous devez faire preuve de prudence pour traverser sans tomber dans l'abîme infini.",
     "tags": [
       "abîme",
-      "sacré",
-      "creatures",
+      "pont de corde",
+      "tonneau",
       "rituels",
-      "mystère"
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

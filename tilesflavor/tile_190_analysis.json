@@ -1,21 +1,13 @@
 {
   "190": {
-    "title": "La Crypte des Anciens",
-    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier descendant dans l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, une salle carrée, vieillie, avec un autel au centre. Des têtes de mort et des tentacules décorent les murs, et des cercles rituels marquent le sol. Des piliers soutiennent les murs, et des barils anciens sont empilés dans un coin. Des pièges sont dissimulés, prêts à s'abattre. L'eau stagnante coule lentement, et un murmure étrange résonne dans l'air. La porte murée à l'entrée est fermée, mais tu sens une présence malveillante derrière elle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies par les siècles. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'ambiance lugubre. Un escalier descendant mène à un autre niveau, mais une porte murée bloque l'accès à la suite. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger supplémentaire. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. La salle est destinée à des rituels anciens, et l'atmosphère sinistre est accentuée par la faible lumière qui pénètre à travers les fissures du plafond.",
     "tags": [
-      "escalier",
-      "salle carrée",
-      "vieillie",
-      "autel",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "barils",
-      "pièges",
-      "eau stagnante",
-      "sinistre",
-      "rituels anciens"
+      "Passage",
+      "Anciens",
+      "Rituels",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

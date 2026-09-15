@@ -1,13 +1,13 @@
 {
   "143": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, comme si la salle était en partie enfouie. Des têtes de mort et des tentacules peints sur les murs semblent observer les visiteurs, ajoutant une note d'horreur à l'atmosphère mystérieuse. Au centre, un autel est entouré de cercles rituels gravés dans le sol, évoquant des pratiques obscures. Des piliers robustes soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, racontant des siècles d'histoire. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets enfouis. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'eau stagnante qui s'accumule au fond. Des cercles rituels dessinent des motifs mystérieux sur le sol, tandis que des piliers imposants soutiennent le plafond. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps, ajoutant à l'atmosphère lugubre et ancienne de l'endroit. Les têtes de mort et les tentacules qui flottent dans l'air créent une ambiance sinistre, rappelant les anciens rituels qui se déroulaient ici. Le couloir semble se terminer dans un trou sombre, laissant entrevoir un mystère encore plus profond.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystère",
-      "soufre",
-      "tentacules"
+      "couloir",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

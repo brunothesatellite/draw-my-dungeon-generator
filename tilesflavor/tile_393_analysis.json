@@ -1,13 +1,15 @@
 {
   "393": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière filtre à travers des fenêtres brisées, éclairant des statues grotesques qui semblent veiller sur un autel central. Des cercles de pierre rituels marquent le sol, et des tentacules émergents des murs, comme des monstres gardiens. Des têtes de mort sont sculptées dans les pierres, ajoutant une touche d'horreur à l'atmosphère sinistre. Des grilles métalliques, dissimulées derrière le mobilier, paraissent prêtes à déverser un poison ou de la fumée. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. Un frisson vous parcourt alors que vous vous approchez de l'autel, sentant une présence malveillante vous observez.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et carrée, avec un sol vieilli et des marques de cercles rituels gravées dans le sol. Des statues étranges, semblant garder un secret, sont alignées le long des murs. Deux grilles métalliques, posées sur le sol, semblent prêtes à déverser un poison ou de la fumée. Des piliers massifs soutiennent le plafond, et des têtes de mort sculptées ornent les murs, ajoutant à l'atmosphère sinistre. Le faible éclairage rend l'endroit encore plus menaçant. Des meubles anciens sont disséminés un peu partout, ajoutant une touche de mystère à la pièce. L'eau stagnante au fond de la salle est un danger à ne pas négliger.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "statues",
-      "tentacules",
-      "soufre"
+      "statue",
+      "poison",
+      "tête de mort",
+      "salle",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

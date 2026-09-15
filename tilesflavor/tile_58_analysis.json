@@ -1,14 +1,13 @@
 {
   "58": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Le sol s'ouvre sous tes pieds, révélant un autel rectangulaire au cœur de la pièce. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues gardent le secret de cette ancienne salle de culte. Le mobilier ancien, usé par les siècles, parais attendre son heure. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et tu sens que quelque chose de glaçant vous observe depuis les ténèbres.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et rectangulaire, avec un plancher en bois vieilli qui craque sous vos pas. La faible lumière qui filtre à travers les voiles déchirés donne une ambiance mystérieuse et ancienne. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, et des statues de pierre évoquent des figures anciennes. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère de mystère. L'eau stagnante dans un coin de la salle rend l'endroit humide et glissant. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici.",
     "tags": [
-      "culte",
+      "salle",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "salle de culte"
+      "mystère",
+      "ancien",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

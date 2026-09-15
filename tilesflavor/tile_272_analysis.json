@@ -1,0 +1,51 @@
+{
+  "272": {
+    "title": "L'Égout des Anciens",
+    "description": "Au cœur de la ville abandonnée, un égout immense s'ouvre comme une bouche de dragon. Les murs, recouverts de mousse et de lichen, sont parsemés de tentacules noirs qui semblent vivre d'eux-mêmes. Des araignées géantes, leurs yeux lumineux, tissent des toiles autour des grilles rouillées. Des cercles de lignes étranges marquent le sol, comme des runes anciennes. À l'entrée, une petite arche de fer rouillée cache une trappe aux pointes acérées. À l'intérieur, un autel sombre et un coffre en bois massif attendent les explorateurs courageux. L'air humide et froid pénètre dans la pièce, rendant l'atmosphère oppressante et mystérieuse. Les murs sont ornés de tentacules noirs qui semblent vivre d'eux-mêmes, et des araignées géantes tissent des toiles autour des grilles rouillées. Des cercles de lignes étranges marquent le sol, comme des runes anciennes. À l'entrée, une petite arche de fer rouillée cache une trappe aux pointes acérées. À l'intérieur, un autel sombre et un coffre en bois massif attendent les explorateurs courageux. L'air humide et froid pénètre dans la pièce, rendant l'atmosphère oppressante et mystérieuse.",
+    "tags": [
+      "égout",
+      "rituel",
+      "mystère",
+      "ancien",
+      "araignée"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "irregular",
+      "lighting": "natural",
+      "condition": "damp",
+      "centralFeature": "large spiral",
+      "wallDecorations": [
+        "tentacles",
+        "spider"
+      ],
+      "floorMarkings": [
+        "circle with lines",
+        "circle with lines",
+        "circle with lines",
+        "circle with lines"
+      ],
+      "architecturalDetails": [
+        "pillars",
+        "autel"
+      ],
+      "objectsOrFurniture": [
+        "chest"
+      ],
+      "creaturesOrTraces": [
+        "spider"
+      ],
+      "exits": [
+        "doorway"
+      ],
+      "hazards": [
+        "spiral",
+        "spider"
+      ],
+      "atmosphere": "mysterious",
+      "roomPurpose": "ritual chamber",
+      "csvDescription": "égout (bassin) avec 3 grilles, une trappe (à pointes) et une petite arche de fer",
+      "tileNumber": 272
+    }
+  }
+}

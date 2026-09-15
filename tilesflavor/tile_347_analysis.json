@@ -1,13 +1,13 @@
 {
   "347": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière tamisée filtre à travers une fenêtre étroite, révélant un autel central orné de têtes de mort sculptées. Des cercles rituels marquent le sol, et des piliers robustes soutiennent les murs vieillis. Des objets anciens, usés par le temps, sont dispersés autour de l'autel, évoquant une ancienne cérémonie. L'odeur de la terre et du soufre flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un seul passage mène à l'extérieur, mais des pièges anciens attendent ceux qui oseraient s'aventurer plus loin. La tension est palpable, et l'atmosphère mystérieuse et ancienne vous enveloppe.",
+    "title": "Grotte Sacrée des Anciens",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers une ouverture étroite au sommet, créant un halo de faible éclat qui éclaire vaguement le sol. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été suivi par de nombreux passants. Des piliers robustes soutiennent le plafond, leurs surfaces usées par le temps. Au centre de la grotte, une table ancienne et usée est entourée de chaises de bois, toutes deux couvertes d'un vieil éclat. Des têtes de mort sculptées sont suspendues aux murs, ajoutant une atmosphère de mystère et de danger. La grotte semble avoir été utilisée pour des rituels ou des cérémonies, comme en témoignent les cercles rituels et les objets anciens. Un seul passage mène à l'extérieur, mais des pièges anciens sont dissimulés dans les recoins, prêts à accueillir les intrus imprudents.",
     "tags": [
-      "culte",
+      "grotte",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancien"
+      "ancien",
+      "mystère",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

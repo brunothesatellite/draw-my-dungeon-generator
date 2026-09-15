@@ -1,13 +1,13 @@
 {
   "408": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de statues et de piliers qui semblent veiller sur le lieu. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé par le temps, parais attendre son destin. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, noire et malsaine, coule lentement vers le centre de la pièce. La tension est palpable, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "title": "Crypte des Tombes Éternelles",
+    "description": "Dans l'obscurité qui règne dans cette crypte, les tombes en terre cuite se dressent comme des sentinelles silencieuses. La petite salle carrée est éclairée par une faible lumière qui filtre à travers des voiles de poussière. Les murs vieillis sont ornés de têtes de mort et de tentacules qui semblent sortir du néant, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues évoquent une ancienne civilisation perdue. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis des siècles. Une porte murée, fermée depuis longtemps, semble être le seul moyen d'échapper à cette crypte. L'eau stagnante qui s'est formée dans un coin de la pièce est un danger à ne pas négliger. Cette crypte, lieu de rituels anciens, semble avoir été abandonnée depuis des temps immémoriaux, mais les secrets qui y sont enfouis pourraient encore révéler leur pouvoir.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "ancien"
+      "Crypte",
+      "Tombes",
+      "Anciens Rituels",
+      "Poussière",
+      "Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

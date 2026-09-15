@@ -1,13 +1,13 @@
 {
   "416": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère oppressante qui plane dans cette pièce carrée, vieillie et mystérieuse. Les murs, usés par le temps, semblent avoir un mouvement circulaire, comme s'ils voulaient t'avaler. Au centre, un autel, entouré de piliers massifs, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. Des têtes de mort et des tentacules déchiquetés ornent les murs, tandis que des barils de bois ancien sont empilés dans un coin. Des pièges sont dissimulés partout, prêts à s'abattre sur toi. L'eau stagnante, noire et fétide, coule lentement vers le centre de la pièce. Tu sens une odeur de soufre et de mort qui te pénètre les narines. La fenêtre, ta seule issue, parais fermée, mais tu sais que derrière elle se cache une menace latente. La salle est un lieu de rituel ancien, mais tu ne sais pas quel sortilège sombre y a été invoqué.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et carrée, avec un sol marqué de cercles rituels. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, comme si quelque chose y était caché. La faible lumière qui pénètre à travers la fenêtre ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers robustes soutiennent le plafond, et des traces de mobilier ancien sont encore visibles, malgré l'abandon. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'ambiance. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est le cœur d'un rituel ancien, et les murs semblent avoir un mouvement circulaire, comme si quelque chose y était caché.",
     "tags": [
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "menaçante",
-      "salle de rituel"
+      "salle",
+      "mystère",
+      "ancien",
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "364": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière filtre à travers des fenêtres brisées, éclairant les têtes de mort et les tentacules sculptés dans le mur. Un autel central, orné de symboles énigmatiques, domine la pièce. Des piliers robustes soutiennent le plafond, tandis que des tables et des chaises anciennes sont alignées contre les murs. Des traces de créatures étranges marquent le sol, et l'odeur de soufre et de mort flotte dans l'air. La tension est palpable, comme si quelque chose de terrible se préparait ici.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand à peine à travers les voûtes. Les murs vieillis sont recouverts de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont peints au sol, marquant des points de pouvoir ou de protection. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Des tables et des chaises, ainsi que des tonneaux, sont disposés au centre de la salle, laissant entrevoir un passé de cultes ou de rituels. Les murs sont ornés de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont peints au sol, marquant des points de pouvoir ou de protection. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Des tables et des chaises, ainsi que des tonneaux, sont disposés au centre de la salle, laissant entrevoir un passé de cultes ou de rituels.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
+      "rituels",
+      "culte",
+      "salle des anciens",
       "mystérieuse",
-      "menaçante"
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

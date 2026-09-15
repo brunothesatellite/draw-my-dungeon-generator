@@ -1,13 +1,13 @@
 {
   "373": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Un empty occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des statues qui te regardent de leurs yeux vides. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Les murs, recouverts de tentacules et de crânes, semblent respirer une ancienne malédiction. Des cercles et des points marquent le sol, comme si quelqu'un avait tenté de communiquer avec les forces obscures. Deux colonnes majestueuses soutiennent le plafond, tandis qu'un autel, vide, parais attendre un culte perdu. Des figures fantomatiques flottent dans l'air, leurs silhouettes floues et éthérées. Les runes mystiques gravées sur les murs paraissent murmurer des secrets anciens. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère étrange et menaçante. La tension est palpable, comme si quelque chose de terrible allait se produire. La chaleur humide et l'humidité de la pièce te font frissonner. La porte s'ouvre brusquement, révélant un passage étroit qui parais mener à l'inconnu.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté. La lumière tamisée émane des fenêtres étroites, révélant une ambiance humide et mystérieuse. Des cercles et des points sont gravés sur le sol, formant un motif complexe. Des colonnes majestueuses soutiennent le toit, tandis que des pilastres ornent les murs. Un autel central, vide, domine la pièce, entouré de statues anciennes et mystérieuses. Des runes mystiques et des enchantements anciens flottent dans l'air, ajoutant à l'atmosphère étrange. Des figures fantomatiques flottent dans l'ombre, rappelant l'histoire sacrée de ce lieu. La chambre est un sanctuaire, un lieu de culte et de mystère, où les anciens pratiquaient des rituels sacrés.",
     "tags": [
-      "salle sacrée",
-      "statues",
-      "ténèbres",
-      "mystères",
-      "anciennes runes"
+      "salle",
+      "anciens",
+      "rituels",
+      "mystère",
+      "sacrés"
     ],
     "sourceFeatures": {
       "roomSize": "large",

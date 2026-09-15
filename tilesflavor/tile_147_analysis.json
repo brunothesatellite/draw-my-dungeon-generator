@@ -1,26 +1,20 @@
 {
   "147": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table, usée par le temps, repose contre le mur de droite. Un squelette, presque complet, repose au fond de la pièce, comme s'il avait été la proie d'un ancien rituel. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La fenêtre, à l'extrémité de la pièce, parais être la seule issue, mais elle est obstruée par des barres de fer rouillées. L'atmosphère est sinistre, et tu sens une présence malveillante qui plane dans l'air.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir est étroit et sombre, éclairé par une faible lumière qui se répand à peine. Les murs, usés et recouverts de traces de vieilles peintures, semblent raconter des histoires oubliées. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. À l'extrémité du couloir, un coffre de bois, fermé et ancien, semble garder un secret. Un tableau, délavé, est posé contre le mur, mais son contenu est difficile à distinguer dans l'obscurité. À droite, une fenêtre laisse entrer une brise froide, révélant un paysage sombre et mystérieux. L'eau stagnante, noire et trouble, se forme dans un coin, menaçant de s'étendre. Le couloir est une voie sombre et sinistre, où chaque pas semble résonner dans l'ancienne et lugubre atmosphère.",
     "tags": [
+      "couloir",
       "rituel",
       "sacrifice",
-      "salle de prière",
       "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "squelette",
-      "fenêtre",
-      "eau stagnante"
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "coffre",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

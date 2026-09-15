@@ -1,15 +1,13 @@
 {
   "204": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. Devant toi s'ouvre une salle rectangulaire, faiblement éclairée par une lumière froide et distante. Les pierres vieillies murmurent des secrets oubliés. À droite, une porte murée, comme oubliée depuis des siècles, semble garder un secret. Des têtes de mort sculptées dans le mur t'observent, leurs yeux vides paraissant te suivre. Au centre de la pièce, des cercles rituels gravés dans le sol attirent ton regard, leurs formes étranges et anciennes. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. Un autel en pierre, dépourvu de tout objet, parais attendre un culte oublié. Un squelette, presque complet, repose au fond de la pièce, son crâne dégagé et ses os fragiles. L'odeur de la mort et de l'humidité se mêle à l'air, créant une atmosphère oppressante. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce, formant un cercle sombre. La tension est palpable, chaque bruit parais résonner dans les murs. La crypte murmure des secrets, prête à révéler ou à cacher, selon tes propres intentions.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens est étroit et sombre, ses murs de pierre vieillie sont parsemés de têtes de mort sculptées dans le marbre. Des cercles rituels énigmatiques marquent le sol, tandis que des piliers massifs soutiennent le plafond. Un vieux tableau, recouvert de poussière, repose contre le mur, son cadre encadrant des images floues et mystérieuses. À l'extrémité du couloir, une porte murée, fermée depuis des siècles, semble garder un secret ancien. L'air est chargé d'une atmosphère menaçante, comme si les esprits des anciens observaient encore les envahisseurs de ce lieu sacré. Des traces de sang séché sont visibles sur le sol, indiquant que des rituels ont été pratiqués ici il y a longtemps. L'eau stagnante au fond du couloir, à l'endroit où l'eau s'accumule, est un danger à ne pas négliger.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "têtes de mort",
-      "cercles rituels",
-      "squelette",
-      "eau stagnante",
-      "atmosphère menaçante"
+      "couloir",
+      "rituel",
+      "ancien",
+      "mystère",
+      "sécrétion"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "25": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est recouvert d'un tapis de peaux de morts, leurs yeux vides te regardant. Des cercles rituels dessinent des cercles sur le sol, comme si quelqu'un avait tenté de les effacer. Des tentacules, comme ceux d'un ancien monstre, sont collés aux murs, leurs nœuds noirs et gluants. Des têtes de mort, les yeux vides et les mâchoires décharnées, sont suspendues aux piliers, comme des têtes de guerre. Un autel, en pierre sombre, se dresse au centre de la pièce, entouré de piliers massifs. Des fumées blanches s'échappent de l'autel, se mêlant à l'air humide et chargé de soufre. Tu sens une présence ancienne, bientôt palpable, qui te pousse à te rapprocher de l'autel. Des barils, remplis d'eau stagnante, sont disséminés autour de la pièce, leur contenu pourri et infect. La salle est étouffante, l'air chargé d'une odeur de mort et de mystère. Tu entends un murmure lointain, comme si quelqu'un ou quelque chose observait les intrus. La tension est palpable, et tu sens que quelque chose de terrible va se passer.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Le sol est couvert de cercles rituels, marqués de sang séché et de poussière. Des piliers massifs soutiennent le plafond, leurs surfaces usées par l'humidité. Un bassin rempli d'eau stagnante occupe le centre de la pièce, entouré d'un autel de pierre où des têtes de mort et des tentacules émergent de l'eau. Des têtes de mort sculptées sont disposées sur les murs, tandis que des tentacules semblent s'enrouler autour de la salle, ajoutant une atmosphère de menace. Un grand table est placé près de l'autel, probablement pour les offrandes. La fumée s'échappe de l'autel, indiquant que quelque chose y brûle ou brûlait récemment. La salle est vide, mais l'air y résonne d'une présence ancienne et menaçante.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "ancien",
-      "tension"
+      "Salle",
+      "Sacrifice",
+      "Ancien",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

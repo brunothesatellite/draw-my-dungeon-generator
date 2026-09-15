@@ -1,14 +1,13 @@
 {
   "84": {
-    "title": "La Salle des Tentacules",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La faible lumière filtre à travers des fenêtres brisées, éclairant des têtes de mort et des tentacules qui semblent jaillir des murs. Un autel central, orné de cercles rituels, attire immédiatement l'attention. Des piliers soutiennent le plafond, tandis que le sol est marqué de cercles mystérieux. Un tableau avec le chiffre 84 pend au mur, son message obscur. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si la salle attendait votre arrivée pour révéler ses secrets les plus sombres.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La faible lumière qui pénètre à travers les voiles de poussière qui recouvrent les fenêtres donne une ambiance mystérieuse et menaçante. Les piliers et les colonnes, vieillies et usées, ajoutent à l'atmosphère sombre de la pièce. Un tableau avec le chiffre 84 est accroché au mur, son contenu mystérieux ajoutant une touche de mystère à l'ensemble. Des têtes de mort et des tentacules sont visibles sur les murs, témoignant de rituels passés. L'eau stagnante au fond de la pièce est un danger potentiel. Cette salle est destinée à des rituels ou des sacrifices, et son ambiance menaçante invite à la prudence.",
     "tags": [
       "rituel",
       "sacrifice",
-      "tentacules",
-      "vieillie",
-      "mystérieuse",
-      "salle de rituel"
+      "tête de mort",
+      "tentacule",
+      "salle mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

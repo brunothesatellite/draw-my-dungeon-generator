@@ -1,13 +1,13 @@
 {
   "129": {
-    "title": "La Salle des Rituels",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est couvert de cercles rituels et de glyphes runiques, comme si la salle avait été utilisée pour des cérémonies sombres. Des piliers massifs soutiennent le plafond, et des statues étranges, comme des créatures anciennes, gardent le silence. Les murs sont vieillis, recouverts de têtes de mort et de tentacules qui paraissent sortir du néant. Le mobilier ancien est délabré, ajoutant à l'atmosphère lugubre. L'eau stagnante, visible dans un coin, parais attendre son heure pour se réveiller. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère mystérieuse et menaçante. Tu sens une présence ancienne, bientôt palpable, qui te scrute du haut de l'autel central.",
+    "title": "Salle des Rituels Infinis",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues étranges sont disséminées à travers la pièce, ajoutant à l'atmosphère mystérieuse. Le mobilier ancien est délabré, et des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui réside ici. L'eau stagnante au centre de la pièce est un danger à ne pas négliger. La salle semble être le cœur d'un ancien sanctuaire, où des rituels infinis sont célébrés.",
     "tags": [
       "rituels",
-      "sombre",
-      "ancien",
-      "mystère",
-      "eau stagnante"
+      "salle sacrée",
+      "têtes de mort",
+      "tentacules",
+      "ancien culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

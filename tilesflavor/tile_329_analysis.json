@@ -1,25 +1,20 @@
 {
   "329": {
-    "title": "Le Portail des Abîmes",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs, vieillis et fissurés. Le sol est couvert de cercles rituels, leurs contours usés par le temps. Au centre, un autel, vieilli lui aussi, semble attendre un sacrifice. Des têtes de mort et des tentacules dépassent des fissures dans les murs, comme s'ils tentaient de se libérer. Des piliers robustes soutiennent le plafond, leurs surfaces lisses et usées. Des barils anciens sont empilés dans un coin, leur bois usé et fendu. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. Le silence est troublé par le murmure lointain d'un murmurer qui parais attendre. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Portail Magique Entre Deux Abîmes",
+    "description": "Tu te trouves dans une petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels. La faible lumière qui pénètre à travers les fissures dans les pierres te donne l'impression que tu es dans un endroit abandonné depuis des siècles. Les piliers massifs qui soutiennent le plafond ajoutent à l'atmosphère sinistre de la pièce. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. Le mobilier ancien, usé et délabré, semble avoir été oublié depuis longtemps. L'eau stagnante qui s'accumule dans un coin de la pièce est un danger à ne pas négliger. Le portail magique qui te sépare de l'autre abîme est un point central, mais il est fermé par une barrière invisible, rendant l'accès difficile. Les cercles rituels marqués au sol indiquent que cette pièce a été utilisée pour des rituels obscurs. L'atmosphère sinistre et l'ancienne magie qui plane dans l'air te donnent l'impression que tu es au cœur d'une puissance ancienne et malveillante.",
     "tags": [
-      "rituel",
+      "portail magique",
       "abîme",
-      "sacrifice",
+      "rituel",
       "tête de mort",
-      "tentacules",
-      "soufre",
-      "murmure",
-      "eau stagnante",
-      "vieillissement",
-      "atmosphère sinistre"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "portail magique",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

@@ -1,13 +1,13 @@
 {
   "240": {
-    "title": "Salle du Culte Ancien",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres éclaircit seulement partiellement l'atmosphère mystérieuse qui plane dans l'air. L'autel central, orné de têtes de mort sculptées, semble être le point focal de cette pièce. Des cercles rituels gravés dans le sol attirent l'œil, tandis que les piliers massifs ajoutent une touche de gravité à l'ensemble. Le mobilier, malgré son âge, parais intact, comme si la salle avait été abandonnée depuis longtemps. L'eau stagnante, visible dans un coin, murmure un secret glaçant. L'odeur de soufre et de moisi flotte dans l'air, accentuant l'atmosphère lugubre. La tension est palpable, comme si quelque chose de maléfique se cachait dans les ombres.",
+    "title": "Salle de Culte Ancienne",
+    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs, couverts de traces de vieilles peintures, sont ornés de têtes de mort sculptées dans le marbre, ajoutant une note macabre à l'atmosphère mystérieuse. Au centre de la pièce, un autel est gravé de cercles rituels, semblant avoir été abandonné depuis des siècles. Des piliers massifs soutiennent le plafond, et le sol est marqué de lignes de pierre qui semblent avoir un sens sacré. Des meubles rustiques sont disséminés un peu partout, témoignant de l'activité ancienne qui a eu lieu ici. L'eau stagnante, noire et trouble, remplit une partie de la pièce, créant un miroir sombre qui reflète les têtes de mort et les cercles rituels. La salle est vide, mais l'air y résonne d'une présence ancienne et inquiétante.",
     "tags": [
-      "culte",
-      "vieillie",
-      "rituel",
-      "mystère",
-      "eau stagnante"
+      "Salle de Culte",
+      "Ancien Temple",
+      "Mystère",
+      "Rituel",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

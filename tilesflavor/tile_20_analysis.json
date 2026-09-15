@@ -1,13 +1,13 @@
 {
   "20": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est si faible que tu dois te contenter de deviner les contours de la pièce. Elle est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de lichen, sont recouverts de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Au centre, un autel, vieilli et usé, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, comme si des rituels sombres y avaient été pratiqués. Des piliers robustes soutiennent le plafond, et des barils de bois ancien sont empilés dans un coin, recouverts de poussière. L'odeur de moisi et de soufre flotte dans l'air, et tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau stagnante, visible dans un coin, parais prête à se lever et à te submerger. L'atmosphère est mystérieuse et menaçante, et tu te demandes quel sortilège ancien a été pratiqué ici.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures murales. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère menaçante à l'endroit. Des piliers robustes soutiennent le plafond, et des meubles anciens sont empilés dans un coin, recouverts de poussière. L'eau stagnante se forme dans un coin, créant un danger potentiel. La salle semble être un lieu de culte ou de rituels, avec une ambiance mystérieuse et menaçante.",
     "tags": [
       "rituels",
-      "salle de culte",
+      "culte",
       "vieillie",
-      "mystère",
-      "menace"
+      "mystérieuse",
+      "menaçante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

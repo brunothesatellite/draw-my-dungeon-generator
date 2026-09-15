@@ -1,13 +1,13 @@
 {
   "77": {
     "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres éclaircit à peine l'atmosphère sinistre qui plane dans l'air. L'autel central, orné de tentacules et de têtes de mort, semble attendre quelque chose. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Une table, vide, est placée devant l'autel. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, et un frisson vous parcourt le dos. À l'entrée, un mur de pierre vous挡住了视线，仿佛在等待着什么。",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures qui se sont effacées au fil du temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés au sol, marquant un espace sacré au centre de la pièce. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sinistre de la salle. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Une table, ancienne et usée, est placée à côté de l'autel, prête à recevoir les offrandes. La porte à l'extrémité de la salle semble fermée, mais une odeur de pourriture flotte dans l'air, indiquant que l'eau stagnante peut être trouvée derrière. La salle est un lieu de rituel, où des sacrifices ont probablement eu lieu dans le passé.",
     "tags": [
       "rituel",
       "sacrifice",
       "vieillie",
       "sinistre",
-      "autel"
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

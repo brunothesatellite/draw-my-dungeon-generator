@@ -1,13 +1,13 @@
 {
   "401": {
-    "title": "Salle de labyrinthe",
-    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs couverts de têtes de mort sculptées dans la pierre. Un autel central, orné de cercles rituels, attire l'œil. Des piliers robustes soutiennent le plafond, tandis que le sol est marqué de cercles mystérieux. Des meubles anciens, usés par le temps, sont disséminés un peu partout. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain semble provenir de l'eau stagnante qui remplit une partie du sol. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "title": "Salle de labyrinthe des Anciens",
+    "description": "La salle de labyrinthe des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand lentement à travers les piliers décrépits. Les cercles rituels gravés au sol semblent avoir été dessinés par des mains expertes, maintenant des motifs complexes qui évoquent des forces obscures. Des têtes de mort, sculptées avec une finesse surréaliste, sont suspendues aux murs, ajoutant une atmosphère de mystère et de malédiction. Le mobilier ancien, usé et usé, semble avoir été abandonné depuis des siècles, laissant place à un sentiment de délabrement et d'abandon. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'entrée difficile. La salle de labyrinthe des Anciens est un lieu de culte, où les anciens pratiquaient des rituels sombres et sacrés, et où les secrets les plus profonds de l'univers sont gardés dans l'ombre.",
     "tags": [
-      "mystère",
-      "vieillissement",
-      "culte",
-      "vieille salle",
-      "rituel"
+      "Salle de labyrinthe",
+      "Salle de culte",
+      "Anciens",
+      "Rituels sombres",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

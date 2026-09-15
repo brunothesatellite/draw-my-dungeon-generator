@@ -1,13 +1,13 @@
 {
   "206": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. Devant toi s'ouvre une crypte rectangulaire, faiblement éclairée par une lumière froide et distante. Les pierres vieillies et usées semblent murmurer des secrets millénaires. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire ton regard. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens. Des cercles rituels et des glyphes runiques gravés dans le sol te font frémir. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne trône au milieu de la pièce. Des traces de créature marquent le sol, comme si quelque chose de sinistre avait récemment parcouru ces lieux. La porte à l'extrémité de la crypte parais fermée, mais tu sens une présence menaçante derrière elle. L'eau stagnante au fond de la pièce résonne d'un murmure lugubre.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels et de glyphes runiques qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et un autel sombre se dresse au fond, orné de têtes de mort et de tentacules qui semblent émerger du sol. Un tableau de pierre, posé sur une table, semble attendre un mystérieux rituel. L'eau stagnante au fond du passage, à peine visible, semble prête à se lever à tout moment. La porte à l'extrémité semble fermée, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose veillait sur ce lieu. Les murs sont parsemés de traces de créatures, et l'atmosphère sinistre est accentuée par les ombres qui dansent sur les pierres vieillies.",
     "tags": [
-      "crypte",
+      "couloir",
       "rituel",
-      "vieillie",
-      "sinistre",
-      "têtes de mort"
+      "têtes de mort",
+      "tentacules",
+      "passage"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

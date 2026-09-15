@@ -1,18 +1,13 @@
 {
   "444": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle des têtes de mort sculptées dans le mur de droite et des tentacules qui semblent sortir du plafond. Au centre, un autel est entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et des barils de bois ancien sont empilés contre le mur de gauche. L'odeur de soufre et de moisi te pénètre les narines, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la crypte. La tension est palpable, et tu sens que quelque chose de menaçant se cache dans l'ombre.",
+    "title": "Passage Rituel",
+    "description": "Le passage Rituel est étroit et sombre, éclairé par une faible lueur qui semble provenir d'une source inconnue. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels marquent le sol, indiquant un passage sacré. Des piliers massifs soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger potentiel. L'atmosphère est pesante, chargée d'une tension inquiétante qui semble provenir de l'ancien culte qui y a régné.",
     "tags": [
-      "rituel",
-      "soufre",
-      "tête de mort",
-      "tentacules",
-      "autel",
-      "cercles rituels",
-      "piliers",
-      "barils",
-      "eau stagnante",
-      "mystérieuse"
+      "Passage",
+      "Rituel",
+      "Ancien Culte",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,17 +1,14 @@
 {
   "267": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie. Un autel central, orné de cercles rituels, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour, comme des gardiens silencieux. Le sol, marqué de cercles rituels, parais inviter à la contemplation. Des barils de bois ancien, usés par le temps, sont empilés contre le mur. Tu sens une odeur de soufre et d'humidité, tandis que l'eau stagnante coule lentement, créant un murmure sinistre. La porte murée, à l'extrémité de la salle, parais être le seul moyen de quitter cette crypte. L'atmosphère est glauque, et tu sens une présence ancienne et malveillante qui plane dans l'air. La tension monte avec chaque pas que tu fais, comme si la crypte était prête à se réveiller.",
+    "title": "Égout des Sacrifices",
+    "description": "Dans ce couloir étroit et sombre, l'odeur de l'eau stagnante et de la putréfaction flotte dans l'air. Les murs, usés et recouverts de mousse, sont ornés de piliers et de statues vieillies, témoins de l'ancienne gloire. Des cercles rituels sont gravés au sol, marquant l'ancien emplacement d'un autel. Des têtes de mort et des tentacules émergent des murs, rappelant les créatures qui habitent ces lieux. Une boîte ouverte, semblant être la « maison » d'un créature, repose au fond de l'égout, émanant une odeur nauséabonde. La lumière faible, filtrant à travers des fissures dans le plafond, révèle des meubles anciens et des objets mystérieux. À l'extrémité du couloir, une porte murée semble être le seul moyen de sortir de ce lieu sinistre.",
     "tags": [
-      "crypte",
+      "égoût",
       "rituels",
-      "têtes de mort",
-      "tentacules",
-      "soufre",
-      "eau stagnante",
-      "porte murée",
-      "ancien",
-      "sinistre"
+      "créatures",
+      "sacrifices",
+      "vieillissement",
+      "putréfaction"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -42,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "égout avec eau sortant d'un tuyau. Une boîte ouverte semble être la « maison » d'un créature",
       "tileNumber": 267

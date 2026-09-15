@@ -1,13 +1,13 @@
 {
   "397": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, filtrant à travers des voiles de poussière. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus. Des piliers massifs soutiennent le plafond, tandis que des barils de bois ancien sont empilés contre le mur. Des pièges sont dissimulés dans les ombres, prêts à s'activer. L'eau stagnante, noire et malsaine, coule lentement dans un coin, émettant un murmure sinistre. La tension est palpable, chaque bruit résonnant dans l'atmosphère mystérieuse et menaçante de cette salle de rituels ou de culte.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est une structure circulaire, vieillie et délabrée, dont les murs sont recouverts de cercles rituels. Le sol est marqué de ces mêmes symboles, formant un cercle parfait au centre. Des piliers massifs soutiennent la voûte, et le mobilier ancien est réparti autour de la pièce, ajoutant à l'atmosphère mystérieuse. La lumière est faible, filtrant à travers des fenêtres brisées, créant un éclairage tamisé qui met en valeur les têtes de mort et les tentacules suspendus aux murs. Un système mécanique complexe est intégré au plafond, permettant de tourner le couloir qui s'ouvre au centre de la salle. L'eau stagnante recouvre le sol, ajoutant une touche de danger à l'atmosphère menaçante de la pièce. Cette salle est destinée à des rituels ou des cultes, et les traces de pièges dissimulés dans les murs et le sol indiquent que ceux qui y pénètrent doivent être prudents.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "salle de culte",
-      "vieillie",
-      "mystérieuse"
+      "culte",
+      "salle circulaire",
+      "système mécanique",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "253": {
-    "title": "La Chambre Sacrificielle",
-    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque tangible, et te rappelle l'odeur de la mort. Devant toi, un autel de pierre massive domine la pièce, son sommet creusé de runes mystérieuses. Des tentacules étranges, semblables à ceux d'un monstre ancien, sont suspendus aux murs, leurs yeux vides t'observant. Des sculptures grotesques de têtes humaines sculptées dans la pierre semblent surveiller chaque coin de la pièce. Des spirales gravées dans le sol attirent ton regard, paraissant former un mystérieux motif. Les colonnes de bois et les piliers de pierre donnent à la salle une impression de grandeur et de vieillesse. Un spider, sa toile étendue, tuobserve du coin de l'œil. À gauche, une porte étroite parais taire son secret. L'eau qui coule du plafond forme des flaques sur le sol glissant, rendant chaque pas un défi. L'atmosphère est lourde, presque palpable, comme si la salle était le berceau d'un rituel ancien et sombre.",
+    "title": "Égout Sacrificiel",
+    "description": "L'égout est immense, sa largeur impressionnante et sa forme rectangulaire donne l'impression d'un couloir souterrain. La lumière est faible, presque inexistante, ce qui rend l'atmosphère encore plus mystérieuse. L'humidité est perceptible, et les murs sont couverts d'une fine couche de condensation. Des motifs de spirales et de runes gravées dans le sol attirent l'œil, semblant indiquer un passage ancien et sacré. Des piliers massifs et des poutres en bois ajoutent à l'ancienneté du lieu. Un grand autel de pierre se dresse au centre, entouré de tentacules sculptés et de têtes de mort, rappelant les rites sacrificals anciens. Des araignées se baladent sur le sol glissant, ajoutant une touche de danger à l'atmosphère déjà sombre et ancienne. À gauche, une porte étroite semble être l'unique sortie de ce lieu. L'égout est humide et glissant, rendant chaque pas un défi. La présence de l'eau ajoute une note de danger supplémentaire à cette chambre sacrée ancienne.",
     "tags": [
+      "égoût",
       "sacrifice",
       "ancien",
-      "mystère",
-      "vieille pierre",
-      "tentacules"
+      "rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

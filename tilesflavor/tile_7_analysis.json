@@ -1,13 +1,13 @@
 {
   "7": {
-    "title": "La Crypte Sacrée",
-    "description": "Tu te retrouves plongé dans un couloir étroit, les murs de pierre te regardent avec un air de mystère. La lumière tamisée filtre à travers des tentes suspendues, créant des ombres danseuses sur le sol marqué d'un spiral complexe. Les colonnes massives, sculptées de motifs anciens, semblent veiller sur l'entrée d'une salle sacrée. L'air est lourd, chargé d'une odeur de soufre et de l'humidité stagnante. Tu sens une présence ancienne, presque palpable, qui t'observe depuis les ténèbres. Un murmure lointain résonne, comme si la crypte elle-même tentait de te parler. L'eau qui coule doucement à tes pieds parais murmurer des secrets. Tu te demandes ce que cache cette salle, et pourquoi elle est si mystérieuse.",
+    "title": "Le Couloir des Tentes Sacrées",
+    "description": "Le couloir s'étend devant vous, large et rectangulaire, éclairé par une faible lumière qui se répand dans l'air humide. Des tentes blanches sont suspendues aux murs, comme des autels silencieux. Le sol est marqué d'un spirale mystérieuse, qui semble guider le regard vers le fond du couloir. Des colonnes majestueuses, ornées de motifs anciens, se dressent de part et d'autre, ajoutant à l'atmosphère sacrée et énigmatique du lieu. Un autel, vide mais majestueux, se dresse au fond du couloir, comme si une cérémonie récente y avait eu lieu. L'humidité qui imprègne l'air rend le couloir presque glissant, et une fine couche d'eau recouvre le sol, créant un miroir qui reflète les tentes et les colonnes. Le mystère qui plane ici est palpable, et chaque détail semble raconter une histoire ancienne et sacrée.",
     "tags": [
-      "mystère",
-      "sacré",
-      "ancien",
-      "odeur de soufre",
-      "crypte"
+      "Couloir",
+      "Sacré",
+      "Tentes",
+      "Colonne",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

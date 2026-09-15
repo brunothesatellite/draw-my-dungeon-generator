@@ -1,13 +1,13 @@
 {
   "268": {
-    "title": "La Chambre des Rituels",
-    "description": "L'ambiance mysterious pèse sur la pièce. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. L'humidité y règne, et le sol est marqué de spirales énigmatiques. Au centre, un grand cercle de pierre semble aspirer ton regard. Des tentacules et un œil écarlate sont gravés sur les murs, tandis que des colonnes majestueuses soutiennent le plafond. Un tableau de bois, ancien et usé, repose sur une table en bois, et une silhouette fantomatique plane au-dessus du cercle central. L'odeur de soufre et d'humus flotte dans l'air, et un murmure lointain parais provenir de l'eau qui coule au fond de la pièce. La tension est palpable, et tu sens que quelque chose de profondément ancien et maléfique se cache dans cette chambre.",
+    "title": "Égout des Anciens",
+    "description": "Tu te trouves dans un égout immense, rectangulaire et sombre. Les murs sont humides et recouverts de spirales mystérieuses gravées dans le béton. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Des tentacules émergent des parois, leurs yeux lumineux fixant le visiteur. Un grand baril de bois, usé par le temps, repose au fond de l'égout, tandis qu'une table en bois sombre est posée contre le mur. Le tout est plongé dans une ambiance étrange et mystérieuse, comme si l'égout était le témoin d'anciennes cérémonies rituelles. Des traces de pas fantomatiques se dessinent sur le sol, et l'eau stagnante au fond révèle des reflets étranges. Les tentacules semblent attendre, prêts à s'agripper à qui osera approcher.",
     "tags": [
+      "épouvantail",
       "rituel",
-      "mystère",
-      "ancien",
-      "soufre",
-      "tentacules"
+      "égout",
+      "tentes",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

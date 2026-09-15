@@ -1,13 +1,13 @@
 {
   "8": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. L'air est lourd et humide, comme si la chaleur stagnait au fond de cette crypte. Devant toi, un autel rectangulaire domine la pièce, son marbre noir contrastant avec les murs grisâtres. Des tentacules et des crânes de mort sont suspendus aux murs, des symboles énigmatiques gravés dans le marbre. Des spirales et des croix marquent le sol, comme si quelqu'un avait tenté de dessiner un rituel. Les colonnes massives et les piliers robustes soutiennent le plafond, mais tu sens une présence étrange qui plane dans l'air. Tu aperçois un mystérieux objet posé sur l'autel, mais tu ne peux pas distinguer ce qu'il est. Un murmure lointain te parvient, comme si quelqu'un ou quelque chose observait tes pas. La porte se trouve à l'extrémité de la pièce, dissimulée par un rideau de tissu noir. Tu sens une menace latente, comme si la salle était gardée par des forces obscures.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "Vous pénétrez dans une salle immense, aux murs couverts de colonnes massives et de pilastres sculptés. La lumière tamisée émane des fenêtres étroites, laissant filtrer une lueur sombre qui éclaire les spirales et les croix gravées sur le sol. L'atmosphère est oppressante, comme si la présence des anciens observateurs vous observait depuis les ténèbres. Des objets mystérieux sont disséminés un peu partout, leurs formes étranges et leurs couleurs énigmatiques. Des tentacules et des têtes de mort ornent les murs, ajoutant à l'aura sacrée et sinistre de la pièce. Un autel central, orné de tentacules, semble être le point focal de cette chambre. Un murmure lointain et un fantôme de présence flottent dans l'air, rendant l'atmosphère encore plus étrange. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets aux courageux explorateurs qui oseront l'ouvrir.",
     "tags": [
-      "sacré",
+      "salle sacrée",
+      "anciens",
       "ténèbres",
-      "rituel",
-      "présence étrange",
-      "autel"
+      "mystère",
+      "rituels"
     ],
     "sourceFeatures": {
       "roomSize": "large",

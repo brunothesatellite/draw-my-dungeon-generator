@@ -1,17 +1,13 @@
 {
   "342": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. Des têtes de mort sculptées dans le linteau t'observent, leurs orbites vides semblant te fixer. Des tentacules étranges, comme ceux d'un ancien monstre marin, sont gravés dans le mur de droite, ajoutant une note de terreur à l'atmosphère mystérieuse. Au centre de la pièce, un autel, recouvert de cercles rituels et de glyphes runiques, parais attendre un rituel ancien. Des statues de pierre, étranges et déformées, gardent le secret de la salle. Le tableau au mur, avec le numéro 349, parais être un point de repère pour les explorateurs. Un spider, sa toile tendue, tuobserve de l'ombre. L'odeur de soufre et de vieux papier brûlé flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un secret ancien. La tension est palpable, chaque détail racontant une histoire de terreur et de mystère.",
+    "title": "Grotte des Tonneaux et de la Pierre Étrange",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. La lumière pénètre à peine à travers des fissures minuscules, créant un halo de faible éclat qui éclaire les tonneaux empilés au fond de la grotte. Une boîte métallique est posée sur l'un des tonneaux, et à côté, une pierre étrange avec des pointes émerge de la terre. Des cercles rituels et des glyphes runiques sont gravés dans le sol, tandis que des piliers et des statues ornent les murs. Un tableau avec le numéro 349 est accroché au mur, ajoutant une touche de mystère à l'atmosphère déjà ancienne et mystérieuse. Une porte ouverte au fond de la grotte laisse entrevoir une eau stagnante, ajoutant une note de danger à cette ancienne et énigmatique grotte.",
     "tags": [
+      "grotte",
       "rituel",
-      "salle de rituel",
-      "tête de mort",
-      "tentacules",
-      "spider",
-      "soufre",
-      "vieillie",
+      "ancienne",
       "mystérieuse",
-      "ancien"
+      "tonneaux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

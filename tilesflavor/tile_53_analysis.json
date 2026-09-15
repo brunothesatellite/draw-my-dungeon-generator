@@ -1,16 +1,13 @@
 {
   "53": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres usées éclaire des têtes de mort sculptées dans le linteau, comme des gardiens silencieux. Le sol, recouvert de cercles rituels, murmure des secrets anciens. Des tentacules, comme ceux d'un monstre marin, semblent peupler les murs, ajoutant une note d'horreur à l'atmosphère sinistre. Un autel central, orné de piliers massifs, parais être le cœur de cette salle, où des sacrifices ont peut-être eu lieu. La chaleur humide et l'odeur de soufre flottent dans l'air, tandis que l'eau stagnante au fond de la pièce menace de vous engloutir. La tension est palpable, chaque bruit résonnant comme un appel à l'aide.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est étroite et rectangulaire, avec un sol couvert de cercles rituels. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, et une table sombre est placée au centre de la pièce. Un crâne humain, intact, repose sur la table, comme un symbole de sacrifice. L'eau stagnante au sol indique un danger potentiel. Cette salle est dédiée à des rituels obscurs, et les grilles au fond semblent être les seules sorties de cette crypte ancienne.",
     "tags": [
       "rituel",
       "sacrifice",
+      "crypte",
       "tête de mort",
-      "tentacules",
-      "salle de rituel",
-      "atmosphère sinistre",
-      "eau stagnante",
-      "vieillie"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

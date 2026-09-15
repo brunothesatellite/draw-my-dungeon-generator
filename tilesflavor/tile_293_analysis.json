@@ -1,12 +1,12 @@
 {
   "293": {
-    "title": "L'Abîme des Sombres Rituels",
-    "description": "Des tentsacles couvrent les murs. La pièce est immense, ses murs irréguliers et humides, éclairée par une lumière diffuse qui semble provenir de nulle part. Des tentacules phosphorescents s'enroulent autour des colonnes, leurs formes sinistres évoquant des créatures obscures. Le sol est marqué de spirales sombres, comme si une force maléfique avait dessiné ces motifs. Au centre, un autel sombre attire ton regard, son autel en pierre noire paraissant avoir été sculpté par des mains malveillantes. Un crâne humain, dépourvu de mâchoires, repose sur l'autel, son regard vide paraissant t'observer. L'odeur de soufre et d'humidité âcre te pénètre les narines, et un murmure lointain parais résonner dans l'air. L'eau, stagnante et trouble, coule lentement vers le bas, formant un bassin sombre au cœur de la salle. L'atmosphère est oppressante, et tu sens que quelque chose de terrible se cache dans l'ombre.",
+    "title": "L'Abîme des Tentacules",
+    "description": "Vous vous trouvez dans un abîme immense, ses parois irrégulières et rugueuses semblent s'effondrer sous vos pieds. La lumière est si faible que vous ne pouvez distinguer que les contours des tentacules qui pendent des murs, semblant vouloir vous attraper. L'air est saturé d'une odeur nauséabonde, et l'humidité vous pèse sur la peau. Des spirales mystérieuses marquent le sol, semblant indiquer un chemin à suivre. Des colonnes majestueuses, comme sorties d'un autre monde, se dressent au milieu de l'abîme, ajoutant à l'atmosphère sinistre. Un autel, étrangement intact malgré l'atmosphère lugubre, se dresse au centre de l'espace, comme témoin d'anciennes cérémonies. Le fond de l'abîme est un lac noir, sombre et trouble, où des tentacules s'agitent, prêts à vous engloutir. Vous sentez une présence malveillante, comme si l'abîme lui-même était un être vivant, prêt à vous avaler.",
     "tags": [
-      "rituel",
-      "sombre",
-      "créature",
       "abîme",
+      "rituel",
+      "tentes",
+      "sombre",
       "mystère"
     ],
     "sourceFeatures": {

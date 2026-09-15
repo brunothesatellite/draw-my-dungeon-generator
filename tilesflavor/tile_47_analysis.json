@@ -1,14 +1,13 @@
 {
   "47": {
-    "title": "La Salle des Tentes de la Mort",
-    "description": "Des tents of death couvrent les murs. La lumière naturelle filtre à travers une fenêtre au fond, révélant une pièce rectangulaire immense, recouverte d'une épaisse couche de mousse. Les murs, anciens et fissurés, sont ornés de tentes de la mort, de sombres figures déformées qui semblent observer chaque mouvement. Un autel central, entouré de colonnes massives, attire ton regard. Des inscriptions mystérieuses gravées dans le sol forment un cercle rituel, et un vieux tableau, posé sur une table, parais attendre son destin. L'odeur de la moisissure et de l'humidité ancienne se mêle à l'air, créant une atmosphère glauque et ancienne. Le sol, couvert de mousse, est glissant et risque de te faire trébucher. Devant toi, une seule porte s'ouvre, menant à l'inconnu. La tension monte avec chaque pas que tu fais dans cette salle sacrée, où les secrets de l'ancien se cachent derrière chaque mur.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté. La lumière naturelle filtre à travers une fenêtre au fond, éclairant la pièce d'une lueur diffuse. La moiteur de l'air est perceptible, et des taches de mousse s'accumulent sur le sol, où un cercle rituel est gravé au centre. Des colonnes majestueuses soutiennent le plafond, et des tentes de mort ornent les murs, ajoutant une atmosphère de mystère et d'ancienneté. Un grand autel occupe l'angle, et un vieux tableau est posé contre le mur, mais il est difficile de distinguer ce qu'il représente. La seule sortie mène à un couloir sombre, et le sol humide est un danger à ne pas négliger.",
     "tags": [
-      "salle sacrée",
+      "salle",
       "ancien",
-      "mystère",
-      "mossy floor",
       "rituel",
-      "tentes de la mort"
+      "mystère",
+      "mystique"
     ],
     "sourceFeatures": {
       "roomSize": "large",

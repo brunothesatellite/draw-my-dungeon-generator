@@ -1,20 +1,20 @@
 {
   "303": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Un pilier occupe le centre de l'espace. Le sol s'ouvre sous tes pieds, révélant un espace étroit et sombre. La lumière est faible, mais tu perçois vaguement des ombres qui se déplacent dans l'obscurité. Les murs, vieillis et rugueux, sont ornés de têtes de mort et de tentacules qui semblent émerger du sol. Un cercle rituel tracé au sol attire ton regard, et tu sens une présence indéfinissable qui t'observe. Au centre de la pièce, un autel, recouvert de sang séché, parais attendre un sacrifice. Les tentacules qui t'entourent paraissent vivants, et tu entends un murmure lointain qui résonne dans ta tête. L'air est lourd et humide, et tu perçois une odeur de soufre qui te pique les narines. Devant toi, un pilier massif parais soutenir le plafond, mais tu sais que derrière lui se cache une menace latente. L'atmosphère est sinistre, et tu te demandes ce que cette salle de rituel cache vraiment.",
+    "title": "Abîme des Anciens",
+    "description": "Dans l'obscurité qui règne, un abîme s'ouvre devant vous. Des pierres de différentes tailles sont disposées en un cercle parfait, au centre de ce qui semble être un bassin d'eau trouble. Une épée, luisante et ancienne, repose au milieu de ce cercle, son manche en bois usé et son acier ébréché. Un pont de corde, noué avec précision, traverse l'abîme, offrant un passage vers l'autre côté. Les murs de cette salle sont vieillis, leurs pierres érodées par le temps et les éléments. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des tentacules, noirs et sinistres, semblent sortir des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. Un autel, dépourvu de tout objet, se dresse au fond de la salle, comme témoin des rituels passés. L'air est chargé d'une odeur de mort et de mystère, et les ombres dansent sur les murs, créant des silhouettes étranges. Les tentacules semblent toujours prêts à se déplacer, ajoutant une menace constante à l'endroit.",
     "tags": [
+      "abîme",
       "rituel",
       "tentacules",
-      "soufre",
-      "vieillie",
-      "abîme"
+      "épée",
+      "salle de rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "irrégulière",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "pilier",
+      "centralFeature": "piliers",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

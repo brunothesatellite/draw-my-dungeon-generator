@@ -1,13 +1,13 @@
 {
   "374": {
-    "title": "La Salle du Sorcier",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère oppressante qui plane dans cette pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent raconter des histoires d'horreur. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Au centre, un autel, entouré de barils, attire ton regard. Des bougies et des potions sont disposées sur une table, mais l'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère encore plus menaçante. Un squelette, bientôt intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'eau stagnante, visible dans un coin, ajoute une touche de danger à cette ancienne salle de rituel. La tension est palpable, et tu sens que quelque chose de terrible a eu lieu ici il y a longtemps.",
+    "title": "Salle des Rituels Anciens",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les étagères en laiton qui s'élèvent jusqu'au plafond. Des cercles rituels marquent le sol, et les piliers massifs donnent une impression de vieilles pierres. Une table en bois, légèrement usée, supporte des potions colorées et des bougies qui créent une ambiance mystérieuse. Un autre livre de sorts, bien conservé, est posé à côté. La salle semble avoir été utilisée pour des rituels anciens, et l'eau stagnante au fond de la pièce ajoute à l'atmosphère menaçante. Des têtes de mort et des tentacules sont visibles sur les murs, témoignant de l'ancienne magie qui réside ici.",
     "tags": [
-      "rituel ancien",
-      "salle de sorcier",
-      "atmosphère menaçante",
-      "vieillie",
-      "squelette"
+      "rituel",
+      "sorcier",
+      "ancien",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "282": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Les murs, usés et couverts de mousse, semblent avoir été oubliés depuis des siècles. Des colonnes massives, comme des monolithes, se dressent de part et d'autre de la pièce, leurs pierres luisant d'une étrange éclatante. Au centre, un autel, dépourvu de tout objet, parais attendre un rituel ancien. Des têtes de mort sculptées dans le mur, leurs yeux vides, te regardent avec une froideur glaçante. Des tentacules, comme sortis d'un cauchemar, s'enroulent autour des piliers, ajoutant une touche de terreur à l'atmosphère. Des cercles rituels gravés dans le sol, comme des cercles d'ombre, attirent ton regard. Tu sens une odeur de soufre et de mort qui te pénètre les narines, te rappelant l'ancienneté et la puissance de cette salle. Des traces de créature, comme si quelque chose avait erré ici récemment, te font frissonner. Devant toi, une porte murée, taillée dans le mur, parais être le seul moyen de quitter cette crypte. L'eau stagnante, noire et trouble, s'écoule lentement vers le bas, créant un murmure sinistre. La tension est palpable, chaque coin de cette salle parais cacher un danger ancien et oublié.",
+    "title": "L'Égout Mort",
+    "description": "Dans l'ombre de cette petite et rectangulaire salle, l'atmosphère est pesante et mystérieuse. La faible lumière qui filtre à travers les fissures dans le plafond révèle des murs vieillis, marqués de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des piliers et des colonnes, ornés de têtes de mort et de tentacules, soutiennent le plafond, ajoutant une touche d'effrayante étrangeté à l'ensemble. Un autel, placé au centre de la pièce, semble être le point focal de cette ancienne salle de rituel. L'eau stagnante qui remplit la moitié de la pièce est un danger à ne pas sous-estimer, car elle cache des créatures indéfinies. La porte murée qui ferme l'entrée semble être le seul moyen de quitter cette étrange et ancienne pièce.",
     "tags": [
-      "ancien",
+      "égoût",
       "rituel",
-      "mystère",
-      "creatures",
-      "soufre"
+      "vieillie",
+      "mystérieuse",
+      "ancienne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

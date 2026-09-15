@@ -1,13 +1,13 @@
 {
   "406": {
-    "title": "La Salle des Rituels",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. L'atmosphère est oppressante, presque palpable. Au centre de la pièce, un autel sombre attire le regard, entouré de tentacules et de têtes de mort sculptées dans le mur. Des cercles rituels marquent le sol, et une table, simple et ancienne, occupe un coin. Des traces de pas, comme si quelqu'un avait récemment quitté la pièce, sont visibles sur le sol. L'odeur de soufre et de vieux papier humide flotte dans l'air, tandis que l'eau stagnante menace de s'écouler du mur. La tension est palpable, et un murmure lointain semble provenir de l'angle sombre de la pièce. La porte ouverte laisse entrevoir un passage étroit qui parais mener à d'autres mystères.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle de cuisine semble avoir été transformée en lieu de culte. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules, symboles de la puissance et de la corruption. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Un autel central, recouvert de tissus sombres, domine la pièce. La faible lumière qui pénètre à travers les fenêtres voilées accentue l'atmosphère mystérieuse et ancienne. Des traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'eau stagnante dans un coin ajoute à l'ambiance lugubre. La porte ouverte laisse entrevoir un passage sombre qui semble mener à d'autres secrets enfouis.",
     "tags": [
       "rituels",
+      "sacrifices",
       "vieillie",
       "mystérieuse",
-      "tentacules",
-      "soufre"
+      "ancienne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

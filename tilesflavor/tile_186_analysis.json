@@ -1,13 +1,13 @@
 {
   "186": {
-    "title": "La Chambre Sacrifie-le",
-    "description": "Des tentsacles couvrent les murs. Au centre, un autel ou une plateforme carrée attire l'œil, ornée de tentacules et de crânes de morts, comme si elle avait été le témoin de rituels obscurs. Des spirales et des hachures gravées dans le sol évoquent des symboles anciens, peut-être des runes de sacrifice. Des tables et des chaises sont éparpillées autour, comme si quelqu'un avait fui précipitamment. L'air est chargé d'une odeur de soufre et de mort, et un murmure lointain parais provenir de l'ombre. Des monstres éventuels pourraient se cacher dans les recoins, prêts à bondir. La tension est palpable, et l'atmosphère est si étrange qu'elle paraît presque vivante.",
+    "title": "Chambre des Sacrifices",
+    "description": "La chambre est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté qui laisse filtrer une lumière naturelle provenant d'un trou au sommet. Les colonnes massives, ornées de motifs spirales et hachurés, soutiennent un sol de pierres étranges, marqué de spirales et de lignes hachurées qui semblent avoir été gravées par des forces obscures. Des tables et des chaises, usées par le temps, sont alignées contre les murs, comme si des rituels sacrés y avaient été effectués. Les tentacules et les têtes de mort, suspendus aux murs, ajoutent une atmosphère de terreur et de mystère à l'ensemble. L'escalier descendant, large et majestueux, semble mener à un lieu encore plus sombre et inconnu. Les murs sont décorés de tentacules et de têtes de mort, et l'air est saturé d'une odeur de poussière et de mystère ancien. La chambre est délabrée, mais les traces de rituels et de sacrifices sont encore visibles, rendant l'endroit terrifiant et imprévisible.",
     "tags": [
       "sacrifice",
       "rituel",
-      "ancien",
       "mystère",
-      "désolation"
+      "terreur",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "large",

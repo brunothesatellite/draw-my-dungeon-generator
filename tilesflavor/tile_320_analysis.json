@@ -1,18 +1,13 @@
 {
   "320": {
-    "title": "Le Chemin des Abîmes",
-    "description": "Tu te retrouves plongé dans un étroit passage étroit, ta respiration s'accélère sous l'effet de l'angoisse. Devant toi s'ouvre une salle immense, ses murs irréguliers et décrépits semblent s'effondrer à tout moment. La lumière tamisée émane d'une source lointaine, révélant un large pilier central, comme une colonne de pierre éternelle. Des tentacules et des tombes ornent les murs, tandis que des araignées tissent des toiles sur le sol, où des spirales mystérieuses paraissent gravées dans le béton. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence étrange, comme si quelque chose t'observait depuis les ténèbres. Les colonnes et les piliers paraissent murmurer des secrets anciens, et tu te demandes si cette salle n'est pas un lieu de rituel, un sanctuaire aux murs chargés de mystères. Les araignées tissent leurs toiles, prêtes à bondir, tandis que les spirales tournent sous tes pieds, comme si elles étaient vivantes. Tu te demandes si tu as vraiment le droit d'être ici.",
+    "title": "Passage des Abîmes",
+    "description": "Le passage s'inscrit entre deux abîmes, des gouffres profonds et sombres qui semblent avaler tout ce qui s'approche. Le sol est un tapis de spirales et de taches de sang, marqué par les traces de centaines d'araignées qui se sont échappées de ces abîmes. Des colonnes et des piliers de pierre, usés par le temps et les éternités, se dressent de partout, offrant un soutien instable à l'endroit. Des tentacules de créatures obscures, visibles à travers les fissures dans les parois, semblent surveiller les environs. Des tombes éternelles, sculptées dans la pierre, sont disséminées ici et là, rappelant l'ancienneté et la puissance des forces qui règnent dans ces abîmes. La lumière est faible, filtrant à travers des couches de poussière et de débris, créant un éclairage tamisé qui rend l'atmosphère encore plus étrange et menaçante. Les abîmes semblent aspirer tout ce qui s'approche, et le passage est un lieu de transition entre deux mondes, où le temps et l'espace se confondent.",
     "tags": [
-      "abîme",
-      "rituel",
-      "tentacules",
-      "spiral",
-      "araignées",
-      "soufre",
-      "mystère",
-      "dilapidé",
-      "ancien",
-      "salle de rituel"
+      "Passage",
+      "Abîme",
+      "Rituel",
+      "Tentacules",
+      "Spirales"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "247": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Tu te retrouves plongé dans un espace rectangulaire, immense et sombre. La lumière tamisée émane des fenêtres hautes, révélant un plafond voûté et des colonnes massives qui semblent veiller sur toi. Les murs, couverts de tapisseries sombres et de masques étranges, te donnent l'impression d'être dans un sanctuaire ancien. Des spirales mystérieuses marquent le sol, et l'eau qui y coule laisse des traces glissantes sous tes pieds. Au centre de la pièce, un autel vide attire ton regard, comme si quelque chose y avait été sacrifié récemment. Des figures fantomatiques flottent dans l'air, ajoutant une note d'étrangeté à l'atmosphère déjà étrange. La tension est palpable, et tu sens que quelque chose de malveillant t'observe depuis les ombres. Les colonnes et les tapisseries paraissent vibrer légèrement, comme si elles étaient animées d'une vie propre. La chaleur humide et l'odeur de soufre te pénètrent les narines, te rappelant que tu es bien loin de la lumière du jour.",
+    "title": "Siphon des Sacrifices",
+    "description": "Au cœur de la ville abandonnée, un siphon mystérieux s'élève dans un couloir rectangulaire, plongé dans une ambiance lugubre. Les murs, ornés de tentes et de masques étranges, semblent raconter des secrets anciens. Des motifs de spirales et de l'eau stagnante marquent le sol, ajoutant à l'atmosphère étrange de ce lieu. Les colonnes et les piliers, robustes et imposants, soutiennent le plafond voûté, mais la lumière tamisée révèle des traces de condensation qui donnent l'impression que le lieu est humide et froid. L'altar, placé au centre, semble attendre un rituel sacré, bien que personne ne sache à quoi il sert. Des fantômes flottent dans l'air, leurs silhouettes floues et fantomatiques, ajoutant une note d'effroi à l'atmosphère déjà sinistre. Les risques sont nombreux : le sol glissant et les pièges cachés attendent les explorateurs imprudents. Le siphon des Sacrifices est un lieu où l'histoire et le mystère se mêlent, et où les secrets les plus profonds de la ville sont peut-être encore enfouis.",
     "tags": [
+      "couloir",
       "sacrifice",
-      "ancien",
       "mystère",
-      "étrangeté",
-      "tension"
+      "fantôme",
+      "siphon"
     ],
     "sourceFeatures": {
       "roomSize": "large",

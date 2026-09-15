@@ -1,16 +1,13 @@
 {
   "254": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette petite salle rectangulaire. L'humidité est palpable, et l'odeur de soufre te pique les narines. Devant toi, un autel central attire ton regard. Des têtes de mort et des tentacules décorent les murs, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des barils de bois sont disséminés un peu partout. Tu sens une présence étrange, comme si quelque chose t'observait. L'eau stagnante au fond de la salle murmure un secret ancien. Tu entends un murmure lointain, comme si quelqu'un se cachait dans les ombres. La tension monte à chaque pas que tu fais. Que cherchent-ils ici ?",
+    "title": "Égout Rituel",
+    "description": "Tu te trouves dans un étroit couloir rectangulaire, recouvert d'une grille métallique au sol. La faible lumière qui filtre à travers les poutrelles de bois éclaire vaguement les murs humides et les piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien culte. Le mobilier, délabré, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre est accentuée par l'humidité qui plane dans l'air, et l'eau stagnante qui s'accumule dans les coins. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui a régné ici. Les piliers majestueux, ornés de détails architecturaux, semblent témoigner d'une époque où ce lieu était sacré. Les cercles rituels marquent le passage d'un culte ancien, et les têtes de mort et les tentacules évoquent les forces obscures qui y ont vécu.",
     "tags": [
-      "salle de rituels",
-      "crypte",
+      "égoût",
+      "rituel",
       "têtes de mort",
       "tentacules",
-      "cercles rituels",
-      "piliers",
-      "eau stagnante",
-      "atmosphère sinistre"
+      "ancien culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "79": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches et de crachats, sont ornés de têtes de mort et de tentacules qui paraissent avoir été dessinés avec une étrange précision. Au centre, un autel, vieilli et recouvert de poussière, attire ton regard. Des cercles rituels gravés dans le sol te font tiquer. Des piliers robustes soutiennent le plafond, et une table, usée par le temps, est placée près de l'autel. Un oiseau, peut-être un corbeau, tuobserve depuis un coin de la pièce. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te déplacer avec prudence. La porte, à l'extrémité de la pièce, parais fermée, mais pas complètement. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est oppressante, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Salle des Barils Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Des barils de bois, usés par le temps, sont empilés contre le mur, leur contenu inconnu. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Une table, recouverte d'un tissu usé, est placée devant l'autel. L'eau stagnante, noire et trouble, remplit une partie du sol, rendant la pièce dangereuse. À l'entrée, une porte ancienne semble fermée par une serrure ancienne. L'air de la salle est chargé d'une odeur de mystère et de vieilles cérémonies. Les cercles rituels et les barils semblent être les témoins d'anciennes pratiques sacrées.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "soufre"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Mystère",
+      "Barils"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

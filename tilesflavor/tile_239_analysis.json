@@ -1,13 +1,13 @@
 {
   "239": {
-    "title": "La Salle des Rituels Sacrés",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce irrégulière, vieillie et délabrée. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps sombres. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils anciens sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, accentuant l'atmosphère sinistre. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, visible dans un coin, parais prête à vous piéger. Tu te demandes qui a pu utiliser cette salle pour des rituels aussi obscurs.",
+    "title": "Crypte du Dragon",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures qui se détachent. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et le mobilier ancien, usé, semble avoir été abandonné depuis longtemps. Le dessin de tête de dragon, peint en noir sur le mur, semble avoir été peint avec une énergie malveillante. Des têtes de mort et des tentacules peints flottent dans l'air, ajoutant à l'atmosphère sinistre de la pièce. L'eau stagnante, noire et trouble, remplit une partie du sol, rendant la pièce encore plus dangereuse.",
     "tags": [
-      "rituels",
-      "sombre",
-      "vieillie",
-      "sacrés",
-      "anciens"
+      "Crypte",
+      "Dragon",
+      "Salle de Rituels",
+      "Atmosphère Sinistre",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Salle ouverte avec dessin de tête de dragon",
       "tileNumber": 239

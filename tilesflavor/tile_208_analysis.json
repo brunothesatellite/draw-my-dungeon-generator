@@ -1,21 +1,13 @@
 {
   "208": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère ancienne et mystérieuse qui plane dans l'air. Le sol est recouvert de cercles rituels, et les murs, vieillis, sont ornés de têtes de mort et de tentacules qui semblent émerger du plafond. Un autel central attire ton regard, et des piliers robustes soutiennent le plafond. Des barils de bois ancien sont disséminés un peu partout, et des pièges anciens sont dissimulés dans les recoins. L'eau stagnante coule lentement au fond de la salle, et tu sens une odeur de soufre et de mort qui te pique les narines. La tension est palpable, et tu sens que quelque chose de glaçant se cache dans l'ombre.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sombre, éclairé par une faible lumière qui filtre à travers des fissures dans le plafond. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage d'un rituel ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'ambiance de décrépitude. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger potentiel pour les explorateurs. Le passage des Anciens est un lieu de rituels, où les anciens pratiquaient des cérémonies sombres et mystérieuses.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "tête de mort",
-      "tentacules",
-      "autel",
-      "piliers",
-      "barils",
-      "pièges",
-      "eau stagnante",
-      "odeur de soufre"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Ancienneté"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

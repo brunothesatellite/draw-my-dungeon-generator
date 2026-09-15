@@ -1,13 +1,13 @@
 {
   "196": {
-    "title": "La Salle des Sacrifices",
-    "description": "La porte magique s'ouvre avec un grincement sinistre, révélant une salle étroite et sombre, où la lumière filtre à peine à travers des fenêtres brisées. Les murs, usés par le temps, sont recouverts de têtes de mort sculptées et de tentacules qui semblent se mouvoir dans l'ombre. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues de pierre gardent le secret de la salle, tandis que des cercles de lumière éclairent les inscriptions mystérieuses gravées sur le sol. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos. Des pièges attendent à chaque coin, prêts à vous piéger.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Cette salle, de taille petite et de forme irrégulière, émane d'une atmosphère sinistre et mystérieuse. La faible lumière qui pénètre à travers les fissures dans le plafond révèle des cercles rituels et des glyphes runiques gravés dans le sol, marquant l'ancienneté et la puissance de ce lieu. Les murs vieillis sont ornés de statues et de piliers, ajoutant à l'aura sacrée de la pièce. Des têtes de mort et des tentacules émergent des murs, rappelant les anciens rituels et les créatures qui y ont vécu. Le mobilier ancien est dispersé autour de l'espace, ajoutant une touche d'obscure sophistication. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est le cœur des rituels les plus sacrés et les plus puissants de la crypte.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "sombre",
-      "vieillie",
-      "mystère"
+      "rituels",
+      "sacrés",
+      "anciens",
+      "mystérieux",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

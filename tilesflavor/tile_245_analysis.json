@@ -1,14 +1,13 @@
 {
   "245": {
-    "title": "Salle des Anciens",
-    "description": "Un pilier occupe le centre de l'espace. La lumière faible révèle une pièce petite, aux murs vieillis et aux plafonds bas. Un pilier central domine la pièce, entouré de reliefs sculptés qui semblent narrer des mythes anciens. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et un autel se dresse au centre, comme si des sacrifices avaient eu lieu ici. Des traces de pas indiquent que quelqu'un a récemment visité cette pièce. L'atmosphère est mystérieuse et ancienne, comme si la salle était gardée par des forces obscures. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à tout moment. La chaleur humide et l'odeur de soufre t'enveloppent, ajoutant à l'ambiance oppressante de la salle.",
+    "title": "Siphon des Anciens",
+    "description": "Au cœur de l'obscurité, un siphon étroit et sinistre vous attend. La lumière y est si faible que vous devez vous fier à vos sens pour vous guider. Les murs, usés par le temps, sont ornés de reliefs sculptés représentant des créatures étranges et des symboles mystérieux. Des cercles rituels gravés dans le sol vous rappellent l'ancienne puissance qui réside ici. Un pilier central, vieilli et recouvert de têtes de mort et de tentacules, domine la pièce. Un autel, dépourvu de tout objet, semble attendre un culte ancien. L'atmosphère est oppressante, et les traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'ouverture à l'autre bout du siphon cache des pièges anciens prêts à vous piéger.",
     "tags": [
-      "rituel",
-      "salle de culte",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "pièges"
+      "salle de rituel",
+      "ancien",
+      "mystère",
+      "siphon",
+      "creatures étranges"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

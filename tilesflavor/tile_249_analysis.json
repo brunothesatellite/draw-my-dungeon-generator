@@ -1,13 +1,13 @@
 {
   "249": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière tamisée pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels marquent le sol, tandis que des piliers robustes soutiennent le plafond. Un autel, sombre et ancien, occupe le centre de la pièce, entouré de traces de pas qui paraissent indiquer une activité récente. L'odeur de soufre et d'humidité est intense, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos.",
+    "title": "Siphon du Sacrifice",
+    "description": "Au cœur de la grotte, un siphon étroit et sinistre vous attend. Ses parois, humides et froides, sont marquées de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. L'air est chargé d'une odeur de moisi et de mystère, et l'eau stagnante qui remplit le siphon semble prête à vous engloutir. Un autel, au fond de la grotte, semble être le point focal de ce lieu, mais il est vide, laissant les mystères de son passé entourés de mystère.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "humidité",
-      "têtes de mort",
-      "tentacules"
+      "Salle de Rituels",
+      "Grotte",
+      "Siphon",
+      "Mystère",
+      "Horreur"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

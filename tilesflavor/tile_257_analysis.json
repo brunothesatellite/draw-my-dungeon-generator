@@ -1,13 +1,13 @@
 {
   "257": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Des tents couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et l'odeur de soufre te pique les narines. Devant toi, une grande piscine d'eau trouble te reflète, mais tu ne peux voir que son reflet. Les murs, recouverts de tapisseries sombres, semblent vibrer sous un murmure inquiétant. Des colonnes massives soutiennent le plafond, et leurs ombres dansent sur le sol. Des cercles et des vagues gravés dans le sol te rappellent des rituels anciens. Un autel, au centre de la pièce, parais attendre un sacrifice. Des tentes sont accrochées aux murs, comme si quelqu'un avait fui précipitamment. Tu sens une présence étrange, comme si des yeux invisibles te surveillaient. Le murmure de l'eau et le souffle de l'humidité te font frissonner. La tension est palpable, et tu sais que quelque chose de terrible se prépare.",
+    "title": "Égout avec Boîte",
+    "description": "Vous vous trouvez dans un égout immense, rectangulaire et sombre. La lumière est faible, presque inexistante, et l'air est saturé d'une odeur nauséabonde. Les murs sont humides et recouverts de traces de vagues et de cercles, comme si de l'eau avait récemment coulé. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Des tentes sont accrochées aux murs, peut-être pour dissimuler des objets précieux ou des rituels secrets. Un autel, étrangement intact dans ce lieu sinistre, semble être le point focal de cette pièce. L'eau qui coule au fond du bassin est calme, mais vous sentez une présence mystérieuse qui plane dans l'air. Il n'y a pas de sortie visible, et l'égout semble s'achever en un point obscur. Les murs sont parsemés de cercles et de marques, comme si des rituels sacrés y avaient été pratiqués. La tension est palpable, et vous avez l'impression que quelque chose de terrible se cache dans les profondeurs de cet égout.",
     "tags": [
-      "sacrifice",
-      "mystère",
-      "humidité",
+      "épave",
       "rituel",
-      "tension"
+      "sacrifice",
+      "sombre",
+      "épave sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "large",

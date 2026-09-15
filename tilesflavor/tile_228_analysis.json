@@ -1,13 +1,13 @@
 {
   "228": {
-    "title": "La Chambre Sacrée des Ombres",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des barreaux qui encadrent les cellules. Les murs, usés par le temps, sont recouverts de tentes et de crânes, tandis que des cercles rituels et des glyphes gravés dans le sol semblent murmurer des secrets anciens. Des colonnes majestueuses soutiennent le plafond, et un autel central, orné d'une statue mystérieuse, parais attendre les visiteurs. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain résonne, et tu sens une présence éthérée flotter dans l'air, comme si quelque chose t'observait depuis l'ombre. Les cellules sont fermées par des barreaux, mais tu perçois des traces de poison et de pièges dissimulés sous le sol. La tension est palpable, et tu sais que cette chambre cache des secrets bien plus profonds qu'il n'y paraît.",
+    "title": "La Prison Sacrée",
+    "description": "Dans l'obscurité qui règne dans cette prison sacrée, les cellules sont fermées par des barreaux rouillés, et les grilles au sol semblent avoir été là depuis des siècles. Les cellules, de taille modeste mais rectangulaires, sont sombres et dilapidées, leurs murs recouverts de symboles mystérieux et de cercles rituels. Des colonnes et des piliers imposants soutiennent le plafond, ajoutant à l'atmosphère étrange de l'endroit. Un autel, orné d'une statue étrange, se dresse au centre de la pièce, évoquant une ancienne cérémonie sacrée. Des tentes et des crânes sont suspendus aux murs, ajoutant une touche macabre à l'ensemble. La pièce est plongée dans une lumière diffuse, rendant l'atmosphère encore plus mystérieuse et étrange. Des gaz toxiques pourraient s'échapper à tout moment, et des pièges cachés pourraient attendre à chaque coin. Les cellules sont vides, mais l'air semble chargé d'une présence éthérée, comme si des esprits errants y avaient une présence indiscutable.",
     "tags": [
-      "sacré",
-      "ombre",
-      "mystère",
-      "vieille crypte",
-      "vieille statue"
+      "Prison",
+      "Sacrée",
+      "Mystère",
+      "Gaz Toxiques",
+      "Pièges"
     ],
     "sourceFeatures": {
       "roomSize": "large",

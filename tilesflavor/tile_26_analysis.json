@@ -1,17 +1,13 @@
 {
   "26": {
-    "title": "Le Sanctuaire des Anciens",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière d'Emma, révélant un espace immense et rectangulaire, aux murs couverts de tentacules et de têtes de mort. L'air est chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de colonnes massives et de pilastres, attire ton regard. Des spirales et des lignes gravées dans le sol te font scruter chaque détail. Des créatures étranges, invisibles, semblent t'observer depuis les ombres. L'atmosphère est oppressante, mais tu sens une puissance ancienne et mystérieuse qui résonne dans cette salle sacrée.",
+    "title": "Canal Sacré des Anciens",
+    "description": "Au cœur de la ville souterraine, un canal d'eau sombre et étroit s'inscrit entre deux murs de pierre ancienne. Le pont en bois, usé par le temps, semble être la seule voie pour traverser ce passage étroit. Les murs, ornés de tentacules et de têtes de mort, racontent des histoires d'anciennes puissances. Des spirales et des lignes gravées dans le sol indiquent un ancien rituel, peut-être sacré. La lumière tamisée émane des colonnes et des piliers, créant une ambiance mystérieuse et presque sacrée. Les murs sont recouverts de peintures sombres représentant des créatures mythiques, ajoutant à l'atmosphère étrange de ce lieu. Les vestiges d'anciennes pierres sculptées et de meubles indiquent que ce canal était autrefois un lieu de culte, peut-être même un sanctuaire. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les créatures qui habitent les profondeurs obscures de la ville.",
     "tags": [
-      "salle sacrée",
-      "tentacules",
-      "têtes de mort",
-      "colonne",
-      "spirale",
-      "odeur de soufre",
-      "creatures invisibles",
-      "atmosphère mystérieuse",
-      "puissance ancienne"
+      "canal",
+      "sacré",
+      "ancien",
+      "rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

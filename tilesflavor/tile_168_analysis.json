@@ -1,13 +1,13 @@
 {
   "168": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Un autel central, entouré de cercles rituels, attire immédiatement l'attention. Les piliers robustes soutiennent le plafond, et l'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère mystérieuse et menaçante. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans les ombres.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant de faibles taches de verdure sur le sol et les murs. Des champignons de toutes tailles poussent ici et là, leurs têtes émergent des crevasses et des fissures. Le sol est recouvert de feuilles mortes et de débris, laissant entrevoir des cercles rituels gravés dans la roche. Des piliers de pierre se dressent ici et là, ajoutant à l'ambiance mystérieuse de la grotte. L'air est humide et chargé d'une odeur de terre et de champignons. La grotte semble vieillie, avec des traces de vieilles peintures murales qui se détachent. L'eau stagnante s'accumule dans les coins, créant un miroir sombre qui reflète les ombres et les formes de la grotte. La présence de têtes de mort et de tentacules gravés sur les murs ajoute une touche d'horreur à l'atmosphère déjà menaçante. Les cercles rituels indiquent que cette grotte a probablement été utilisée pour des rituels ou des cultes. La grotte est petite et rectangulaire, avec un sol légèrement incliné vers l'entrée.",
     "tags": [
-      "rituel",
-      "mystère",
-      "vieillissement",
-      "tête de mort",
-      "tentacules"
+      "Grotte",
+      "Champignons",
+      "Rituels",
+      "Mystérieuse",
+      "Menaçante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

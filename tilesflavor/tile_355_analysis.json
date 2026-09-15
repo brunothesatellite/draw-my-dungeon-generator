@@ -1,13 +1,13 @@
 {
   "355": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers une fenêtre brisée éclaire des têtes de mort sculptées dans le mur, un symbole de la cruauté qui réside ici. Au centre, un autel sombre, entouré de cercles rituels gravés dans le sol, semble inviter à des sacrifices. Des piliers massifs soutiennent le plafond, tandis que des tentacules émergent des coins, prêts à frapper. La chaleur humide et l'odeur de soufre vous enveloppent, et un murmure lointain parais provenir de l'eau stagnante qui remplit une partie de la salle. Les tentacules, toujours prêts à se déplacer, ajoutent une tension palpable à l'atmosphère sinistre de cette salle de rituel.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Cette petite salle rectangulaire, aux murs vieillis et aux piliers massifs, émane d'une atmosphère sinistre. La faible lumière qui filtre à travers les fenêtres fêlées révèle des cercles rituels gravés dans le sol, entourant un autel central. Des têtes de mort sont suspendues aux murs, ajoutant à l'aura macabre de la pièce. Une table, simple et ancienne, repose au milieu de la salle, tandis qu'un tonneau et une boîte en bois sont posés à un angle. L'eau stagnante, noire et trouble, remplit une partie de la pièce, créant un danger potentiel. Les murs sont décorés de têtes de mort, et les piliers majestueux ajoutent une touche de mystère à cette salle de rituel sacré.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "tentacules",
-      "vieillie",
-      "sinistre"
+      "Salle de Rituels",
+      "Salle Sacrée",
+      "Salle Ancienne",
+      "Salle Macabre",
+      "Salle de Donjon"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

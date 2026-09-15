@@ -1,13 +1,13 @@
 {
   "4": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Un statue occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, une statue massive domine le centre de la pièce, son visage déformé par les temps qui passent. Des tentacules et des crânes de mort sont suspendus aux murs, comme des reliques d'une civilisation oubliée. Sur le sol, des spirales et des croix marquent le sol, comme si quelqu'un avait tenté de communiquer avec les forces obscures. Les colonnes massives, sculptées de motifs énigmatiques, semblent veiller sur la statue. Un autel, au centre de la pièce, parais attendre un culte perdu au fil des siècles. Les inscriptions sur les murs, des glyphes mystérieux, paraissent murmurer des secrets. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère lugubre. Un murmure lointain, comme si quelque chose se réveillait, résonne dans les murs. La tension est palpable, comme si la pièce était prête à se dévoiler à ceux qui osent s'y aventurer.",
+    "title": "Passage Sacré",
+    "description": "Le passage sacré s'inscrit dans un mur de pierre lisse, éclairé par une faible lumière qui se répand dans l'air humide. Les murs, ornés de tentacules et de têtes de mort, semblent veiller sur le passage. Des spirales et un croix sont gravées sur le sol, marquant le chemin à suivre. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère mystérieuse. Un autel, dépourvu de tout objet, se dresse au fond du passage, comme témoin silencieux des rituels passés. Les tentacules et les têtes de mort, sculptés dans le mur, semblent attendre l'arrivée de l'aventurier. Le passage est doucement éclairé par une lumière diffuse, rendant l'atmosphère encore plus énigmatique. Les spirales et le croix marquent le chemin à suivre, tandis que les tentacules et les têtes de mort ajoutent une touche d'horreur à l'ambiance. Le passage sacré est un lieu de culte ancien, où les rituels sacrés étaient pratiqués il y a des siècles.",
     "tags": [
-      "sacrée",
-      "ténèbres",
-      "statue",
-      "glyphes",
-      "soufre"
+      "Passage",
+      "Sacré",
+      "Ancien",
+      "Tentacules",
+      "Mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

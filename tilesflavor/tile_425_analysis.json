@@ -1,18 +1,13 @@
 {
   "425": {
-    "title": "La Salle des Rituels",
-    "description": "Des têtes de mort couvrent les murs. La lumière y pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du plafond. Un autel central, entouré de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues, vieilles et érodées, se dressent autour, ajoutant à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de runes, comme si la salle avait été utilisée pour des cérémonies sombres. Des pièges sont dissimulés dans les recoins, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, chaque bruit pouvant révéler un piège ou un monstre attendu. La porte murée au fond parais être le seul moyen de quitter cette salle de rituels.",
+    "title": "Rivière Sacrée",
+    "description": "La rivière sacrée coule lentement, ses eaux stagnantes reflétant les murs vieillis de la salle. Les cercles rituels et les glyphes runiques gravés dans le sol semblent avoir été oubliés depuis des siècles. Des piliers massifs soutiennent le plafond, tandis que des statues étranges gardent le passage. Le mobilier ancien, usé par le temps, ajoute une touche de mystère à l'atmosphère sinistre qui plane dans cette salle de rituels. Les têtes de mort et les tentacules qui ornent les murs ajoutent une note macabre à l'ensemble. La faible lumière qui filtre à travers les fissures du plafond révèle des traces de pièges anciens, prouvant que cette rivière sacrée n'est pas seulement un passage, mais un lieu de culte et de sacrifice.",
     "tags": [
-      "rituels",
-      "salle sombre",
-      "têtes de mort",
-      "tentacules",
-      "soufre",
-      "cercles rituels",
-      "glyphes runiques",
-      "pièges",
-      "atmosphère sinistre",
-      "vieillie"
+      "Rivière Sacrée",
+      "Salle de Rituels",
+      "Mystère",
+      "Macabre",
+      "Ancien Culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

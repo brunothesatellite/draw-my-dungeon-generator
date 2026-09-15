@@ -1,13 +1,12 @@
 {
   "111": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel ou trésor occupe le centre de l'espace. La lumière faible te révèle une salle irrégulière, vieillie et mystérieuse. Des fils d'araignée pendent du plafond, et une araignée géante se cache dans un coin, prête à bondir. Au centre, un autel ou un trésor est entouré de piliers et de statues, les têtes de mort et les tentacules ajoutant une touche d'horreur. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de pourriture flotte dans l'air, et un murmure lointain semble provenir de l'eau stagnante qui coule dans un coin. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte.",
+    "title": "Couloir des Araignées",
+    "description": "Le couloir semble s'étirer indéfiniment, ses murs irréguliers et vieillis par le temps. Des fils d'araignées pendent de la voûte, tissant un réseau sombre qui semble s'agiter légèrement. À l'horizon, une araignée géante, dissimulée dans les ombres, scrute les environs avec ses yeux vides. Les sols sont marqués de cercles rituels et de glyphes runiques, évoquant des secrets anciens. Des piliers et des statues étranges ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne. Le mobilier ancien semble abandonné, ajoutant une touche de délabrement à l'ensemble. L'air est saturé d'une odeur de vieilles pierres et d'araignées, rendant l'atmosphère encore plus oppressante. Les murs sont parsemés de têtes de mort et de tentacules, rappelant l'ancien culte qui pourrait avoir régné ici.",
     "tags": [
-      "crypte",
-      "salle de culte",
-      "rituel",
-      "araignée géante",
-      "soufre",
+      "couloir",
+      "araignées",
+      "rituels",
+      "vieillissement",
       "mystère"
     ],
     "sourceFeatures": {

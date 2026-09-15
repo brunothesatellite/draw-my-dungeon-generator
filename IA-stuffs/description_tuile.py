@@ -76,11 +76,33 @@ def get_csv_description(tile_number: int) -> str:
 
 
 def extract_json(text: str) -> dict:
-    """Extrait le premier JSON trouvé dans le texte."""
-    match = re.search(r"\{.*\}", text, re.DOTALL)
-    if not match:
-        raise ValueError("Aucun JSON détecté dans la réponse")
-    return json.loads(match.group())
+    """Extrait le premier JSON trouvé dans le texte, avec fallback robuste."""
+    # 1. Essayer bloc markdown
+    code_block = re.search(r"```(?:json)?\s*(.*?)\s*```", text, re.DOTALL)
+    raw = code_block.group(1) if code_block else text
+
+    # 2. Parser directement
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        pass
+
+    # 3. Trouver le premier objet JSON par profondeur
+    start = raw.find("{")
+    if start >= 0:
+        depth = 0
+        for i in range(start, len(raw)):
+            if raw[i] == "{":
+                depth += 1
+            elif raw[i] == "}":
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(raw[start : i + 1])
+                    except json.JSONDecodeError:
+                        pass
+
+    raise ValueError("Aucun JSON détecté dans la réponse")
 
 
 
@@ -269,7 +291,12 @@ def phase2_writer(client: Client, tile_number: int, csv_desc: str, features: dic
         ],
     )
     content = response["message"]["content"]
-    return extract_json(content)
+    try:
+        return extract_json(content)
+    except ValueError:
+        print(f"  [debug] Phase 2 - pas de JSON ({len(content)} chars):")
+        print(content[:500])
+        raise
 
 
 def process_tile(tile_number: int, do_correct: bool, client: Client, lt_utils=None, lt_tool=None) -> tuple:

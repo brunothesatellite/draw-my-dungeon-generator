@@ -1,13 +1,13 @@
 {
   "121": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce rectangulaire, vieillie et délabrée. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres gestes. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de runes, parais tisser un tapis de magie ancienne. Des barils de bois ancien, usés par le temps, sont empilés contre le mur, leur contenu mystérieux. Des pièges, invisibles, mais présents, attendent patiemment. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets obscurs. L'atmosphère est oppressante, te poussant à chercher un moyen de fuir cette salle de rituels ou de culte.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère sombre et ancienne. Une porte murée se trouve à l'extrémité de la salle, et une eau stagnante recouvre le sol à l'entrée, créant un danger potentiel. La salle est remplie d'une atmosphère mystérieuse et menaçante, comme si elle avait été abandonnée depuis des siècles. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'ensemble. Cette pièce est dédiée à des rituels ou des cultes anciens, et les anciens qui l'ont utilisée y ont laissé des traces indélébiles.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "rituels",
+      "culte",
+      "salle ancienne",
+      "mystère",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

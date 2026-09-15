@@ -1,13 +1,13 @@
 {
   "376": {
-    "title": "La Crypte des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres érodées par le temps. Des tentacules, comme sortis d'un cauchemar, s'accrochent aux murs, leurs nœuds noirs se détachant sur le marbre. Le sol, marqué d'un spiral complexe, semble tisser un lien avec l'ancienne magie qui réside ici. Des colonnes massives, comme des gardiens silencieux, se dressent au centre, leurs pierres usées par les siècles. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence ancienne, une force sombre qui t'observe. Les tentacules, les colonnes, le spiral, tout parais indiquer que cette crypte cache des secrets profonds et dangereux.",
+    "title": "Souterrain Sans Issue",
+    "description": "Vous vous trouvez dans un souterrain sans issue, un lieu étrange et mystérieux. Les murs irréguliers et délabrés sont parsemés de tentacules qui semblent sortir du néant, ajoutant une touche d'horreur à l'atmosphère déjà sombre. La lumière est faible, seules quelques lueurs filtrant à travers des fissures dans le plafond éclairent la pièce. Des marques de spirale sont gravées sur le sol, semblant indiquer un chemin ou une destination inconnue. Des colonnes majestueuses, pourtant en ruine, dominent la pièce, rappelant l'ancien prestige de ce lieu. Les murs sont recouverts de mystérieux symboles, mais leur signification reste un mystère. Les portes et les fenêtres semblent fermées, mais vous sentez une présence indéfinissable qui vous pousse à avancer. Que cache ce souterrain sans issue ? Que cherchent ces tentacules ? Que se cache-t-il derrière les marques de spirale ?",
     "tags": [
       "souterrain",
-      "dilapidé",
+      "mystère",
       "tentacules",
-      "soufre",
-      "mystère"
+      "ruines",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

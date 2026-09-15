@@ -1,18 +1,13 @@
 {
   "174": {
-    "title": "La Chambre Sacrificielle des Ombres",
-    "description": "Un fan occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, une odeur de soufre flotte dans l'air. Devant toi, une grande salle rectangulaire, les murs couverts d'une épaisse couche de mousse. Des colonnes massives soutiennent le plafond, et un fan central semble suspendu dans l'obscurité. Des tentes sont accrochées aux murs, et un autel au centre de la pièce attire ton regard. Des spirales gravées dans le sol t'indiquent le chemin à suivre. Les murs sont parsemés de glyphes anciens, et des fourmis noires sillonnent les parois. L'eau coule lentement du plafond, formant des gouttelettes qui tombent sur le sol. L'atmosphère est oppressante, et tu sens une présence mystérieuse qui plane dans l'air. La grotte parais être un lieu sacré, peut-être même un lieu de sacrifice.",
+    "title": "La Grotte des Champignons Sacrés",
+    "description": "La grotte étendue sous vos pieds semble s'écarter en spirale, comme si elle était faite de pierres vivantes. La lumière diffuse et diffuse, filtrée par les mycètes qui poussent sur les parois, donne une ambiance étrange et mystérieuse. L'humidité qui plane dans l'air rend l'atmosphère encore plus oppressante. Des colonnes majestueuses, sculptées de manière ancienne, se dressent à l'intérieur, soutenant un plafond qui semble suspendu. Un autel, orné de tentes et de champignons, se dresse au centre de la grotte, comme si il était destiné à des rituels sacrés. Des traces de fourmis sillonnent le sol, indiquant que la grotte n'est pas complètement déserte. La grotte est remplie d'eau stagnante, un danger potentiel pour ceux qui s'y aventurent. Les mycètes qui poussent sur les parois semblent vivants, leurs filaments s'étirant et se contractant comme des tentacules. La grotte est un lieu de mystère et de puissance, où les anciens rituels sont peut-être encore pratiqués.",
     "tags": [
-      "sacrifice",
-      "mystère",
       "grotte",
-      "fan",
-      "mousse",
-      "spirales",
-      "glyphes",
-      "fourmis",
-      "humidité",
-      "odeur de soufre"
+      "sacrifice",
+      "mycètes",
+      "rituel",
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

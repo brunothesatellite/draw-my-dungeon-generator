@@ -1,13 +1,13 @@
 {
   "52": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de traces de vieillissement, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table, couverte de sang séché, trône devant l'autel. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te tenir à l'écart. L'eau stagnante, visible dans un coin, parais prête à se lever contre toi. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont recouverts de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant le passage d'une ancienne cérémonie. Des piliers robustes soutiennent le plafond, tandis qu'une table sombre est posée au centre, peut-être un autel. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les murs et les objets, créant un étrange jeu de lumière et d'ombre. L'atmosphère est oppressante, et le sang qui tache le sol indique que des sacrifices ont eu lieu ici. Les rares passants qui ont osé pénétrer dans ce lieu se sont souvent retrouvés piégés par l'eau stagnante qui s'accumule dans les coins obscurs. Les murs murmurent des secrets anciens, et les ombres qui flottent dans l'air semblent attendre l'arrivée de quelqu'un pour révéler leurs secrets les plus sombres.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "soufre"
+      "Passage",
+      "Anciens",
+      "Sacrifices",
+      "Rituels",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

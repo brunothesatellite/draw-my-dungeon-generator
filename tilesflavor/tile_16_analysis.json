@@ -1,13 +1,13 @@
 {
   "16": {
-    "title": "La Salle des Mystérieux",
-    "description": "Des sculpted heads couvrent les murs. La lumière tamisée éclaire une pièce immense, rectangulaire, dont les murs sont couverts d'une humidité qui les rend glissants. Des colonnes majestueuses, sculptées de tentacules et de têtes sculptées, se dressent comme des gardiens silencieux. Au centre, un autel mystérieux, orné de symboles énigmatiques, attire ton regard. Des tapisseries, aux motifs de spirales et de croix, flottent doucement dans l'air, comme si elles avaient vie. Le sol, marqué de motifs complexes, semble inviter à la danse. Les statues, anciennes et étranges, gardent le secret de la salle. Tu sens une présence étrange, comme si la pièce était habitée par des forces invisibles. L'odeur de soufre et de moisi te pénètre les narines, ajoutant à l'atmosphère oppressante. Des runes anciennes et des symboles enchantés sont disséminés un peu partout, prêts à révéler leurs secrets à ceux qui savent les déchiffrer. La tension est palpable, comme si la salle était le cœur d'un rituel ancien et perpétuel.",
+    "title": "Chambre des Rituels",
+    "description": "La salle est immense, rectangulaire et sombre, éclairée par une faible lueur qui se répand doucement à travers les colonnes massives. L'humidité y règne, et les murs sont recouverts de sculptures de têtes humaines et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des tapisseries aux motifs énigmatiques ornent les murs, et des autels mystérieux sont disséminés à travers la pièce. Des symboles énigmatiques sont gravés sur le sol, formant des spirales et des croix, qui semblent avoir une signification sacrée. Les colonnes sont sculptées de statues de personnages énigmatiques, et des statues de tentacules se dressent à l'entrée de la pièce. La chambre est silencieuse, mais l'atmosphère est pesante et étrange, comme si quelque chose de maléfique se cachait dans les ombres. Les runes anciennes et les symboles enchantés sont disséminés à travers la pièce, prêts à révéler leurs secrets à ceux qui savent les déchiffrer.",
     "tags": [
       "rituel",
-      "salle des secrets",
+      "salle",
       "mystère",
-      "anciennes runes",
-      "souffle de la nuit"
+      "colonne",
+      "tête humaine"
     ],
     "sourceFeatures": {
       "roomSize": "large",

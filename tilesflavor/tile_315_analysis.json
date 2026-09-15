@@ -1,13 +1,13 @@
 {
   "315": {
-    "title": "L'Abîme Sacrée",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Le sol, recouvert de cercles rituels, semble tisser un tapis de magie ancienne. À l'entrée, un autel de pierre, usé par le temps, attire ton regard. Des têtes de mort sculptées dans le mur te regardent avec un regard vide, comme si elles avaient été oubliées depuis des siècles. Les piliers massifs, sculptés de motifs archaïques, paraissent soutenir le plafond, mais tu sens une humidité stagnante qui monte de la terre. Au centre de la pièce, une boîte et un tonneau sont posés, comme si quelqu'un avait laissé là un objet important. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne de la salle. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre.",
+    "title": "Abîme des Anciens",
+    "description": "Dans l'abîme, la lumière vacille et les ombres se mêlent aux murs vieillis. La petite salle rectangulaire est éclairée par une faible lueur qui semble provenir d'une source inconnue. Les cercles rituels gravés au sol évoquent des temps anciens et mystérieux. Des piliers robustes soutiennent les murs, tandis que des têtes de mort sculptées ornent les parois, ajoutant une touche d'effrayante réalité à l'atmosphère. Un anneau et une boîte sont posés au centre de la pièce, comme si quelqu'un avait laissé un message ou un objet important. L'eau stagnante au fond de la salle ajoute une note de danger, car elle pourrait être contaminée. Les cercles rituels et les têtes de mort indiquent que cette pièce a probablement été utilisée pour des rituels anciens et sacrés. Les murs vieillis et les piliers robustes donnent à cette salle un air de mystère et d'ancienneté, comme si elle avait été oubliée depuis des siècles.",
     "tags": [
+      "abîme",
       "rituel",
-      "sombre",
+      "sacrifice",
       "vieillie",
-      "mystère",
-      "abîme"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

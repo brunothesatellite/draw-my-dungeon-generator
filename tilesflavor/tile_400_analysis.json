@@ -1,18 +1,13 @@
 {
   "400": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les silhouettes des colonnes qui se dressent comme des sentinelles dévastées. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de cercles rituels qui semblent avoir été dessinés par des mains tremblantes. Des têtes de mort et des tentacules émergents des murs, comme des monstres gardiens de secrets millénaires. Le sol est marqué de cercles rituels, et des barils de bois ancien sont empilés contre le mur, leurs couvercles érodés par le temps. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante coule lentement vers le centre de la salle, formant un miroir sombre qui reflète les ombres qui dansent autour de toi. L'atmosphère est sinistre, presque palpable, comme si la salle était le cœur d'un rituel sombre et ancien.",
+    "title": "Salle de Destruction",
+    "description": "La salle de destruction est une pièce étroite et sombre, aux murs délavés et aux sols couverts de cendres et de poussière. Les pierres et les colonnes, anciennes et usées, semblent avoir été utilisées pour soutenir un ancien autel. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. La lumière pénètre à peine à travers les fissures dans les murs, créant un halo de ténèbres qui se répand sur l'ensemble de la pièce. Des traces de vieilles pierres et de mobilier ancien sont encore visibles, témoignant de l'ancienne utilisation de cette salle. Un seul passage étroit mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'accès difficile. L'atmosphère sinistre est accentuée par les têtes de mort et les tentacules qui semblent avoir échoué ici, ajoutant une touche d'horreur à l'ensemble. Cette salle est destinée à des rituels sombres et est considérée comme un lieu de destruction.",
     "tags": [
-      "rituel",
-      "sacrifice",
       "salle de destruction",
-      "vieillie",
+      "rituels sombres",
       "têtes de mort",
       "tentacules",
-      "cercles rituels",
-      "pièges anciens",
-      "eau stagnante",
-      "atmosphère sinistre"
+      "salle vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

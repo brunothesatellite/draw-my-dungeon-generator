@@ -1,13 +1,13 @@
 {
   "97": {
     "title": "Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière qui filtre à travers les fenêtres éclaircit à peine l'atmosphère sinistre qui plane dans l'air. L'odeur de moisi et de soufre vous pique les narines. Devant vous, un autel central, entouré de piliers et de statues, attire votre regard. Des cercles rituels marquent le sol, et des tentacules émergents des murs, comme des monstres gardiens. Des têtes de mort sont suspendues aux murs, rappelant l'ancienneté et la cruauté de ce lieu. Un squelette, presque intact, repose au pied de l'autel, témoignant de l'ultime sacrifice. À votre droite, une table, vide, semble attendre un rituel. L'eau stagnante, noire et grise, s'écoule lentement vers un coin de la pièce, créant une tension palpable. La porte ouverte à l'arrière vous invite à explorer davantage.",
+    "description": "La salle des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand péniblement à travers les fissures du plafond. Les murs, recouverts de peintures écaillées, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers et des statues de pierre sont disséminés à travers la pièce, ajoutant à l'atmosphère sinistre. Un autel central, orné de symboles mystiques, domine la pièce. Une table, usée par le temps, est placée près de l'autel. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'atmosphère encore plus oppressante. Une porte ouverte permet d'apercevoir un passage sombre qui semble mener à d'autres mystères. Les murs sont recouverts de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers et des statues de pierre sont disséminés à travers la pièce, ajoutant à l'atmosphère sinistre. Un autel central, orné de symboles mystiques, domine la pièce. Une table, usée par le temps, est placée près de l'autel. La salle des Anciens est un lieu de rituel ancien, où les anciens pratiquaient des cérémonies sombres et mystiques.",
     "tags": [
       "rituel",
-      "vieillie",
+      "ancien",
+      "salle",
       "sinistre",
-      "squelette",
-      "tentacules"
+      "mystique"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

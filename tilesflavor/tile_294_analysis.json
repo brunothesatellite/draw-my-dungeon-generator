@@ -1,13 +1,13 @@
 {
   "294": {
-    "title": "L'Abîme Sacrée",
-    "description": "Un dark pool occupe le centre de l'espace. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. L'humidité pèse lourdement dans l'air, et une odeur de soufre flotte dans l'atmosphère mystérieuse. Devant toi, un bassin sombre, émanant une lueur étrange, semble aspirer tout ce qui s'approche. Des tentacules, comme ceux d'un ancien monstre, sont suspendus aux murs, leurs nœuds noirs se contractant et se dilatant. Sur le sol, un spiral de poussière parais gravité vers le bassin, comme si quelque chose y était en train de se former. Des colonnes robustes soutiennent le plafond, et un autel, orné de symboles énigmatiques, se dresse au centre de la pièce. Une silhouette fantomatique, floue et translucide, plane au-dessus de l'autel, ses yeux vides paraissant te fixer. L'abîme est un lieu de culte, un sanctuaire pour des rituels obscurs. Les murs sont couverts de runes anciennes, et un murmure subtil résonne dans l'air, comme si des esprits s'y réunissaient. Le mystique et l'étrange se mêlent ici, créant une tension palpable. Le bassin, en particulier, parais être un piège, un endroit où les âmes des morts sont capturées. L'abîme sacré est un lieu de peur et de fascination, où les secrets les plus profonds de l'univers sont peut-être dissimulés.",
+    "title": "L'Abîme des Tentacules",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Ses parois rugueuses et déformées semblent se déplacer, comme si elles étaient vivantes. Des tentacules sombres et ondulantes émergent de l'eau sombre qui remplit le fond de l'abîme, créant une atmosphère sinistre et menaçante. Des spirales mystérieuses gravées dans le sol vous guident vers le centre, où se dresse un autel sombre. Des colonnes majestueuses, ornées de tentacules, soutiennent le plafond, ajoutant à l'aura sacrée et étrange de ce lieu. L'air est humide et chargé d'une odeur de mort et de mystère. Des murmures lointains et des échos de pas lointains vous parviennent, comme si des esprits errants erraient dans ces profondeurs obscures. L'abîme est le cœur d'un ancien sanctuaire, où des rituels sacrés et des sacrifices mystiques étaient autrefois pratiqués.",
     "tags": [
+      "abîme",
       "sacrifice",
+      "tentacules",
       "rituel",
-      "ténèbres",
-      "mystère",
-      "souffle de la mort"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

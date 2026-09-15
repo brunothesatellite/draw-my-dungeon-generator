@@ -1,13 +1,13 @@
 {
   "169": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant des murs vieillis et des plafonds bas. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers et de statues étranges. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des têtes de mort et des tentacules ornent les murs. Un squelette, ancien et décomposé, repose au milieu de tout cela. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce. L'atmosphère est sinistre, presque palpable, comme si la salle était le cœur d'un rituel ancien et interdit.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Les sols sont parsemés de cercles rituels et de glyphes runiques, des symboles mystiques qui émettent une lueur étrange. Des piliers et des statues anciennes se dressent ici et là, ajoutant à l'atmosphère sinistre de la grotte. Le mobilier ancien est délabré, mais des traces de rituels anciens sont encore visibles sur les murs. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un miroir lugubre qui reflète les ombres qui hantent l'endroit. Les têtes de mort et les tentacules qui pendent des plafonds ajoutent une touche macabre à ce lieu de culte ancien. La grotte est une salle de rituels, où les anciens pratiquaient des cérémonies sombres et mystiques.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "autel central",
-      "têtes de mort"
+      "Grotte",
+      "Champignons",
+      "Rituels",
+      "Anciens",
+      "Sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

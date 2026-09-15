@@ -1,13 +1,13 @@
 {
   "353": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. Devant toi, une crypte rectangulaire, vieillie et mystérieuse. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules, comme si un ancien culte avait laissé ses traces. Au centre, un autel, entouré de cercles rituels, semble attendre un rituel. Des piliers robustes soutiennent le plafond, tandis que des barils, remplis d'eau stagnante, menacent de se renverser à tout moment. L'odeur de soufre et de mort flotte dans l'air, te rappelant l'ancien culte qui a peut-être vécu ici. La tension est palpable, chaque bruit parais résonner dans cette crypte. Tu sens une présence ancienne, prête à réagir.",
+    "title": "Salle des Sacrifices",
+    "description": "Vous pénétrez dans une salle rectangulaire, minuscule et sombre, où la vieillesse et l'abandon se sont emparés. Les murs, une fois blancs, sont aujourd'hui tachés de mousse et de boue, et des têtes de mort et des tentacules étranges sont collés ici et là, comme si un ancien culte avait laissé ses traces. Des cercles rituels sont gravés au sol, marquant l'ancien emplacement d'un autel. Des piliers massifs soutiennent le plafond, et une table, usée par le temps, est posée au centre de la pièce. Des branches et des pierres spéciales sont disséminées sur le sol, formant un piège complexe. Un tonneau, probablement rempli d'eau stagnante, est posé dans un cul-de-sac, prêt à se renverser à tout moment. La salle est enveloppée d'une atmosphère mystérieuse et menaçante, comme si elle gardait un secret ancien et terrifiant.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "vieillissement",
-      "ancien culte"
+      "Salle",
+      "Sacrifice",
+      "Ancien Culte",
+      "Pièges",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

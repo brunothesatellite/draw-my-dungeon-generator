@@ -1,13 +1,13 @@
 {
   "332": {
-    "title": "Le Cœur de l'Abîme",
-    "description": "Un large spiral occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, comme si la salle était immergée dans un océan souterrain. Devant toi, un large escalier en spirale s'enroule vers le ciel, mais il semble ne jamais aboutir. Les murs, recouverts de tapisseries aux motifs tentaculaires, te regardent avec un regard froid. Des crânes, des os et des squelettes de lézards sont disséminés un peu partout, comme s'ils avaient été piégés ici depuis des siècles. Des colonnes massives soutiennent le plafond, et un autel au centre de la pièce parais attendre un rituel. Le sol est marqué d'une croix, et un plumeau repose nonchalamment à côté. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'escalier. La tension est palpable, et tu sens que quelque chose de terrible se cache dans les profondeurs de cette salle.",
+    "title": "Fin de l'Abîme",
+    "description": "Vous vous trouvez au cœur d'un abîme mystérieux, où le temps semble s'écouler lentement. La lumière est faible, presque inexistante, et l'air est saturé d'une humidité étouffante. Le sol est marqué d'une croix, symbole d'une ancienne cérémonie. Des colonnes majestueuses soutiennent le plafond, et des tentacules noirs serpentent le long des murs, rappelant l'existence d'êtres maléfiques. Un squelette de lézard, décomposé, repose au centre de la pièce, témoin de rituels passés. Des crânes humains sont disséminés un peu partout, témoignant de sacrifices anciens. La pièce est vide d'entrées, mais un danger latent plane, représenté par un grand escalier en spirale qui semble mener à l'inconnu. L'atmosphère est pesante, presque oppressante, et chaque bruit semble amplifié dans ce lieu d'abandon et de mystère.",
     "tags": [
       "abîme",
       "rituel",
       "squelette",
-      "soufre",
-      "mystère"
+      "tentacules",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

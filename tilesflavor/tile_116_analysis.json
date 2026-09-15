@@ -1,13 +1,13 @@
 {
   "116": {
-    "title": "Salle des Anciens Cultes",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des colonnes soutiennent le plafond, tandis que le sol est marqué de cercles rituels et de runes anciennes. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère glauque. Un piège attend patiemment, prêts à s'activer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, et tu sens que quelque chose de profondément ancien se cache dans cette salle.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les piliers et les colonnes vieillies. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des cercles de pierre et des symboles mystiques sont gravés dans le sol. Des piliers et des colonnes soutiennent le plafond, ornés de mobilier ancien et de têtes de mort sculptées. L'atmosphère est mystérieuse et ancienne, renforcée par l'eau stagnante qui s'accumule dans un coin de la pièce. La seule issue mène à un couloir sombre et inconnu. Cette salle était une salle de culte, où des rituels sombres étaient célébrés.",
     "tags": [
-      "culte",
-      "vieillie",
-      "mystérieuse",
-      "ancien",
-      "pièges"
+      "Salle de Culte",
+      "Ancien",
+      "Rituels",
+      "Mystère",
+      "Salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "191": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette petite pièce carrée. Les murs vieillis et fissurés sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table en bois sombre est placée à côté de l'autel. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te scrute. Des pièges sont dissimulés dans les murs, prêts à s'activer. À travers la fenêtre, tu aperçois une eau stagnante qui semble attendre son heure. La tension est palpable, et tu sais que cette salle cache des secrets sombres.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules qui semblent surgir du néant. Des cercles rituels émaillent le sol, marquant l'ancienne voie des rituels. Des piliers robustes soutiennent le passage, tandis qu'une table ancienne, recouverte de poussière, semble avoir été oubliée depuis longtemps. L'atmosphère est oppressante, et l'eau stagnante au fond du passage résonne d'un murmure sinistre. À chaque pas, les murs semblent vibrer, et des ombres flottent dans l'air, prêtes à bondir. Le passage est étroit, mais une fenêtre au bout permet de voir une lumière lointaine, comme si le passage menait à quelque chose d'interdit. Les Anciens ont laissé derrière eux des traces de leur passage, et le passage des Anciens est un rappel de leur puissance et de leur malédiction.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "eau stagnante"
+      "Passage",
+      "Anciens",
+      "Rituels",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

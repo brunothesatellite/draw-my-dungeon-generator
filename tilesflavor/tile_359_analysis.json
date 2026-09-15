@@ -1,13 +1,13 @@
 {
   "359": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière vacillante révèle une salle rectangulaire, immense et humide, où les murs sont recouverts de têtes de mort et de tentacules. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Les piliers et colonnes, robustes et vieilles, semblent veiller sur le mystère qui réside ici. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. Tu sens une présence ancienne, prête à réagir.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est immense, rectangulaire et sombre, éclairée par une faible lueur qui pénètre à travers un trou naturel au fond de la pièce. L'atmosphère est oppressante, la moiteur de l'air rendant l'endroit humide et gluant. Des cercles rituels et des glyphes runiques sont gravés sur le sol, marquant un espace sacré. Des piliers et des colonnes majestueuses soutiennent le plafond, ajoutant à l'aura mystique de la pièce. Des cercles de lumière se dessinent sur le sol, probablement des points de passage ou de protection. Des cercles de têtes de mort et de tentacules ornent les murs, rappelant l'ancienne puissance qui a régné ici. Le mobilier est minimal, juste quelques bancs et autels, laissant la place à l'importance des rituels. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. La salle semble être le cœur d'un donjon ancien, un lieu de culte et de pouvoir, où les rituels les plus sacrés sont célébrés.",
     "tags": [
-      "mystique",
-      "rituel",
-      "ancien",
-      "soufre",
-      "tentacules"
+      "Salle de Rituels",
+      "Ancien Donjon",
+      "Salle Sacrée",
+      "Mystique",
+      "Ancien Culte"
     ],
     "sourceFeatures": {
       "roomSize": "large",

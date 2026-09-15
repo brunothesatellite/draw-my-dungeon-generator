@@ -1,13 +1,13 @@
 {
   "86": {
-    "title": "La Salle des Ténèbres",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Le sol, recouvert de cercles rituels, semble humide, et tu perçois un courant d'air glacial qui te caresse le visage. Devant toi, un autel central, entouré de piliers massifs, attire ton regard. Des tentacules, comme sortis d'un vieux dessin, s'enroulent autour des murs, et des têtes de mort, sculptées avec une précision macabre, sont suspendues aux murs. Des traces de pas, comme si quelqu'un avait fui précipitamment, marquent le sol. Une table, solitaire, est placée devant l'autel, mais elle paraît vide. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. La porte, à l'extrémité de la salle, parais fermée, mais tu sais que derrière elle se cache une menace latente.",
+    "title": "Salle des Rituels des Tentacules",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La faible lumière qui pénètre à travers une porte étroite éclaire les piliers massifs qui soutiennent le plafond. Des têtes de mort et des tentacules émergent des caisses empilées au centre de la pièce, ajoutant une atmosphère sinistre à l'endroit. Une table est placée contre un mur, et des traces de pas indiquent que quelqu'un a récemment visité cette salle. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger.",
     "tags": [
       "rituel",
-      "ténèbres",
-      "vieillie",
       "tentacules",
-      "soufre"
+      "salle",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

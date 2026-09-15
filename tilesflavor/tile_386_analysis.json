@@ -1,13 +1,13 @@
 {
   "386": {
-    "title": "La Chambre Sacrificielle",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. L'air est lourd, presque tangible, et une odeur de soufre et de mort flotte dans l'air. Les murs, couverts de taches de verdure, sont ornés de tentacules et de crânes, comme si la salle avait été utilisée pour des rituels obscurs. Des colonnes massives soutiennent le plafond, et au centre, un autel sombre attire ton regard. Des cercles rituels et des glyphes mystérieux marquent le sol, tandis que des figures fantomatiques flottent dans l'air, comme des esprits errants. À l'ouest, un tableau est posé sur une table, mais tu ne peux pas y distinguer ce qu'il représente. À l'est, un mur est orné de barils, et au nord, une porte se tient ouverte, révélant un passage étroit qui semble mener à un autre monde. L'atmosphère est oppressante, et tu sens que quelque chose de malveillant t'observe depuis les ténèbres.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de tentacules et de crânes humains. La lumière y est faible, créant une ambiance lugubre et mystérieuse. Des cercles rituels et des glyphes anciens marquent le sol, tandis que des colonnes et des piliers majestueux soutiennent le plafond. Un grand autel central, orné de tentacules et de crânes, domine la pièce. Des figures fantomatiques flottent dans l'air, ajoutant à l'atmosphère étrange. Des pièges et de la fumée toxique flottent dans l'air, rendant la chambre dangereuse. À l'ouest, une porte étroite mène à un couloir sombre.",
     "tags": [
       "sacrifice",
       "rituel",
-      "fantôme",
-      "soufre",
-      "mystère"
+      "ancien",
+      "tentaclés",
+      "crânes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

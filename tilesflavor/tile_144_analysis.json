@@ -1,13 +1,13 @@
 {
   "144": {
-    "title": "Le Sanctuaire des Ténèbres",
-    "description": "Tu te retrouves plongé dans un espace rectangulaire, immense et sombre. La lumière filtre à peine à travers des voiles de poussière, créant un halo de mystère autour de toi. Les murs, lisses et humides, sont ornés de tentacules et de crânes de mort, des symboles qui te glacent le sang. Au centre de la pièce, un autel étrange, sculpté de symboles énigmatiques, attire ton regard. Des inscriptions anciennes gravées dans le sol te font frissonner. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence étrange, comme si quelque chose t'observait depuis les ombres. Des pièges attendent à chaque coin, prêts à te piéger. Le silence est troublé par le murmure lointain d'un murmurer, un esprit malveillant qui te pousse à la prudence.",
+    "title": "Passages Sacrés",
+    "description": "Vous vous trouvez dans un couloir étroit et sombre, dont les murs sont ornés de tentacules et de têtes de mort. Les pierres humides et froides sous vos pieds semblent raconter des milliers d'histoires. Des symboles énigmatiques gravés dans le sol vous guident vers l'entrée d'un sanctuaire. Les colonnes massives, sculptées de motifs complexes, vous imposent une impression de majesté et de mystère. L'air est chargé d'une atmosphère étrange, où l'obscurité et la lumière se disputent le contrôle. À chaque pas, vous vous sentez plus proche d'un secret ancien et puissant.",
     "tags": [
-      "mystère",
+      "couloir",
       "sacré",
-      "ténèbres",
-      "pièges",
-      "murmure"
+      "mystère",
+      "tentacules",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

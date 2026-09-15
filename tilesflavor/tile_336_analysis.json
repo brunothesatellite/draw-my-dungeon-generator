@@ -1,13 +1,13 @@
 {
   "336": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de moisi et de soufre. Devant toi, un autel de pierre, entouré de cercles rituels gravés dans le sol. Des tentacules émergents des murs, leurs yeux vides t'observant. Des têtes de mort sont suspendues aux piliers, leurs visages décomposés. Un tableau de pierre, usé par le temps, te fait face, te racontant des secrets millénaires. Des traces de créature marquent le sol, comme si quelque chose de terrible avait récemment parcouru cette salle. L'eau stagnante, noire et grise, remue lentement, émettant un murmure sinistre. La porte murée à l'arrière semble taire les secrets de cette salle, mais un frisson te parcourt quand tu te rappelles que la clé manque pour l'ouvrir.",
+    "title": "Grotte des Anciens",
+    "description": "Dans cette grotte étroite et sombre, les murs sont recouverts de peintures rupestres qui semblent vieillir avec le temps. Le sol est parsemé de cercles rituels, leurs contours usés par les siècles. Un lit, une arche, une boîte et trois tonneaux sont les seuls meubles, leur vieillissement ajoutant une touche d'authenticité à l'atmosphère mystérieuse. La lumière pénètre à peine à travers une petite ouverture au plafond, éclairant les piliers qui soutiennent la voûte. La grotte est vieillie, les murs sont couverts de lichens et de mousse, et les cercles rituels sont usés, mais toujours visibles. L'air est chargé d'une odeur de terre humide et d'anciennes cérémonies. À l'entrée, une porte murée semble avoir été murée depuis longtemps, et l'eau stagnante au fond de la grotte est un danger à ne pas négliger. La grotte est un lieu de rituel ancien, où les anciens pratiquaient des cérémonies secrètes.",
     "tags": [
-      "rituel ancien",
-      "salle de rituel",
-      "tentacules",
-      "têtes de mort",
-      "odeur de soufre"
+      "grotte",
+      "rituel",
+      "ancien",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

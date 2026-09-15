@@ -1,17 +1,13 @@
 {
   "418": {
-    "title": "Le Sanctuaire des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, comme si elle avait été éteinte depuis des siècles. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des milliers d'années. Des cercles rituels gravés dans le sol évoquent des forces obscures. Des têtes de mort et des tentacules émergents des murs, comme s'ils étaient des gardiens de ce lieu. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remonte doucement le long des parois, créant une atmosphère sinistre et menaçante. La tension est palpable, comme si quelque chose de terrible allait se déclencher à tout moment.",
+    "title": "Trou Magique des Anciens",
+    "description": "Au cœur d'un abîme infini, une table et des chaises flottent au-dessus d'un trou profond et sombre. Les murs de cette petite et carrée salle sont recouverts d'une fine couche de poussière et de poussière, témoignant de l'âge et de l'abandon. Des cercles rituels sont gravés au sol, évoquant des forces obscures et inconnues. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. L'eau stagnante au fond du trou reflète la pénombre qui règne dans cette salle de rituels, où les anciens pratiquaient leurs cérémonies les plus sombres.",
     "tags": [
-      "rituel",
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "autel",
-      "eau stagnante"
+      "Trou Magique",
+      "Salle de Rituels",
+      "Anciens",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

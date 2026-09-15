@@ -1,18 +1,13 @@
 {
   "324": {
-    "title": "L'Abîme des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. Devant toi s'ouvre une crypte rectangulaire, faiblement éclairée par une lueur diffuse. Les murs, vieillis et fissurés, semblent murmurer des secrets millénaires. Un autel, entouré de piliers et de colonnes, domine la pièce. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des forces obscures. Le mobilier ancien, usé par le temps, parais attendre son heure. Des pièges anciens, invisibles, mais pesants, se cachent dans les ombres. L'atmosphère est oppressante, une brume de soufre flotte dans l'air, et un murmure lointain parais résonner. L'eau stagnante, noire et fétide, s'accumule dans un coin, prête à engloutir tout intrus imprudent.",
+    "title": "Abîme des Anciens",
+    "description": "Au cœur de l'abîme, une moitié de pont de corde semble suspendue dans le vide, un pont qui semble avoir été abandonné depuis des siècles. Les cordes sont usées, et les nœuds sont défaits, comme si un vent invisible les avait déchirées. Le pont est entouré de cercles rituels et de glyphes runiques, gravés dans le sol de pierre grise. Des piliers et des colonnes, vieillies par le temps, soutiennent le pont, mais aussi les secrets qui y sont cachés. Le sol est marqué de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été utilisés pour des rituels obscurs. Le mobilier ancien, usé et délabré, semble avoir été laissé là par des explorateurs ou des cultistes. L'atmosphère est mystérieuse et menaçante, comme si l'abîme lui-même respirait une malédiction. Les eaux stagnantes au fond de l'abîme ajoutent à l'ambiance lugubre, et les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'expérience. Les pièges anciens sont nombreux, prêts à se déclencher à tout moment.",
     "tags": [
       "abîme",
       "rituels",
       "têtes de mort",
       "tentacules",
-      "soufre",
-      "mystère",
-      "vieillissement",
-      "ancienneté",
-      "pièges",
-      "eau stagnante"
+      "salle de culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -42,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Grand abîme avec la moitié d'un pont de corde",
       "tileNumber": 324

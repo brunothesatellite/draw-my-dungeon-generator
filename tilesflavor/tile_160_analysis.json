@@ -1,13 +1,13 @@
 {
   "160": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle irrégulière, vieillie et sinistre. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils anciens sont disséminés un peu partout. L'odeur de soufre et de moisi te pique le nez, et tu sens une présence ancienne qui t'observe. Des pièges anciens sont dissimulés dans les recoins, prêts à s'abattre sur toi. L'eau stagnante au fond de la salle murmure un secret glaçant. La crypte est un lieu de rituels, mais aussi de peur et de mystère.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Le sol est couvert de cercles rituels anciens, marquant un passage ancien. Des piliers massifs soutiennent le plafond, et des traces de vieillissement sont visibles partout. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'atmosphère sinistre de la grotte. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche macabre à l'ensemble. Cette grotte, bien que petite, est un lieu de rituels sacrés, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
+      "grotte",
+      "rituels",
+      "macabre",
       "anciens",
-      "mystère"
+      "sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "159": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. Devant toi, une salle irrégulière, vieillie et mystérieuse, te dévoile ses secrets. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules, comme si la nature elle-même avait tenté de les dévorer. Un autel central, entouré de cercles rituels, semble avoir été le cœur de cérémonies passées. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol, comme des traces d'anciennes puissances. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis des siècles. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, comme si quelque chose de terrible attendait dans les ombres.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et tortueuse, avec des parois irrégulières et des formations rocheuses qui semblent avoir vieilli au fil du temps. La lumière pénètre à peine à travers les fentes de la roche, créant un éclairage faible et mystérieux. Des cercles rituels sont gravés dans le sol, marquant un passage ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère vieillie et mystérieuse. Des champignons de toutes les couleurs poussent sur les parois et le sol, formant un tapis naturel qui semble vivant. Un champignon unique, plus grand et plus lumineux que les autres, semble être le point focal de la grotte. Le mobilier ancien, délabré, est disséminé un peu partout, ajoutant à l'ambiance d'abandon. L'eau stagnante, noire et trouble, remplit une partie de la grotte, créant un danger potentiel. La grotte est un lieu de culte ou de rituels, avec une atmosphère menaçante et mystérieuse.",
     "tags": [
       "grotte",
-      "rituel",
+      "rituels",
+      "champignons",
       "vieillie",
-      "mystérieuse",
-      "soufre"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

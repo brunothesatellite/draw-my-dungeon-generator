@@ -1,12 +1,12 @@
 {
   "321": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Le sol, recouvert de cercles rituels, semble tisser un tapis sombre sous tes pieds. Devant toi, un autel rectangulaire domine la pièce, entouré de piliers massifs. Des tentacules émergents des murs, leurs yeux vides te fixant avec une froideur glaçante. Des têtes de mort, sculptées avec une précision macabre, sont suspendues aux murs, tandis que des barils de vin rouge se dressent au fond de la pièce. Une figurine humaine, étrangement déformée, repose sur une table au centre. L'air est saturé d'une odeur de soufre et de mort, et un murmure lointain parais résonner dans les murs. L'eau stagnante, noire et putride, s'écoule lentement du plafond, ajoutant une menace latente à l'atmosphère déjà menaçante. La salle parais être un lieu de rituel ancien, mais la raison derrière ces pratiques est un mystère à découvrir.",
+    "title": "Abîme des Champignons",
+    "description": "Dans l'obscurité qui règne dans cette petite et rectangulaire grotte, les ombres se dessinent sur le sol couvert de cercles rituels. La lumière pâle qui filtre à travers les fissures de la roche éclaire vaguement les piliers massifs qui soutiennent le plafond. La grotte semble vieillie, les murs recouverts d'une fine couche de poussière et de mousse. Un tableau étrange attire l'œil : une table, entourée de cercles rituels, semble être le cœur de cette ancienne salle de rituel. Des champignons étranges poussent sur le sol, leurs tiges délicates se dressant vers le plafond. L'atmosphère est mystérieuse et menaçante, comme si quelque chose de maléfique se cachait dans l'ombre. Les têtes de mort et les tentacules qui ornent les murs ajoutent à l'ambiance lugubre. L'eau stagnante qui s'est formée dans un coin de la grotte est un danger à ne pas négliger. La présence d'une figurine humaine au centre de la salle, étrangement intacte malgré l'âge, laisse supposer que des rituels sombres ont eu lieu ici. Les cercles rituels et les piliers témoignent de l'ancienneté de ce lieu, mais la raison exacte de sa présence dans cet abîme reste un mystère.",
     "tags": [
-      "rituel",
-      "ténèbres",
       "abîme",
-      "vieillie",
+      "salle de rituel",
+      "champignons",
+      "rituels sombres",
       "têtes de mort"
     ],
     "sourceFeatures": {
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituel",
       "csvDescription": "abîme avec des champignons",
       "tileNumber": 321

@@ -1,12 +1,12 @@
 {
   "340": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. Devant toi, une porte murée se dresse, son linteau gravé de symboles énigmatiques. Le sol s'ouvre sur une salle de forme irrégulière, éclairée par une faible lumière qui se répand comme une ombre sur les murs vieillis. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel ancien, recouvert de têtes de mort et de tentacules, semble observer les envahisseurs. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des traces de créature, comme des griffes profondes, sillonnent les murs, racontant des secrets millénaires. L'eau stagnante, noire et fétide, coule lentement vers le fond de la pièce. L'atmosphère est oppressante, te poussant à chercher un moyen de fuir cette crypte sombre et menaçante.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est un corridor étroit et tortueux qui s'enfonce profondément dans les entrailles de la grotte. Les murs rugueux et fissurés sont recouverts de peintures anciennes qui semblent avoir été effacées par le temps. La faible lumière qui filtre à travers les fissures éclaire les cercles rituels gravés au sol, qui semblent avoir été utilisés pour des cérémonies obscures. Des piliers massifs, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Des traces de créatures mystérieuses marquent le sol, indiquant que ce passage est fréquenté par des créatures étranges. À l'extrémité du corridor, une porte murée semble avoir été murée depuis longtemps, mais une sensation de présence continue à flotter dans l'air, comme si quelque chose veillait toujours sur ce lieu. L'atmosphère est oppressante, mêlant une mystérieuse fascination à une menace sous-jacente.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "creatures",
-      "rituels",
+      "corridor",
+      "grotte",
+      "rituel",
+      "ancien",
       "mystère"
     ],
     "sourceFeatures": {

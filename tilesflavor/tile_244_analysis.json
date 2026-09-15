@@ -1,13 +1,13 @@
 {
   "244": {
-    "title": "Le Sanctuaire des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les silhouettes des tentacules qui semblent danser dans l'ombre. Les murs, couverts d'une fine couche de mousse, paraissent respirer une humidité stagnante. Devant toi, un autel rectangulaire, sculpté de tentacules et de crânes de mort, attire ton regard. Des spirales et des lignes dessinent des motifs mystérieux sur le sol, tandis que des colonnes majestueuses soutiennent le plafond. Des figures étranges, comme des fantômes, paraissent flotter dans l'air, ajoutant une atmosphère de mystère. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à avancer avec prudence. Les runes enchantées, dissimulées dans les murs, paraissent prêtes à se révéler à qui sait les déchiffrer.",
+    "title": "Siphon de la Connaissance",
+    "description": "Au cœur de la grotte, un siphon immense domine le paysage. Sa forme rectangulaire et large offre un espace sombre et humide, éclairé par une faible lumière qui se répand en spirales et lignes sur le sol. Les murs, ornés de tentacules et de têtes de mort, semblent témoigner d'une ancienne et mystérieuse tradition. Des colonnes et des piliers soutiennent le plafond, ajoutant à l'atmosphère sacrée et étrange de ce lieu. Un grand autel, orné de runes enchantées, se dresse au centre, invitant les explorateurs à se pencher sur les secrets de l'ancien. Des figures étranges, comme des silhouettes de créatures inconnues, semblent se tenir en retrait, prêtes à interrompre les rituels. Le siphon, bien qu'apparemment inerte, semble vivre d'une énergie ancienne et mystérieuse, prête à révéler ses secrets à ceux qui oseront s'y aventurer.",
     "tags": [
-      "salle sacrée",
-      "tentacules",
-      "crânes de mort",
-      "mystère",
-      "odeur de soufre"
+      "Salle Sacrée",
+      "Ancien",
+      "Mystère",
+      "Tentacules",
+      "Rituels"
     ],
     "sourceFeatures": {
       "roomSize": "large",

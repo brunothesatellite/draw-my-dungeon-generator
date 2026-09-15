@@ -1,13 +1,13 @@
 {
   "46": {
     "title": "Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais suffisante pour distinguer les cercles rituels gravés au sol et les glyphes runiques qui brillent d'une lueur étrange. Au centre, un autel, entouré de statues et de piliers, semble attendre un culte ancien. Des têtes de mort et des tentacules émergents des murs, comme s'ils étaient peints par des forces obscures. Le mobilier ancien, usé par les siècles, parais avoir été oublié depuis longtemps. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, comme si quelque chose de terrible allait se déclencher.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des lignes dessinées au sol, marquant le numéro 46. La faible lumière qui pénètre à travers les voûtes de pierre laisse deviner des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers massifs soutiennent les murs, ornés de statues étranges et mystérieuses. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère ancienne et mystérieuse. L'air est saturé d'une odeur de poussière et de mystère, et l'eau stagnante au fond de la pièce réfléchit les ombres des objets environnants. La salle semble avoir été utilisée pour des rituels ou des cultes, et les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'atmosphère déjà sombre.",
     "tags": [
-      "culte",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancien"
+      "culte",
+      "salle des anciens",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

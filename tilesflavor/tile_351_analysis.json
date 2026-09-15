@@ -1,13 +1,13 @@
 {
   "351": {
-    "title": "La Salle des Yeux",
-    "description": "L'ambiance mysterious pèse sur la pièce. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. Les murs, humides et froids, sont recouverts d'un tissu de toile qui semble vouloir s'effondrer. Des colonnes massives soutiennent le plafond, et un symbole énigmatique, une spirale entrelacée avec une croix, est gravé au sol. Au centre, un coffre en bois, fermé et luisant, attire ton regard. Un œil étrange, comme peint sur le mur, te scrute, te poussant à te demander ce qui se cache derrière. L'odeur de soufre et de moisi flotte dans l'air, et un murmure lointain parais résonner dans les murs. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette salle.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux, marqué par un croisement de lignes spirales qui semblent gravées dans le sol humide. Les murs, couverts d'un tissu de toile tendue, semblent protéger un secret ancien. Des colonnes majestueuses, ornées de motifs complexes, soutiennent le plafond voûté. Un coffre en bois sombre, fermé par une serrure complexe, repose au centre de la pièce, tandis qu'un tonneau en cuir est posé à côté, son contenu inconnu. L'atmosphère est oppressante, comme si la salle avait été utilisée pour des rituels obscurs. Un œil étrange, semblant regarder de tous les côtés, est gravé dans le mur, ajoutant une note de mystère à l'ensemble. Les murs sont humides, et des taches de verdure s'accumulent sur les parois, témoignant de l'âge et de l'abandon de ce lieu. Les spirales et le croisement de lignes sur le sol semblent indiquer un passage ou une piste à suivre, mais leur signification reste un mystère.",
     "tags": [
-      "mystère",
+      "salle",
       "rituel",
-      "soufre",
-      "œil étrange",
-      "salle de donjon"
+      "ancien",
+      "mystère",
+      "rituelique"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "441": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Tu te retrouves plongé dans un espace immense, rectangulaire, éclairé par la faible lumière du jour qui filtre à travers des fenêtres brisées. Les murs, une fois blancs, sont maintenant tachés de sang séché et parsemés de tentacules et de crânes, des symboles de la cruauté qui réside ici. Des colonnes massives, usées par le temps, soutiennent le plafond voûté, tandis que des statues de pierre gardent le silence. Au centre de la pièce, un autel sombre attire ton regard, entouré de cercles rituels et de glyphes mystérieux. Des squelettes, éparpillés sur le sol, racontent l'histoire d'êtres qui ont été sacrifiés ici. L'odeur de la mort et de l'ancienne flotte dans l'air, mêlée à un bruit sourd et lointain qui semble provenir de l'endroit le plus profond de la pièce. Les dangers sont nombreux : des pièges attendent à chaque coin et un nuage de gaz toxique flotte dans l'air, prêt à tuer à l'instant.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir s'inscrit dans un mur de pierre délabrée, les murs sont ornés de tentacules et de crânes humains. Des cercles rituels et des glyphes gravés dans le sol évoquent des anciennes cérémonies. Des colonnes et des piliers soutiennent le plafond, tandis que des statues de pierre gardent le passage. L'atmosphère est oppressante et mystérieuse, comme si le couloir était le dernier vestige d'un culte ancien. Des nuages de gaz toxiques flottent dans l'air, et des pièges attendent ceux qui oseraient s'y aventurer. Les murs sont parsemés de squelettes, témoins de sacrifices passés. Le couloir est étroit et long, menant à un lieu sacré que seuls les initiés peuvent atteindre. Les créatures de l'ombre se cachent dans l'obscurité, prêtes à attaquer les intrus.",
     "tags": [
+      "couloir",
       "sacrifice",
-      "cruauté",
-      "mystère",
       "ancien",
-      "désolation"
+      "mystère",
+      "poison"
     ],
     "sourceFeatures": {
       "roomSize": "large",

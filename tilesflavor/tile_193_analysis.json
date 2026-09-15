@@ -1,13 +1,13 @@
 {
   "193": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de taches de rouille et de crasse, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de moisi se mêle à l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la pièce. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules émergent des parois, ajoutant une touche d'horreur à l'atmosphère déjà lugubre. Le passage est faiblement éclairé, la lumière tamisée accentuant les ombres et les détails macabres. Des piliers massifs soutiennent le plafond, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation sacrée. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le seul passage semble mener à une salle de rituel, où les cercles rituels semblent converger vers un autel central.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "soufre"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Salle de Rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

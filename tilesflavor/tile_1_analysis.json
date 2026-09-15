@@ -1,20 +1,20 @@
 {
   "1": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des colonnes qui s'élèvent vers le plafond. L'air est lourd, chargé d'une odeur de poussière et de mystère ancien. Devant toi, un autel massif, entouré de tentacules et de crânes de mort, semble t'observer avec un regard froid. Des spirales et des croix gravées dans le sol te font tâtonner, tandis que des colonnes imposantes soutiennent le plafond. Un mystérieux coffre, posé au milieu de la pièce, parais attendre son ouverture. Tu sens une présence éthérée flotter autour de toi, comme si les âmes des anciens se réveillaient. À droite, une porte se dessine dans le mur, dissimulée par les ombres. Des pièges attendent ceux qui oseront approcher. La tension est palpable, et tu te demandes ce que cache cette chambre sacrée des anciens.",
+    "title": "La Salle des Anciens",
+    "description": "Vous pénétrez dans une salle immense, carrée et sombre, où les murs anciens et usés semblent murmurer des secrets millénaires. La lumière diffuse et diffuse éclaire les spirales et les croix gravées sur le sol, tandis que les colonnes et les piliers sculptés ajoutent une touche de majesté à l'atmosphère étrange. Un mystérieux coffre, orné de symboles énigmatiques, repose au centre de la pièce, entouré de tentacules et de têtes de mort qui semblent garder le secret de la salle. Des traces de pas fantomatiques se dessinent sur le sol, et un murmure lointain semble provenir de l'ombre. Un passage secret, dissimulé par une toile de toile, vous attend à l'extrémité de la pièce. Les anciens ont laissé derrière eux des pièges et des trappes, prêts à vous piéger si vous vous approchez trop près de l'objet mystérieux.",
     "tags": [
-      "mystère",
-      "ancien",
-      "sacrée",
-      "tentacules",
-      "crânes"
+      "Salle",
+      "Anciens",
+      "Mystère",
+      "Pièges",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",
       "roomShape": "square",
       "lighting": "dim",
       "condition": "ancient",
-      "centralFeature": "altar",
+      "centralFeature": "mysterious box",
       "wallDecorations": [
         "tentsacles",
         "heads of death"

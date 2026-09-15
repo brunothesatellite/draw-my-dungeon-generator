@@ -1,13 +1,13 @@
 {
   "365": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière faible, filtrant à travers une fenêtre brisée, éclaire les murs vieillis par le temps. Des têtes de mort sculptées dans le linteau semblent vous observer, leurs yeux vides vous fixant avec une froideur glaçante. Au centre de la pièce, un autel, entouré de cercles rituels, parais attendre un rituel ancien. Les piliers massifs, usés par les siècles, soutiennent le plafond voûté, tandis que des cercles rituels gravés dans le sol vous attirent vers le centre. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'une voix ancienne vous parvient à travers les murs. La tension est palpable, comme si quelque chose de terrible se préparait dans cette crypte.",
+    "title": "Crypte des Anciens",
+    "description": "Tu te retrouves dans une crypte étroite et sombre, où la lumière filtre à peine à travers des voûtes de pierre usées. La pièce est rectangulaire et petite, avec des murs vieillis qui portent encore les stigmates de l'ancien culte qui y régnait. Des cercles rituels sont gravés au sol, marquant les emplacements d'anciennes pratiques sacrées. Des piliers robustes soutiennent la voûte, tandis que des autels sont disséminés un peu partout, témoignant de l'importance de ce lieu pour les anciens. Des têtes de mort sculptées ornent les murs, ajoutant une touche macabre à l'atmosphère déjà lugubre. La porte, la seule issue de cette crypte, semble pesante et ancienne, comme si elle avait été fermée depuis des siècles. Les cercles rituels au sol sont un danger à ne pas négliger, car ils pourraient activer des sorts ou des sorts de protection. La crypte est remplie d'une atmosphère mystérieuse et menaçante, où chaque coin cache un secret ancien et potentiellement dangereux.",
     "tags": [
-      "rituel",
-      "tête de mort",
-      "soufre",
-      "cercles rituels",
-      "vieillie"
+      "Crypte",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

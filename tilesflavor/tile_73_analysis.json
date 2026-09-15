@@ -1,18 +1,13 @@
 {
   "73": {
     "title": "Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers une fenêtre brisée éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules, attire votre regard. Des cercles rituels gravés dans le sol vous font frissonner. Les piliers massifs, usés par les siècles, paraissent murmurer des secrets obscurs. L'odeur de soufre et d'humidité vous pénètre les narines, tandis que l'eau stagnante au fond de la pièce vous donne l'impression d'être observé par quelque chose d'invisible. La tension est palpable, comme si la salle était le témoin de rituels sombres et interdits.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et ancienne de la pièce. Les piliers massifs soutiennent les murs, et les têtes de mort et les tentacules peints sur les murs racontent des histoires d'horreur et de sacrifice. Un coffre et un baril sont visibles dans un coin, mais aucun objet ne semble y être placé. L'eau stagnante au sol est un danger à ne pas négliger. Cette salle est dédiée à des rituels anciens et mystiques.",
     "tags": [
-      "rituels",
-      "vieillie",
-      "mystérieuse",
-      "salle carrée",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "eau stagnante",
-      "soufre"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Mystère",
+      "Horreur"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "449": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, une crypte rectangulaire s'ouvre, ses parois couvertes de tapisseries anciennes. Les tentacules et les crânes de la mort semblent te regarder de leurs orbites vides. Des spirales gravées dans le sol te guident vers un autel central, entouré de colonnes majestueuses. Des tables et des chaises sont disposées autour, comme si des rituels avaient eu lieu récemment. Des figures fantomatiques flottent dans l'air, leurs silhouettes floues et éthérées. L'odeur de la mort et de l'ancienneté se mêle à l'air, créant une atmosphère glauque et étrange. Des pièges enchantés attendent, prêts à s'activer. La tension est palpable, et tu sens que quelque chose de profondément ancien et de terrifiant se cache dans cette pièce.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, érodée par le temps et les éons. Les murs, ornés de tentacules et de têtes de mort, semblent veiller sur les cercueils qui reposent dans des alcôves aux parois lisses et lisses. Des spirales gravées dans le sol évoquent un ancien rituel, tandis que des colonnes et des piliers majestueux ajoutent à l'atmosphère mystérieuse et étrange. Les tables et chaises, dépourvues de tout usage, semblent témoigner d'une époque longtemps passée. Le couloir est sombre, éclairé seulement par une lueur diffuse qui semble provenir d'un point indéterminé, rendant l'endroit encore plus inquiétant. Les cercueils, bien que vides, semblent garder des secrets bien gardés, et les tentacules et têtes de mort ajoutent une touche d'horreur à l'atmosphère. Les esprits des anciens, visibles sous forme de figures fantomatiques, errant dans l'ombre, ajoutent une touche de mystère à l'endroit. Les enchanteurs de pièges sont prêts à se déclencher à tout moment, rendant le passage dangereux pour les explorateurs non avertis.",
     "tags": [
-      "sacrée",
-      "ancienne",
-      "mystérieuse",
-      "épique",
-      "fantastique"
+      "couloir",
+      "ancien",
+      "sacré",
+      "mystère",
+      "tentes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

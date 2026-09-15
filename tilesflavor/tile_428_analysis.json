@@ -1,13 +1,13 @@
 {
   "428": {
-    "title": "Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux de l'ancienne magie. Au centre, un autel, entouré de cercles rituels, semble inviter les voyageurs à se pencher sur le mystère qui l'habite. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont empilés dans un coin, leur surface usée racontant des siècles d'oubli. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets. La tension est palpable, chaque bruit résonnant comme un appel à l'aventure.",
+    "title": "Salle des Rituels Glacée",
+    "description": "La salle est petite et rectangulaire, avec un sol couvert de cercles rituels. La faible lumière qui pénètre à travers les voiles de neige qui recouvrent les fenêtres donne une ambiance mystérieuse et ancienne. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'atmosphère. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté de ce lieu. L'eau stagnante, qui s'est formée dans un coin, est un danger potentiel. La seule sortie mène à un couloir sombre, où l'on peut deviner les traces de rituels anciens gravés dans le sol.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystère",
-      "ancien",
-      "salle de rituels"
+      "Salle des Rituels",
+      "Ancien",
+      "Mystère",
+      "Neige",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

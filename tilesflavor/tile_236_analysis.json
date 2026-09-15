@@ -1,18 +1,13 @@
 {
   "236": {
-    "title": "La Salle des Rituels",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, presque inexistante, comme si la pièce avait été abandonnée depuis des siècles. Les murs, couverts de peintures sombres et vieillies, semblent murmurer des secrets obscurs. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de piliers et de statues étranges, attire ton regard. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des cérémonies sombres. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. Des pièges sont dissimulés un peu partout, prêts à s'activer à tout moment. L'eau stagnante au fond de la salle, comme si elle avait été oubliée depuis des décennies, ajoute une tension palpable à l'air ambiant. La salle est mystérieuse et menaçante, comme si elle avait été conçue pour effrayer et pourrir l'âme des intrus.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des fenêtres brisées. Le sol est marqué de cercles rituels et de glyphes runiques, qui semblent avoir été dessinés avec une énergie ancienne. Des piliers massifs soutiennent le plafond, et des statues étranges sont disséminées à travers la pièce, ajoutant à l'atmosphère mystérieuse. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui a régné ici. Le mobilier ancien est délabré, mais semble avoir été utilisé pour des rituels. L'eau stagnante dans un coin de la pièce est un danger potentiel. La salle semble être le cœur d'un ancien sanctuaire, où des rituels et des sacrifices étaient pratiqués.",
     "tags": [
-      "rituels",
-      "salle de culte",
-      "vieillie",
-      "mystérieuse",
-      "menaçante",
-      "vieille salle",
-      "cercles rituels",
-      "glyphes runiques",
-      "têtes de mort",
-      "tentacules"
+      "Salle des Rituels",
+      "Ancien Culte",
+      "Sacrifices",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

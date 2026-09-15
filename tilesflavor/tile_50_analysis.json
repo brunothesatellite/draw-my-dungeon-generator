@@ -1,13 +1,13 @@
 {
   "50": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de boue, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une statue, probablement d'une divinité ancienne, domine l'ensemble. Des traces de créature, comme si quelqu'un avait couru à toute vitesse, sont gravées dans le sol. L'odeur de soufre et de pourriture flotte dans l'air, rendant l'atmosphère sinistre et oppressante. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, et tu sens que quelque chose de terrible a eu lieu ici.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et basse, avec des murs de pierre vieillie qui ont vu des siècles s'écouler. La lumière pénètre à peine à travers les fissures dans le plafond, créant un halo de faible éclat qui éclaire les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. À l'entrée, une statue ancienne, probablement en marbre, garde la porte fermée. Les murs sont ornés de têtes de mort sculptées et de tentacules qui semblent sortir du plafond, ajoutant une touche d'horreur à l'atmosphère sinistre. L'eau stagnante, noire et trouble, remplit une partie de la salle, créant un miroir sombre qui reflète les ombres et les murmures de la nuit. La salle semble être un lieu de rituel ancien, où des cultes sombres ont probablement eu lieu il y a des siècles.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "creatures"
+      "Salle",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

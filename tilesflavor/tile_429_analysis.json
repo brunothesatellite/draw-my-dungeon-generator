@@ -1,13 +1,13 @@
 {
   "429": {
-    "title": "Salle du Conseil des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La pièce est petite, ovale et plongée dans une obscurité profonde. Les murs, vieillis par le temps, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, entouré de cercles rituels, attire ton regard. Les piliers massifs, vieillis, semblent garder des secrets millénaires. Le mobilier ancien, usé par les siècles, ajoute à l'atmosphère lugubre. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets anciens. La tension est palpable, comme si quelque chose de menaçant se cachait dans l'ombre.",
+    "title": "Salle du Conseil Sacrée",
+    "description": "La salle du conseil sacrée est une petite pièce ovale, éclairée par une faible lumière qui se répand doucement à travers les fenêtres brisées. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond voûté. Des chaises et une table ancienne sont disposées au centre, témoignant de l'importance de ce lieu. L'atmosphère est mystérieuse et menaçante, comme si les esprits des ancêtres observaient encore les rituels qui y étaient célébrés. L'eau stagnante au fond de la pièce ajoute à l'ambiance lugubre, rappelant les dangers potentiels qui pourraient se cacher dans ce lieu sacré.",
     "tags": [
-      "rituels",
-      "vieillie",
-      "salle de culte",
-      "têtes de mort",
-      "tentacules"
+      "Salle du Conseil",
+      "Rituels Sacrés",
+      "Anciens Cultes",
+      "Atmosphère Menaçante",
+      "Salle Sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "salle du conseil avec table, chaises, colonnes et cheminées",
       "tileNumber": 429

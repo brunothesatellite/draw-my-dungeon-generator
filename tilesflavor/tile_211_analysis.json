@@ -1,13 +1,14 @@
 {
   "211": {
-    "title": "La Chambre du Rituel",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la salle. L'air est lourd et humide, comme si la pièce avait été abandonnée depuis des siècles. Devant toi, un cercle de pierre émerge du sol, entouré de spirales et de croix gravées dans le sol. Des tentacules et des crânes ornent les murs, tandis que des colonnes majestueuses soutiennent le plafond. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui t'observe. L'atmosphère est oppressante, et tu te demandes ce qui s'est passé ici. L'alter au centre semble attendre un rituel ancien, mais tu ne sais pas quel sortilège a pu être invoqué ici. Les murs sont couverts de runes et de symboles énigmatiques, et tu sens que cette pièce cache des secrets profonds et dangereux.",
+    "title": "Chambre des Rituels Sacrés",
+    "description": "La chambre des Rituels Sacrés est une salle rectangulaire, immense et sombre, éclairée par une faible lueur qui pénètre à travers une grille de fer rouillée. L'humidité y règne, et les murs sont couverts de taches de moisissure. Au centre de la pièce, un cercle de pierre est gravé de spirales et de croix, symboles de puissance et de mystère. Des colonnes massives soutiennent le plafond, et des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'effrayante sérénité à l'atmosphère. Un autel, sombre et ancien, se dresse au fond de la pièce, invitant les initiés à des cérémonies obscures. Les marques de sol, spirales et croix, semblent indiquer un passage rituel. Tout autour, l'air est saturé d'une odeur de mystère et de puissance ancienne. Les murs sont décorés de tentacules et de têtes de mort, rappelant les forces obscures qui se cachent dans cette pièce. Les arches et les colonnes majestueuses donnent une impression de grandeur et de mystère, tandis que les tentacules et les têtes de mort ajoutent une note d'effrayante sérénité. Les spirales et les croix gravées au sol semblent indiquer un passage rituel, et l'humidité et la poussière ajoutent une touche de mystère à l'atmosphère. Les murs sont couverts de taches de moisissure, et l'air est saturé d'une odeur de mystère et de puissance ancienne.",
     "tags": [
       "rituel",
-      "sombre",
+      "sacrifice",
       "mystère",
-      "ancien",
-      "soufre"
+      "tentes",
+      "sérénité",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",

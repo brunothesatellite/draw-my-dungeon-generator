@@ -1,12 +1,12 @@
 {
   "436": {
-    "title": "La Salle des Sombres",
-    "description": "Des tentsacles couvrent les murs. La lumière d'Emma, révélant une grande vasque circulaire au cœur d'une pièce ouverte, ancienne et mystérieuse. Les murs, ornés de tentacules et de têtes de mort, semblent observer tes moindres mouvements. Des colonnes majestueuses soutiennent le plafond, tandis que des glyphes et des cercles rituels marquent le sol. Un autel central, entouré de runes anciennes, attire ton regard. L'air est chargé d'une odeur de soufre, et un murmure étrange résonne dans l'ombre. L'énorme spirale au centre de la vasque parais vivante, prête à engloutir tout intrus. Tu sens une présence inconnue, pesante et menaçante, qui plane dans l'air. La tension est palpable, et tu te demandes ce que cette salle sacrée cache vraiment.",
+    "title": "La Salle des Anciens",
+    "description": "La grande vasque se dresse au centre d'une salle circulaire, éclairée par une lumière diffuse qui semble provenir d'endroits inconnus. Les murs, ornés de tentacules et de têtes de mort, racontent des secrets millénaires. Des cercles rituels et des symboles anciens marquent le sol, tandis que des colonnes et des piliers soutiennent le plafond. Un autel, placé au milieu de la salle, semble être le point focal de cette ancienne sanctuaire. L'atmosphère est pesante et mystérieuse, comme si quelque chose d'ancien et d'interdit se cachait dans les recoins de cette salle. Des runes anciennes et un spiral enchanté sont les seules sorties de cette chambre sacrée.",
     "tags": [
-      "salle sacrée",
-      "spirale magique",
-      "tentacules",
-      "odeur de soufre",
+      "salle",
+      "ancien",
+      "rituel",
+      "sacrifice",
       "mystère"
     ],
     "sourceFeatures": {

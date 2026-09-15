@@ -1,13 +1,13 @@
 {
   "299": {
     "title": "L'Abîme des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la salle. L'humidité est oppressante, et l'air est chargé d'une odeur de soufre et de mort. Devant toi, un autel rectangulaire, entouré de piliers et de colonnes, attire ton regard. Des têtes de mort et des tentacules dépassent des murs, comme s'ils veillaient sur les secrets de l'ancien. Des cercles rituels et des glyphes runiques marquent le sol, des anciens symboles qui semblent murmurer des secrets obscurs. Le mobilier ancien, usé par le temps, parais attendre son heure. Des pièges sont dissimulés partout, prêts à s'abattre sur toi. L'eau stagnante, à la surface du sol, parais attendre que quelqu'un vienne la traverser. L'atmosphère est sinistre, presque palpable, comme si l'abîme lui-même respirait la malédiction. Tu sens que cette salle est le cœur d'un rituel ancien, et que derrière les murs se cache une force sombre et ancienne.",
+    "description": "Dans l'obscurité étouffante de l'abîme, les murs rectangulaires et humides sont marqués de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les fissures éclaire les piliers et les colonnes qui soutiennent cette salle de rituels. Le sol est marqué de cercles rituels et de glyphes runiques, et des têtes de mort et des tentacules sont suspendus aux murs, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien est délabré, et l'eau stagnante coule lentement dans un coin de la pièce, créant un miroir lugubre. Les rares rayons de lumière révèlent des traces de pièges et de créatures disparues, témoignant de l'ancienne puissance qui réside ici. Les rituels sont célébrés dans cette salle, et les anciens magiciens qui l'ont construite espéraient y trouver la clé du pouvoir infini.",
     "tags": [
       "rituel",
-      "sombre",
-      "ancien",
-      "humidité",
-      "tête de mort"
+      "abîme",
+      "salle de rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

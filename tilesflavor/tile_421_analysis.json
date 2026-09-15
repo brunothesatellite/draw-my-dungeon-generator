@@ -1,13 +1,13 @@
 {
   "421": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis, recouverts de têtes de mort et de tentacules. Un autel central, orné de cercles rituels, semble t’observer. Les piliers robustes, comme issus d’un autre âge, paraissent soutenir le plafond, mais tu sens une humidité stagnante qui monte du sol. Des cercles rituels marquent le sol, et des barils d’ancien mobilier ancien sont disséminés un peu partout. Tu perçois un murmure lointain, comme si quelque chose se cachait dans l’ombre. L’odeur de soufre et de mort flotte dans l’air, ajoutant à l’atmosphère sinistre. Tu sens une présence ancienne, presque palpable, qui te pousse à chercher un moyen de quitter cette salle. L’eau stagnante au fond de la salle parais prête à se lever contre toi.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté de ce lieu. La faible lumière qui pénètre à travers les fissures dans les murs révèle un autel central, entouré de cercles rituels. L'eau stagnante dans un trou au centre de la salle semble être un piège, et les tentacules qui s'en échappent ajoutent une touche d'horreur à l'atmosphère. Cette salle est dédiée à des rituels obscurs, et la présence d'une créature géante dans un trou au centre de la salle rend l'endroit encore plus menaçant.",
     "tags": [
-      "rituel",
-      "ancien",
-      "salle de rituels",
-      "sinistre",
-      "humidité"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Tentacules",
+      "Salle Sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

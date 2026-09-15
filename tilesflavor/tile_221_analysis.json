@@ -1,13 +1,13 @@
 {
   "221": {
     "title": "Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible, filtrant à travers des volets usés, éclaire des murs vieillis par le temps. Des têtes de mort et des tentacules émergents des murs, comme si la salle était gardée par des créatures obscures. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, semble inviter à des cultes anciens. Des piliers et des statues, usés par les siècles, ajoutent à l'atmosphère mystérieuse. Un tableau, avec le numéro 291, accroché au mur, parais être un point de repère pour les explorateurs. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si quelque chose de terrible se cachait dans les recoins de cette salle.",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints il y a des siècles. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Un tableau avec le numéro 291 est accroché au mur, son contenu mystérieux. L'eau stagnante au centre de la pièce est un danger à ne pas négliger. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. La salle semble être dédiée à des cultes obscurs et des rituels anciens.",
     "tags": [
-      "rituel",
-      "ancien",
-      "soufre",
-      "creatures obscures",
-      "salle de culte"
+      "rituels",
+      "culte",
+      "vieillie",
+      "mystérieuse",
+      "ancienne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

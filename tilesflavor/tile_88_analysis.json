@@ -1,13 +1,13 @@
 {
   "88": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, comme si la salle était éclairée par des torches enfouies depuis longtemps. Des têtes de mort et des tentacules peints sur les murs semblent observer les visiteurs, ajoutant une note d'horreur à l'atmosphère mystérieuse. Au centre, un autel est entouré de cercles rituels gravés dans le sol, comme si la salle avait été utilisée pour des cérémonies sombres. Des piliers robustes soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, racontant des histoires de l'ancien culte qui y réside. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, comme si quelque chose de maléfique attendait dans l'ombre.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc par des milliers d'années de lave et de sédiments. Ses murs, une fois blancs, sont aujourd'hui usés et grisonnants, témoignant de l'âge et de l'abandon. La lumière y est faible, filtrant à peine à travers des fissures minuscules, créant un jeu de lumières et d'ombres qui évoque une atmosphère mystérieuse et ancienne. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été suivi par des cultistes de longue date. Des piliers massifs, usés par le temps, soutiennent le plafond, ajoutant à l'ambiance de vieillissement et de mystère. Des traces de mobilier ancien sont encore visibles, laissées par des explorateurs ou des pratiquants de cultes. L'eau stagnante, noire et trouble, s'accumule dans les coins, ajoutant une note de danger à l'atmosphère déjà sombre. Le passage semble être un vestige d'un ancien temple ou d'un sanctuaire, où des rituels et des sacrifices étaient peut-être pratiqués. Les têtes de mort et les tentacules, bien que non mentionnés dans la description de l'auteur, sont des éléments qui pourraient bien se trouver dans ce lieu, ajoutant une touche d'horreur et de mystère supplémentaire.",
     "tags": [
-      "culte sombre",
-      "rituel ancien",
-      "salle de culte",
-      "atmosphère mystérieuse",
-      "vieillie"
+      "Passage",
+      "Ancien",
+      "Mystère",
+      "Rituel",
+      "Tête de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

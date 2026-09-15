@@ -1,13 +1,13 @@
 {
   "112": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Des tentsacles couvrent les murs. La lumière vacille, révélant une salle immense et décrépie, aux murs irréguliers et aux plafonds bas. Des fils d'araignée pendent de la voûte, tissant un réseau sombre qui semble s'agiter sous tes pas. Au centre, un autel massif de pierre, entouré de colonnes élancées, attire ton regard. Des tentacules émergents des murs, leurs formes sinistres se dessinant sur le sol avec lequel des spirales mystérieuses marquent le passage. Tombes et stèles éparpillées ajoutent une note macabre à l'atmosphère étrange. Des murmures lointains parviennent à tes oreilles, et tu sens une présence indéfinissable qui plane dans l'air. Les odeurs de soufre et de pourriture flottent, rendant l'atmosphère oppressante. Des pièges attendent, prêts à s'abattre sur toi. La tension est palpable, et tu te demandes ce que cette chambre sacrée cache vraiment.",
+    "title": "Passage des Filles d'Araignée",
+    "description": "Vous vous trouvez dans un couloir étroit et sinueux, dont les murs sont recouverts de fils d'araignée qui semblent s'étirer indéfiniment. La lumière est faible, filtrant à travers des ténèbres qui semblent s'approcher de vous. Le sol est marqué de spirales sombres qui semblent danser sous vos pieds. Des colonnes majestueuses, usées par le temps, soutiennent le plafond, ajoutant à l'atmosphère étrange de ce lieu. Des tentacules et des tombes étranges ornent les murs, racontant des histoires d'anciennes puissances. Un autel, délabré, se dresse au fond du couloir, semblant attendre un rituel sacré. Des apparitions fantomatiques flottent dans l'air, ajoutant une note de mystère à l'ambiance déjà étrange. Les filtres d'araignée semblent tisser un lien entre les mondes, prouvant que ce couloir est bien plus qu'il n'y paraît.",
     "tags": [
-      "sacrée",
-      "ténèbres",
+      "couloir",
       "mystère",
-      "pièges",
-      "atmosphère étrange"
+      "rituel",
+      "tentacules",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

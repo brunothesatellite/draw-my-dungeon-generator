@@ -1,13 +1,13 @@
 {
   "210": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et une table, recouverte de poussière, est placée à côté de l'autel. Un squelette, presque complet, repose au sol, ses os craquant sous tes pas. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement dans un coin de la salle. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette pièce.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant un chemin ancien. Des piliers robustes soutiennent le plafond, tandis qu'une table solitaire est posée au fond du couloir. L'atmosphère est oppressante, et l'eau stagnante au fond du passage menace de s'élancer vers le bas des escaliers de descente. Les murs sont parsemés de têtes de mort et de tentacules, rappelant l'ancienne puissance qui a créé ce lieu. Les cercles rituels indiquent que ce passage était autrefois un lieu de culte, peut-être même un autel. Les piliers et la table ajoutent à l'ambiance de mystère et de danger qui plane dans ce lieu. Les escaliers de descente, bien que menaçants, offrent la seule issue pour quitter ce lieu sinistre.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "squelette"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

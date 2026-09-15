@@ -1,13 +1,13 @@
 {
   "74": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une salle rectangulaire immense, aux murs couverts de peintures archaïques. Des colonnes massives, sculptées de motifs complexes, s'élèvent de part et d'autre du grand autel central, où des tentacules et des crânes de morts flottent dans l'air. Des spirales mystérieuses marquent le sol, et des barils de bois sont disséminés un peu partout. Des traces de créatures anciennes gravent les murs, et un murmure étrange résonne dans l'air. L'odeur de la terre humide et de l'encens ancien se mêle à l'air, créant une atmosphère étrangement apaisante et sinistre. Devant toi, un escalier menant à un niveau inférieur se dessine, mais il est barré par un mur de pierre. Un enchantement spiralé brille au centre de la pièce, prête à se déclencher à tout moment.",
+    "title": "Les Voies Sacrées",
+    "description": "Les Voies Sacrées sont deux couloirs séparés, étroits et sinuieux, qui s'enfoncent profondément dans les entrailles de la montagne. Les murs, couverts de spirales mystérieuses, semblent murmurer des secrets anciens. La lumière naturelle filtre à travers des fissures minuscules, éclairant les colonnes et les piliers qui soutiennent les voûtes. Les sols sont marqués de spirales, comme si des forces invisibles les avaient gravées. À l'extrémité de ces couloirs, se dresse un autel ancien, orné de tentacules et de têtes de mort, symboles de la puissance et de la crainte qui réside ici. Les Voies Sacrées sont gardées par des créatures énigmatiques, dont les traces laissent deviner leur présence ancienne. L'atmosphère est pesante, presque oppressante, comme si le lieu était chargé d'une énergie surnaturelle. Les Voies Sacrées sont le cœur sacré d'un ancien culte, et ceux qui osent y pénétrer doivent être prêts à affronter les ténèbres qui les attendent.",
     "tags": [
+      "couloir",
       "sacré",
-      "ancien",
       "mystère",
-      "creatures",
-      "enchanteur"
+      "ancien",
+      "creatures mystiques"
     ],
     "sourceFeatures": {
       "roomSize": "large",

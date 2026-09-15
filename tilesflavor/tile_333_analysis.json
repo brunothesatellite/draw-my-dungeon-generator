@@ -1,13 +1,13 @@
 {
   "333": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière faible pénètre à peine, éclairant des murs vieillis et des piliers robustes qui semblent avoir vu des siècles d'obscurité. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de tentacules et de têtes de mort sculptées dans le mur. Des cercles rituels et des glyphes runiques marquent le sol, comme si la salle avait été utilisée pour des rituels obscurs. Des traces de créature, comme des griffes profondes, sillonnent le sol, ajoutant une note de menace à l'atmosphère déjà glauque. L'eau stagnante, noire et trouble, remonte doucement le long du mur, prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Grotte des Anciens Rituels",
+    "description": "La grotte est étroite et sinueuse, ses parois rugueuses et couvertes de mousse. La lumière y pénètre à peine, éclairant de faibles cercles de lumière qui se reflètent sur les pierres humides. Les murs sont parsemés de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des milliers d'années. Des piliers et des colonnes de pierre soutiennent le plafond, leurs surfaces usées par le temps. Le sol est recouvert de mobilier ancien, des objets de culte et des ustensiles rituels qui semblent avoir été abandonnés depuis longtemps. L'atmosphère est oppressante, une sensation de mystère et de menace plane dans l'air. Des traces de créatures étranges sont visibles sur le sol, comme si des êtres maléfiques avaient récemment parcouru ces lieux. L'eau stagnante au fond de la grotte est un danger à ne pas sous-estimer.",
     "tags": [
       "rituel",
-      "salle de culte",
+      "mystère",
       "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "grotte",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,16 +1,13 @@
 {
   "366": {
-    "title": "La Crypte Sacrée",
-    "description": "Un porte murée occupe le centre de l'espace. Tu t'approches, sentant l'air frais et humide qui te caresse le visage. Devant toi, une petite pièce carrée, vieillie par le temps, évoque un lieu de culte ancien. Les murs, usés par les siècles, sont ornés de reliefs sculptés qui semblent raconter des mythes oubliés. Des cercles rituels marquent le sol, comme des cercles d'ombre dans la pénombre. Quatre piliers robustes soutiennent le plafond, leurs ombres dansant sur les murs. La porte murée au centre, fermée depuis des temps immémoriaux, parais tisser un lien avec l'au-delà. L'atmosphère est oppressante, mais aussi étrangement apaisante, comme si la crypte gardait un secret ancien et profond. Tu sens une présence ancienne, presque palpable, qui t'observe depuis les ténèbres.",
+    "title": "Crypte des Anciens",
+    "description": "Dans l'obscurité qui règne dans cette crypte, les murs vieillis par le temps semblent murmurer des secrets millénaires. La petite pièce carrée est éclairée par une faible lumière qui pénètre à travers une fenêtre étroite, révélant des cercles rituels gravés au sol. Deux colonnes robustes, ornées de reliefs sculptés, soutiennent le plafond voûté. À l'extrémité de la pièce, un sarcophage ancien repose sur une plateforme, entouré de piliers. La porte murée au fond de la crypte semble murée depuis des siècles, mais une sensation de présence mystérieuse plane dans l'air. Les reliefs sculptés racontent des histoires d'anciens cultes et de rituels sacrés, et les cercles rituels indiquent un espace dédié à la prière ou au culte. Les pièges anciens, bien que invisibles, sont prêts à se déclencher sur les intrus imprudents. La crypte est un lieu de culte ou de prière, où les anciens pratiquaient leurs rituels et où les secrets de l'histoire se mêlent aux mystères de l'au-delà.",
     "tags": [
-      "salle de prière",
-      "vieillie",
-      "reliefs sculptés",
-      "cercles rituels",
-      "piliers",
-      "atmosphère mystérieuse",
-      "crypte sacrée",
-      "pièges anciens"
+      "Crypte",
+      "Sarcophage",
+      "Reliefs sculptés",
+      "Cercles rituels",
+      "Pièges anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

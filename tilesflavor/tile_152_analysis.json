@@ -1,13 +1,13 @@
 {
   "152": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les colonnes qui se dressent comme des gardiens silencieux. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de têtes de mort sculptées et de tentacules qui semblent se mouvoir dans l'ombre. Des cercles rituels gravés dans le sol émettent un écho sinistre. Le mobilier ancien, usé par le temps, parais attendre son heure. Des pièges anciens sont dissimulés partout, prêts à se déclencher. L'eau stagnante, noire et fétide, coule lentement au fond de la pièce, ajoutant à l'atmosphère menaçante. La crypte murmure des secrets obscurs, prête à révéler ses secrets à ceux qui oseront s'y aventurer.",
+    "title": "Grotte des Anciens",
+    "description": "Dans l'obscurité de cette grotte, les ombres des anciens se profilent sur les parois. Les champignons émergent de la terre, leurs têtes émergentes semblant observer les visiteurs. Un aventurier pauvre, épuisé par ses aventures, repose contre un pilier, son souffle léger et son regard vide. La grotte est petite et irrégulière, avec des murs vieillis et des traces de vieilles cérémonies. Des cercles rituels marquent le sol, et des piliers et colonnes anciennes se dressent comme des gardiens silencieux. Le mobilier ancien est disséminé autour, ajoutant à l'atmosphère mystérieuse et menaçante de ce lieu. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à cette ancienne salle de culte.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "mystérieuse",
-      "menaçante",
-      "crypte"
+      "grotte",
+      "rituels",
+      "anciens",
+      "mystère",
+      "aventurier"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -36,7 +36,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Grotte avec champignons et aventurier pauvre",
       "tileNumber": 152

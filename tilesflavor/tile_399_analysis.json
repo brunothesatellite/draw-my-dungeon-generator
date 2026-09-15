@@ -1,13 +1,13 @@
 {
   "399": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière tamisée filtre à travers des fissures, éclairant vaguement les colonnes vieillissantes qui se dressent comme des gardiens silencieux. Au centre, un autel sombre attire le regard, entouré de têtes de mort sculptées et de tentacules qui semblent se mouvoir dans l'ombre. Des cercles rituels gravés dans le sol évoquent des rites anciens, tandis que des traces de créatures évoquent des sacrifices récents. L'air est lourd, chargé d'une odeur de soufre et de mort, et un murmure lointain parais résonner dans les murs. La porte murée à l'extrémité de la salle parais être le seul moyen de s'échapper, mais l'eau stagnante devant elle pourrait être un piège mortel.",
+    "title": "Salle de Destruction",
+    "description": "La salle de destruction est étroite et sombre, avec des murs de pierre qui semblent avoir été façonnés par les mains de l'oubli. Des colonnes massives, vieillies par le temps, se dressent à l'intérieur, formant un espace irrégulier. La lumière est faible, filtrant à travers des fissures minuscules dans le plafond, créant un éclairage tamisé qui met en valeur les ombres et les reflets sur les pierres. La salle est vieillie, avec des traces de vieilles peintures et des motifs de cercles rituels gravés dans le sol. Des cercles de pierre sont disposés de manière étrange, comme s'ils avaient été utilisés pour des rituels obscurs. Le mobilier ancien, usé et délabré, est disséminé un peu partout, ajoutant à l'atmosphère sinistre de la pièce. Une porte murée, fermée depuis longtemps, se trouve à l'extrémité de la salle, tandis qu'une eau stagnante, noire et trouble, occupe une partie du sol, rendant l'endroit dangereux. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui ont peut-être une présence dans ce lieu. La salle est un vestige d'un passé sombre, où des rituels et des sacrifices ont peut-être eu lieu.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "sombre",
-      "vieillie",
-      "colonne"
+      "salle de destruction",
+      "rituels obscurs",
+      "salle vieillie",
+      "eau stagnante",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "salle de destruction avec des pierres, des colonnes",
       "tileNumber": 399

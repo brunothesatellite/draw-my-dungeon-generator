@@ -1,17 +1,13 @@
 {
   "89": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire le regard. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Des têtes de mort sculptées dans le mur, comme des gardiens de l'oubli, observent les intrus. Une statue massive, probablement d'un dieu ou d'un ancien roi, domine l'ensemble. L'eau stagnante, noire et grise, coule lentement vers le centre de la pièce, évoquant un murmure sinistre. La tension est palpable, comme si la salle était le témoin d'un secret millénaire.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant à une salle carrée aux murs vieillis. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les cercles rituels gravés au sol, qui semblent avoir été usés par le temps. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère oppressante. Une statue ancienne, probablement en pierre, se dresse au centre de la salle, son visage étrangement souriant. Les murs sont ornés de têtes de mort sculptées, ajoutant une touche macabre à l'ensemble. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin de la salle, reflétant les ombres qui dansent dans l'air. Cette salle semble avoir été utilisée pour des rituels obscurs, et les cercles rituels au sol indiquent qu'elle était certainement le cœur de ces cérémonies. Les piliers et les têtes de mort donnent l'impression que cette salle a été utilisée depuis des siècles, peut-être même depuis des millénaires.",
     "tags": [
-      "salle de culte",
-      "vieillie",
-      "rituel",
-      "têtes de mort",
-      "statue",
-      "eau stagnante",
-      "sinistre",
-      "vieille salle",
-      "rituel ancien"
+      "Passage",
+      "Ancien",
+      "Salle de Culte",
+      "Rituel Obscur",
+      "Atmosphère Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

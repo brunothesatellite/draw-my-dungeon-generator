@@ -1,13 +1,13 @@
 {
   "432": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière tamisée filtre à travers une fenêtre au fond, révélant une pièce carrée aux murs couverts d'une patine ancienne. Des piliers massifs soutiennent le plafond, et au centre, un autel sombre attire ton regard. Des têtes de mort sculptées dans le mur et des tentacules émergents des angles, ajoutant une note macabre à l'atmosphère. Des cercles rituels gravés dans le sol te font scruter l'endroit avec un mélange de curiosité et de peur. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'eau froide te fait frissonner. Tu sens une présence ancienne, un poids lourd qui pèse sur cette pièce. Un mur à droite cache une fenêtre, ta seule issue. Des pièges anciens sont dissimulés dans les recoins, prêts à t'attirer dans leur piège.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et carrée, éclairée par une fenêtre qui laisse filtrer une lumière froide et sinistre. Les murs sont recouverts de têtes de mort et de tentacules, symboles de la cruauté et de la mort qui règnent ici. Au centre de la pièce, un bassin rempli d'eau trouble abrite trois statues gigantesques, représentant des divinités obscures. Des cercles rituels gravés dans le sol indiquent les emplacements des autels sacrés. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère menaçante de la salle. Les anciens pièges, toujours prêts à se déclencher, sont dissimulés dans les recoins sombres. La présence de la fenêtre offre une issue, mais elle semble être la seule lumière de cette salle de rituel ou de sacrifice.",
     "tags": [
       "rituel",
       "sacrifice",
-      "macabre",
-      "ancien",
-      "mystère"
+      "divinités obscures",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

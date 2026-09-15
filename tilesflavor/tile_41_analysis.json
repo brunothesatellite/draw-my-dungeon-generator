@@ -1,13 +1,13 @@
 {
   "41": {
-    "title": "Le Sanctuaire des Anciens",
-    "description": "Des tents couvrent les murs. Devant toi s'ouvre une salle immense, rectangulaire et éclairée par la lumière naturelle qui filtre à travers des fenêtres hautes. Les murs, couverts de peintures anciennes et de tentes suspendues, semblent murmurer des secrets millénaires. Des colonnes massives soutiennent le plafond, tandis que des spirales mystérieuses gravées dans le sol te guident vers un autel central. Des crânes sculptés ornent les murs, ajoutant une touche de terreur à l'atmosphère sombre. Le sol, marqué de match marks et de motifs de spirales, parais tisser un lien avec le passé. Un tableau, posé sur une table en bois, parais attendre son destin. La tension est palpable, comme si le sanctuaire était gardé par des forces invisibles. L'odeur de la terre humide et de l'encens ancien te pique les narines, tandis que le murmure lointain d'un murmurer ancien résonne dans ta tête. Le sanctuaire est un lieu de culte, un lieu de pouvoir, et tu te demandes ce que tu trouveras derrière les portes closes.",
+    "title": "Passage Sacré",
+    "description": "Le couloir s'élargit peu à peu, révélant une large galerie rectangulaire aux murs anciens et usés. La lumière naturelle filtre à travers des ouvertures étroites, éclairant les spirales et les marques d'anciennes haches gravées dans le sol. Les colonnes massives et les piliers sculptés de motifs complexes se dressent de partout, créant une atmosphère mystérieuse et sacrée. Un grand autel de pierre occupe le fond, orné de tentes et de crânes suspendus aux murs. Un simple table en bois est placée près de l'autel, sans objet apparent. Les couloirs latéraux sont étroits et menacent de s'effondrer, mais aucun passage n'est visible à l'horizon. Les pièges sont nombreux, prêts à s'abattre sur les intrus imprudents. La galerie semble être un lieu de culte ancien, dédié à une divinité inconnue.",
     "tags": [
+      "couloir",
       "sacré",
       "ancien",
       "mystère",
-      "culte",
-      "pouvoir"
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

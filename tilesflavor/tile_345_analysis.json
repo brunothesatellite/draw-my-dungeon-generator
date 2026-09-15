@@ -1,13 +1,13 @@
 {
   "345": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils en bois sont posés contre le mur. La grille au centre du sol parais prête à s'effondrer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te submerger. La tension est palpable, et tu sens que quelque chose de glaçant se cache dans l'ombre.",
+    "title": "La Grotte des Anciens",
+    "description": "La grotte est étroite et basse, avec des arches qui semblent avoir été sculptées par la main de l'homme. Le sol est couvert de cercles rituels, et une grille métallique est posée au centre du sol, comme si elle avait été utilisée pour maintenir quelque chose en place. À l'intérieur, une table en bois est placée contre le mur, entourée de chaises vieillies. Deux arches sont visibles à l'entrée de la grotte, et à l'arrière se trouve une boîte et deux tonneaux, peut-être utilisés pour stocker des objets précieux ou des rituels. La lumière est faible, et l'atmosphère est mystérieuse et menaçante. Les murs sont recouverts de têtes de mort et de tentacules, ajoutant à l'ambiance lugubre de la grotte. La grotte semble avoir été utilisée pour des rituels anciens, et les cercles rituels au sol indiquent qu'elle a probablement été utilisée pour des cérémonies importantes.",
     "tags": [
-      "rituel",
-      "vieillie",
+      "grotte",
+      "rituels",
+      "anciens",
       "mystérieuse",
-      "soufre",
-      "tentacules"
+      "menaçante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

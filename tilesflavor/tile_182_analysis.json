@@ -1,13 +1,13 @@
 {
   "182": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de mousse et de croûtes de plâtre, sont ornés de têtes de mort et de tentacules qui paraissent avoir été sculptés dans le béton. Au centre, un autel est entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et une table trône devant l'autel, mais elle est vide. Une statue, probablement ancienne, se dresse dans un coin, son visage décomposé et ses yeux vides. L'odeur de soufre et de moisi se mêle à l'air, et tu sens une présence étrange qui te pousse à te rapprocher de l'autel. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été abandonné depuis des siècles. Les murs, recouverts de mousse et de lierre, sont ornés de têtes de mort et de tentacules qui semblent avoir échoué ici. Des cercles rituels sont gravés dans le sol, marquant l'ancien emplacement d'un autel. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un vieux tableau, encadré de tentacules, est posé contre le mur, comme si quelqu'un avait tenté de le cacher. L'eau stagnante, noire et trouble, remplit une partie du passage, rendant l'air humide et irrespirable. À l'extrémité du couloir, une porte ancienne semble avoir été oubliée, menant à un mystère inconnu. Les murs sont parsemés de traces de vieilles peintures et de symboles énigmatiques, rendant l'endroit encore plus effrayant.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "ancien"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

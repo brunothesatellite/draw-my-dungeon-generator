@@ -1,13 +1,13 @@
 {
   "256": {
-    "title": "La Chambre des Yeux",
-    "description": "Des tentacles couvrent les murs. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. Les murs, humides et froids, sont ornés de tentacules qui semblent se mouvoir, comme des serpents vivants. Au centre, un autel étrange, sculpté de spirales, attire ton regard. Des colonnes massives soutiennent le plafond, et l'odeur de soufre et de mort flotte dans l'air. L'atmosphère est oppressante, et tu sens une présence étrange qui t'observe. Des yeux étranges, semblables à ceux d'un reptile, sont gravés dans le mur, et tu te demandes ce qu'ils veulent. Des spirales gravées dans le sol te guident vers l'autel, et tu te demandes si tu as le courage de l'approcher. La tension monte, et tu te demandes si cette pièce est vraiment un lieu de culte ou un piège mortel.",
+    "title": "L'Égout des Anciens",
+    "description": "Au cœur de l'obscurité, un égout immense s'ouvre, sa forme rectangulaire imposante. La grille au centre, étrangement alignée, semble protéger un secret. Le sol, humide et glissant, est marqué de spirales mystérieuses qui semblent danser sous la faible lumière qui filtre à travers les poutres délabrées. Des colonnes massives, ornées de tentacules, soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un autel, étrangement intact malgré l'humidité, se dresse au fond, son visage sculpté semblant observer les visiteurs. Les spirales et les tentacules, comme des indices secrets, guident le regard vers un mystérieux œil au centre de la pièce, semblant surveiller chaque mouvement. Les murs, usés par le temps, sont parsemés de tentacules qui semblent vivre leur propre vie, ajoutant une touche d'effrayante réalité à l'atmosphère. Les échos de pas lointains et les murmures de l'eau qui coule dans l'égout créent une ambiance de suspense et de mystère.",
     "tags": [
-      "rituel",
-      "mystère",
-      "tentacules",
-      "spirales",
-      "yeux étranges"
+      "Égout",
+      "Anciens",
+      "Mystère",
+      "Tentacules",
+      "Spirales"
     ],
     "sourceFeatures": {
       "roomSize": "large",

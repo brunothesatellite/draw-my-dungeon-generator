@@ -1,13 +1,13 @@
 {
   "387": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et délabrée. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de glyphes, parais inviter à l'obscurité. Des barils de bois ancien, usés par le temps, sont empilés contre le mur de gauche. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et grise, coule lentement du plafond. La tension est palpable, comme si quelque chose de menaçant se cachait dans l'ombre.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est délabré, ajoutant à l'atmosphère sombre et menaçante de la pièce. Un seul passage mène à l'extérieur, mais l'eau stagnante au sol rend l'accès difficile. La salle semble être un lieu de culte ou de rituel, avec des têtes de mort et des tentacules peints sur les murs, ajoutant une touche d'horreur à l'ambiance déjà sombre.",
     "tags": [
       "rituel",
-      "sacrifice",
+      "culte",
+      "salle sacrée",
       "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

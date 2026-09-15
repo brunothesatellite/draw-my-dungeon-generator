@@ -1,17 +1,13 @@
 {
   "145": {
-    "title": "La Salle des Sacrifices",
-    "description": "Tu te retrouves dans un espace étroit, presque claustro phobique, où la lumière faible et diffuse semble filtrer à travers des voiles de poussière. Les murs, recouverts d'un vieil enduit grisâtre, sont crevassés et fissurés, témoignant de l'âge et de l'abandon. Devant toi, un autel rectangulaire, taillé dans un bloc de pierre sombre, attire ton regard. Des têtes de mort sculptées, leurs yeux vides, sont suspendues aux murs, tandis que des tentacules étranges paraissent s'enrouler autour de la pièce, comme si elles cherchaient à s'échapper. Des cercles rituels gravés dans le sol, comme des cercles de poussière noire, paraissent marquer un passage ancien. Des piliers massifs, sculptés de motifs archaïques, soutiennent le plafond, qui parais bas et oppressant. Des meubles anciens, usés par le temps, sont empilés dans un coin, leurs formes étranges et déformées. Des pièges, invisibles, mais bien présents, attendent patiemment. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et visqueuse, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, comme si la salle était le cœur d'un rituel ancien, et que quelque chose de terrible se prépare.",
+    "title": "Passage des Anciens",
+    "description": "Tu te trouves dans un passage étroit et rectangulaire, aux murs vieillis et recouverts de traces de vieilles peintures. La faible lumière qui filtre à travers une petite ouverture au bout du couloir éclaire les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et le mobilier ancien est disséminé ici et là, ajoutant à l'atmosphère sinistre. L'eau stagnante, noire et trouble, remplit une partie du passage, créant un danger potentiel. À l'extrémité du couloir, un seul passage semble mener à une autre partie du donjon. Les têtes de mort et les tentacules peints sur les murs semblent témoigner d'une ancienne cérémonie ou d'un rituel sombre. Les cercles rituels au sol indiquent que ce passage était utilisé pour des rituels sacrés. Les piliers et les murs vieillis donnent à ce lieu une ambiance de mystère et de danger.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "tête de mort",
-      "tentacules",
-      "soufre",
-      "piliers",
-      "pièges",
-      "eau stagnante"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Danger"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

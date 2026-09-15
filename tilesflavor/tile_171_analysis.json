@@ -1,18 +1,13 @@
 {
   "171": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière est faible, comme si la crypte avait été oubliée depuis des siècles. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des milliers d'années. Des cercles rituels gravés dans le sol évoquent des forces obscures. Des têtes de mort et des tentacules émergents des murs, comme si la crypte était habitée par des créatures malveillantes. Des traces de pas anciens sillonnent le sol, racontant des histoires d'êtres qui ont vécu ici. L'eau stagnante au fond de la pièce murmure des secrets. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte des Champignons Sacrés est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol et les parois, émettant une odeur de terre humide et de mystère. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'intérieur de la grotte. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sombre et ancienne. Des traces de pas anciens sont visibles sur le sol, indiquant que des créatures ont déjà exploré ce lieu. À l'entrée, un seul passage étroit permet de passer, menant à une salle plus profonde. L'air est saturé d'une odeur de vieilles pierres et de champignons, rendant l'atmosphère mystérieuse et menaçante. Des têtes de mort et des tentacules sont gravés sur les parois, ajoutant une touche d'horreur à l'endroit. La grotte est utilisée pour des rituels ou des cultes, et les cercles rituels indiquent qu'elle est un lieu sacré. L'eau stagnante au fond de la grotte est un danger à ne pas négliger.",
     "tags": [
-      "crypte",
-      "rituels",
-      "têtes de mort",
-      "tentacules",
-      "soufre",
-      "vieillie",
-      "mystérieuse",
-      "menaçante",
-      "anciens",
-      "creatures"
+      "Grotte",
+      "Champignons",
+      "Rituels",
+      "Anciens",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

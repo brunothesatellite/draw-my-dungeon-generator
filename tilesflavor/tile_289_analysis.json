@@ -1,13 +1,13 @@
 {
   "289": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Des têtes de mort couvrent les murs. Devant toi s'ouvre une crypte rectangulaire, faiblement éclairée par une lumière froide et diffuse. Les murs, vieillis et fissurés, sont recouverts de têtes de mort sculptées dans la pierre. Des cercles rituels dessinent des motifs sombres sur le sol, tandis que des piliers massifs soutiennent le plafond. Le mobilier ancien, usé par le temps, semble avoir été oublié depuis longtemps. Des tentacules, visqueux et sinistres, émergent des recoins, ajoutant une note d'horreur à l'atmosphère déjà menaçante. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante s'écoule lentement, créant un murmure sinistre. L'escalier qui s'ouvre au fond de la salle parais être le seul moyen de quitter cet abîme. La tension est palpable, chaque bruit résonnant comme un appel à la prudence.",
+    "title": "Passage suspendu au cœur de l'abîme",
+    "description": "Le passage suspendu, étroit et rectangulaire, semble avoir été construit il y a des siècles. La lumière tamisée filtre à peine à travers les fissures du plafond, éclairant les murs vieillis par le temps. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble inachevé. Des piliers robustes soutiennent le pont de corde qui traverse l'abîme, mais l'eau stagnante qui s'accumule sous le pont rend le passage dangereux. Des têtes de mort, sculptées avec une finesse surprenante, ornent les murs, ajoutant une touche macabre à l'atmosphère déjà menaçante. Le mobilier ancien, usé et délabré, semble avoir été laissé là depuis longtemps, témoignant de l'ancienneté de ce lieu. À chaque pas, le pont de corde gémit sous le poids, et l'eau stagnante résonne sous vos pieds. À l'horizon, un escalier semble descendre dans l'abîme, menant à un endroit inconnu. Cette salle, bien qu'apparemment petite, est un lieu de stockage ou de rituel, où les secrets les plus sombres sont gardés.",
     "tags": [
       "abîme",
+      "pont de corde",
+      "rituel",
       "têtes de mort",
-      "rituels",
-      "tentacules",
-      "vieillie"
+      "sécrétion"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

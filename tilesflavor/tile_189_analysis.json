@@ -1,13 +1,13 @@
 {
   "189": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette pièce rectangulaire, vieillie et délabrée. Les murs, recouverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un autel central attire ton regard, et tu remarques une table en bois sombre peut-être utilisée pour les rituels. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à avancer avec prudence. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'écoule devant toi parais prête à engloutir tout intrus imprudent. La tension est palpable, et tu te demandes ce qui se cache derrière cette salle de rituel.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules émergent des parois, ajoutant une touche d'horreur à l'atmosphère déjà oppressante. La faible lumière qui pénètre à travers une petite ouverture au sommet du couloir éclaire les piliers massifs qui soutiennent le passage. Un autel, orné de têtes de mort et de tentacules, se dresse au fond du couloir, semblant être le point d'arrivée de ce passage. La table, placée près de l'autel, semble avoir été utilisée pour des rituels obscurs. L'eau stagnante au fond du couloir est un danger à ne pas négliger. Le seul passage menant à ce lieu semble être bloqué par un mur de pierre qui semble avoir été érigé récemment, mais qui pourrait être une fausse piste pour les explorateurs.",
     "tags": [
+      "couloir",
       "rituel",
-      "vieillie",
-      "sinistre",
-      "soufre",
-      "têtes de mort"
+      "têtes de mort",
+      "tentacules",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

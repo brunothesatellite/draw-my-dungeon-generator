@@ -1,13 +1,13 @@
 {
   "195": {
-    "title": "Salle des Anciens Cultes",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de peintures sombres, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Un autel central, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues anciennes se dressent autour, ajoutant à l'atmosphère glauque. Le sol est marqué de cercles rituels et de runes, et des barils de bois ancien sont disséminés un peu partout. Un squelette, visiblement ancien, repose au fond de la pièce, son crâne dégoulinant de soufre. La porte murée à l'arrière parais fermée, mais tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la pièce. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Escaliers Sacrés",
+    "description": "Les escaliers sacrés, vieillis par le temps, montent et descendent dans un espace rectangulaire, minuscule mais chargé d'histoire. La faible lumière qui filtre à travers les fissures des pierres éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des statues étranges, aux visages énigmatiques, gardent le passage. Le mobilier ancien, usé par les siècles, semble avoir été abandonné depuis longtemps. L'atmosphère est mystérieuse et ancienne, comme si les murs murmuraient des secrets millénaires. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ornent les murs. La porte murée au fond semble être le seul moyen de quitter cette salle de culte ou de rituel, mais l'eau stagnante qui s'est formée au fond du couloir en fait un piège mortel.",
     "tags": [
-      "culte",
+      "escalier",
+      "salle de culte",
       "rituel",
       "vieillie",
-      "mystérieuse",
-      "squelette"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

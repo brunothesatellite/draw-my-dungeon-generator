@@ -1,13 +1,13 @@
 {
   "377": {
-    "title": "La Crypte des Sacrifices",
-    "description": "Tu t'immobilises, le cœur battant, devant une porte murée qui semble avoir été bâtie il y a des siècles. La lumière faible, filtrant à travers des fissures dans le plafond, révèle des têtes de mort sculptées dans le linteau. Les murs, usés par le temps, sont ornés de lignes et de hachures qui paraissent anciennes. Des piliers robustes soutiennent le plafond, et des colonnes majestueuses se dressent au centre de la pièce. L'odeur de la terre et du soufre te pique les narines, et un murmure lointain parais provenir de l'ombre. Tu sens une présence ancienne, presque palpable, dans cette salle de rituel ou de sacrifice. Les anciens pièges attendent, prêts à s'activer.",
+    "title": "Souterrain Sans Issue",
+    "description": "Vous vous trouvez dans un souterrain sans issue, un lieu mystérieux et vieilli. La petite pièce est irrégulière, avec des murs qui semblent avoir été sculptés à la main. La faible lumière qui pénètre à travers une fissure dans le plafond éclaire des lignes et des hachures gravées sur le sol, comme si quelqu'un avait tenté de marquer un passage. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère ancienne et étrange de la pièce. Des têtes de mort sont accrochées aux murs, des symboles énigmatiques qui semblent avoir été sculptés il y a des siècles. La porte murée au fond de la pièce est fermée, mais vous sentez une présence ancienne et malveillante derrière elle. Les anciens pièges qui se dissimulent dans les recoins de la pièce attendent toujours leur heure pour vous piéger. La pièce est un lieu de rituel ou de sacrifice, un endroit où les anciens pratiquaient des cérémonies sombres et mystérieuses.",
     "tags": [
-      "salle de rituel",
+      "souterrain",
+      "rituel",
       "sacrifice",
-      "têtes de mort",
-      "pièges anciens",
-      "atmosphère mystérieuse"
+      "vieillie",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "322": {
     "title": "L'Abîme des Champignons",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est saturé d'une odeur de champignons, un mélange de terre humide et de quelque chose de plus... étrange. Les murs, irréguliers et couverts d'une fine couche de mousse, semblent s'effondrer sous tes pas. Des tentacules, comme ceux d'un monstre marin, pendent des plafonds, leurs nœuds noirs et gluants paraissant attendre une proie. Le sol, un tapis de champignons de toutes les couleurs, est marqué d'un spiral complexe qui parais guider le regard vers le centre de la salle. Des colonnes robustes, comme des piliers de pierre, se dressent à l'intérieur, leurs surfaces lisses et lisses. Tu ne sais pas quel est le but de cette salle, mais l'atmosphère est si mystérieuse que tu te demandes si tu as vraiment le droit d'être ici. Des murmures lointains parviennent à tes oreilles, comme si quelque chose se préparait dans l'ombre.",
+    "description": "Dans l'obscurité qui règne dans l'abîme, les ombres se mêlent aux formes étranges qui se profilent sur les parois. Des champignons géants, étranges et lumineux, poussent sur les murs et les sols, émettant une lueur faible qui éclaire partiellement le lieu. Des spirales mystérieuses gravées dans le sol semblent indiquer un chemin à suivre, mais leur destination reste un mystère. Des colonnes majestueuses, ornées de tentacules, se dressent à l'intérieur, ajoutant à l'atmosphère sinistre de l'endroit. Les parois sont recouvertes de tentacules qui semblent vivants, se balançant doucement dans l'air. L'humidité qui imprègne l'air rend l'endroit humide et froid. Les exits semblent inconnus, et les dangers potentiels sont nombreux. L'abîme est un lieu de mystère, où chaque coin cache un secret qui pourrait être fatal.",
     "tags": [
       "abîme",
       "champignons",
       "tentacules",
       "mystère",
-      "salle obscure"
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

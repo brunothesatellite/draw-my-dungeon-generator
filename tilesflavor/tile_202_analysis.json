@@ -1,0 +1,46 @@
+{
+  "202": {
+    "title": "Passage des Sacrifices",
+    "description": "Le couloir s'élargit progressivement, formant un rectangle large et rectiligne. La lumière tamisée émane des torches anciennes qui se balancent au bout de cordes, créant une ambiance sinistre. Les murs, couverts de traces de vieilles peintures et de symboles énigmatiques, semblent avoir été abandonnés depuis des siècles. Des colonnes massives, ornées de motifs sculptés, soutiennent le plafond qui s'effondre peu à peu, laissant échapper des nuages de poussière. Des cercles rituels sont gravés au sol, marquant le passage d'un espace sacré. Des étagères en bois, usées par le temps, sont disséminées le long des murs, mais elles sont vides. Le passage est étroit et semble ne mener nulle part, ajoutant à l'atmosphère étrange et menaçante. Des traces de sang séché sont visibles sur le sol, et l'eau stagnante au fond du couloir est toxique, ce qui rend le lieu encore plus dangereux. Les murs sont parsemés de tentacules et de crânes, rappelant l'ancien culte qui a régné ici.",
+    "tags": [
+      "couloir",
+      "sacrifice",
+      "ancien culte",
+      "toxique",
+      "mystérieux"
+    ],
+    "sourceFeatures": {
+      "roomSize": "large",
+      "roomShape": "rectangular",
+      "lighting": "dim",
+      "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "skulls"
+      ],
+      "floorMarkings": [
+        "ritual circles"
+      ],
+      "architecturalDetails": [
+        "pillars"
+      ],
+      "objectsOrFurniture": [
+        "shelves"
+      ],
+      "creaturesOrTraces": [
+        "none"
+      ],
+      "exits": [
+        "none"
+      ],
+      "hazards": [
+        "poisoned water"
+      ],
+      "atmosphere": "mysterious and eerie",
+      "roomPurpose": "sacrificial chamber",
+      "csvDescription": "Couloir avec escaliers de descente",
+      "tileNumber": 202
+    }
+  }
+}

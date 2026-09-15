@@ -1,13 +1,13 @@
 {
   "30": {
-    "title": "La Chambre Sacrée des Tentacules",
-    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière naturelle filtre à travers une fenêtre au fond, révélant une pièce immense et rectangulaire, dont les murs sont recouverts d'une couche de mousse verdâtre. L'air est chargé d'une odeur de soufre et d'humidité, comme si la pièce avait été abandonnée depuis des siècles. Au centre, un autel de pierre, orné de tentacules sculptés, attire ton regard. Des colonnes majestueuses soutiennent le plafond, tandis que des inscriptions anciennes gravées sur les murs semblent murmurer des secrets millénaires. Un spiral gravé dans le sol te guide vers l'entrée unique, où une table en bois attend peut-être pour les offrandes. La tension est palpable, comme si quelque chose de maléfique se cachait dans l'ombre.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière naturelle filtre à travers une fenêtre au fond, éclairant la pièce d'une lueur froide et mystérieuse. Les murs, recouverts de mousse et de lichens, semblent avoir vieilli avec le temps, racontant des millénaires d'histoire. Des colonnes majestueuses soutiennent le plafond, leurs pierres luisant sous la lumière tamisée. Au centre de la pièce, une grille de fer repose sur le sol, marquant un cercle spiralé gravé dans le sol. Un autel, orné de tentacules étranges, domine l'endroit, évoquant une ancienne cérémonie sacrée. Un simple meuble en bois, une table, est placé à l'entrée, comme si quelqu'un avait laissé un message ou une offrande. La salle est silencieuse, mais l'atmosphère est chargée d'une présence ancienne et mystérieuse. Un seul passage mène à l'extérieur, mais la mousse et la verdure qui s'accumulent sur le sol rendent l'accès difficile. Les tentacules qui ornent les murs semblent vivants, se déplaçant légèrement dans l'air, ajoutant à l'ambiance sinistre de la pièce.",
     "tags": [
       "salle sacrée",
-      "tentacules",
-      "mystère",
       "ancien",
-      "mystique"
+      "rituel",
+      "mystère",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

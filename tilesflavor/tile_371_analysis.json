@@ -1,13 +1,13 @@
 {
   "371": {
-    "title": "La Salle des Rituels",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des colonnes soutiennent le plafond, tandis que des barils anciens sont disséminés dans les coins. Des pièges anciens, visibles sous la poussière, attendent patiemment leur prochain victime. Deux portes, l'une à droite et l'autre à gauche, offrent l'entrée à l'obscurité. L'odeur de soufre et de vieux bois flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension est palpable, chaque coin de cette salle de rituels révélant un danger potentiel.",
+    "title": "Passage Rituel",
+    "description": "Le passage Rituel est étroit et rectangulaire, avec des murs vieillis et des traces de vieilles peintures murales. La faible lumière qui pénètre à travers une petite fenêtre au bout du couloir éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers et des colonnes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. Des cercles rituels et des glyphes runiques marquent le sol, indiquant que ce passage était utilisé pour des rituels sacrés. Des traces de vieilles pierres et de mobilier ancien sont encore visibles, témoignant de l'ancienneté du lieu. Deux portes à l'extrémité du couloir menent à d'autres salles, mais l'eau stagnante au sol rend l'accès difficile. L'atmosphère est pesante et chargée d'une aura ancienne et sacrée.",
     "tags": [
-      "rituels",
-      "vieillie",
-      "mystérieuse",
-      "ancien",
-      "poussière"
+      "Passage",
+      "Rituel",
+      "Ancien",
+      "Sacré",
+      "Mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

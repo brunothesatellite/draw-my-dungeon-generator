@@ -1,13 +1,13 @@
 {
   "66": {
-    "title": "La Salle des Rituels",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, révélant un espace étroit et mal éclairé. Les murs, vieillis et fissurés, semblent avoir vu des temps durs. Un autel central, recouvert de tissus usés, attire ton regard. Des têtes de mort et des tentacules étranges sont accrochées aux murs, comme des symboles de l'ancien culte. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des barils de bois ancien sont empilés contre le mur, et des pièges sont dissimulés dans les recoins. L'odeur de soufre et de moisi flotte dans l'air, et l'eau stagnante coule lentement dans un coin. La porte murée à l'extrémité de la salle parais fermée à double tour, mais tu sens une présence étrange derrière elle. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, ses murs irréguliers semblent avoir été façonnés par les mains de l'oubli. La faible lumière qui filtre à travers les fissures éclaire des cercles rituels gravés au sol, des symboles qui semblent anciens et mystérieux. Les piliers massifs, usés par le temps, portent le poids de l'histoire qui s'est écoulée depuis des millénaires. Des têtes de mort et des tentacules émergent des murs, rappelant l'existence d'êtres maléfiques qui ont peut-être une influence sur ce lieu. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps, ajoutant à l'atmosphère sinistre qui plane dans ce passage. À l'horizon, une porte murée semble bloquer le chemin, tandis que l'eau stagnante au fond du couloir menace de s'engouffrer dans les moindres recoins. Les rituels qui ont eu lieu ici semblent avoir laissé des traces indélébiles, et le passage des Anciens est un lieu où le passé et le présent se mêlent pour former une atmosphère oppressante et menaçante.",
     "tags": [
+      "couloir",
       "rituels",
-      "vieillie",
-      "soufre",
       "têtes de mort",
-      "tentacules"
+      "tentacules",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "54": {
-    "title": "La Salle des Anciens",
-    "description": "Un altar or platform occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, recouverte d'une couche de mousse et de végétation. Les murs, ornés de tentacules et de crânes de mort, semblent témoigner d'une ancienne cérémonie. Un autel central, entouré de colonnes et de pilastres, attire ton regard. Des spirales et des croix gravées dans le sol attirent ton attention, comme si la salle avait été utilisée pour des rituels sacrés. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne. Deux fenêtres donnent sur le monde extérieur, mais la tension est palpable, comme si quelque chose de maléfique pouvait se cacher dans cette salle. Les murs humides et les traces de poussière indiquent que cette salle n'a pas été visitée depuis longtemps.",
+    "title": "Passage des Anciens",
+    "description": "Le couloir s'élargit peu à peu, révélant une largeur de dix mètres. Sa forme rectangulaire est marquée par des colonnes massives qui soutiennent un plafond voûté. La lumière naturelle filtre à travers deux fenêtres étroites, éclairant les murs humides et recouverts de mousse. Des spirales et des croix gravées dans le sol attirent l'œil, tandis que des colonnes et des piliers ornent les murs. Un autel sombre, orné de tentacules et de têtes de mort, se dresse au fond du couloir, entouré d'un mystérieux objet qui semble émettre une légère émanation. Les murs sont décorés de tentacules et de têtes de mort, ajoutant à l'atmosphère ancienne et mystérieuse. Le sol, couvert de mousse, est marqué de spirales et de croix, et des enchantements potentiels pourraient se cacher dans l'air. À l'extrémité du couloir, deux fenêtres permettent de voir à l'extérieur, mais le passage semble se terminer en un mur de pierre. Les murs sont humides et recouverts de mousse, et les tentacules et têtes de mort ajoutent une touche d'horreur à l'atmosphère sacrée et ancienne.",
     "tags": [
-      "mystère",
-      "rituel",
+      "couloir",
       "ancien",
-      "soufre",
-      "mousse"
+      "rituel",
+      "mystère",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "330": {
-    "title": "L'Autel des Ténèbres",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière filtre à peine à travers une fenêtre brisée, éclairant un autel central où des têtes de mort et des tentacules s'enroulent autour. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond vieilli. Une statue massive, étrangement ancienne, domine l'ensemble. L'air est lourd, chargé d'une odeur de soufre et de mort. L'eau stagnante, noire et grise, s'accumule dans un coin, prête à se déverser à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Passage de l'Abîme",
+    "description": "Le passage de l'Abîme est étroit et sinistre, taillé dans le roc sombre. Les planches de bois, usées par le temps, forment un pont instable qui traverse un abîme profond. Des cercles rituels gravés dans le sol émettent une faible lumière, éclairant vaguement le passage. Les murs, vieillis et fissurés, sont ornés de têtes de mort et de tentacules qui semblent sortir du rocher. Des piliers robustes soutiennent le passage, ajoutant à l'atmosphère lugubre. Une statue ancienne, érodée par les siècles, se dresse au fond du passage, comme témoin silencieux des secrets cachés. L'eau stagnante, noire et trouble, remonte doucement le long du sol, ajoutant une touche de danger à l'exploration. Le passage semble être le dernier refuge d'une ancienne civilisation, maintenant abandonnée et envahie par les forces obscures.",
     "tags": [
-      "rituel sombre",
-      "autel des morts",
-      "têtes de mort",
-      "tentacules",
-      "salle de rituel"
+      "Passage",
+      "Abîme",
+      "Salle de Rituels",
+      "Ancien",
+      "Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

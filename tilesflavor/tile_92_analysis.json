@@ -1,13 +1,13 @@
 {
   "92": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. Devant toi s'ouvre une salle carrée, vieillie et sombre, où les murs sont recouverts de têtes de mort et de tentacules qui semblent jaillir du plafond. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de mort flotte dans l'air, te donnant l'impression que cette salle a été utilisée pour des rituels sombres. Des pièges sont dissimulés dans les recoins, prêts à s'activer. L'eau stagnante, noire et malsaine, coule doucement au fond de la pièce, ajoutant une note de menace à l'atmosphère sinistre. Tu sens une présence ancienne, comme si des âmes malveillantes t'observaient depuis les ténèbres.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant à une salle carrée aux murs vieillis. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire une salle aux murs ornés de têtes de mort et de tentacules, rappelant les créatures mythiques des anciens temps. Des cercles rituels sont gravés au sol, marquant l'ancienne importance de ce lieu. Des piliers robustes soutiennent le plafond, tandis que des meubles anciens sont disséminés un peu partout, témoignant de l'occupation passée. L'atmosphère est oppressante, et l'eau stagnante au fond de la salle ajoute à l'ambiance lugubre. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les créatures des anciens temps. Les cercles rituels au sol indiquent que cette salle était utilisée pour des rituels obscurs. Le passage est étroit et sans issue, menant à une impasse sombre et sinistre.",
     "tags": [
-      "rituel sombre",
-      "salle de sacrifice",
-      "têtes de mort",
-      "tentacules",
-      "odeur de soufre"
+      "Passage",
+      "Anciens",
+      "Rituels",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

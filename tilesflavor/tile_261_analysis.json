@@ -1,13 +1,13 @@
 {
   "261": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Un autel central, entouré de cercles rituels, attire immédiatement l'attention. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois sombre est placée devant l'autel. Un squelette, bientôt complet, repose au pied de l'autel, comme s'il avait été sacrifié. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Égout des Sacrifices",
+    "description": "L'égout est étroit et sinueux, avec des courbes imprévisibles qui vous font perdre l'orientation. La lumière est si faible que vous devez vous fier à votre lampe pour avancer. Les murs sont recouverts de cercles rituels, des symboles énigmatiques qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. À l'extrémité de ce passage, une porte massive semble protéger un secret. L'air est saturé d'une odeur nauséabonde, et l'eau stagnante au fond de l'égout vous rappelle que vous n'êtes pas seul. Des têtes de mort et des tentacules émergent parfois du mur, des traces de sacrifices passés. La salle de rituel semble être le but de ce passage, mais la porte est fermée et semble être gardée par une force indéfinissable.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "sinistre",
-      "autel central",
-      "têtes de mort"
+      "épouvantable",
+      "rituel",
+      "sacrifice",
+      "épave",
+      "épouvante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

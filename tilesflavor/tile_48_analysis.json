@@ -1,13 +1,13 @@
 {
   "48": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière est faible, presque inexistante, mais tu perçois une ombre qui semble se mouvoir dans l'angle le plus éloigné. Le sol est couvert de cercles rituels, leurs contours usés par le temps. Des piliers massifs soutiennent le plafond, leurs pierres luisant d'une étrange énergie. À l'entrée, une porte ouverte laisse entrevoir un espace sombre. À droite, une table avec des rayures profondes attire ton regard. Des têtes de mort sont accrochées aux murs, leurs yeux vides paraissant te fixer. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un mystère ancien. La tension est palpable, chaque bruit parais résonner dans cette crypte rectangulaire vieillie.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir étroit et sombre s'enfonce dans l'obscurité, ses murs vieillis et fissurés témoignant de l'âge et de l'abandon. Des cercles rituels émaillent le sol, marquant un chemin qui semble avoir été oublié depuis longtemps. À l'extrémité du couloir, une porte ouverte laisse entrevoir une lumière faible, mais indécise. Des têtes de mort sculptées ornent les murs, ajoutant une note macabre à l'atmosphère mystérieuse. Des piliers robustes soutiennent le plafond, tandis qu'une table avec des rayures, probablement utilisée pour des rituels, occupe le centre du couloir. L'eau stagnante, noire et trouble, s'accumule au sol, créant un danger potentiel pour les explorateurs. Le couloir, bien qu'étroit, semble avoir été conçu pour une raison précise, peut-être pour des sacrifices ou des rituels obscurs.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "vieillissement",
-      "tension"
+      "Couloir",
+      "Sacrifices",
+      "Rituels",
+      "Macabre",
+      "Ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

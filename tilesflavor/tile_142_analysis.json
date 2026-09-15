@@ -1,13 +1,13 @@
 {
   "142": {
-    "title": "La Crypte Sacrée",
-    "description": "Tu te retrouves plongé dans un espace immense, rectangulaire, où la lumière filtre à peine à travers des fissures dans le plafond. Les murs, une fois majestueux, sont maintenant délabrés, leurs pierres érodées par le temps et les éléments. Des tentacules, comme ceux d'un ancien monstre marin, sont gravés dans le marbre des colonnes, leurs nœuds noirs et lugubres. Sur le sol, des spirales mystérieuses marquent le passage, comme si quelqu'un avait tenté de dessiner un rituel ancien. Au centre de la pièce, un autel, dépourvu de tout objet, semble attendre un sacrifice. Un fantôme, flou et transparent, plane au-dessus de l'autel, comme s'il cherchait à communiquer. L'odeur de la terre humide et de l'encens ancien te pique les narines, tandis que le murmure lointain d'un murmurer t'arrache un frisson. Les pièges sont nombreux, prêts à s'abattre sur toi à tout moment. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette crypte sacrée.",
+    "title": "Couloir des Sacrifices",
+    "description": "Vous vous trouvez dans un couloir étroit et sombre, les murs délabrés et recouverts de tentacules qui semblent vouloir vous saisir. Des spirales gravées dans le sol vous guident vers un espace vide au bout du couloir. Des colonnes massives, usées par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, dépourvu de tout objet, se dresse au centre du couloir, évoquant une ancienne cérémonie sacrée. Le crâne d'un monstre émerge de la terre à l'entrée du couloir, un témoin macabre de l'histoire qui s'est déroulée ici. La lumière est faible, mais suffisante pour voir les traces de sang séché sur les murs et le sol, indiquant que des sacrifices ont eu lieu ici. L'atmosphère est oppressante et étrangement calme, comme si le lieu attendait une nouvelle victime.",
     "tags": [
+      "couloir",
       "sacrifice",
-      "crypte",
-      "tentacules",
-      "fantôme",
-      "mystère"
+      "macabre",
+      "ancien",
+      "tentaclés"
     ],
     "sourceFeatures": {
       "roomSize": "large",
@@ -28,9 +28,6 @@
       ],
       "objectsOrFurniture": [
         "altar"
-      ],
-      "creaturesOrTraces": [
-        "ghostly figure"
       ],
       "exits": [
         "none"

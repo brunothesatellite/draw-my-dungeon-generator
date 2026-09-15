@@ -1,13 +1,13 @@
 {
   "185": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, recouverts de peintures sombres et vieillies, semblent murmurer des secrets millénaires. Un escalier descendant, usé par le temps, s'élève du centre de la pièce, menant à un monde inconnu. Des têtes de mort et des tentacules peints sur les murs te regardent, comme si la salle était gardée par des créatures obscures. Des cercles rituels marquent le sol, leurs contours usés par l'usure du temps. Des piliers robustes soutiennent le plafond, tandis que l'eau stagnante, noire et fétide, s'accumule dans un coin, prête à se déverser à tout moment. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère lugubre. Tu sens une présence ancienne, bientôt palpable, qui te pousse à explorer ce lieu pour découvrir ce qui se cache dans les ténèbres.",
+    "title": "Escalier Ancien",
+    "description": "L'escalier ancien descend dans l'obscurité, ses marches de pierre usées par le temps semblent murmurer des secrets millénaires. Les murs rectangulaires, légèrement inclinés, sont recouverts d'un éclairage faible qui éclaire vaguement les piliers massifs qui soutiennent la structure. Des cercles rituels gravés dans le sol indiquent l'ancienne utilisation de ce lieu pour des rituels mystiques. L'atmosphère est mystérieuse et ancienne, comme si le temps avait laissé son empreinte sur chaque pierre. L'eau stagnante au fond de l'escalier est un danger à ne pas négliger. Les murs sont vieillis, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance. Le dessin magique au sommet de l'escalier semble attendre quelqu'un pour le réveiller.",
     "tags": [
+      "escalier",
       "rituel",
       "ancien",
       "mystère",
-      "eau stagnante",
-      "têtes de mort"
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

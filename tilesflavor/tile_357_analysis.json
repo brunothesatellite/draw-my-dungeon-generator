@@ -1,13 +1,13 @@
 {
   "357": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, filtrant à travers des branches mortes qui pendent du plafond, créant un halo de ténèbres qui danse sur les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire le regard, entouré de statues et de piliers qui semblent veiller sur le mystère qui se cache derrière. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des forces obscures. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante au fond de la pièce murmure un secret ancien. L'atmosphère est oppressante, une tension palpable qui parais attendre l'arrivée de ceux qui oseront explorer ce lieu.",
+    "title": "Salle des Branches Sacrées",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des branches mortes qui tombent du plafond. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues étranges, probablement des divinités ou des gardiens, sont alignées le long des murs. Le mobilier ancien est dispersé, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. L'eau stagnante, noire et trouble, remplit une partie du sol, formant des bassins naturels. Les têtes de mort et les tentacules, visibles dans les coins sombres, ajoutent une touche d'horreur à l'ensemble. Cette salle est destinée à des rituels ou des cultes, et les anciens pièges y sont toujours en veille.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "mystère",
-      "vieillie",
-      "ténèbres"
+      "culte",
+      "salle sacrée",
+      "donjon",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "salle de donjon avec des branches",
       "tileNumber": 357

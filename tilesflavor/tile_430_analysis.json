@@ -1,13 +1,13 @@
 {
   "430": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Des tentsacles couvrent les murs. La lumière diminue, révélant une pièce immense et rectangulaire, aux murs décrépits et aux colonnes élancées qui semblent veiller sur toi. Le sol, couvert d'un tapis usé au centre, est marqué de spirales et de lignes énigmatiques. Des tentacules et des crânes de mort ornent les murs, tandis que des runes mystérieuses brillent sous la faible lumière. Un autel au centre parais tisser un lien avec l'ancien, et des figures fantomatiques flottent autour, ajoutant une atmosphère étrange. Les runes enchantées sur le sol promettent des dangers cachés. La chaleur humide et l'odeur de soufre t'enveloppent, et tu sens une présence ancienne et malveillante. La tension monte avec chaque pas que tu fais, car tu sais que la véritable menace réside dans les secrets de cette chambre sacrée.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre sacrée des Anciens est une salle longue, dont les portes doubles sont ouvertes, révélant un espace rectangulaire aux murs décrépits. Le sol est marqué de spirales et de lignes, et des colonnes majestueuses se dressent à l'intérieur, soutenant un plafond voûté. Des statues étranges, dont les visages sont masqués par des masques mystérieux, sont alignées le long des murs. Les murs sont ornés de tentacules et de têtes de mort, ajoutant une atmosphère sinistre à l'ensemble. Au centre de la pièce, un tapis est étendu, et des symboles énigmatiques y sont gravés. La lumière tamisée émane des fenêtres hautes, créant un éclairage diffuse qui rend l'endroit encore plus mystérieux. Des figures fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'atmosphère. Les runes enchantées disséminées sur le sol et les murs sont des dangers potentiels à ne pas négliger. Cette chambre sacrée est le cœur du donjon, un lieu où les rituels anciens sont célébrés et où les secrets les plus profonds de l'univers sont gardés.",
     "tags": [
       "salle sacrée",
-      "ténèbres",
+      "rituels anciens",
+      "têtes de mort",
       "tentacules",
-      "crânes de mort",
-      "runes enchantées"
+      "statues mystérieuses"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,17 +1,12 @@
 {
   "318": {
-    "title": "L'Abîme des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière faible pénètre à peine, éclairant un sol fissuré et des champignons étranges qui semblent vibrer sous vos pas. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant vous, un autel central, entouré de piliers et de colonnes vieillies, attire votre regard. Des têtes de mort et des tentacules émergents des murs, tandis que des cercles rituels et des glyphes runiques marquent le sol. Le mobilier ancien, usé par le temps, parais attendre votre arrivée. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'eau stagnante, noire et trouble, coule lentement vers le centre de la pièce, créant un murmure sinistre. L'atmosphère est oppressante, et un frisson vous parcourt le dos. La tension est palpable, comme si quelque chose de terrible allait se déclencher.",
+    "title": "Abîme des Fissures",
+    "description": "L'abîme s'ouvre devant vous, un trou immense et sombre, ses parois rugueuses et fissurées semblent se creuser sans fin. Des champignons étranges poussent ici et là, leurs tiges déformées par l'humidité et les éclairs qui déchirent occasionnellement le ciel. Le sol est un mélange de craie et de roche, marqué de cercles rituels et de glyphes runiques qui semblent avoir été gravés il y a des milliers d'années. Des piliers et des colonnes, usés par le temps, se dressent ici et là, portant des traces de vieilles pierres sculptées. Le tout est éclairé par une faible lumière qui semble provenir de l'abîme lui-même, rendant l'atmosphère sinistre et oppressante. Des traces de vieilles pierres sculptées et de mobilier ancien sont disséminés un peu partout, témoignant de l'ancienneté et de l'importance de ce lieu. L'eau stagnante qui s'accumule dans les crevasses est un danger à ne pas sous-estimer.",
     "tags": [
       "abîme",
       "rituel",
+      "champignon",
       "vieillie",
-      "squelette",
-      "têtes de mort",
-      "tentacules",
-      "glyphes runiques",
-      "mobilier ancien",
-      "eau stagnante",
       "sinistre"
     ],
     "sourceFeatures": {

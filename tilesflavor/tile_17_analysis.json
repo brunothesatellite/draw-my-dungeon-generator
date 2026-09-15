@@ -1,13 +1,13 @@
 {
   "17": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la pièce. Elle est immense, rectangulaire, et les murs sont couverts d'une humidité qui les rend glissants. Deux grandes formes circulaires, comme des empreintes géantes, marquent le sol au centre. Des reliefs sculptés, évoquant des tentacules, ornent les murs, tandis que des croix et des lignes pointillées dessinent des motifs sur le sol. Des colonnes majestueuses et des statues évoquent une ancienne civilisation. Des autels sont disséminés dans la pièce, et des tentacules semblent se mouvoir dans l'air, comme si la salle était animée. L'atmosphère est oppressante, et tu sens une présence ancienne et malveillante. Les enchaînements circulaires au sol paraissent prêts à se déclencher à tout moment. La salle est un lieu de rituel, mais tu ne sais pas quel sortilège se cache derrière ces murs.",
+    "title": "Chambre des Anciens",
+    "description": "La chambre des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de sculptures et de reliefs sculptés. La lumière y est faible, créant une ambiance mystérieuse et ancienne. Le sol est marqué de croix, de lignes pointillées et de motifs spirales, comme si une ancienne cérémonie avait eu lieu ici. Deux grandes structures circulaires, semblables à des autels, sont visibles au centre de la pièce. Des statues majestueuses, probablement des divinités ou des anciens guerriers, sont disséminées dans la pièce, ajoutant à l'atmosphère sacrée. Les murs sont ornés de tentacules, des créatures étranges qui semblent veiller sur la pièce. Les conditions de la pièce sont humides, ce qui ajoute à l'ambiance lugubre. Des cercles enchantés sont gravés au sol, prêts à se révéler dangereux à tout moment. La chambre est vide, mais les traces de tentacules indiquent qu'elle a été récemment utilisée. L'air y est chargé d'une odeur ancienne et mystérieuse, comme si les esprits des anciens y vivaient encore.",
     "tags": [
-      "rituel",
-      "salle des anciens",
-      "tentacules",
-      "humidité",
-      "mystère"
+      "ritual chamber",
+      "ancient",
+      "mystical",
+      "enchanted",
+      "sacred"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,14 +1,13 @@
 {
   "420": {
     "title": "Salle des Latrines Sacrées",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, comme si la salle avait été abandonnée depuis des siècles. Des têtes de mort et des tentacules émergents des murs, des symboles de la mort et de l'obscurité. Au centre, un autel, entouré de cercles rituels, semble inviter à des cultes sombres. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles mystiques. Des barils, remplis d'une eau stagnante, sont disséminés un peu partout, ajoutant à l'atmosphère lugubre. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide résonne sous vos pieds. La tension est palpable, comme si quelque chose de terrible se cachait dans cette salle. Les cercles rituels attirent votre attention, et vous vous demandez quel culte sombre pourrait se tenir ici.",
+    "description": "Cette petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels, émane d'une atmosphère mystérieuse et menaçante. La faible lumière qui filtre à travers les fenêtres usées révèle des piliers massifs qui soutiennent le plafond. Des têtes de mort et des tentacules étranges ornent les murs, ajoutant à l'ambiance lugubre. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Un baril, probablement rempli d'eau stagnante, occupe un coin de la pièce, ajoutant à l'atmosphère de décrépitude. L'air est chargé d'une odeur nauséabonde, et les cercles rituels au sol semblent inviter à des pratiques obscures. Cette salle, bien qu'apparemment insignifiante, semble être le cœur d'un culte ancien, et les traces de pièges dissimulés dans les murs indiquent que ceux qui s'y aventurent le font à leur propre risque.",
     "tags": [
-      "rituels",
-      "salle sacrée",
-      "têtes de mort",
-      "tentacules",
-      "eau stagnante",
-      "atmosphère menaçante"
+      "Salle des Latrines",
+      "Salle Sacrée",
+      "Culte Ancien",
+      "Atmosphère Menacante",
+      "Salle des Rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

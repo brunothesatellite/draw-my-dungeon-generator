@@ -1,13 +1,13 @@
 {
   "69": {
-    "title": "La Crypte des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres érodées par le temps. Des tentacules, comme ceux d'un ancien monstre marin, sont accrochés aux murs, tandis que des trophées de bataille ornent les coins. Des croix et des spirales gravées dans le sol attirent ton regard, comme si elles voulaient te guider. Les colonnes et les piliers, usés par l'âge, semblent veiller sur un autel central, mais son visage est caché par les ombres. L'odeur de soufre et de moisi flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence étrange, comme si quelque chose attendait dans l'obscurité.",
+    "title": "Les Voies Énigmatiques",
+    "description": "Vous vous trouvez dans un complexe de deux couloirs séparés, dont les murs sont recouverts de tentacules et de trophées étranges. Les couloirs, de taille large et de forme irrégulière, sont éclairés par une lumière diffuse qui semble provenir de sources inconnues. Le sol est marqué de spirales et de croix, comme si quelqu'un avait tenté de dessiner un plan ou un rituel. Les colonnes et les piliers, délabrés, ajoutent à l'atmosphère mystérieuse de ce lieu. Les murs sont décorés de tentacules et de trophées, des objets qui semblent avoir une signification sacrée ou mystique. Les couloirs se perdent dans l'obscurité, et vous ne savez pas où ils mènent. Les marques sur le sol et les décorations murales laissent entrevoir un passé ancien et complexe, mais leur signification reste un mystère. Les couloirs sont en bon état, mais l'ambiance générale est celle d'un lieu abandonné et oublié depuis longtemps.",
     "tags": [
-      "crypte",
-      "tentacules",
-      "soufre",
+      "couloir",
       "mystère",
-      "vieille crypte"
+      "ancien",
+      "trophées",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

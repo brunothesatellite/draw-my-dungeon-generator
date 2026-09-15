@@ -1,17 +1,13 @@
 {
   "290": {
-    "title": "L'Abîme Sacrée",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière y pénètre à peine, éclairant les murs vieillis et les piliers usés qui soutiennent le plafond bas. Un autel central, recouvert de têtes de mort et de tentacules, attire immédiatement l'attention. Des cercles rituels gravés dans le sol attirent le regard, tandis que des traces de pas indiquent une présence récente. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure une menace latente. L'atmosphère sinistre est palpable, comme si la salle était le cœur d'un rituel ancien et pernicieux.",
+    "title": "L'Abîme des Anciens",
+    "description": "Dans l'obscurité qui règne, tu t'engages dans un couloir étroit et sinistre. Les murs, usés par le temps, sont recouverts de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des têtes de mort et des tentacules émergent des parois, rappelant l'ancienne puissance qui réside ici. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir révèle un autel central, entouré de piliers massifs. Un table, usée par l'âge, repose au milieu de la pièce, et des traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'air est saturé d'une odeur de pourriture et d'anciennes cérémonies. À l'horizon, une porte se trouve, menant à l'abîme qui semble s'ouvrir devant toi. L'eau stagnante qui se trouve à l'entrée du couloir est un danger à ne pas sous-estimer.",
     "tags": [
+      "couloir",
       "rituel",
-      "salle de prière",
       "têtes de mort",
       "tentacules",
-      "cercles rituels",
-      "eau stagnante",
-      "vieillie",
-      "sinistre",
-      "abîme sacrée"
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -41,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "abîme",
       "tileNumber": 290

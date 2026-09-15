@@ -1,17 +1,13 @@
 {
   "175": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Au centre, un autel, entouré de cercles rituels gravés dans le sol, attire l'œil. Des piliers robustes soutiennent le plafond, et des traces de créatures se dessinent sur le sol, comme si elles avaient récemment exploré ce lieu. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et l'atmosphère sinistre vous pousse à chercher un moyen de quitter cette crypte.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter vers le plafond. Des champignons de toutes les couleurs poussent sur les murs et les sols, créant une atmosphère mystérieuse et presque magique. La lumière pénètre à peine, filtrant à travers des fentes minuscules dans le plafond, donnant une ambiance faible et diffuse. La grotte semble vieillie, avec des traces de vieilles peintures murales qui sont devenues floues et délavées au fil du temps. Des cercles rituels sont gravés dans le sol, indiquant que cette grotte a été utilisée pour des rituels anciens. Des piliers robustes soutiennent le plafond, ajoutant à l'ancienneté de la structure. Des meubles anciens sont disséminés un peu partout, témoignant de l'occupation humaine passée. L'eau stagnante s'accumule dans certaines parties de la grotte, créant des zones de danger. L'atmosphère sinistre est accentuée par les têtes de mort et les tentacules qui semblent sortir des murs, ajoutant une touche d'horreur à l'endroit. La grotte est une salle de rituels, avec des objets et des traces de créatures indiquant qu'elle a été utilisée pour des cérémonies importantes.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "traces de créatures",
-      "eau stagnante",
-      "sinistre"
+      "grotte",
+      "rituels",
+      "mystère",
+      "ancienneté",
+      "horreur"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Grotte avec champignons et champignons",
       "tileNumber": 175

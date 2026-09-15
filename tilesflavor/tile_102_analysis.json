@@ -1,13 +1,13 @@
 {
   "102": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, vieillis et usés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été le théâtre de rituels obscurs. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des barils de bois ancien sont disséminés un peu partout, et un oiseau mort, son plumage décoloré, repose sur l'un d'eux. L'odeur de soufre et de moisi flotte dans l'air, et tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau stagnante, noire et trouble, s'écoule lentement vers le centre de la salle. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Salle des Rituels Anciens",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis, où des cercles rituels sont gravés. Des piliers massifs soutiennent le plafond, et le sol est marqué de cercles rituels. Des meubles anciens sont empilés contre le mur, et une créature mystérieuse, probablement un oiseau, plane au-dessus du sol. L'atmosphère est mystérieuse et ancienne, rendant l'endroit propice à des rituels obscurs.",
     "tags": [
       "rituel",
+      "salle",
+      "mystère",
       "ancien",
-      "soufre",
-      "creatures",
-      "salle de culte"
+      "créature"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,14 @@
 {
   "367": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Le sol est couvert de cercles rituels, et les murs sont ornés de têtes de mort et de tentacules qui semblent émerger de la pierre. Un autel central, entouré de piliers et de colonnes, attire ton regard. Des barils et du mobilier sont disséminés un peu partout, ajoutant à l'atmosphère sinistre. Un squelette, presque ossifié, repose au pied de l'autel, comme s'il avait été sacrifié il y a longtemps. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te tenir à l'écart. L'eau stagnante dans un coin de la salle parais prête à jaillir à tout moment. La porte à l'extrémité de la salle parais fermée, mais tu sais que derrière elle se cache une menace potentielle.",
+    "title": "Salle de Torture Sinistre",
+    "description": "Dans cette petite et sombre salle rectangulaire, les murs vieillis et usés sont marqués de cercles rituels. Des piliers et des colonnes robustes soutiennent le plafond, tandis que le sol est recouvert de mobilier usé et délabré. Un rack métallique, rouillé et usé, est suspendu au mur, tandis qu'une table en bois sombre, recouverte de taches de sang séché, est garnie d'outils de torture divers et variés. Un brasier en pierre brûle faiblement, émettant une lumière vacillante qui éclaire partiellement la pièce. Un tonneau en bois, rempli d'eau stagnante, est placé au centre de la pièce, ajoutant à l'atmosphère sinistre. Des têtes de mort et des tentacules émergent des murs, rappelant les horreurs qui se sont déroulées ici. La porte, en bois usé, semble être la seule issue de cette salle, mais elle est bloquée par un squelette, rendant l'évasion difficile.",
     "tags": [
+      "salle de torture",
       "rituel",
-      "sacrifice",
       "torture",
-      "sinistre",
-      "vieillie"
+      "squelette",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

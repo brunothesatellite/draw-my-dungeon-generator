@@ -1,20 +1,20 @@
 {
   "403": {
-    "title": "La Salle des Rituels",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère oppressante qui plane dans cette pièce rectangulaire vieillie. Les murs, recouverts de peintures sombres et de têtes de mort, semblent vous observer. Des tentacules émergents des murs, ajoutant une note d'horreur à l'atmosphère. Au centre de la pièce, un autel, entouré de cercles rituels, attire ton regard. Des piliers et des colonnes majestueuses soutiennent le plafond, tandis que des barils anciens sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence indéfinissable qui plane dans l'ombre. L'eau stagnante au fond de la pièce menace de te piéger. La tension est palpable, et tu te demandes ce qui se cache derrière ces murs vieillissants.",
+    "title": "Salle de Labyrinthe avec Grille",
+    "description": "La salle de labyrinthe avec grille est étroite et rectangulaire, ses murs vieillis et recouverts de cercles rituels. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire vaguement les piliers et les colonnes qui soutiennent la structure. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules sont gravés sur les murs, ajoutant une atmosphère menaçante à l'endroit. Des cercles de lumière se reflètent sur le sol, créant une ambiance mystérieuse et étrange. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'ambiance d'abandon et de mystère. L'eau stagnante dans un coin de la salle rend l'endroit encore plus dangereux. Cette salle semble être un lieu de rituels ou de culte, et les cercles rituels et les têtes de mort indiquent qu'elle a été utilisée pour des cérémonies sombres. La grille au centre de la pièce semble être un point de passage vers un autre monde, mais elle est bloquée par une eau stagnante qui s'est accumulée au fil du temps.",
     "tags": [
-      "rituels",
+      "rituel",
       "salle de culte",
-      "atmosphère menaçante",
-      "vieillie",
-      "tentacules"
+      "labyrinthe",
+      "eau stagnante",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "grille",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

@@ -1,13 +1,12 @@
 {
   "405": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. Les murs, usés et couverts de taches, sont ornés de têtes de mort et de tentacules qui paraissent jaillir du plafond. Un autel central, entouré de cercles rituels, attire immédiatement l'attention. Des piliers et des colonnes, vieillies, soutiennent le toit, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. La tension est palpable, et un frisson vous parcourt le dos. Devant vous, un seul passage parais mener à l'extérieur.",
+    "title": "Salle de Labyrinthe avec Grille",
+    "description": "La salle de labyrinthe avec grille est étroite et sombre, éclairée par une faible lumière qui filtre à travers des fissures dans le plafond. Les murs, recouverts de peintures vieillies, sont ornés de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des piliers et des colonnes majestueuses soutiennent le plafond, ajoutant une touche de majesté à l'atmosphère sinistre. Le sol est marqué de cercles rituels, et des traces de vieillissement sont visibles partout. Le mobilier ancien, usé et délabré, est disséminé dans la pièce, ajoutant à l'ambiance d'abandon. La seule issue de la salle est un escalier étroit qui descend dans l'obscurité, menant à un autre niveau du donjon. L'eau stagnante, noire et trouble, recouvre le sol à certains endroits, créant un danger potentiel pour les explorateurs. La salle semble être un lieu de rituels, mais les traces de vieilles cérémonies sont aujourd'hui abandonnées.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "mystère"
+      "Salle de Labyrinthe",
+      "Salle de Rituels",
+      "Ancien",
+      "Atmosphère Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

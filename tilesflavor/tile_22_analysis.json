@@ -1,13 +1,13 @@
 {
   "22": {
-    "title": "La Chambre Sacrée des Tentacules",
-    "description": "Un altar occupe le centre de l'espace. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre du grand autel central, où des tentacules émergent, comme s'ils tentaient de se libérer. Des spirales mystérieuses marquent le sol, et un coffre en bois sombre repose contre le mur, ses serrures rouillées. Des apparitions fantomatiques flottent dans l'air, leurs silhouettes floues et translucides. L'odeur de soufre et de vieux parchemins flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un passage secret, dissimulé derrière un tableau, semble attendre à l'entrée de la pièce. Les tentacules, les spirales et les apparitions créent une atmosphère glauque et menaçante, où chaque coin cache un piège ou un secret ancien.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté qui semble s'effondrer peu à peu. La lumière naturelle filtre à travers des fissures dans le plafond, éclairant les spirales gravées dans le sol. Des colonnes massives, ornées de motifs complexes, soutiennent le toit. Un coffre en bois sombre repose au centre de la pièce, ses charnières rouillées indiquant son âge. Des tentacules émergent des murs, semblant attendre l'arrivée d'un intrus. Des apparitions fantomatiques flottent dans l'air, ajoutant une atmosphère de mystère et de peur. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets aux courageux explorateurs. Les murs sont ornés de tentacules, rappelant l'ancienne divinité qui réside ici. Les spirales gravées dans le sol semblent indiquer un passage ancien, peut-être un rituel sacré. Les colonnes massives et les tentacules émergents donnent à la salle une ambiance de lieu sacré et de mystère profond.",
     "tags": [
-      "salle sacrée",
+      "salle",
+      "ancien",
+      "rituel",
       "tentacules",
-      "spirales",
-      "apparitions",
-      "vieille crypte"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,14 +1,13 @@
 {
   "29": {
-    "title": "Le Vortex Magique",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette petite pièce rectangulaire. Les murs, usés et couverts de traces de vieilles peintures, semblent murmurer des secrets millénaires. Des piliers robustes soutiennent le plafond, et au centre de la pièce, un autel de pierre attire ton regard. Des cercles rituels gravés dans le sol te font tiquer, et les têtes de mort sculptées dans les murs ajoutent une note macabre à l'ensemble. L'odeur de soufre et d'humidité âcre te pique les narines, et tu sens une présence étrange qui plane dans l'air. L'eau stagnante, visible dans un coin, parais prête à jaillir à tout moment. La tension est palpable, et tu te demandes ce que cache vraiment cette salle de rituel.",
+    "title": "Salle du Vortex Magique",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers les fissures dans les pierres donne une ambiance mystérieuse et ancienne. Des cercles rituels sont gravés dans le sol, entourant un autel central qui semble avoir été le point focal de rituels passés. Des piliers robustes soutiennent les murs, ajoutant à l'atmosphère de vieilles pierres et de mystère. Les murs sont ornés de têtes de mort, rappelant l'importance des rituels et des sacrifices qui ont eu lieu ici. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. L'eau stagnante au fond de la salle, probablement due à une ancienne fontaine, ajoute une touche de danger à l'atmosphère déjà sombre et mystérieuse.",
     "tags": [
-      "rituel",
-      "mystère",
-      "vieillie",
-      "tête de mort",
-      "cercles rituels",
-      "eau stagnante"
+      "Salle",
+      "Vortex Magique",
+      "Rituel",
+      "Ancien",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

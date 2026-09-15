@@ -1,13 +1,13 @@
 {
   "312": {
-    "title": "L'Abîme Sacrifice",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière vacille, révélant une salle immense et décrépie, aux murs irréguliers et aux plafonds bas. Des tentacules et des crânes ornent les murs, tandis que des spirales et des croix marquent le sol. Des colonnes brisées soutiennent les murs, et un autel central attire ton regard. Un squelette, presque intact, repose au milieu de la pièce, comme témoin des sacrifices passés. Des traces de fantômes flottent autour, et l'odeur de soufre et de mort flotte dans l'air. Le poison Gas et les pièges cachés font planer une menace constante. L'atmosphère est oppressante, et tu sens que cette salle a des secrets à révéler.",
+    "title": "L'Abîme Sacrée",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre, ses parois rugueuses et déchiquetées semblant avoir été façonnées par les eaux tumultueuses. La lumière pénètre à peine, éclairant de façon intermittente les spirales et les croix gravées dans le sol, qui semblent avoir été dessinés par des mains anciennes. Des colonnes brisées se dressent ici et là, leurs pierres usées par le temps et les éléments. Un autel, dépourvu de tout objet, se dresse au centre de la pièce, son existence évoquant des rituels passés. Des nuages de gaz toxiques flottent dans l'air, rendant l'atmosphère irrespirable. Des pièges invisibles attendent, prêts à s'abattre sur l'intrus le moins averti. Le silence est troublé par le murmure des eaux qui s'engouffrent dans l'abîme, et parfois, un fantôme flou et indistinct se dessine dans l'air, comme s'il cherchait encore à se libérer de son sort. L'abîme sacrée est un lieu de ténèbres et de mystères, où les rituels anciens et les secrets les plus profonds se mêlent.",
     "tags": [
+      "abîme",
+      "rituel",
       "sacrifice",
-      "squelette",
-      "tentacules",
-      "soufre",
-      "fantôme"
+      "obscurité",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

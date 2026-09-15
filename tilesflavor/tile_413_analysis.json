@@ -1,15 +1,13 @@
 {
   "413": {
-    "title": "Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort et les tentacules qui ornent les murs. Un autel central, entouré de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues anciennes sont disséminés autour, ajoutant à l'atmosphère mystérieuse et ancienne. Le sol est marqué de cercles rituels et de glyphes, et des barils de bois sont empilés contre le mur, leur contenu inconnu. Des traces de créatures se dessinent sur le sol, comme si quelque chose avait récemment parcouru cette salle. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de s'écouler du mur. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "title": "Salle de Formation Ancienne",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles usés, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ajoutent une touche de mystère à l'architecture. Des barils et des étagères d'armes sont empilés contre le mur, et des cibles pour archers sont suspendues au plafond. Le mobilier ancien, usé par le temps, semble avoir été laissé là depuis des siècles. Une porte murée, fermée depuis longtemps, semble être l'unique sortie de cette salle, tandis que l'eau stagnante au fond de la pièce ajoute une touche de danger. L'atmosphère est pesante, presque oppressante, comme si les esprits des anciens cultes se réveillaient encore.",
     "tags": [
-      "rituel",
-      "salle de formation",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "creatures",
-      "eau stagnante"
+      "Salle de Formation",
+      "Ancien Culte",
+      "Rituels",
+      "Mystère",
+      "Ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

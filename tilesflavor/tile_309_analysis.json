@@ -1,13 +1,13 @@
 {
   "309": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une salle irrégulière, vieillie et mystérieuse. Les murs, couverts de têtes de mort, semblent observer tes moindres mouvements. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône au milieu de la pièce. Des tentacules, visibles dans l'ombre, paraissent attendre leur proie. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère menaçante. L'eau stagnante, visible dans un coin, parais prête à s'engouffrer dans le vide. La tension monte avec chaque pas que tu fais dans cette salle de rituels ancienne.",
+    "title": "Grotte des Escaliers d'Escalade",
+    "description": "La grotte des Escaliers d'Escalade est un lieu mystérieux et menaçant, où les ombres dansent sur les parois rugueuses. Les escaliers d'escalade, usés par le temps et les centaines de grimpeurs qui ont tenté de les gravir, serpentent à travers les rochers. La lumière pénètre à peine, éclairant de faibles cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort sculptées dans le rocher ajoutent une touche d'effrayante beauté à l'atmosphère. Un autel, entouré de cercles rituels, semble être le point central de cette grotte, où des sacrifices ont peut-être eu lieu. Un table, posée au milieu, semble être utilisée pour des rituels ou des offrandes. L'eau stagnante, noire et trouble, remplit une partie de la grotte, ajoutant une menace supplémentaire à l'endroit. Les murs sont parsemés de têtes de mort, et les ombres qui dansent dans la pénombre semblent attendre quelque chose. Cette grotte est un lieu de rituels, où les anciens pratiquaient des cérémonies sombres et mystiques.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "soufre"
+      "Grotte",
+      "Escaliers d'Escalade",
+      "Rituels",
+      "Têtes de Mort",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

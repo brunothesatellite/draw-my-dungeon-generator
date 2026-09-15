@@ -1,13 +1,13 @@
 {
   "148": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Tu te retrouves plongé dans un couloir étroit, les murs de pierre ancienne te regardant avec un regard froid. La lumière naturelle filtre à travers des fenêtres étroites, révélant une salle rectangulaire aux murs couverts de tentacules et de crânes de mort. Au centre, un autel massif, orné de glyphes mystérieux, semble aspirer ton regard. Des cercles rituels gravés dans le sol te font frémir, tandis que des traces de pas récentes te poussent à avancer. L'air est lourd, chargé d'une odeur de soufre et de mystère ancien. Tu sens une présence étrange, comme si la salle était contaminée par quelque chose d'ancien et de puissant. Des murmures lointains te parviennent, et tu te demandes si tu as vraiment le droit d'être ici. La tension est palpable, et tu te demandes si tu as réellement le courage de poursuivre.",
+    "title": "Le Couloir des Anciens",
+    "description": "Vous vous trouvez dans un couloir étroit et ancien, dont les murs sont ornés de colonnes massives et de pilastres sculptés. La lumière naturelle filtre à travers des ouvertures étroites, créant un éclairage tamisé qui souligne les reliefs des murs. Le sol est marqué de cercles rituels et de glyphes mystérieux, semblant avoir été dessinés il y a des milliers d'années. Un autel minuscule, orné de symboles énigmatiques, est placé au centre du couloir, comme si quelqu'un avait voulu y laisser un message ou un sacrifice. Des tentacules et des têtes de mort sont suspendues aux murs, ajoutant une atmosphère de mystère et de peur. Le sol est contaminé par une substance étrange, rendant les pas plus silencieux et les échos plus profonds. Des traces de pas anciens sont visibles, indiquant que ce lieu a été fréquenté par des créatures ou des êtres qui ont connu un sort étrange. Les anciens traps et les effets enchantés rendent ce couloir dangereux, mais aussi fascinant pour ceux qui cherchent à déchiffrer les secrets qui y sont cachés.",
     "tags": [
-      "sacré",
+      "couloir",
       "ancien",
+      "rituel",
       "mystère",
-      "contamination",
-      "traces de pas"
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

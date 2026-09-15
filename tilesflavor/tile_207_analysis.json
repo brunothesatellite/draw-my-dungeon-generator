@@ -1,13 +1,13 @@
 {
   "207": {
-    "title": "Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette pièce rectangulaire. Les murs, usés et couverts de taches, semblent avoir vu des siècles d'obscurité. Des piliers robustes soutiennent le plafond, et au centre de la pièce, un autel de pierre attire ton regard. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, ajoutant une note de terreur à l'atmosphère. Des cercles rituels gravés au sol te font sursauter, et tu sens une présence ancienne qui t'observe. L'odeur de soufre et de vieux papier te pique le nez, et tu perçois un murmure lointain qui parais provenir de l'angle nord-ouest. Les inscriptions sur le mur, malgré leur état dégradé, paraissent évoquer des secrets longtemps gardés. Tu te demandes ce que ces anciens ont pu faire ici, et pourquoi ils ont laissé derrière eux ces traces étranges.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'unique source de lumière. Les piliers massifs, ornés de têtes de mort et de tentacules, semblent garder un secret millénaire. Des cercles rituels gravés au sol indiquent l'ancienne utilisation de ce lieu pour des cérémonies mystiques. Les marquages au sol, +1 et 207, semblent indiquer une position ou une destination spécifique. L'atmosphère est pesante, presque tangible, comme si les âmes des anciens observaient encore les passants. Les piliers et les têtes de mort ajoutent une touche d'effrayante beauté à ce lieu qui semble avoir été conçu pour les rituels les plus sombres.",
     "tags": [
-      "rituel",
-      "ancien",
-      "soufre",
-      "mystère",
-      "tête de mort"
+      "Couloir",
+      "Anciens",
+      "Rituels",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "431": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres éclaircit à peine l'atmosphère sinistre qui plane dans l'air. Au centre de la pièce, un autel de pierre sombre, orné de tentacules et de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Les piliers massifs, usés par les siècles, soutiennent le plafond qui, lui, est recouvert de mobilier ancien, laissé là depuis des temps lointains. Des pièges mystérieux sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque bruit résonnant comme un appel à l'attention.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, éclairé par une faible lumière qui se répand à peine dans l'air. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels sont gravés au sol, marquant le passage d'une ancienne voie sacrée. Des piliers robustes soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. À l'extrémité du passage, une porte murée cache un mystère inconnu. L'eau stagnante, noire et trouble, s'accumule au fond du passage, ajoutant une touche de danger à l'atmosphère sinistre. Cette ancienne salle de rituels est un lieu de culte ancien, où les anciens pratiquaient des cérémonies sombres et sacrées.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "mystère"
+      "Passage",
+      "Ancien",
+      "Salle de Rituels",
+      "Mystère",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

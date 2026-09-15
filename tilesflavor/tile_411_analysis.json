@@ -1,16 +1,13 @@
 {
   "411": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs. Des têtes de mort et des tentacules émergents des murs, comme des gardiens silencieux. Des cercles rituels marquent le sol, et des barils anciens sont disséminés autour. L'eau stagnante, noire et grise, remue doucement, révélant des traces de pièges anciens. La tension est palpable, et un murmure lointain semble résonner dans l'air. La salle est un lieu de culte ou de rituels, où les anciens pratiquaient leurs cérémonies.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir est étroit et sinueux, ses murs de pierre sont usés par le temps. Des cercles rituels sont gravés dans le sol, marquant un chemin ancien. Les piliers massifs, usés par les siècles, semblent soutenir un poids invisible. Le faible éclairage naturel qui filtre à travers les fissures des pierres révèle des têtes de mort sculptées dans le mur, des tentacules qui semblent sortir du sol, ajoutant une atmosphère de menace. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps. L'eau stagnante au fond du couloir, noire et trouble, semble prête à avaler tout intrus. Aucune sortie visible, le couloir semble se perdre dans l'obscurité, menant à un mystère profond et ancien.",
     "tags": [
+      "couloir",
       "rituels",
-      "culte",
-      "vieillie",
       "têtes de mort",
       "tentacules",
-      "cercles rituels",
-      "mystérieuse",
-      "menaçante"
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

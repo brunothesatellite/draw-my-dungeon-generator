@@ -1,13 +1,13 @@
 {
   "192": {
-    "title": "La Crypte des Anciens",
-    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier descendant dans l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels marquent le sol, et des piliers robustes soutiennent les murs. Des barils anciens sont empilés contre le mur de gauche, et des pièges anciens sont dissimulés dans les recoins. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les colonnes. La crypte est sinistre, mais l'atmosphère est épique, comme si elle gardait des secrets millénaires. Un seul passage te mène vers l'obscurité, mais tu sens que quelque chose te guette dans l'eau stagnante qui coule au fond.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier descendant qui semble mener à l'oubli. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant le passage d'un rituel ancien. Des piliers massifs soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé et délabré, est disséminé ici et là, témoignant de l'ancienne importance de ce lieu. L'atmosphère est oppressante, et l'eau stagnante au fond de l'escalier semble prête à s'engouffrer dans le vide. Seul un escalier descend, menant à l'inconnu.",
     "tags": [
-      "crypte",
-      "rituels",
-      "vieillie",
-      "sinistre",
-      "mystère"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "200": {
-    "title": "La Chambre des Yeux",
-    "description": "Un eye-like structure occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les silhouettes des tentes et des crânes qui ornent les murs. L'air est lourd, presque oppressant. Devant toi, un autel au centre de la pièce, entouré de colonnes et de piliers qui semblent vouloir te guider vers un mystère ancien. Des spirales mystérieuses marquent le sol, et un œil étrange, comme gravé dans le mur, te scrute. Tu sens une présence ancienne, bientôt palpable, dans cette salle dilapidée et sombre.",
+    "title": "La Salle des Rituels Sacrés",
+    "description": "La salle est immense, ses murs irréguliers semblent avoir été sculptés par les mains d'un ancien maître. La lumière tamisée émane des fenêtres étroites, révélant un intérieur délabré mais chargé d'histoire. Des colonnes et des piliers soutiennent le plafond, ornés de tentes et de crânes qui semblent garder le secret des rituels passés. Des spirales mystérieuses marquent le sol, conduisant vers un centre où se dresse un autel, symbole de l'ancienne puissance qui réside ici. Les murs sont parsemés de dessins énigmatiques, et l'atmosphère est pesante, presque oppressante. Les rares traces de vie sont des pièges dissimulés, prêts à se déclencher à tout moment. Cette salle est le cœur de la magie, le lieu où les rituels les plus puissants sont célébrés.",
     "tags": [
-      "mystère",
       "rituel",
+      "sacrifice",
+      "mystère",
       "ancien",
-      "sombre",
-      "épique"
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "large",

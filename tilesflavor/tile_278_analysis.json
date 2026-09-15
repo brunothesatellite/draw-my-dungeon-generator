@@ -1,13 +1,13 @@
 {
   "278": {
-    "title": "Salle des Rituels Obscurs",
-    "description": "Des têtes de mort couvrent les murs. L'humidité pèse dans l'air, et un murmure sinistre semble s'échapper des murs. À l'entrée, un autel de pierre sombre, orné de têtes de mort, attire immédiatement l'attention. Des cercles rituels gravés dans le sol paraissent attendre l'arrivée d'un initiateur. Des piliers massifs soutiennent le plafond, tandis que des tentacules émergent des barils encombrant le coin. L'odeur de soufre et de mort flotte dans l'air, et un frisson glacé parcourt tes os. Le silence est troublé par le bruit sourd d'eau stagnante qui remue sous le sol. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette salle.",
+    "title": "Égout des Barils",
+    "description": "Dans ce couloir étroit et humide, les barils de vin s'amoncellent, leurs bouchons légèrement ébouriffés par le temps. Les murs, recouverts de têtes de mort, semblent témoigner d'une histoire ancienne et sombre. Des cercles rituels sont gravés au sol, marquant un passage sacré. Les piliers massifs, sculptés de motifs énigmatiques, soutiennent le plafond qui s'effondre peu à peu. La faible lumière qui filtre à travers les éclats de verre cassé éclaire les barils et les têtes de mort, créant un étrange jeu de lumière et d'ombre. L'humidité est palpable, et l'air est chargé d'une odeur nauséabonde. À l'horizon, une eau stagnante s'étend, prête à engloutir tout ce qui s'approche. Cette salle, destinée à des rituels obscurs, est un lieu de terreur et de mystère.",
     "tags": [
-      "rituels",
-      "salle obscure",
-      "têtes de mort",
-      "tentacules",
-      "soufre"
+      "égoïsme",
+      "rituel",
+      "sombre",
+      "ancien",
+      "éclat"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

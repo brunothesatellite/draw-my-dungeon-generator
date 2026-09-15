@@ -1,23 +1,21 @@
 {
   "243": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres usées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Des tentacules émergent de la pénombre, comme s'ils cherchaient à se dégager. Au centre de la pièce, un autel sombre, entouré de cercles rituels dessinés au sang séché. Des piliers massifs soutiennent le plafond, et une table en bois usée repose contre le mur. Un squelette, presque complet, repose au pied de l'autel, comme s'il avait été sacrifié il y a longtemps. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un récit ancien. La tension est palpable, comme si quelque chose de sinistre attendait votre retour.",
+    "title": "Siphon avec tonneau flottant",
+    "description": "Dans ce siphon étroit et rectangulaire, la lumière faible révèle des cercles rituels gravés dans le sol. Les murs vieillis sont ornés de têtes de mort et de tentacules qui semblent s'agiter dans l'air. Un tonneau flottant, rempli d'eau stagnante, occupe le centre de la pièce. Des piliers robustes soutiennent le plafond, et une table ancienne est posée contre un mur. L'atmosphère sinistre est accentuée par l'odeur de moisi et de mort qui flotte dans l'air. Cette salle semble être un lieu de rituel ancien, mais elle est maintenant abandonnée et remplie de mystères.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "squelette",
       "salle de rituel",
-      "atmosphère sinistre"
+      "siphon",
+      "tête de mort",
+      "tentacules",
+      "eau stagnante",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "tonneau flottant",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

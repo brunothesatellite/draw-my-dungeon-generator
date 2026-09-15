@@ -1,15 +1,13 @@
 {
   "327": {
     "title": "L'Abîme Éclaboussé",
-    "description": "Un autel ou trésor occupe le centre de l'espace. La lumière faible révèle une salle de forme irrégulière, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues évoquent l'ancienneté. Le mobilier ancien ajoute une touche de délabrement à l'atmosphère glauque. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'angle sombre. Un autel ou un trésor central attire ton regard, mais les pièges anciens t'encadrent. La tension monte avec chaque pas, et tu sens que quelque chose de terrible se cache dans l'ombre.",
+    "description": "Vous vous trouvez dans un espace étroit et déformé, où les murs se courbent et les sols s'effondrent parfois sous vos pieds. La lumière est si faible que vous ne pouvez distinguer que les contours des objets qui vous entourent. Le sol est marqué de cercles rituels et de glyphes runiques, comme si quelqu'un avait tenté de communiquer avec les forces obscures qui règnent ici. Des piliers et des statues anciennes se dressent ici et là, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Le mobilier ancien semble avoir été abandonné depuis longtemps, et des pièges anciens sont dissimulés dans les recoins les plus sombres. L'air est chargé d'une odeur de poussière et de mystère, et vous pouvez sentir l'écho de pas lointains qui résonne dans les profondeurs de cet abîme.",
     "tags": [
       "abîme",
+      "éclaboussé",
+      "salle de culte",
       "vieillie",
-      "mystérieuse",
-      "vieille salle",
-      "mobilier ancien",
-      "pièges anciens",
-      "odeur de soufre"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

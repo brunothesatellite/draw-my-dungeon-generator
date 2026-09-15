@@ -1,13 +1,13 @@
 {
   "99": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs vieillis par le temps. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des piliers de pierre ancienne sont disséminés à travers la pièce. Le mobilier, usé et délabré, parais avoir été oublié depuis des siècles. Un autel central, entouré de mystérieux symboles, attire l'attention. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si la salle était le témoin de secrets inavoués.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, une voie étroite qui semble avoir été creusée par les mains des dieux eux-mêmes. Ses murs, couverts de têtes de mort et de tentacules, racontent des histoires d'horreur et de mystère. Le sol, marqué de cercles rituels, semble inviter les explorateurs à se perdre dans un cycle infernal. Les piliers majestueux, sculptés de motifs complexes, semblent garder des secrets millénaires. Le passage est faiblement éclairé, la lumière tamisée accentuant l'atmosphère sinistre. L'eau stagnante au fond du couloir est un danger à ne pas sous-estimer. À chaque pas, les murs murmurent des histoires de sacrifices et de rituels obscurs. Les explorateurs doivent être prudents, car le passage est parsemé de pièges et de créatures malveillantes. À la fin du couloir, une porte murée semble être le seul moyen de continuer, mais elle est fermée et verrouillée. Que cache-t-elle derrière ?",
     "tags": [
+      "couloir",
       "rituel",
-      "vieillie",
-      "sinistre",
-      "salle de rituel",
-      "têtes de mort"
+      "sacrifice",
+      "tête de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

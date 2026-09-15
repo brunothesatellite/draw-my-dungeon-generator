@@ -1,13 +1,13 @@
 {
   "352": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère sinistre qui plane dans cette pièce rectangulaire vieillie. Les murs, couverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie macabre. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de symboles mystiques. Des barils, remplis d'une eau stagnante, sont posés contre le mur, ajoutant à l'ambiance lugubre. Tu sens une odeur de soufre et de mort qui te pénètre les narines. Un murmure étrange résonne dans l'air, comme si quelque chose attendait patiemment. La tension est palpable, et tu te demandes ce qui pourrait se cacher derrière ces murs vieillissants.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et marqué de cercles rituels et de glyphes runiques. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules sont sculptés dans les murs, ajoutant une touche macabre à l'ambiance. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers majestueux dominent l'espace. Des objets anciens et mystérieux sont disséminés un peu partout, ajoutant à l'air de mystère de la pièce. La salle semble être un lieu de rituels sacrés, mais les traces de pièges et de l'eau stagnante indiquent qu'elle a été abandonnée depuis longtemps. Les deux petits tonneaux et la petite coffre sont les seuls objets pratiques, mais leur présence ajoute à l'énigme de la pièce.",
     "tags": [
       "rituel",
-      "macabre",
       "sacrifice",
-      "vieillie",
-      "sinistre"
+      "macabre",
+      "salle de donjon",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

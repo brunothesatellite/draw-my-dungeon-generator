@@ -1,13 +1,13 @@
 {
   "49": {
-    "title": "Salle des Anciens Cultes",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois une atmosphère ancienne et mystérieuse. Les murs, couverts de stries et de taches, semblent avoir vu des siècles d'obscurité. Le sol, recouvert de vieilles tapisseries, est marqué de cercles rituels qui paraissent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, et leurs bases sont ornées de motifs complexes. Au centre de la pièce, un autel, vieilli et usé, attire ton regard. Des têtes de mort sculptées sont suspendues aux murs, ajoutant une note macabre à l'atmosphère. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis longtemps. L'eau stagnante, qui coule lentement vers le centre de la pièce, émet un murmure sinistre. L'odeur de soufre et de moisi flotte dans l'air, rendant l'atmosphère encore plus oppressante. Tu sens une présence ancienne, presque palpable, qui te scrute du fond de cette salle. La tension est palpable, et tu te demandes ce qui a pu se passer ici, il y a si longtemps.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc. Sa petite taille et sa forme rectangulaire donnent l'impression d'avoir été creusé à la main. La faible lumière qui filtre à travers les fissures éclaire les murs vieillis, où des têtes de mort sculptées semblent observer les passants. Des cercles rituels gravés dans le sol indiquent l'ancienneté et la signification sacrée de ce lieu. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne. Le mobilier ancien, délabré, semble avoir été abandonné depuis des siècles. L'eau stagnante au fond du passage est un danger à ne pas négliger. Les murs sont ornés de têtes de mort, rappelant l'importance de la mort et de la vie dans ce lieu de culte. Les cercles rituels et les têtes de mort évoquent une ancienne tradition de sacrifice ou de culte. Le passage des Anciens est un lieu de culte, où les anciens pratiquaient des rituels et des sacrifices.",
     "tags": [
-      "culte",
-      "vieillie",
-      "macabre",
-      "ancien",
-      "mystère"
+      "Passage",
+      "Ancien",
+      "Sacrifice",
+      "Rituel",
+      "Mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

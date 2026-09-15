@@ -1,13 +1,13 @@
 {
   "262": {
     "title": "L'Égout Sacré",
-    "description": "Des tents couvrent les murs. La lumière est si faible que tu ne peux distinguer que les silhouettes des tentes qui flottent au-dessus de toi. Les murs, usés par le temps, sont recouverts de crânes et de tentes, comme si un culte ancien avait une présence ici. Un autel, au centre de la salle, semble être le point focal de cette étrange cérémonie. Des spirales gravées dans le sol te guident vers l'alter, tandis que les colonnes majestueuses paraissent veiller sur toi. L'odeur de soufre et de mort flotte dans l'air, ajoutant à l'atmosphère mystérieuse. Tu sens une présence ancienne, presque palpable, qui te scrute. Le mur de droite parais vibrer, comme si quelque chose allait se dévoiler. La tension est palpable, et tu sais que tu es sur le point de découvrir quelque chose de profondément ancien et de sacré.",
+    "description": "Dans l'ombre de l'ancienne cité, un égout se creuse lentement vers le bas, son mur irrégulier et sa lumière sombre révélant des traces de l'âge ancien. Des colonnes majestueuses, sculptées de motifs complexes, se dressent à intervalles réguliers, guidant le regard vers un altar central, éclairé par une faible lueur. Des tapisseries, tissées de fils sombres, sont suspendues aux murs, ornées de tentes et de crânes, rappelant les anciens rituels. Le sol, marqué d'un spirale mystérieuse, semble inviter à la découverte. À chaque pas, le silence est rompu par le grincement des pierres et le murmure des eaux qui coulent en bas. L'atmosphère est pesante, chargée d'une énigme ancienne, et chaque coin cache un secret potentiel. Les murs, usés par le temps, semblent murmurer des secrets secrets, et le coffre, posé au fond de l'égout, semble attendre son ouverture.",
     "tags": [
-      "épique",
-      "mystérieux",
-      "ancien",
+      "égaré",
       "sacré",
-      "tension"
+      "ancien",
+      "épouvantable",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

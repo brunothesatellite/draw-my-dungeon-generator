@@ -1,18 +1,13 @@
 {
   "138": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. Devant toi s'ouvre une salle rectangulaire, faiblement éclairée par une lumière froide et distante. L'atmosphère est oppressante, comme si la pierre elle-même respirait un malaise ancien. Les murs, usés et rugueux, sont ornés de têtes de mort sculptées et de tentacules qui semblent sortir du plafond. Au centre de la pièce, un autel, vieilli et recouvert de poussière, attire ton regard. Des cercles rituels gravés dans le sol te font frémir. Des piliers massifs soutiennent le plafond, tandis que des barils de bois ancien sont empilés contre le mur de gauche. L'eau stagnante, noire et malsaine, coule lentement vers le centre de la pièce. Tu sens une odeur de soufre et de mort qui te pénètre les narines, te rappelant l'ancienne puissance qui réside ici. La tension est palpable, comme si quelque chose de terrible allait se déclencher à tout moment. Les murs murmurent des secrets obscurs, et tu te demandes si tu as vraiment le courage de poursuivre.",
+    "title": "Couloir des Assiettes",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps. La faible lumière qui filtre à travers une fissure au bout du couloir éclaire des assiettes en terre cuite posées dans un renfoncement. Des cercles rituels sont gravés au sol, marquant un chemin qui semble mener à un but inconnu. Les piliers massifs, usés par le temps, ajoutent à l'atmosphère mystérieuse et menaçante qui plane dans cette partie du donjon. Le mobilier ancien, délabré, semble avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie du couloir, créant un danger potentiel pour les explorateurs. Les têtes de mort et les tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance déjà sombre. Cette salle semble être un lieu de rituels ou de culte, mais son ancien usage reste un mystère.",
     "tags": [
+      "couloir",
       "rituels",
-      "salle de culte",
-      "vieillie",
       "têtes de mort",
       "tentacules",
-      "cercles rituels",
-      "piliers",
-      "mobilier ancien",
-      "eau stagnante",
-      "atmosphère menaçante"
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

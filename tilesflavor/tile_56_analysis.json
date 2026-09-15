@@ -1,13 +1,13 @@
 {
   "56": {
-    "title": "Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort et les tentacules qui semblent émerger des murs. Un autel central attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des barils anciens sont disséminés un peu partout. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, comme si quelque chose de terrible attendait dans les recoins obscurs de cette salle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Sa petite taille et sa forme carrée donnent l'impression d'être enfermé. La faible lumière qui filtre à travers les fissures révèle des murs vieillis, marqués de cercles rituels énigmatiques. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. L'eau stagnante au fond du passage est un danger à ne pas négliger. Les rituels ou cultes anciens semblent avoir eu lieu ici, laissant derrière eux des traces de pièges anciens et des objets mystérieux. Le passage des Anciens est un lieu de culte ou de rituels, où les anciens cultes se sont probablement tenus, maintenant une atmosphère de terreur et de mystère.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystérieuse",
-      "salle de culte",
-      "têtes de mort"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

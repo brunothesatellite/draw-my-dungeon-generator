@@ -1,13 +1,13 @@
 {
   "385": {
-    "title": "La Chambre des Rituels",
-    "description": "Un unknown occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les contours des murs. L'atmosphère est oppressante, comme si la salle était gardée par des forces obscures. Les murs, une éternité de dilapidation, sont recouverts de tentes et de crânes, des symboles de sacrifices passés. Des spirales et un cercle marquent le sol, comme si la pièce avait été utilisée pour des rituels anciens. Des colonnes et des piliers, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Au centre, un autel, dépourvu de tout objet, semble attendre un culte. Des fantômes flottent dans l'air, leurs silhouettes translucides, comme s'ils cherchaient encore à accomplir leur destin. L'odeur de moisi et de soufre te pique les narines, et tu sens une présence indéfinissable qui te scrute. Les pièges et le gaz toxique sont toujours là, prêts à t'attirer dans leur piège. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Chambre des Rituels Sacrés",
+    "description": "La chambre des Rituels Sacrés est immense, son plan irrégulier et ses murs délabrés témoignent d'une ancienne époque. La lumière tamisée émane des fenêtres étroites, révélant un espace sombre et mystérieux. Des colonnes massives et des piliers sculptés de motifs complexes dominent l'endroit, évoquant une architecture ancienne et mystique. Des spirales et un cercle gravés dans le sol attirent l'œil, semblant former un symbole ou un guide pour les rituels. Un autel sombre et une table en pierre sont visibles, probablement utilisés pour les cérémonies. Des fantômes flottants, vagues et translucides, se déplacent lentement dans l'air, ajoutant une atmosphère étrange à l'endroit. Les murs sont ornés de tentes et de crânes, rappelant l'importance des rituels et des sacrifices. Les pièges et le gaz toxique qui se dissipe lentement dans l'air rendent cette chambre dangereuse et imprévisible. Les rituels qui se déroulent ici sont censés être sacrés, mais la chambre elle-même est remplie de mystères et de dangers.",
     "tags": [
       "rituel",
-      "sombre",
-      "fantôme",
-      "dilapidé",
-      "ancien"
+      "sacrifice",
+      "mystère",
+      "ancien",
+      "désolation"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,17 +1,13 @@
 {
   "178": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette petite salle rectangulaire. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des barils de bois ancien sont disséminés un peu partout, ajoutant à l'ambiance de délabrement. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, noire et trouble, remplit une partie du sol, créant une menace latente. L'odeur de soufre et de mort flotte dans l'air, accentuant l'atmosphère glauque. Devant toi, une porte murée semble être la seule issue, mais tu sens que quelque chose de plus se cache derrière.",
+    "title": "Couloir de Grotte aux Champignons",
+    "description": "Le couloir de grotte étroit et sinueux semble avoir été creusé par des forces naturelles. Les parois rugueuses sont parsemées de champignons étranges, leurs têtes pointues semblant observer les visiteurs. La lumière diffuse pénètre à peine, éclairant les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. Des traces de vieilles pierres sculptées ornent les murs, et des cercles de têtes de mort évoquent un passé sombre. Le mobilier ancien, usé par le temps, semble avoir été abandonné ici. À l'horizon, une porte murée semble bloquer l'accès à une autre partie du donjon. L'atmosphère est pesante, comme si le couloir était le témoin de secrets millénaires. Les eaux stagnantes au fond du couloir ajoutent une note de danger à cette ancienne galerie.",
     "tags": [
-      "rituels obscurs",
-      "salle de rituels",
-      "vieillie",
-      "mystérieuse",
-      "ancien",
-      "odeur de soufre",
-      "pièges anciens",
-      "eau stagnante",
-      "porte murée"
+      "Couloir",
+      "Grotte",
+      "Ancien",
+      "Rituels",
+      "Champignons"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

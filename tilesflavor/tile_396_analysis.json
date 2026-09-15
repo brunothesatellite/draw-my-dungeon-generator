@@ -1,13 +1,13 @@
 {
   "396": {
     "title": "Salle Sacrificielle Ancienne",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et menaçante qui plane dans cette pièce ronde vieillie. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Au centre, un autel sacrifice sur une plateforme attire ton regard. Un livre et des bougies sont posés sur une table en pierre, comme si quelqu'un avait laissé là un message avant de disparaître. L'odeur de soufre et de vieux papier te pique le nez. L'eau stagnante dans un coin de la pièce crée un murmure sinistre. Tu sens une présence ancienne, prête à réagir.",
+    "description": "La salle est petite et ronde, éclairée par une faible lumière qui se répand doucement à travers les piliers vieillis. Des cercles rituels marquent le sol, et les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère menaçante à l'endroit. Un autel sacrificiel, surmonté d'un livre et de bougies, occupe le centre de la pièce. Le mobilier ancien, usé par le temps, semble avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'endroit dangereux. La salle est un vestige d'un rituel ancien, et l'atmosphère mystérieuse et menaçante en témoigne.",
     "tags": [
       "rituel",
+      "ancien",
       "sacrifice",
-      "vieillie",
       "mystère",
-      "tentacules"
+      "menace"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

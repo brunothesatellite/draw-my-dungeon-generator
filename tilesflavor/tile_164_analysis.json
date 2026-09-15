@@ -1,13 +1,13 @@
 {
   "164": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible pénètre à peine, éclairant des murs vieillis et des piliers massifs qui semblent avoir vu des siècles d'obscurité. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel central, entouré de cercles rituels, attire ton regard. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, comme si la salle avait été utilisée pour des rituels obscurs. Des cercles rituels marquent le sol, et un squelette ancien repose au milieu, comme témoin de l'ancienne puissance qui réside ici. L'eau stagnante, noire et trouble, remue lentement, créant une tension palpable. La crypte murmure des secrets, et chaque bruit parais résonner dans les murs vieillis.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Les murs vieillis sont marqués de cercles rituels sombres, et des piliers robustes soutiennent le plafond. Des traces de vieilles pierres sculptées sont visibles, et des têtes de mort et des tentacules émergent des ombres. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans les coins, créant un miroir sombre qui reflète les ombres qui hantent les parois. La grotte est une salle de rituels, et les cercles rituels marquent les emplacements où les anciens pratiquaient leurs cérémonies. Les têtes de mort et les tentacules ajoutent une touche macabre à l'atmosphère, rappelant les sacrifices et les pratiques surnaturelles qui ont eu lieu ici.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "autel central",
-      "têtes de mort"
+      "Grotte",
+      "Anciens",
+      "Rituels",
+      "Champignons",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

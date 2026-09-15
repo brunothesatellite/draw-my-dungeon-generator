@@ -1,13 +1,13 @@
 {
   "362": {
-    "title": "Salle du Sacrifice",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère ancienne et mystérieuse qui plane dans l'air. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de reliefs sculptés, paraissent avoir été sculptés par des mains expertes. Des cercles rituels marquent le sol, et les piliers massifs ajoutent à l'ambiance sombre. Au centre de la pièce, un autel, orné de tentacules, attire ton regard. Des têtes de mort, étrangement intactes, sont posées sur le sol, comme si elles avaient été déposées là depuis longtemps. L'odeur de soufre et de mort flotte dans l'air, et tu sens une présence étrange qui te pousse à te tenir à l'écart. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand lentement à travers les piliers vieillis. Les cercles rituels gravés dans le sol semblent attendre l'arrivée d'un initiateur. Des reliefs sculptés ornent les murs, racontant des mythes anciens. Le tapis au centre de la pièce est usé, mais ses contours indiquent l'emplacement d'un autel. Des tentacules émergent du sol, semblant attendre l'ordre de se déplacer. Des têtes de mort sont disséminées un peu partout, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. L'eau stagnante dans un coin de la pièce est un danger potentiel. Cette salle est dédiée à des rituels sacrés, mais elle semble avoir été abandonnée depuis longtemps.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystère",
-      "tête de mort"
+      "Salle des Rituels",
+      "Ancien Autel",
+      "Tentacules",
+      "Mystère",
+      "Sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

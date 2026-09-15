@@ -1,13 +1,13 @@
 {
   "201": {
-    "title": "La Salle des Prières Sacrées",
-    "description": "Un fenêtre occupe le centre de l'espace. La lumière naturelle filtre à travers une fenêtre au fond, révélant un espace rectangulaire aux murs de pierre brute. Les reliefs sculptés ornent les murs, racontant des histoires anciennes. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un autel central, recouvert de tissus sombres, attire ton regard. Des têtes de mort sont disséminées autour, ajoutant une note macabre à l'atmosphère mystérieuse. L'odeur de soufre et de vieux papier te pénètre les narines, tandis que des tentacules s'agissent dans l'air, créant une tension palpable. Devant toi, une table en bois, chargée de manuscrits et de symboles énigmatiques, semble attendre une main experte pour la déchiffrer.",
+    "title": "Couloir des Reliques",
+    "description": "Le couloir des Reliques est étroit et sinueux, taillé dans le roc. Les murs, ornés de reliefs sculptés, racontent des mythes anciens. Des cercles rituels marquent le sol, évoquant des pratiques cultuelles. À l'extrémité du couloir, une fenêtre laisse filtrer la lumière du jour, révélant un paysage lointain. Des piliers majestueux soutiennent le plafond, tandis qu'une table en pierre est posée au centre. Les murs sont parsemés de têtes de mort, symboles de la mort et de la réincarnation. Des tentacules sombres, prêts à bondir, se cachent dans les recoins, ajoutant une note de menace à l'atmosphère mystérieuse. Le couloir, bien que petit, est rectangulaire et bien éclairé par la lumière naturelle qui pénètre par la fenêtre. Il semble être le passage vers un sanctuaire ou un lieu de culte, où des rituels sont peut-être encore pratiqués.",
     "tags": [
-      "salle de prière",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "soufre"
+      "Couloir",
+      "Reliques",
+      "Mystère",
+      "Rituel",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

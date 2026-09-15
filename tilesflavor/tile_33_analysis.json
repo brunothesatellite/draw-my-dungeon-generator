@@ -1,13 +1,13 @@
 {
   "33": {
-    "title": "La Chambre des Rituels",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière est si faible que tu peux à peine distinguer les contours de la salle. Elle est immense, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, une fois blancs, sont maintenant couverts de taches de rouille et de peinture écaillée. Des tentacules et des trophées sont accrochés aux murs, comme si une créature ancienne avait une fois régné ici. Des spirales mystérieuses marquent le sol, et une inscription énigmatique parais gravée dans le sol. Deux colonnes imposantes soutiennent le plafond, et un autel sombre est placé au centre de la pièce. Tu sens une présence fantomatique, comme si quelqu'un ou quelque chose observait tes moindres mouvements. Le silence est troublé par un murmure lointain, et tu perçois une odeur de soufre et de mort. Un piège attend derrière une porte dissimulée, et un nuage de gaz toxique flotte dans l'air. La tension est palpable, et tu te demandes ce que cette chambre rituelle cache vraiment.",
+    "title": "Chambre des Rituels Sacrés",
+    "description": "La Chambre des Rituels Sacrés est une salle immense, de forme rectangulaire, dont les murs sont recouverts de tentacules et de trophées étranges. La lumière tamisée émane des colonnes et des piliers qui soutiennent le plafond, rendant l'atmosphère encore plus mystérieuse. Les sols sont marqués de spirales et d'inscriptions anciennes, qui semblent indiquer un rituel ancien. Un autel et une table sont visibles au centre de la pièce, mais leur utilité exacte reste un mystère. Un murmure fantomatique flotte dans l'air, et une porte dissimulée semble mener à un autre monde. Les tentacules et les trophées sur les murs racontent des histoires de sacrifices et de cultes obscurs. Les pièges et le gaz toxique qui se dissipe dans l'air ajoutent une touche de danger à cette atmosphère étrange et étrange.",
     "tags": [
       "rituel",
-      "salle abandonnée",
-      "tentacules",
-      "soufre",
-      "presence fantomatique"
+      "sacrifice",
+      "tentaclés",
+      "mystère",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,21 +1,13 @@
 {
   "170": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du néant. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues de pierre émergent de l'obscurité, ajoutant à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de runes anciennes, comme si la salle avait été utilisée pour des rituels obscurs. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, chaque bruit pouvant révéler un danger latent.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte des Champignons Sacrés est une cavité étroite et sombre, où la lumière filtre à peine à travers des couches de roche. Les murs irréguliers sont parsemés de cercles rituels et de glyphes runiques, qui semblent avoir été gravés il y a des milliers d'années. Des piliers et des statues de pierre ornent les coins, ajoutant une touche de mystère à l'atmosphère sinistre de la grotte. Des champignons étranges poussent sur le sol, leur couleur verte vif contrastant avec la roche grise. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps, ajoutant à l'ambiance de décrépitude. L'eau stagnante, noire et trouble, remplit une partie de la grotte, rendant l'endroit dangereux à traverser. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche macabre à ce lieu sacré et sinistre.",
     "tags": [
-      "rituels obscurs",
-      "salle de rituels",
-      "têtes de mort",
-      "tentacules",
-      "soufre",
-      "anciens",
-      "piliers",
-      "statues",
-      "cercles rituels",
-      "glyphes runiques",
-      "pièges anciens",
-      "eau stagnante",
-      "atmosphère sinistre"
+      "Grotte",
+      "Champignons Sacrés",
+      "Salle de Rituels",
+      "Atmosphère Sinistre",
+      "Ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

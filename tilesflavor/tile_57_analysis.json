@@ -1,18 +1,13 @@
 {
   "57": {
-    "title": "La Salle des Anciens",
-    "description": "Tu te retrouves plongé dans un couloir étroit, les murs soudain s'élargissant pour révéler une salle carrée aux murs décrépits. La lumière tamisée émane d'une source obscure au centre, révélant une structure circulaire étrange. Les reliefs sculptés sur les murs racontent des histoires d'anciennes créatures, leurs tentacules s'étirant comme des bras d'ombres. Sur le sol, des spirales et des croix dessinent des motifs mystérieux, tandis que des runes anciennes brillent sous la faible lumière. Tu sens une présence étrange, comme si les murs murmuraient des secrets millénaires. L'air est lourd, chargé d'une odeur de poussière et de mystère. Tu perçois un murmure lointain, comme si quelqu'un ou quelque chose observait tes pas. La tension monte avec chaque pas que tu fais, sentant l'œil des anciens vous observez.",
+    "title": "Le Couloir des Anciens",
+    "description": "Le couloir s'élargit lentement, révélant une colonne centrale étrange qui semble avoir été sculptée par les mains de l'oubli. Les murs, recouverts de reliefs sculptés et de tentacules, semblent murmurer des secrets millénaires. Des spirales et des croix gravées dans le sol émettent une lumière diffuse, créant une ambiance étrange et menaçante. Les colonnes et les piliers, délabrés par le temps, semblent garder des secrets de l'ancien monde. Les mystérieux symboles et runes gravés sur les murs et le sol ajoutent une touche de mystère à l'atmosphère déjà étrange. Les tentacules qui semblent sortir des murs ajoutent une touche de terreur à l'endroit. Le couloir, bien qu'immense, semble se terminer en un point indéfini, laissant les explorateurs se demander ce qui se trouve au-delà.",
     "tags": [
+      "couloir",
+      "ancien",
       "mystère",
-      "créatures anciennes",
-      "rituels",
-      "salle carrée",
-      "lumière tamisée",
-      "spirales",
       "tentacules",
-      "runes anciennes",
-      "atmosphère étrange",
-      "salle ancienne"
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

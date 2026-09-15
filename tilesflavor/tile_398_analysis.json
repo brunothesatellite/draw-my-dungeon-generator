@@ -1,13 +1,13 @@
 {
   "398": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans cette pièce carrée. Les murs, usés et couverts de taches, semblent murmurer des secrets millénaires. Un autel central, entouré de piliers massifs, attire ton regard. Des cercles rituels gravés dans le sol te font sursauter. Des têtes de mort et des tentacules sculptés ornent les murs, ajoutant une touche d'horreur à l'atmosphère. Le mobilier ancien, usé et poussiéreux, parais avoir été oublié depuis des siècles. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, noire et fétide, coule lentement vers le centre de la pièce. La porte murée, fermée depuis longtemps, parais prête à s'ouvrir à tout moment. L'odeur de soufre et de mort flotte dans l'air, rendant l'atmosphère encore plus oppressante. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Salle des Anciens",
+    "description": "La salle circulaire est étroite et basse, avec un système mécanique complexe au centre qui permet de tourner le couloir. Les murs sont recouverts de cercles rituels, et les piliers massifs sont ornés de têtes de mort et de tentacules. La lumière faible émane des torches anciennes qui se balancent sur des crochets rouillés. Le sol est marqué de cercles rituels, et des traces de mobilier ancien sont encore visibles. Une porte murée bloque l'entrée, tandis que l'eau stagnante menace de s'infiltrer. L'atmosphère est mystérieuse et ancienne, comme si les murs avaient entendu des milliers d'histoires. Cette salle est dédiée aux rituels, et les anciens l'utilisaient pour invoquer des forces obscures.",
     "tags": [
       "rituel",
-      "ancien",
+      "salle circulaire",
       "mystère",
-      "horreur",
-      "salle de rituels"
+      "vieillie",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

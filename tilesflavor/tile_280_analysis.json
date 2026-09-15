@@ -1,13 +1,13 @@
 {
   "280": {
-    "title": "La Chambre des Rituels Aquatiques",
-    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est saturé d'une odeur de soufre et de mort, qui te pique les narines. Devant toi, un rectangle rectangulaire s'ouvre dans le vide, illuminé par une faible lueur. Des tentacules, comme ceux d'un ancien monstre marin, sont suspendus aux murs, leurs nœuds noirs et lisses semblant observer tes moindres mouvements. Des spirales mystérieuses gravées dans le sol te guident vers le centre de la pièce, où se dresse un autel de pierre. Des colonnes massives soutiennent le plafond, et un baril de bois, usé par le temps, repose contre le mur de droite. À l'horizon, un murmure de l'eau te parvient, et tu aperçois un nageur qui parais flotter juste au-dessus du niveau de l'eau, comme s'il était suspendu dans un rêve. La porte à l'extrémité de la pièce parais fermée, mais tu sens une présence étrange qui plane dans l'air, comme si quelque chose attendait de révéler son secret.",
+    "title": "Passage des Ténèbres Aquatiques",
+    "description": "Le passage étroit et sombre s'inscrit dans un mur de pierre lisse, éclairé par une faible lueur qui se réfléchit sur l'eau calme qui coule au centre. Des spirales gravées dans le sol marquent un chemin qui semble indiquer la direction à suivre. Des colonnes massives, ornées de motifs sculptés, soutiennent le plafond, ajoutant une touche de mystère à l'atmosphère déjà lugubre. Un baril, abandonné, repose contre le mur, son contenu inconnu. À l'horizon, un pont de corde tordu semble suspendu au-dessus de l'eau, offrant un passage vers une autre partie du donjon. Les tentacules, visibles sur les murs, semblent attendre l'arrivée de quelqu'un pour se saisir de lui. L'air humide et froid pénètre dans le passage, accentuant la sensation de mystère et d'isolement. Les eaux calmes reflètent les ombres qui dansent sur les murs, créant un spectacle étrange et inquiétant. Les tentacules, visibles sur les murs, semblent attendre l'arrivée de quelqu'un pour se saisir de lui.",
     "tags": [
-      "rituel",
-      "aquatique",
-      "mystère",
-      "tentacules",
-      "murmure"
+      "Passage",
+      "Aquatique",
+      "Mystérieux",
+      "Tentacules",
+      "Égout"
     ],
     "sourceFeatures": {
       "roomSize": "large",

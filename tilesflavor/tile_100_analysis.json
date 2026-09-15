@@ -1,13 +1,13 @@
 {
   "100": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. Le sol est un tapis de craie grise, marqué de cercles rituels qui semblent avoir été dessinés par des mains tremblantes. Les murs, usés et fissurés, sont ornés de têtes de mort sculptées et de tentacules qui paraissent sortir du plafond. Un autel central, recouvert de tissus usés, parais être le point focal de cette pièce. Des barils et des caisses empilées obstruent les sorties, bloquant toute évasion. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un mystère ancien. Les piliers, usés par le temps, paraissent soutenir un plafond qui menace de s'effondrer. Tu sens une présence étrange, comme si des forces obscures observaient tes moindres gestes. La tension est palpable, et tu te demandes quel sortilège sombre pourrait être pratiqué ici.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La faible lumière qui pénètre à travers les fissures dans les pierres donne une ambiance sinistre à l'endroit. Des cercles rituels sont gravés sur le sol, marquant les limites de l'espace. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère. Le mobilier est ancien et semble avoir été abandonné depuis longtemps. Des barils et des caisses empilées bloquent les sorties, et l'eau stagnante au fond de la salle rend l'endroit humide et glissant. Les pierres et les caisses semblent avoir été placées là pour empêcher l'accès à cette salle de rituels sacrés.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "sombre",
-      "ancien",
-      "tension"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Sacrifices",
+      "Macabre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

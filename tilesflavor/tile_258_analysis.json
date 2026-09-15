@@ -1,13 +1,13 @@
 {
   "258": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. Un pilier central domine la pièce, orné de reliefs sculptés qui racontent des mythes oubliés. Des cercles rituels marquent le sol, comme des cercles d'ombre dans un étang mort. L'air est lourd, chargé d'une odeur de soufre et de mystère ancien. À l'horizon, l'eau stagnante s'agite, comme si elle attendait quelque chose. La tension est palpable, comme si la crypte était le cœur d'un rituel perpétuel.",
+    "title": "Passerelles du Cœur Égouté",
+    "description": "Au cœur de l'égout, deux passerelles en bois sombre s'étendent sur une plateforme centrale, formant un carré parfait. Les murs, usés par le temps, sont recouverts de reliefs sculptés représentant des figures mystérieuses. Des cercles rituels gravés dans le sol évoquent une ancienne cérémonie. Le pilier central, robuste et vieilli, semble être le point de convergence de ces passerelles. L'air est chargé d'une odeur de moisi et d'eau stagnante, rendant l'atmosphère oppressante. La faible lumière qui filtre à travers les ouvertures étroites des murs ajoute à l'ambiance mystérieuse et ancienne de ce lieu. Les murs vieillis et les reliefs sculptés racontent des histoires oubliées, tandis que l'eau stagnante au pied des passerelles rappelle l'ancien rituel qui s'y déroulait.",
     "tags": [
-      "salle de culte",
-      "rituel ancien",
-      "mystère",
-      "vieillie",
-      "eau stagnante"
+      "Passage",
+      "Égout",
+      "Salle de Culte",
+      "Ancien Rituel",
+      "Atmosphère Mysterieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

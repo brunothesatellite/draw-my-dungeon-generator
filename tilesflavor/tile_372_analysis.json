@@ -1,14 +1,13 @@
 {
   "372": {
-    "title": "La Salle des Anciens",
-    "description": "Un statue occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les silhouettes des statues qui te regardent de leurs yeux vides. La pièce est petite, rectangulaire, et semble avoir vieilli au fil des siècles. Les murs sont couverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Au centre, un autel est entouré de piliers massifs, et un squelette, visiblement ancien, repose entre deux statues. Des cercles rituels marquent le sol, et l'odeur de soufre et de mort flotte dans l'air. La porte, ouverte, laisse entrevoir un passage étroit qui parais mener à un autre espace. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. L'atmosphère est sinistre, et tu sens une présence ancienne qui t'observe.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints autrefois. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et un autel est placé au centre de la pièce. Des statues de taille moyenne, vieillies et érodées, sont alignées le long des murs, et un squelette humain est étendu entre deux d'entre elles. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. L'eau stagnante recouvre le sol dans une partie de la salle, rendant l'endroit glissant et dangereux. La porte ouverte au fond laisse entrevoir un passage sombre qui semble mener à d'autres mystères.",
     "tags": [
-      "salle de culte",
-      "statues",
-      "squelette",
-      "rituels",
-      "vieillie",
-      "sinistre"
+      "salle",
+      "culte ancien",
+      "macabre",
+      "rituel",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

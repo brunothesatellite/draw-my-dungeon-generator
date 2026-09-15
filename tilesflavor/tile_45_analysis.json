@@ -1,13 +1,13 @@
 {
   "45": {
-    "title": "La Crypte des Anciens",
-    "description": "Tu te retrouves plongé dans un couloir étroit, les murs décrépits et les plafonds bas. La lumière tamisée émane d'une source lointaine, révélant une salle immense et irrégulière. Les murs, couverts de tentacules et de trophées, semblent témoigner d'une ancienne civilisation. Des colonnes et des piliers soutiennent le toit, tandis que des spirales et des croix gravées marquent le sol. Un autel central, orné d'un mystérieux objet, attire ton regard. L'air est lourd, chargé d'une odeur de soufre et de mystère. Tu sens une présence étrange, comme si des forces obscures observaient tes moindres gestes. Des pièges et des enchantements sont dissimulés dans les recoins, prêts à te piéger. La crypte murmure des secrets anciens, et tu te demandes ce qu'elle cache vraiment.",
+    "title": "Le Couloir des Sombres Rituels",
+    "description": "Le couloir étendu et délabré semble avoir été une fois le passage d'une ancienne civilisation. Les murs, recouverts de tentacules et de trophées, racontent des secrets millénaires. Des spirales et des croix gravées dans le sol indiquent un ancien rituel. Les colonnes et les piliers, usés par le temps, semblent soutenir un passé mystérieux. L'air est chargé d'une atmosphère étrange, où l'obscurité et l'ombre se mêlent pour créer une ambiance sinistre. Des objets énigmatiques et un autel sont dissimulés dans les recoins, prouvant que ce couloir a été le théâtre de cérémonies rituelles. Les murs, ornés de tentacules et de trophées, racontent des secrets millénaires. Des spirales et des croix gravées dans le sol indiquent un ancien rituel. Les colonnes et les piliers, usés par le temps, semblent soutenir un passé mystérieux. L'air est chargé d'une atmosphère étrange, où l'obscurité et l'ombre se mêlent pour créer une ambiance sinistre. Des objets énigmatiques et un autel sont dissimulés dans les recoins, prouvant que ce couloir a été le théâtre de cérémonies rituelles.",
     "tags": [
+      "couloir",
+      "rituel",
       "mystère",
       "ancien",
-      "soufre",
-      "tentacules",
-      "enchantement"
+      "obscurité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

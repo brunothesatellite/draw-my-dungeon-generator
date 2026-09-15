@@ -1,13 +1,13 @@
 {
   "388": {
-    "title": "La Chambre Sacrée des Ténèbres",
-    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd et humide, comme si la chaleur stagnait au fond de cette crypte. Devant toi, un autel massif de pierre, sculpté de tentacules et de crânes, semble observer tes moindres mouvements. Des colonnes majestueuses soutiennent le plafond, tandis que des spirales et des cercles gravés dans le sol te guident vers le centre. Un murmure mystique résonne dans l'air, et tu sens une présence éthérée flotter à proximité. À tes pieds, l'eau s'écoule lentement, et tu perçois un écho lointain qui parais provenir de l'entrée nord. La tension est palpable, et tu sais que quelque chose de terrible se cache dans cette pièce.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont couverts de tenticules et de crânes humains. La lumière y est faible, émanant d'une source mystérieuse au centre de la pièce, qui éclaire un grand autel en pierre. Des colonnes et des piliers soutiennent le plafond, ajoutant à l'atmosphère sombre et étrange de la pièce. Des marquages au sol, formant un cercle et un spirale, semblent indiquer un rituel ancien. L'humidité y règne, rendant le sol glissant et humide. À l'ouest, un mur est orné de tentacules et de crânes, tandis qu'un esprit fantomatique plane au-dessus de l'autel, ajoutant une touche de mystère à l'atmosphère déjà sombre. Deux sorties mènent à l'extérieur, l'une au nord et l'autre au sud, mais la présence de l'eau et de mysticisme rend ces sorties potentiellement dangereuses.",
     "tags": [
-      "sacrée",
-      "ténèbres",
-      "mystère",
-      "creatures",
-      "salle sacrée"
+      "salle sacrée",
+      "rituel ancien",
+      "tenticules",
+      "crânes",
+      "autel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

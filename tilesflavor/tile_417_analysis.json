@@ -1,23 +1,20 @@
 {
   "417": {
-    "title": "La Salle des Anciens",
-    "description": "Tu te retrouves plongé dans un espace carré, minuscule, où la lumière faible te pénètre à peine. Les murs, usés et rugueux, semblent vibrer d'une étrange pulsation, comme s'ils étaient en vie. Au centre, un autel, vieilli et recouvert de mobilier ancien, attire ton regard. Des têtes de mort et des tentacules émergents des murs, des symboles rituels gravés dans le sol te rappellent des rites obscurs. Les piliers, robustes et massifs, soutiennent le plafond, tandis que l'odeur de soufre et de vieux papier te pique les narines. L'eau stagnante, noire et trouble, se répand lentement sur le sol, créant un miroir sombre qui te renvoie des images floues. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette salle mystérieuse et ancienne.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et carrée, avec un sol marqué de cercles rituels. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, comme si un grand cercle invisible les enveloppait. La faible lumière qui pénètre à travers les fissures des piliers éclairant les cercles rituels donne une ambiance mystérieuse et ancienne. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère. Le mobilier ancien est délabré, mais les piliers majestueux soutiennent toujours la structure. Un coffre, fermé et mystérieux, repose au centre de la pièce, entouré de cercles rituels. L'eau stagnante dans un coin de la salle rend l'endroit encore plus dangereux. Cette salle est dédiée à des rituels obscurs et sacrés, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "salle de culte",
       "rituel",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "odeur de soufre",
-      "eau stagnante",
-      "atmosphère mystérieuse"
+      "sacrifice",
+      "mystère",
+      "vieillissement",
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "coffre",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

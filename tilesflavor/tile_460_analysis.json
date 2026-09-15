@@ -1,20 +1,20 @@
 {
   "460": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et sombre. Les murs, recouverts de tentacules et de têtes de mort, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Des piliers et des tentures ornées de symboles archaïques flanquent la pièce. Une table, vide, est placée devant l'autel. Des traces de pas indiquent que quelqu'un a récemment visité cette salle. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous submerger. La tension monte avec chaque pas que tu fais. Devant toi, une porte se referme lentement, bloquant toute issue.",
+    "title": "Salle des Pioches",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les voiles de tissu qui recouvrent les fenêtres. Les murs vieillis sont marqués de cercles rituels, et les piliers robustes soutiennent le plafond. Des tentures sombres flottent au-dessus des piliers, ajoutant à l'atmosphère sinistre de la pièce. Au centre de la salle, un puits profond est creusé dans le sol, rempli de pioches et de poignées de fer. Deux coffres massifs sont dissimulés derrière des parois de pierre, séparés par le puits. Des traces de pas indiquent que quelqu'un a récemment exploré cette zone. L'eau stagnante au fond du puits est un danger à ne pas négliger.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "sinistre",
-      "soufre",
-      "piliers"
+      "Salle",
+      "Rituels",
+      "Pioches",
+      "Coffres",
+      "Atmosphère Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "pioches",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

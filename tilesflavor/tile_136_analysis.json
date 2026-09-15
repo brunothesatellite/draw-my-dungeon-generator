@@ -1,13 +1,13 @@
 {
   "136": {
-    "title": "Salle des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Des barils et des caisses, usés par le temps, sont empilés contre le mur, tandis que des tentacules et des têtes de mort ornent les murs, ajoutant une touche de terreur à l'atmosphère sinistre. Un squelette, presque ossifié, repose près de l'autel, comme témoin muet de l'histoire sombre de cette salle. L'eau stagnante, noire et malsaine, coule lentement vers le centre de la pièce, créant un murmure sinistre. La porte ouverte à l'arrière laisse entrevoir un passage étroit, menant à l'inconnu.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de cercles rituels énigmatiques. Des barils et des caisses, usés par le temps, sont empilés sur un côté, comme si un voyageur pressé avait laissé son bagage. La faible lumière qui filtre à travers les fissures dans le plafond éclaire vaguement les piliers massifs qui soutiennent le passage. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. Des squelettes, probablement des gardiens de l'ancien rituel, sont disséminés le long du passage, leurs os craquelés racontant des histoires de sacrifice et de mystère. À l'extrémité du passage, une porte ouverte laisse entrevoir une eau stagnante, un piège mortel pour les intrus imprudents. La sinistre ambiance de la salle de rituel ancien est palpable, chaque coin révélant un secret ancien et terrifiant.",
     "tags": [
-      "rituel ancien",
-      "salle de culte",
-      "squelette",
-      "tentacules",
-      "soufre"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Sacrifice",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "Couloirs avec des barils et des caisses sur un côté",
       "tileNumber": 136

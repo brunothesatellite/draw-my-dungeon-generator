@@ -1,16 +1,13 @@
 {
   "356": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est si faible que tu dois te rapprocher pour distinguer les détails. Devant toi, une tête de mort gigantesque, sculptée dans le mur, te scrute avec ses orbites vides. Des tentacules émergents des murs, semblant attendre l'ordre de se déployer. Le sol est marqué de cercles rituels, leurs contours usés par le temps. Des piliers massifs soutiennent le plafond, et un autel sombre se dresse au centre de la pièce. L'air est lourd, chargé d'une odeur de soufre et de mort. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. La tension est palpable, comme si la crypte attendait une victime pour ses rituels obscurs.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière. Des cercles rituels sont gravés dans le sol, entourant une tête de mort qui semble émerger du sol. Des piliers massifs soutiennent le plafond, et un autel est placé au centre de la pièce. Un tonneau et une coffre sont visibles, mais la salle est vide de tout signe de vie récente. Les anciens pièges sont toujours en place, prêts à se déclencher.",
     "tags": [
-      "salle de rituels",
+      "salle",
+      "rituels",
+      "vieillie",
       "tête de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "autel",
-      "pièges anciens",
-      "atmosphère sinistre"
+      "piliers"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

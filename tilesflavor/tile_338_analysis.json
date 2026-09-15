@@ -1,13 +1,13 @@
 {
   "338": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre, entouré de piliers massifs, attire le regard. Des cercles rituels gravés dans le sol semblent attendre un rituel ancien. Des têtes de mort et des tentacules émergents des murs, comme des gardiens malveillants. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. Des pièges sont dissimulés dans les recoins, prêts à s'activer. L'eau stagnante, noire et malsaine, coule lentement vers le centre de la salle. L'atmosphère est sinistre, pesante, comme si la salle avait été abandonnée depuis des siècles, gardant encore les traces de son passé sombre.",
+    "title": "Passage Rituel",
+    "description": "Le passage est étroit et sinueux, taillé dans le roc de la grotte. La grille métallique au fond laisse filtrer une faible lumière qui éclaire les murs couverts de cercles rituels. Les piliers massifs, usés par le temps, soutiennent le plafond voûté. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. Le sol est marqué de cercles rituels, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation. L'eau stagnante au fond du passage est un danger à ne pas négliger. La porte métallique au bout du couloir semble fermée, mais une clé ancienne pourrait la faire ouvrir. Les murs sont parsemés de têtes de mort et de tentacules peints, ajoutant une touche macabre à l'atmosphère sinistre. Les cercles rituels marquent le sol, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation. L'eau stagnante au fond du passage est un danger à ne pas négliger.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "salle de rituel"
+      "Passage",
+      "Rituel",
+      "Grotte",
+      "Ancien",
+      "Macabre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

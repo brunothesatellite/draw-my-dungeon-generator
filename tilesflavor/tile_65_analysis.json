@@ -1,19 +1,13 @@
 {
   "65": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fissures entre les pierres éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules, attire votre regard. Des cercles rituels gravés dans le sol vous font frémir. Des piliers robustes soutiennent le plafond, tandis qu'une tenture sombre pend du mur, ajoutant une note de mystère. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, comme si quelque chose de sinistre se préparait.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et triangulaire, avec des murs vieillis et des traces de vieilles peintures qui se détachent. La lumière est faible, filtrant à travers une fenêtre étroite au fond de la pièce. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des piliers robustes soutiennent le plafond, et une tenture ancienne pend sur une des parois, ornée de têtes de mort et de tentacules qui semblent sortir du mur. L'atmosphère est sinistre, accentuée par l'eau stagnante qui s'est formée dans un coin de la pièce. Les murs sont recouverts de champignons qui poussent entre les pierres, ajoutant une touche de mystère à l'endroit.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "tenture",
-      "soufre",
-      "eau stagnante",
-      "sinistre"
+      "Salle",
+      "Rituel",
+      "Ancien",
+      "Mystère",
+      "Champignon"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

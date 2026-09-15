@@ -1,13 +1,13 @@
 {
   "156": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. Un autel central, recouvert de têtes de mort et de tentacules, semble avoir été le cœur de ces rituels obscurs. Des cercles rituels et des glyphes runiques gravés dans le sol attirent l'œil, tandis que des statues de pierre gardent le silence. Le mobilier ancien, usé par le temps, parais avoir été abandonné depuis longtemps. Des traces de créatures étranges sillonnent le sol, comme si des forces maléfiques avaient récemment parcouru ces lieux. L'atmosphère sinistre est palpable, chaque coin révélant un piège ancien prêt à s'abattre sur l'intrus imprudent. La crypte murmure des secrets obscurs, prête à révéler sa vérité à ceux qui oseront s'y aventurer.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien semble être abandonné, avec des meubles usés et des objets étranges qui trahissent l'ancienneté du lieu. Des traces de créatures indiquent que ce passage est fréquenté, mais les dangers potentiels sont nombreux. Les vieux pièges anciens sont toujours prêts à se déclencher, ajoutant une tension à l'exploration de cette grotte mystérieuse.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "sinistre",
-      "creatures étranges",
-      "pièges anciens"
+      "Grotte",
+      "Champignons",
+      "Ancienneté",
+      "Pièges",
+      "Atmosphère Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "288": {
-    "title": "L'Abîme Sacrée",
-    "description": "Des têtes de mort couvrent les murs. L'humidité pèse dans l'air, un mélange de soufre et de moisi qui vous pique les narines. Le sol est un tapis de terre grise, marqué de cercles rituels sombres qui semblent avoir été dessinés par des mains d'ombre. Des piliers de pierre noircie soutiennent le plafond, leurs surfaces lisses et lisses, comme si elles avaient été polies par des milliers d'années de prière. À l'extrémité de la pièce, un autel de pierre lisse, orné de têtes de mort sculptées, parais attendre un sacrifice. Des tentacules, minces et sinistres, émergent du sol, glissant vers vous avec une lenteur hypnotique. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis des siècles. L'atmosphère est sinistre, presque palpable, comme si la salle était le cœur d'un rituel ancien et perpétuel.",
+    "title": "L'Abîme des Anciens",
+    "description": "Dans cette petite pièce rectangulaire, l'air est lourd et humide, évoquant une atmosphère sinistre. La faible lumière qui filtre à travers les voiles de toile semble venir d'une source inconnue, éclairant vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent les murs, et le mobilier ancien semble avoir été abandonné depuis des siècles. Les têtes de mort, suspendues aux murs, ajoutent une touche macabre à l'ensemble. L'abîme, visible au centre de la pièce, est rempli d'eau stagnante, et des tentacules sombres émergent de temps en temps, ajoutant une note d'effroi à l'atmosphère. Les cercles rituels au sol semblent être le point focal de cette pièce, et les piliers majestueux donnent une impression de puissance ancienne. Les têtes de mort et les tentacules ajoutent une touche de mystère et de danger à ce lieu de rituel ancien.",
     "tags": [
       "rituel",
-      "sombre",
-      "humidité",
-      "tentacules",
-      "autel"
+      "macabre",
+      "abîme",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "abîme dans une pièce",
       "tileNumber": 288

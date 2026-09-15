@@ -1,13 +1,13 @@
 {
   "343": {
-    "title": "La Chambre des Rituels",
-    "description": "Un empty space occupe le centre de l'espace. La lumière vacille, révélant une salle immense, aux murs irréguliers et aux plafonds bas. L'air est lourd, chargé d'une odeur de soufre et de mort. Des tentacules et des tapisseries de tentes flottent dans l'air, comme s'ils vivaient d'eux-mêmes. Des spirales et des croix gravées dans le sol semblent danser sous tes pieds, tandis que des colonnes et des piliers de pierre s'élèvent comme des gardiens silencieux. Un espace vide au centre de la pièce attire ton regard, comme un point de convergence pour des forces obscures. Tu sens une présence fantomatique, un murmure lointain qui te pousse à te rapprocher. Les murs sont usés, des traces de vieilles peintures et de symboles énigmatiques sont encore visibles. Des pièges attendent, prêts à s'activer à ton approche. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce avait une vie propre, une histoire à raconter.",
+    "title": "Passages Sinueux de la Grotte Sacrée",
+    "description": "Les corridors de la grotte sinueuse vous guident lentement vers un espace vide au cœur de l'obscurité. Les murs, érodés par le temps et les eaux souterraines, sont parsemés de spirales et de croix gravées dans le roc. Des colonnes et des piliers, délabrés, se dressent ici et là, témoins silencieux de l'ancienne puissance qui régnait ici. La lumière diffuse, filtrée par les épaisses frondaisons qui s'ouvrent à l'entrée, éclaire vaguement les parois, révélant des tentacules et des têtes de mort sculptées dans le rocher. L'atmosphère est pesante, presque palpable, comme si l'âme des ancêtres observait les visiteurs depuis l'ombre. Les passages s'élargissent progressivement jusqu'à un espace central vide, où l'on peut imaginer que des rituels sacrés étaient autrefois pratiqués. Les marques de croix et de spirales semblent indiquer un passage vers un autre monde, mais les pièges et les tentacules qui se dressent ici et là font懂 que l'exploration est risquée.",
     "tags": [
+      "grotte",
       "rituel",
-      "soufre",
-      "tentacules",
-      "spirales",
-      "colère"
+      "ancien",
+      "sacrifice",
+      "tentes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

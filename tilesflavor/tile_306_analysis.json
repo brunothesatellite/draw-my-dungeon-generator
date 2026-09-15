@@ -1,12 +1,12 @@
 {
   "306": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Des tentacles couvrent les murs. La pièce est immense, rectangulaire, et la lumière y pénètre à peine, créant un halo de mystère. L'humidité y règne, et les murs sont couverts d'une fine couche de condensation. Des tentacules, noirs et luisants, semblent s'enrouler sur les parois, comme s'ils cherchaient à s'échapper. Le sol est marqué de spirales sombres, qui paraissent danser sous tes pieds. Des colonnes robustes, sculptées de motifs énigmatiques, se dressent au centre de la pièce, comme des gardiens silencieux. Tu ne sais pas quel est le but de cette salle, mais l'atmosphère est glaçante et menaçante. L'odeur de soufre et d'humidité est intense, et un murmure lointain parais résonner dans les murs. Tu sens une présence indéfinissable, comme si quelque chose attendait dans l'ombre.",
+    "title": "L'Abîme des Spirales",
+    "description": "Vous vous trouvez au cœur d'un abîme immense, dont les parois sombres et humides semblent s'écarter pour vous offrir un panorama infini. Les spirales gravées dans le sol vous guident lentement vers le centre, où une lumière diffuse et floue semble émaner d'un point indéfini. Les colonnes majestueuses, ornées de tentacules, semblent veiller sur ce lieu mystérieux. L'air est saturé d'une odeur de terre humide et d'humidité, et les murs sont couverts de mousse et de lichens. Les spirales sur le sol vous attirent inexorablement vers le centre, où vous espérez trouver une révélation ou un danger inconnu.",
     "tags": [
       "abîme",
-      "tentacules",
       "spirales",
       "colonne",
+      "tentacules",
       "mystère"
     ],
     "sourceFeatures": {

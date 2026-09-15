@@ -1,18 +1,13 @@
 {
   "51": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière pénètre à travers des fenêtres brisées, éclairant les têtes de mort et les tentacules qui semblent jaillir des murs. Un autel central, orné de symboles énigmatiques, domine la pièce. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois sombre est placée devant l'autel. Un squelette, presque intact, repose au pied de l'autel, comme témoin muet des rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque détail racontant une histoire de terreur et de mystère.",
+    "title": "Couloir des Os",
+    "description": "Le couloir étroit et sinistre est recouvert de couches d'os, les ossements se mêlant aux murs et au sol. Les murs, usés et vieillis, sont parsemés de cercles rituels sombres qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et lisses reflétant faiblement la lumière qui pénètre à travers une porte ouverte à l'extrémité du couloir. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà lugubre. Un cercle de cercles rituels est gravé au sol, entourant une table ancienne et usée, sur laquelle repose un squelette, les os fragiles et cassés. L'eau stagnante, noire et putride, s'accumule dans les coins, créant un miroir sombre qui reflète les ténèbres qui règnent dans ce lieu. La porte ouverte à l'extrémité laisse entrevoir une lumière plus vive, mais aussi une menace potentielle.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "salle de culte",
-      "vieillie",
-      "sinistre",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "autel",
-      "squelette"
+      "Couloir",
+      "Rituels",
+      "Têtes de Mort",
+      "Tentacules",
+      "Squelette"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

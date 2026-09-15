@@ -1,13 +1,13 @@
 {
   "412": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère sinistre qui plane. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles mystiques. Des traces de créature, comme si quelque chose avait couru récemment, sont visibles sur le sol. La porte murée à l'extrémité de la salle semble fermée depuis longtemps, mais tu sens une présence étrange qui t'observe. L'odeur de soufre et de mort flotte dans l'air, et l'eau stagnante au fond de la salle résonne d'un murmure sinistre. La salle est une crypte ancienne, un lieu de rituel où les forces obscures se rassemblent.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir est étroit et sinueux, ses murs sont recouverts de peintures sombres et de symboles énigmatiques. Des cercles rituels marquent le sol, et des piliers massifs soutiennent le plafond. Le couloir est faiblement éclairé, ce qui ajoute à son atmosphère sinistre. Des têtes de mort et des tentacules peints sur les murs semblent observer les passants. Des traces de créatures mystérieuses sont visibles sur le sol, et une eau stagnante s'accumule dans un coin, rendant le passage dangereux. À l'extrémité du couloir, une porte murée cache son contenu, et un crâne de démon est accroché au mur, ajoutant une touche macabre à l'ensemble. Cette ancienne salle de rituel semble avoir été abandonnée depuis longtemps, mais les secrets qu'elle cache sont nombreux et dangereux.",
     "tags": [
+      "couloir",
       "rituel",
-      "salle de rituel",
-      "salle ancienne",
-      "soufre",
-      "tentacules"
+      "ancien",
+      "macabre",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

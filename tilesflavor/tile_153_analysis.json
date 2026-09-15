@@ -1,13 +1,13 @@
 {
   "153": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant des murs vieillis et des piliers massifs qui semblent avoir vu des siècles d'obscurité. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire l'œil, entouré de cercles rituels énigmatiques gravés dans le sol. Des têtes de mort et des tentacules étranges ornent les murs, tandis que des traces de créatures mystérieuses marquent le sol. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remue lentement au fond d'un coin, émettant un murmure sinistre. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous vos pas. La lumière y est faible, filtrant à travers des fentes minuscules dans le plafond. Les murs vieillis montrent des traces de vieilles peintures et des cercles rituels énigmatiques. Des piliers robustes soutiennent le toit, et le sol est parsemé de mobilier ancien, usé par le temps. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans les coins, créant un miroir sombre qui reflète les ombres qui hantent l'endroit. Les têtes de mort et les tentacules évoquent une ancienne et terrifiante histoire. Cette grotte, bien que petite, est un lieu de rituels, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "salle de rituels",
+      "grotte",
+      "rituels",
       "vieillie",
       "sinistre",
-      "creatures mystérieuses",
-      "autel sombre"
+      "champignons"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

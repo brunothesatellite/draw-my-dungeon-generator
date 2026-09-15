@@ -1,13 +1,13 @@
 {
   "149": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Un altar occupe le centre de l'espace. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, humide et recouverte d'une fine couche de mousse. Les murs, ornés de tentacules et de crânes de mort, semblent témoigner d'une ancienne et mystérieuse puissance. Un autel central, sculpté de spirales, attire ton regard. Des colonnes imposantes soutiennent le plafond, tandis que des barils de bois sont disséminés un peu partout, comme si une ancienne cérémonie avait eu lieu ici. Des traces de créatures étranges sillonnent le sol, et un murmure subtil s'échappe des spirales gravées. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère lugubre. Un enchantement se dissipe lentement, révélant un spiral lumineux au centre de l'autel, prêt à se déclencher à tout moment.",
+    "title": "Passage des Spirales",
+    "description": "Le passage des Spirales est un couloir large et rectangulaire, éclairé par la lumière naturelle qui filtre à travers les fissures dans le plafond. La moiteur de l'air y est perceptible, donnant une sensation de fraîcheur à l'air. Les marquages de spirales gravés dans le sol semblent indiquer un chemin ancien et sacré. Les colonnes massives, ornées de motifs sculptés, soutiennent le plafond et ajoutent à l'atmosphère mystérieuse et ancienne du lieu. Des tentacules et des têtes de mort sont suspendus aux murs, rappelant l'ancienne puissance qui a régné ici. Le mobilier, malgré son état délabré, semble avoir été une fois un lieu de culte ou de rituel. Les spirales enchantées qui entourent le couloir sont un danger à ne pas négliger, car elles peuvent attirer les créatures malveillantes. Le passage des Spirales est un lieu sacré, mais aussi dangereux, où les anciens secrets sont toujours prêts à être révélés.",
     "tags": [
-      "sacrée",
-      "ancienne",
-      "mystérieuse",
-      "creatures étranges",
-      "enchantement"
+      "couloir",
+      "sacré",
+      "ancien",
+      "spirales",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

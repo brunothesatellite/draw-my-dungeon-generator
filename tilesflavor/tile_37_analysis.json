@@ -1,12 +1,12 @@
 {
   "37": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière naturelle filtre à travers une fenêtre étroite, révélant une pièce immense et rectangulaire, recouverte d'une épaisse couche de mousse. Les murs, fissurés et humides, sont ornés de pilastres massifs qui soutiennent un plafond voûté. Un grand cercle de pierre, usé par le temps, domine le centre de la pièce, entouré d'un tapis de spirales mystérieuses gravées dans le sol. Un tableau tendu, comme un ancien parchemin, pend sur le mur de droite, tandis qu'un vieux meuble en bois trône au fond. L'air est saturé d'une odeur de terre et d'humidité, et un murmure lointain semble provenir de l'angle nord-ouest. La tension est palpable, comme si la salle gardait un secret ancien et terrible.",
+    "title": "Chambre des Anciens",
+    "description": "La chambre des Anciens est une salle rectangulaire, immense et sombre, éclairée par la faible lumière filtrant à travers un unique fenêtre. Les murs, recouverts de mousse et de végétation, donnent une impression de vie ancienne et mystérieuse. Un grand cercle de pierre, étrangement intact malgré l'humidité, domine le centre de la pièce. Des colonnes majestueuses soutiennent le plafond, et un tapis suspendu aux murs semble être un objet de culte ancien. Un simple table, posée au milieu de la pièce, semble être le seul meuble de cette salle. La mousse qui recouvre le sol forme un motif spiralé, ajoutant à l'atmosphère énigmatique de la pièce. La chambre des Anciens semble avoir été utilisée pour des rituels anciens, et les murs sont ornés de tentes de pierre, peut-être des objets sacrés. La seule issue de cette pièce est une fenêtre étroite, qui semble être la seule lumière et la seule voie de sortie pour ceux qui s'y aventurent.",
     "tags": [
-      "mystère",
       "rituel",
       "ancien",
-      "mystique",
+      "mystère",
+      "salle",
       "mousse"
     ],
     "sourceFeatures": {

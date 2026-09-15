@@ -1,13 +1,13 @@
 {
   "452": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des tented walls couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque tangible, et une odeur de soufre et de mort flotte dans l'air. Devant toi, un bassin rempli d'un liquide noir semble attendre. Les murs, recouverts de tentes de toile, paraissent vibrer sous tes pas. Des spirales mystérieuses marquent le sol, et des colonnes robustes soutiennent le plafond. Au centre, un autel de pierre massive attire ton regard. Des traces de pas, comme ceux d'un animal sauvage, sont gravées dans le sol, suggérant que quelqu'un a récemment visité ce lieu. L'atmosphère est oppressante, et tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre.",
+    "title": "Salle des Rituels Noirs",
+    "description": "La salle est immense, de forme rectangulaire, avec un plafond voûté qui semble s'effondrer peu à peu. La lumière est faible, filtrant à travers des tentes suspendues aux murs, créant un éclairage tamisé et mystérieux. Le sol est marqué de spirales sombres, comme si quelqu'un avait dessiné ces motifs avec un liquide noir. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère sinistre de la pièce. Au centre de la salle se dresse une structure massive en pierre, dont la surface est lisse et lisse, comme si elle avait été sculptée par des mains invisibles. Le liquide noir qui remplit le bassin au fond de la pièce semble vivant, ondulant doucement sous la surface, révélant parfois des reflets de lumières étranges. L'humidité qui imprègne l'air rend la pièce froide et humide, accentuant la sensation de mystère et de danger qui plane dans l'air. Les traces de pas, visibles sur le sol, indiquent que quelqu'un a récemment visité cette salle, peut-être à la recherche d'un rituel ancien.",
     "tags": [
       "rituel",
-      "sacrifice",
+      "salle",
+      "liquide noir",
       "mystère",
-      "soufre",
-      "désert"
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "146": {
-    "title": "La Salle des Anciens",
-    "description": "Tu te retrouves plongé dans un couloir étroit, les murs soudainement s'effondrent en te dévoilant une salle carrée aux murs vieillis. La lumière est faible, presque inexistante, mais tu perçois des ombres qui se dessinent sur les murs. Au centre de la pièce, un autel, entouré de piliers et de colonnes, attire ton regard. Des têtes de mort et des tentacules dépassent des fissures dans les murs, comme si la salle était sous la surveillance d'êtres maléfiques. Des cercles rituels et des glyphes runiques marquent le sol, évoquant des rituels anciens. Le mobilier ancien, usé et poussiéreux, semble avoir été oublié depuis des siècles. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'atmosphère est oppressante, te poussant à chercher un moyen de quitter cette salle. L'eau stagnante au fond de la pièce te rappelle que tu es en présence d'un lieu ancien et maléfique.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir semble s'étirer indéfiniment, ses murs de pierre vieillie se reflétant dans une eau stagnante qui s'accumule au fond. Des cercles rituels et des glyphes runiques sont gravés dans le sol, évoquant des secrets millénaires. Des piliers et des colonnes majestueuses se dressent de partout, ajoutant à l'ambiance mystérieuse et ancienne. Des têtes de mort et des tentacules émergent des murs, rappelant l'existence d'êtres maléfiques enfouis ici. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps. La grille enfouie dans les murs, visible à travers la brume, semble être le point de départ d'un mystère profond. Les faibles lumières qui filtre à travers les fissures des murs éclairent les cercles rituels, révélant leur pouvoir potentiel. Les anciens rituels qui se déroulaient ici semblent avoir laissé des traces indélébiles, et les pièges anciens sont toujours prêts à se déclencher.",
     "tags": [
-      "rituels anciens",
-      "salle de rituels",
+      "couloir",
+      "rituels",
       "têtes de mort",
       "tentacules",
-      "eau stagnante"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

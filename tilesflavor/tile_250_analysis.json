@@ -1,19 +1,13 @@
 {
   "250": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules, attire votre regard. Des cercles rituels gravés dans le sol vous font frémir. Des piliers robustes soutiennent le plafond, tandis que des traces de pas indiquent une présence récente. Le mobilier, usé, parais attendre votre arrivée. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets obscurs. La tension est palpable, chaque bruit résonnant dans cette atmosphère sinistre.",
+    "title": "Siphon avec Pont en Bois",
+    "description": "Au cœur de l'obscurité, un siphon étroit et sinistre se dresse, son eau stagnante reflétant les ombres qui l'entourent. Un pont en bois, usé par le temps, traverse le siphon, offrant un passage à ceux qui osent s'aventurer dans ce lieu lugubre. Les murs, recouverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie macabre. Des cercles rituels gravés au sol indiquent l'ancien emplacement d'un autel, désormais abandonné. Les piliers massifs, sculptés de motifs énigmatiques, soutiennent le pont et ajoutent à l'atmosphère sinistre de la salle. Le mobilier, délabré, semble avoir été la proie des eaux stagnantes. La porte ouverte au fond laisse entrevoir un passage sombre, mais le danger qui y réside est inconnu. Les traces de pas indiquent que quelqu'un a récemment exploré ce lieu, peut-être à la recherche de secrets enfouis dans les ténèbres.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "mobilier",
-      "traces de pas",
-      "eau stagnante",
-      "salle de rituel"
+      "Salle de Rituels",
+      "Siphon",
+      "Pont en Bois",
+      "Ancien Autel",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -43,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Siphon avec pont en bois",
       "tileNumber": 250

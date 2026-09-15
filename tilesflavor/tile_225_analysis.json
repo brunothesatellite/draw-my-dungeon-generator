@@ -1,13 +1,13 @@
 {
   "225": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière pénètre à travers des fenêtres brisées, éclairant les têtes de mort et les tentacules qui semblent avoir griffé les murs. Un autel central, orné de symboles énigmatiques, domine la pièce. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois sombre est placée devant l'autel. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un secret ancien. La tension est palpable, comme si quelque chose attendait dans l'ombre.",
+    "title": "Salle des Rituels",
+    "description": "Tu te trouves dans une petite salle rectangulaire, vieillie et sombre. Les murs sont couverts de cercles rituels, et des piliers massifs soutiennent le plafond. La lumière est faible, filtrant à travers une fenêtre étroite au fond de la pièce. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Une table, ancienne et usée, repose contre un mur. L'atmosphère est sinistre, pesante, comme si la salle avait été utilisée pour des rituels sombres. L'eau stagnante, noire et trouble, remplit une moitié de la pièce, rendant l'endroit dangereux. La salle est dépourvue d'issues, mais l'eau peut être un obstacle à franchir.",
     "tags": [
       "rituel",
-      "sacrifice",
+      "salle",
       "vieillie",
       "sinistre",
-      "salle de culte"
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "407": {
-    "title": "L'Atelier des Ténèbres",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La pièce est petite, rectangulaire, et la lumière y est si faible que tu dois te rapprocher pour distinguer les détails. L'atmosphère est mystérieuse, presque oppressante. Les murs vieillis par le temps sont recouverts de têtes de mort et de tentacules, des images qui semblent sorties d'un vieux dessin. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Au centre, un autel, vieilli lui aussi, attire ton regard. Des barils de vin rouge, un peu usés, sont empilés dans un coin, et des cercles rituels marquent le sol. L'eau stagnante, un peu au fond de la pièce, parais attendre un mouvement. L'odeur de soufre et de vieilles herbes te pique les narines. Tu sens une présence ancienne, bientôt palpable, dans cette salle de culte.",
+    "title": "L'Atelier des Secrets",
+    "description": "Dans l'ombre de cette petite et rectangulaire pièce, l'atmosphère est pesante et mystérieuse. La faible lumière qui filtre à travers les volets usés révèle des cercles rituels gravés au sol, des piliers massifs qui soutiennent le plafond vieilli, et des têtes de mort sculptées dans le mur. Le mobilier, usé et poussiéreux, semble avoir été oublié depuis des décennies. L'eau stagnante, noire et trouble, remplit une partie du sol, ajoutant à l'atmosphère lugubre de l'endroit. À l'entrée, une porte ancienne semble protéger l'entrée de cette salle de culte, où les rituels sont célébrés depuis des temps immémoriaux.",
     "tags": [
-      "vieillie",
-      "mystérieuse",
-      "rituel",
-      "vieille pharmacie",
-      "atmosphère sombre"
+      "Atelier",
+      "Pharmacien",
+      "Salle de Culte",
+      "Mystère",
+      "Ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

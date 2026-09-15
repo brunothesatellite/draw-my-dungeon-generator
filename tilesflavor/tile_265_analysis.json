@@ -1,27 +1,13 @@
 {
   "265": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce rectangulaire et lugubre. Les murs, couverts de taches de verdure, semblent avoir été façonnés par les mains de l'oubli. Des colonnes massives, sculptées de motifs énigmatiques, se dressent de part et d'autre de l'entrée. Devant toi, un autel sombre, orné de tentacules et de crânes, attire ton regard. Des spirales et des lignes mystérieuses marquent le sol, comme si une main ancienne avait tracé son chemin. Des figures fantomatiques, floues et sinistres, se dessinent dans l'air, comme si elles cherchaient à te parler. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond de la pièce. À droite, un baril, ancien et rouillé, parais attendre son heure. À gauche, une porte se tient fermée, mais l'atmosphère de mystère te pousse à y jeter un œil. Des pièges attendent, prêts à s'abattre sur toi. La tension est palpable, et tu sens que cette pièce a des secrets à révéler.",
+    "title": "L'Égout des Sacrifices",
+    "description": "Dans ce couloir étroit et humide, l'air est chargé d'une odeur de mort et de mystère. Les murs, couverts de spirales et de lignes énigmatiques, semblent murmurer des secrets anciens. Des colonnes et des piliers majestueux, ornés de tentacules et de têtes de mort, émergent de la pénombre. Un baril, posé au fond du couloir, semble avoir été oublié depuis des siècles. La lumière naturelle filtre à travers une ouverture dans le mur, révélant un égout qui s'écoule lentement, formant des ruisseaux de lumière qui dansent sur le sol. Des figures fantomatiques, floues et translucides, se déplacent dans l'ombre, ajoutant à l'atmosphère sinistre. À l'extrémité du couloir, une porte massive semble protéger un secret sacré.",
     "tags": [
+      "couloir",
+      "épouvante",
       "sacrifice",
       "mystère",
-      "vieille crypte",
-      "vieille porte",
-      "vieille barrique",
-      "vieille colonne",
-      "vieille spirale",
-      "vieille ligne",
-      "vieille tentacule",
-      "vieille tête",
-      "vieille figure",
-      "vieille porte",
-      "vieille barrique",
-      "vieille colonne",
-      "vieille spirale",
-      "vieille ligne",
-      "vieille tentacule",
-      "vieille tête",
-      "vieille figure"
+      "égout"
     ],
     "sourceFeatures": {
       "roomSize": "large",

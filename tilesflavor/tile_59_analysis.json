@@ -1,18 +1,13 @@
 {
   "59": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais tu perçois immédiatement l'atmosphère ancienne et mystérieuse qui plane dans l'air. La pièce est petite, carrée, et semble avoir été construite il y a des siècles. Les murs, couverts de traces de vieilles peintures et de dessins, paraissent avoir été érodés par le temps. Des piliers et des colonnes robustes soutiennent le plafond, qui est voûté et recouvert de mousse. Au centre de la pièce, un autel est entouré de têtes de mort sculptées et de tentacules qui paraissent sortir du mur. Des cercles rituels et des glyphes runiques sont gravés dans le sol, formant un cercle autour de l'autel. Des barils de bois ancien sont empilés contre le mur, et des pièges sont dissimulés dans les recoins. L'odeur de soufre et de moisi flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui se trouve au fond de la pièce. La tension est palpable, et tu sens que quelque chose de dangereux se cache dans cette salle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Sa petite taille et sa forme carrée donnent l'impression d'être enfermé. La lumière y est faible, filtrant à peine à travers des fissures minuscules dans le plafond. Les murs vieillis sont recouverts de cercles rituels et de glyphes runiques, des symboles mystérieux qui semblent avoir été gravés il y a des siècles. Des piliers et des colonnes robustes soutiennent le passage, ajoutant à son air ancien et sacré. Des traces de mobilier ancien sont encore visibles, témoignant de l'activité passée. L'atmosphère est mystérieuse et ancienne, comme si le passage avait gardé le secret des temps anciens. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le passage des Anciens est une salle de culte ou de rituel, un lieu où les anciens pratiquaient leurs rituels et sacrifiaient pour leur cause.",
     "tags": [
-      "salle de culte",
-      "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "têtes de mort",
-      "tentacules",
-      "glyphes runiques",
-      "pièges",
-      "eau stagnante"
+      "Passage",
+      "Ancien",
+      "Mystère",
+      "Rituel",
+      "Tête de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

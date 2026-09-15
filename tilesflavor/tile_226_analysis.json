@@ -1,13 +1,13 @@
 {
   "226": {
-    "title": "La Salle des Rituels Sacrés",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour, ajoutant à l'atmosphère glauque. Le sol, marqué de cercles rituels et de runes, parais tisser un lien avec le passé. Le mobilier ancien, usé par le temps, est disséminé un peu partout. Des pièges attendent, prêts à s'activer. L'eau stagnante, qui coule lentement, murmure des secrets obscurs. La porte murée, taillée dans le mur, parais être la seule issue. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure de l'eau et les ombres dansantes créent une ambiance menaçante. La tension est palpable, chaque coin de la salle cache un danger potentiel.",
+    "title": "Salle des Trésors Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs sont couverts de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le sol est marqué de cercles rituels et de glyphes runiques, et des traces de mobilier ancien sont visibles, comme si quelqu'un avait essayé de fuir. À l'extrémité de la salle, une porte en fer est murée, avec des têtes de mort sculptées sur les battants. L'atmosphère est oppressante, et l'air est saturé d'une odeur de poussière et de mystère ancien. La salle est laissée à l'abandon, mais elle cache un trésor incroyablement grand et précieux, enfermé derrière la porte en fer murée.",
     "tags": [
-      "rituels",
-      "salle de rituels",
-      "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "Salle",
+      "Trésor",
+      "Rituels",
+      "Ancien",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

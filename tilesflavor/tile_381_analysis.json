@@ -1,13 +1,13 @@
 {
   "381": {
     "title": "Salle Sacrée des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, couverts de têtes de mort et de tentacules, semblent avoir vu des siècles d'obscurité. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de runes, parais inviter à une danse ancienne. Des traces de créature, furtives et anciennes, sillonnent le sol, ajoutant une note de danger. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante, à l'entrée, murmure un secret ancien. La porte murée, à l'extrémité de la pièce, parais garder un secret plus profond. L'atmosphère est oppressante, mais aussi fascinante, comme si la salle était le cœur d'un culte ancien.",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est délabré, ajoutant à l'atmosphère ancienne et mystérieuse de la pièce. Une porte murée se trouve à l'extrémité de la salle, et une eau stagnante s'accumule au sol, créant un danger potentiel. La salle semble avoir été utilisée pour des rituels anciens, et les traces de créatures indiquent qu'elle n'est pas abandonnée depuis longtemps.",
     "tags": [
-      "culte ancien",
-      "salle de culte",
+      "salle sacrée",
+      "rituels anciens",
       "vieillie",
       "mystérieuse",
-      "rituel"
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "414": {
     "title": "Salle d'Échecs Sacrée",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une pièce rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de runes, parais murmurer des secrets anciens. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère sombre. L'eau stagnante, qui coule lentement, résonne d'un murmure menaçant. L'odeur de soufre et de mort flotte dans l'air, accentuant la tension. Tu sens une présence ancienne, prête à révéler ses secrets ou à te piéger.",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels ou des cultes. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère menaçante à l'endroit. Au centre de la pièce, un autel est entouré de cercles rituels et de glyphes runiques, indiquant une ancienne tradition de culte. Des piliers et des statues majestueuses dominent l'espace, tandis que des mobilier ancien est disséminé autour de la pièce. L'eau stagnante dans un coin de la salle ajoute une touche de danger à l'atmosphère mystérieuse et menaçante. Cette salle, bien que petite, semble avoir été le cœur d'une ancienne cérémonie ou d'un rituel important.",
     "tags": [
       "rituel",
+      "culte",
       "échecs",
-      "sombre",
-      "mystère",
-      "vieillie"
+      "salle sacrée",
+      "poussière"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

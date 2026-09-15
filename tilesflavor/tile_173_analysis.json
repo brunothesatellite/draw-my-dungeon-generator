@@ -1,13 +1,13 @@
 {
   "173": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible pénètre à peine, éclairant les murs vieillis et les piliers massifs qui soutiennent le plafond. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre de la pièce, un autel sombre attire l'œil, entouré de statues étranges et de tentacules qui semblent se mouvoir dans l'ombre. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des forces obscures. Des têtes de mort sculptées dans les murs observent les visiteurs, tandis que des barils de vin rouge, oubliés depuis des siècles, se dressent dans un coin. Un squelette, presque intact, repose au fond de la pièce, témoignant de l'ancienneté de ce lieu. L'eau stagnante, noire et putride, coule lentement vers le centre de la salle, créant un murmure sinistre. L'atmosphère est oppressante, et un frisson glacé vous parcourt le dos. La crypte murmure des secrets anciens, prêts à révéler leurs secrets à ceux qui oseront les explorer.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol et les parois. Des cercles rituels et des glyphes runiques sont gravés dans le sol et les murs, semblant ancrés dans la roche. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une atmosphère sinistre à l'endroit. Le sol est marqué de cercles rituels et de glyphes runiques, et un trésor est dissimulé dans un coin, protégé par un coffre en pierre. L'eau stagnante se forme dans un coin, rendant l'endroit dangereux. Les parois sont ornées de têtes de mort et de tentacules, ajoutant une touche macabre à l'endroit. La grotte semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "sinistre",
-      "autel",
-      "têtes de mort"
+      "Grotte",
+      "Salle de Rituel",
+      "Ancien",
+      "Sacrifice",
+      "Champignons"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

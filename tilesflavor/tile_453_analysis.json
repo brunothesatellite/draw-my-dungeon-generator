@@ -1,13 +1,13 @@
 {
   "453": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Un large stone altar occupe le centre de l'espace. La lumière tamisée éclaire un autel de pierre au centre, entouré de tentacules étranges qui semblent se mouvoir d'eux-mêmes. Des spirales mystérieuses marquent le sol, et des barils en bois sont disséminés un peu partout. Un crâne humain, dépourvu de mâchoires, repose sur l'autel, comme témoin de rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau noire et visqueuse remplit le bassin au fond de la pièce. Un murmure lointain parais provenir de l'ombre, ajoutant à l'atmosphère étrange et menaçante. La tension est palpable, et un frisson vous parcourt le dos. Que se cache-t-il vraiment dans cette chambre sacrifie-le ?",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est immense, de forme rectangulaire, avec un plafond bas et humide. La lumière est faible, filtrant à travers des rideaux de toile qui pendent de la voûte. Le sol est marqué de spirales sombres, comme si quelqu'un avait dessiné ces motifs avec un pinceau de sang. Des colonnes massives soutiennent le toit, leurs surfaces lisses et lisses. Des poutres de bois, usées par le temps, sont visibles à travers les ouvertures dans les murs. Le bassin au centre de la pièce est rempli d'un liquide noir, opaque et trouble, qui semble bouillir doucement. Des tentacules émergent de la surface, se déplaçant lentement. Un crâne humain, décapité, repose au fond du bassin, son regard vide fixé vers le ciel. L'atmosphère est oppressante, chargée d'une énergie surnaturelle et mystérieuse. Cette salle est destinée aux sacrifices, un lieu où les rituels les plus sombres sont célébrés.",
     "tags": [
-      "sacrifice",
-      "rituel",
-      "tentacules",
-      "soufre",
-      "mystère"
+      "Salle des Sacrifices",
+      "Salle",
+      "Lieu Sacrifique",
+      "Atmosphère Mysterieuse",
+      "Lieu de Rituels"
     ],
     "sourceFeatures": {
       "roomSize": "large",

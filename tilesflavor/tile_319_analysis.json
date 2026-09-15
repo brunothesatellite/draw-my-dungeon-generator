@@ -1,13 +1,13 @@
 {
   "319": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Un autel occupe le centre de l'espace. Le sol, fissuré et instable, semble s'effondrer sous tes pieds. Un tonneau, usé par le temps, repose près du trou, comme s'il avait été abandonné là depuis des siècles. Les murs, vieillis et rugueux, sont ornés de têtes de mort et de tentacules, comme si l'abîme lui-même s'était emparé de la vie. Des cercles rituels et des glyphes runiques marquent le sol, des symboles qui paraissent avoir été dessinés par des mains longtemps disparues. Des piliers et des statues, vieilles et érodées, gardent le secret de cette salle. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis des temps immémoriaux. Des pièges, invisibles, mais bien présents, attendent les intrus. L'atmosphère est oppressante, un mélange de mystère et de menace qui te pousse à chercher un moyen de quitter cette pièce. L'eau stagnante, noire et trouble, coule lentement, ajoutant à l'ambiance lugubre. Devant toi, un autel, entouré de colonnes, parais être le cœur de ce lieu. Les runes gravées sur le sol paraissent murmurer des secrets obscurs. Tu sens une présence ancienne, une force qui t'observe depuis l'ombre.",
+    "title": "Abîme des Anciens",
+    "description": "Au cœur de l'abîme, un trou s'ouvre dans le sol fissuré, révélant une étendue d'eau stagnante. Un tonneau, usé par le temps, repose près de ce nouveau trou, comme témoin silencieux des secrets enfouis. Les murs de cette petite et irrégulière salle sont vieillis, leurs pierres érodées par les eaux et les siècles. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des pratiques anciennes et mystérieuses. Des piliers et des statues, délabrés, témoignent de l'ancienneté de ce lieu. Le mobilier ancien, usé et délabré, ajoute à l'atmosphère sombre et menaçante de la salle. La faible lumière qui pénètre à travers les fissures du sol éclaire les têtes de mort et les tentacules qui semblent émerger des murs, ajoutant une touche d'horreur à l'ambiance. Cette salle, lieu de rituels ou de culte, semble avoir été abandonnée depuis longtemps, mais les secrets qu'elle cache pourraient encore être révélés.",
     "tags": [
       "abîme",
       "rituels",
-      "ténèbres",
-      "vieillie",
-      "mystère"
+      "têtes de mort",
+      "tentacules",
+      "salle de culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "abîme avec un sol très fissuré formant un nouveau trou. Un tonneau est près du sol fissuré",
       "tileNumber": 319

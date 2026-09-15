@@ -1,13 +1,13 @@
 {
   "297": {
-    "title": "L'Abîme des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La pièce est immense, ses murs irréguliers semblent s'effondrer sous tes pas. La lumière est si faible que tu ne peux distinguer que les silhouettes de tentacules qui flottent dans l'air, comme s'ils cherchaient à te saisir. Le sol est couvert de spirales et de croix, comme si quelqu'un avait tenté de marquer un passage. Les colonnes et les piliers, usés par le temps, paraissent vouloir s'effondrer sur toi. Tu sens une odeur de soufre et de mort qui te pénètre les narines. L'atmosphère est oppressante, comme si l'abîme lui-même respirait. Tu ne sais pas où tu es, ni pourquoi tu es là. Les tentacules tournent autour de toi, cherchant à te toucher. Tu entends un murmure lointain, comme si quelqu'un t'observait depuis l'ombre.",
+    "title": "L'Abîme des Sombres",
+    "description": "Vous vous trouvez au cœur d'un abîme profond et sombre. Les murs de pierre délabrés sont parsemés de tentacules et de têtes de mort, des traces de rituels anciens. Des spirales et des croix gravées dans le sol vous guident vers le centre de cette cavité lugubre. Les colonnes et les piliers, usés par le temps, semblent vouloir vous soutenir, mais leur solide apparence cache des dangers inconnus. L'air est chargé d'une atmosphère malsaine, et vous sentez l'obscurité s'engouffrer dans vos narines. À chaque pas, vous vous sentez plus proche de l'inconnu qui réside au fond de cet abîme.",
     "tags": [
       "abîme",
+      "rituels anciens",
+      "têtes de mort",
       "tentacules",
-      "soufre",
-      "mort",
-      "mystère"
+      "obscurité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

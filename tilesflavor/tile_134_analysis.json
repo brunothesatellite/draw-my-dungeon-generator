@@ -1,13 +1,13 @@
 {
   "134": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière tamisée filtre à travers une fenêtre au fond, révélant une pièce rectangulaire aux murs de pierre brute. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel de pierre sombre, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels gravés dans le sol te font tressaillir. Les piliers massifs, sculptés de motifs anciens, semblent veiller sur la pièce. Un tableau de bois, posé sur une table, parais attendre son destin. La tension est palpable, comme si la salle était le cœur d'un rituel ancien.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et rectangulaire, éclairée par une fenêtre qui laisse filtrer une lumière froide et mystérieuse. Les murs sont recouverts de têtes de mort et de tentacules, symboles de la puissance et de la corruption. Des cercles rituels sont gravés au sol, marquant les limites de l'espace sacré. Des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère sombre et étrange de la pièce. Une table, simple et austère, se trouve au centre de la salle, prête à recevoir les offrandes. La porte en face de vous est une fenêtre, permettant aux initiés de se déplacer discrètement. Les cercles rituels sont un danger potentiel, car ils peuvent être activés par un malveillant. La salle est un lieu de culte, où les adeptes se réunissent pour célébrer les rites et les sacrifices.",
     "tags": [
       "rituel",
+      "culte",
       "sacrifice",
-      "mystère",
-      "vieille salle",
-      "vieille table"
+      "tête de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

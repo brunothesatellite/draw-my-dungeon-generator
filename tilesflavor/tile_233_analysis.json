@@ -1,16 +1,13 @@
 {
   "233": {
     "title": "Salle des Sacrifices",
-    "description": "L'ambiance sinistre pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres voilées éclaire un crâne gravé au-dessus de l'entrée, comme un regard perçant. Le sol est marqué de cercles rituels sombres, et des piliers massifs soutiennent le plafond. Des têtes de mort sont sculptées dans les pierres, tandis que des cercles rituels gravés dans le sol attirent l'œil. Le silence est troublé par un murmure lointain, et l'air est chargé d'une odeur de soufre et de mort. Un frisson vous parcourt alors que vous vous apercevez que des pièges sont dissimulés dans les ombres. La tension monte à mesurer que vous vous approchez du squelette au centre de la pièce, son ossement étincelant sous la faible lumière.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au sol. La faible lumière qui pénètre à travers les fissures dans les murs accentue l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et les têtes de mort sont suspendues aux murs, ajoutant une touche macabre à l'ambiance. Le squelette central, décapité et posé sur une plateforme, semble être le point focal de cette salle, rappelant les sacrifices passés. Les cercles rituels au sol indiquent que cette pièce a été utilisée pour des rituels sombres et sacrifiels. Les piliers et les têtes de mort donnent une impression de vieilles ruines, comme si cette salle avait été abandonnée depuis des siècles.",
     "tags": [
       "rituel",
-      "squelette",
-      "salle de sacrifice",
-      "vieillie",
-      "cercles rituels",
-      "têtes de mort",
-      "pièges",
-      "atmosphère sinistre"
+      "macabre",
+      "sacrifice",
+      "salle",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

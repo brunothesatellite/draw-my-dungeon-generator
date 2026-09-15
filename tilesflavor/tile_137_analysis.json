@@ -1,13 +1,13 @@
 {
   "137": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière faible révèle une pièce carrée, vieillie et sombre. Les murs, couverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône devant l'autel. Des cercles rituels marquent le sol, et un squelette, ancien et décharné, repose près de l'entrée. L'odeur de soufre et de mort flotte dans l'air, et l'eau stagnante, noire et grise, s'écoule lentement du sol. La porte ouverte laisse entrevoir un passage étroit, menaçant. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant un chemin ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un autel central, orné de têtes de mort et de tentacules, semble être le point focal de ce lieu. Une table, ancienne et usée, repose contre un mur, peut-être utilisée pour des rituels obscurs. L'eau stagnante au fond du passage ajoute une touche de danger, et une porte ouverte au bout du couloir semble être le seul moyen de quitter ce lieu sinistre. Les murs sont parsemés de têtes de mort et de tentacules, et l'atmosphère est oppressante, rendant l'endroit propice pour des rituels anciens.",
     "tags": [
-      "rituel ancien",
-      "salle de rituel",
-      "vieillie",
-      "sinistre",
-      "squelette"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

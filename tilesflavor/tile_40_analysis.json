@@ -1,13 +1,13 @@
 {
   "40": {
-    "title": "La Salle des Sombres",
-    "description": "Des têtes de mort couvrent les murs. La lumière naturelle filtre à travers les quatre soleils étranges, dessinés sur le mur. Devant toi, un autel de pierre, entouré de piliers massifs, semble attendre. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été utilisée par des créatures obscures. Des cercles rituels marquent le sol, et une table en bois trône au centre. L'odeur de soufre et de mort flotte dans l'air, et un murmure ancien résonne dans ta tête. À l'ouest, une porte se dessine, mais tu sens une présence malveillante derrière elle. Des pièges anciens attendent ceux qui oseront s'aventurer plus avant.",
+    "title": "Salle des Anciens",
+    "description": "La salle est rectangulaire, mesurant 40x40 pieds, et éclairée par la lumière naturelle qui filtre à travers les fenêtres non visibles. La pièce est en bon état, avec des piliers massifs soutenant le plafond voûté. Au centre de la pièce se dresse un autel, orné de têtes de mort et de tentacules qui semblent jaillir du sol. Sur les murs, des cercles rituels sont gravés, et des soleils étranges, semblables à des dessins magiques, sont dessinés. Un obélisque majestueux domine l'ensemble, évoquant une ancienne civilisation perdue. Une table est placée dans un coin, sans doute pour les rituels. Des pièges anciens sont dissimulés dans les coins de la pièce, prêts à se déclencher à tout moment. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été abandonnée depuis des siècles.",
     "tags": [
-      "salle de culte",
-      "sombre",
-      "mystérieuse",
-      "vieille",
-      "pièges"
+      "Salle",
+      "Ancien",
+      "Rituel",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "40x40",

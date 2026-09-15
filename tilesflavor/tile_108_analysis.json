@@ -1,13 +1,13 @@
 {
   "108": {
-    "title": "La Salle des Rituels",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel central, entouré de piliers massifs, attire ton regard. Les murs sont ornés de têtes de mort et de tentacules, comme si la salle avait été peinte par un artiste ancien. Des cercles rituels marquent le sol, et des barils de bois ancien sont empilés contre le mur. Un squelette, probablement celui d'un ancien prêtre, repose au milieu de tout cela. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain semble provenir de l'eau stagnante qui coule lentement dans un coin. L'atmosphère est sinistre, et tu sens que cette salle a vu des temps sombres et des rituels obscurs.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. La faible lumière qui pénètre à travers les voûtes délavées révèle des piliers massifs qui soutiennent le plafond. Des cercles de tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère sinistre à l'endroit. Des meubles anciens sont empilés dans un coin, et un squelette décharné repose au fond de la pièce. L'eau stagnante au sol indique un danger potentiel. Cette salle est dédiée à des rituels obscurs, et l'araignée dessinée au centre rappelle que la vie est fragile dans ce lieu.",
     "tags": [
-      "rituels",
-      "salle de culte",
-      "squelette",
-      "têtes de mort",
-      "tentacules"
+      "rituel",
+      "salle",
+      "ancien",
+      "sinistre",
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

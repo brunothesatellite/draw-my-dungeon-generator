@@ -1,16 +1,13 @@
 {
   "124": {
     "title": "La Salle des Ténèbres",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs vieillis. Devant toi, un autel rectangulaire, recouvert de têtes de mort et de tentacules qui semblent grimper sur les parois. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Des oiseaux s'envolent brusquement, ajoutant une note de mystère à l'atmosphère déjà glauque. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La porte, à l'extrémité de la pièce, parais fermée, mais pas complètement solide. Tu sens une présence étrange, comme si quelque chose attendait de réagir.",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des têtes de mort et des tentacules étranges grimpent sur les murs, ajoutant une atmosphère de mystère et de danger. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des têtes de mort et des tentacules étranges grimpent sur les murs, ajoutant une atmosphère de mystère et de danger. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle.",
     "tags": [
       "salle de culte",
-      "vieillie",
+      "rituels",
+      "ténèbres",
       "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "eau stagnante",
-      "atmosphère mystérieuse"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

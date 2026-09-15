@@ -1,13 +1,13 @@
 {
   "213": {
-    "title": "La Salle du Sacrifice",
-    "description": "Un autel occupe le centre de l'espace. La lumière, faible et diffuse, se faufile à travers des fissures dans les murs, illuminant des têtes de mort sculptées dans le marbre qui ornent les murs. Des tentacules, comme ceux d'un ancien monstre marin, paraissent s'enrouler autour de l'autel central, un monolithe de pierre noire qui semble aspirer l'air. Des cercles rituels gravés dans le sol, comme des cercles de poussière noire, marquent le sol, tandis que des piliers massifs soutiennent le plafond. Le mobilier ancien, usé et délabré, parais avoir été oublié depuis longtemps. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante, noire et putride, s'accumule dans un coin. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et ronde, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels. Au centre de la pièce, un autel est entouré de cercles rituels dessinés au sol. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, ajoutant à l'ambiance ancienne et sacrée. L'eau stagnante au sol indique un danger potentiel. La présence de dessins de tête de taureau sur le mur rappelle les anciens rituels de sacrifice.",
     "tags": [
       "rituel",
       "sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "ancien",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

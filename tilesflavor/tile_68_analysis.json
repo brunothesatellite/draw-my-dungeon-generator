@@ -1,13 +1,13 @@
 {
   "68": {
-    "title": "Salle des Sacrifices",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort et des tentacules qui semblent jaillir des murs, comme des monstres de la nuit. Au centre, un autel sombre, entouré de cercles rituels qui brillent faiblement. Des piliers massifs soutiennent le plafond, et des barils de bois ancien sont empilés contre le mur de droite. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. Un murmure lointain parais provenir de l'angle sombre, ajoutant à l'atmosphère menaçante. Le seul passage parais menacer de vous piéger dans un piège ancien.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Sa petite taille et sa forme rectangulaire donnent l'impression d'être piégée dans un espace confiné. La faible lumière qui filtre à travers les fissures du plafond éclaire vaguement les murs vieillis, où des têtes de mort et des tentacules émergent de la roche, ajoutant une atmosphère de menace. Des cercles rituels gravés au sol indiquent que ce passage a été utilisé pour des rituels obscurs. Des piliers robustes soutiennent le plafond, tandis que des meubles anciens sont disséminés ici et là, témoignant de l'ancienneté et de l'abandon du lieu. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le passage semble avoir une seule sortie, menant à un autre mystère. La présence de pièges anciens rend ce passage particulièrement dangereux pour les explorateurs non avertis.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystère",
-      "menace"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Désert"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

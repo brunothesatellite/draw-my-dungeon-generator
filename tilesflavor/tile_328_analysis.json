@@ -1,13 +1,13 @@
 {
   "328": {
-    "title": "L'Abîme des Anciens",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière vacille, révélant une salle immense et irrégulière, éclairée par une faible lueur qui semble provenir d'un large ouverture circulaire au centre. Les murs, usés et délabrés, sont recouverts de tentacules et de crânes sculptés, tandis que des spirales mystérieuses marquent le sol. Un tonneau, usé et rouillé, repose près des escaliers qui grimpent dans le mur, comme s'il avait été abandonné là depuis des siècles. Les colonnes brisées, comme des ossements, ajoutent à l'atmosphère lugubre. Des tentacules émergent de l'ombre, tissant un réseau de menaces invisibles. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide s'élève du fond. L'ancien rituel parais avoir laissé des traces indélébiles, et chaque coin de cette salle murmure des secrets obscurs.",
+    "title": "L'Abîme des Escaliers",
+    "description": "Dans l'obscurité qui règne dans cette grotte, tu aperçois un abîme profond. Des escaliers taillés dans le mur grimpent vers le haut, leurs marches sombres et glissantes. Un tonneau, usé par le temps, repose à côté des marches, comme s'il avait été oublié par les anciens. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le large ouverture circulaire au centre de la pièce. Des tentacules noirs, visibles à travers les fissures du plafond, semblent attendre l'occasion de s'abattre sur le visiteur. Les murs sont recouverts de peintures de tentacules et de crânes, rappelant les rituels obscurs qui ont eu lieu ici. La pièce est dilapidée, les colonnes brisées ajoutant à l'atmosphère étrange et menaçante de l'endroit. L'air est chargé d'une odeur de poussière et de mystère ancien.",
     "tags": [
       "abîme",
-      "rituel ancien",
-      "tentacules",
-      "spirales",
-      "soufre"
+      "escaliers",
+      "grotte",
+      "rituel",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

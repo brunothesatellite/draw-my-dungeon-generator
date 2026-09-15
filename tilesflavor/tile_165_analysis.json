@@ -1,13 +1,13 @@
 {
   "165": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels et de runes mystérieuses. Des traces de créature, visibles sur le mobilier ancien, indiquent que quelque chose de sinistre a récemment parcouru cette pièce. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la salle menace de vous engloutir. La tension est palpable, et un murmure lointain parais provenir de l'angle sombre de la pièce.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers une ouverture étroite au sommet, créant un halo de faible éclat qui éclaire les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers robustes soutiennent le plafond, tandis que des traces de créatures mystérieuses sillonnent le sol. Le mobilier ancien, usé par le temps, semble avoir été abandonné ici. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin, reflétant les ombres des parois. La seule issue semble être un passage étroit qui mène à l'inconnu.",
     "tags": [
-      "salle de rituel",
-      "vieillie",
-      "sinistre",
-      "creatures",
-      "mystère"
+      "Grotte",
+      "Champignons",
+      "Rituels",
+      "Ancien",
+      "Sacrés"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

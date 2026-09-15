@@ -1,17 +1,13 @@
 {
   "107": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La faible lumière pénètre à travers des fenêtres brisées, éclairant les têtes de mort et les tentacules qui semblent avoir grimpé des murs. Un autel central, orné de symboles énigmatiques, domine la pièce. Des piliers robustes soutiennent le plafond, tandis qu'une table en bois trône devant l'autel. Un squelette, visiblement ancien, repose au pied de l'autel, comme témoin muet des rituels passés. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure des secrets obscurs. La tension est palpable, chaque détail racontant une histoire de terreur et de mystère.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, une voie étroite qui semble avoir été creusée par les mains des dieux eux-mêmes. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des têtes de mort et des tentacules émergent des ombres, ajoutant une touche d'effrayante réalité à l'atmosphère sinistre. Des piliers massifs soutiennent le plafond, tandis qu'une table ancienne, usée par le temps, se trouve au centre du passage. L'eau stagnante, noire et trouble, s'accumule au fond du passage, formant un mur de glace qui semble vivre. À chaque pas, le sol résonne sous vos pieds, et vous pouvez sentir l'ancienne magie qui plane dans l'air. À l'extrémité du passage, une porte massive semble attendre, menant à un mystère encore plus profond.",
     "tags": [
-      "rituel",
-      "salle de sacrifice",
-      "vieillie",
-      "têtes de mort",
-      "tentacules",
-      "squelette",
-      "rituels obscurs",
-      "atmosphère sinistre",
-      "eau stagnante"
+      "Passage",
+      "Anciens",
+      "Rituels",
+      "Tentacules",
+      "Squelette"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

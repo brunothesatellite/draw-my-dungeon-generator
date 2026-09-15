@@ -1,13 +1,13 @@
 {
   "76": {
-    "title": "La Salle du Culte",
-    "description": "Des têtes de mort couvrent les murs. Le soleil magique dessiné sur le mur éclaire la pièce d'une lumière froide et étrange. Les quatre colonnes, vieillies et usées, semblent soutenir un autel central, où des têtes de mort et des tentacules émergents des murs. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des statues et des piliers ornent les murs. Le mobilier ancien est réparti autour de l'autel, et des traces de créature sont visibles sur le sol. La porte murée à l'arrière de la salle est fermée, et l'eau stagnante s'accumule dans un coin. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été abandonnée depuis des siècles.",
+    "title": "Salle du Soleil Magique",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand doucement à travers les piliers vieillis. Le sol est marqué de cercles rituels et de glyphes runiques, des symboles anciens qui semblent avoir été gravés il y a des siècles. Des statues majestueuses, probablement des divinités ou des anciens guerriers, gardent les coins de la pièce. Le mobilier ancien, usé par le temps, est disposé de manière à respecter les anciennes coutumes. Un autel central, orné d'un soleil magique dessiné, domine la pièce. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'effrayante réalité à l'atmosphère mystérieuse et ancienne de la salle. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger. Cette salle est dédiée à des rituels anciens, et les traces de créatures indiquent qu'elle n'est pas abandonnée depuis longtemps.",
     "tags": [
-      "culte",
-      "vieillie",
-      "mystérieuse",
-      "salle de culte",
-      "vieilles colonnes"
+      "Salle",
+      "Ancienne",
+      "Rituels",
+      "Soleil Magique",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

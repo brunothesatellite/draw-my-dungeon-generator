@@ -1,13 +1,13 @@
 {
   "133": {
-    "title": "Salle des Morts Sacrés",
-    "description": "Des têtes de mort couvrent les murs. La lumière naturelle filtre à travers une fenêtre étroite, révélant une pièce rectangulaire aux murs de pierre brute. Les murs sont ornés de têtes de mort sculptées, et des cercles rituels gravés marquent le sol. Des piliers massifs soutiennent le plafond, et une table en bois sombre occupe le centre de la pièce. L'atmosphère est mystérieuse, presque palpable, comme si la salle avait une vie propre. Tu sens une odeur de terre humide et d'anciennes cérémonies. Le mur de droite semble recouvert d'un tissu noir, et un murmure lointain semble provenir de l'angle opposé. La tension est palpable, et tu te demandes ce qui se cache derrière cette fenêtre.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et rectangulaire, éclairée par la lumière naturelle qui filtre à travers une fenêtre au centre. Les murs sont ornés de têtes de mort, symboles de la mort et de la réincarnation. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Une table, simple et ancienne, occupe un coin de la pièce, peut-être un lieu de réunion ou de méditation. La condition de la salle est bonne, mais l'air y flotte une odeur de poussière et d'ancienneté. Les cercles rituels au sol sont un danger potentiel, car ils pourraient être activés par un malicieux ou un initiateur. La fenêtre est la seule issue de cette salle, offrant une vue sur un paysage lointain, mais aussi un passage potentiel pour les intrus.",
     "tags": [
-      "salle des morts",
-      "rituels",
-      "têtes de mort",
-      "atmosphère mystérieuse",
-      "cercles rituels"
+      "Salle",
+      "Anciens",
+      "Rituels",
+      "Mystérieuse",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

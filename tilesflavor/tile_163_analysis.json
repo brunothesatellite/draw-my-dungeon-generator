@@ -1,13 +1,13 @@
 {
   "163": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Au centre, un autel sombre attire le regard, entouré de cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des barils de bois sont disséminés un peu partout, comme si quelqu'un avait oublié de les enlever. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante se répand lentement sur le sol. La tension est palpable, comme si quelque chose de sinistre se préparait dans cette crypte. Les cercles rituels paraissent attendre un rituel ancien, et les barils pourraient contenir des secrets mortels.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un espace carré. La lumière y est faible, filtrant à travers des fentes minuscules dans le plafond, créant un halo de verdure qui éclaire les champignons qui poussent sur les parois. Des cercles rituels sont gravés dans le sol, marquant un espace central qui semble être le point focal de la grotte. Des piliers robustes soutiennent le plafond, ajoutant à l'ambiance sinistre de la pièce. Des traces de vieillissement sont visibles partout, avec des couches de sédiments et des traces de vieilles peintures murales qui se détachent. Le mobilier, si il y en a, est ancien et usé, ajoutant à l'atmosphère de mystère. L'eau stagnante, noire et trouble, remplit une partie de la grotte, créant un danger potentiel. La grotte semble être un lieu de rituel ancien, avec des têtes de mort et des tentacules peints sur les murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "sinistre",
-      "soufre",
-      "têtes de mort"
+      "Grotte",
+      "Champignons",
+      "Rituel Ancien",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

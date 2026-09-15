@@ -1,13 +1,13 @@
 {
   "63": {
-    "title": "La Crypte des Anciens",
-    "description": "Tu te retrouves plongé dans un espace immense, mais l'irrégularité de la pièce te déstabilise. Les murs, une étrange combinaison de pierres et de briques, sont fissurés et recouverts de taches de rouille. La lumière, si peu, semble filtrer à travers des ombres floues, créant un halo de mystère. Des tentes de toile, usées et déchirées, sont accrochées aux murs, tandis que des crânes humains, sculptés avec une finesse ancienne, paraissent te regarder de leurs orbites vides. Sur le sol, des spirales et des croix gravées dans le ciment, comme si la pierre elle-même avait une mémoire. Des colonnes, érodées par le temps, soutiennent le plafond, tandis que des murs partent en éclats, révélant des structures plus anciennes. Des meubles brisés, des objets indéfinis, paraissent avoir été abandonnés depuis des siècles. Un frisson te parcourt alors que tu perçois une présence fantomatique, comme si les morts vivaient encore ici. L'air est lourd, presque palpable, et une odeur de soufre et de mort flotte dans l'atmosphère. Tu sens une menace latente, comme si quelque chose attendait de réveiller ces secrets enfouis. La crypte murmure des secrets anciens, et tu te demandes si tu as vraiment le courage de les découvrir.",
+    "title": "Chambre des Anciens",
+    "description": "La salle est immense, ses murs irréguliers et déchiquetés semblent avoir été façonnés par les mains de l'oubli. La lumière diffuse et diffuse, filtrée par les éclats de verre cassé, éclaire les spirales et les croix gravées sur le sol. Des colonnes brisées se dressent ici et là, leurs pierres usées par le temps. Des meubles éventrés et des objets mystérieux sont éparpillés partout, témoignant d'une ancienne puissance perdue. Un sentiment de mystère et d'étrangeté plane dans l'air, rendant l'atmosphère oppressante. Des traces de rituels anciens sont gravées sur les murs, et des ombres floues semblent se mouvoir dans les recoins. Les sorties sont inconnues, et les dangers potentiels sont nombreux, avec des pièges et de l'air empoisonné qui pourraient attendre à l'horizon.",
     "tags": [
+      "salle",
+      "rituel",
       "ancien",
       "mystère",
-      "souffle de mort",
-      "rituel",
-      "présence fantomatique"
+      "désolation"
     ],
     "sourceFeatures": {
       "roomSize": "large",

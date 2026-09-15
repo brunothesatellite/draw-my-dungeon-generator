@@ -1,14 +1,13 @@
 {
   "34": {
-    "title": "Le Sanctuaire des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les fenêtres étroites, révélant une pièce immense et rectangulaire, humide et mystérieuse. Les murs, couverts de tentacules sculptés, semblent vivants, se contractant et se dilatant au gré de tes pas. Des colonnes massives soutiennent le plafond, où des glyphes anciens gravés dans le marbre paraissent murmurer des secrets millénaires. Au centre, un autel sombre, orné de tentacules, attire ton regard. Des inscriptions mystérieuses sont gravées sur le sol, formant des motifs complexes. L'odeur de soufre et d'humidité se mêle à l'air, créant une atmosphère glauque. L'eau qui coule du plafond forme des gouttelettes qui tombent sur le sol, ajoutant une tension palpable a l'air. Le sanctuaire parais attendre, prêt à révéler ses secrets ou à les garder pour toujours.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est un couloir large et rectangulaire, éclairé par la lumière naturelle qui filtre à travers les fissures dans le plafond. La moiteur de l'air y est perceptible, et des gouttes d'eau tombent parfois du plafond, ajoutant à l'atmosphère mystérieuse. Les marquages de pierre, des symboles anciens et énigmatiques, sont gravés sur le sol, semblant guider le voyageur vers un but inconnu. Des colonnes massives, sculptées de motifs complexes, soutiennent le plafond, ajoutant une touche de majesté à l'endroit. Un autel, orné de tentacules étranges, se dresse au fond du couloir, évoquant une ancienne cérémonie sacrée. Un simple meuble en bois, une table, semble y avoir été abandonné, laissant un sentiment de solitude et d'abandon. Le passage est silencieux, mais on peut entendre le murmure de l'eau qui coule à l'extérieur, ajoutant une note de mystère à l'atmosphère déjà chargée. Les Anciens qui ont créé ce lieu semblent avoir laissé un message, mais il est perdu dans le temps et les eaux qui coulent sans cesse.",
     "tags": [
-      "sacré",
-      "mystérieux",
-      "tentacules",
-      "glyphes",
-      "humidité",
-      "soufre"
+      "Anciens",
+      "Mystère",
+      "Sacré",
+      "Passage",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

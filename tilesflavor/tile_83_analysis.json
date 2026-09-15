@@ -1,13 +1,13 @@
 {
   "83": {
-    "title": "La Salle des Anciens",
-    "description": "Tu te retrouves dans un espace étroit, presque suffocant, où les murs de pierre te regardent avec un air de dédain. La lumière pénètre à travers une fenêtre étroite, révélant une salle carrée aux murs usés et aux piliers massifs qui semblent vouloir s'effondrer. Au centre, un autel sombre attire ton regard, entouré de tentacules et de têtes de mort qui paraissent attendre leur heure. Des cercles rituels gravés dans le sol te font frémir, tandis que l'odeur de soufre et de mort flotte dans l'air. Tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre. La fenêtre, ta seule issue, parais t'inviter à explorer ce qui se cache derrière elle. L'eau stagnante au fond de la salle murmure un secret ancien, et tu te demandes si tu as vraiment le courage de t'aventurer plus loin.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est petite et carrée, avec des murs usés et des piliers massifs qui soutiennent le plafond voûté. La lumière pénètre à travers une fenêtre étroite, éclairant les cercles rituels gravés au sol. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre et ancienne à la pièce. Un autel central, orné de symboles mystiques, domine la pièce. Une table en bois est placée à l'entrée, prête à être utilisée pour les rituels. L'eau stagnante dans un coin de la salle rend l'endroit dangereux. La seule issue est une fenêtre qui semble être la seule voie pour quitter cette salle sans issue.",
     "tags": [
-      "salle de rituel",
-      "vieille et usée",
-      "sinistre et ancien",
-      "autel",
-      "tentacules"
+      "rituel",
+      "sacrifice",
+      "ancien",
+      "sinistre",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

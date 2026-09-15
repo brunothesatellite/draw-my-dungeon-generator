@@ -1,13 +1,13 @@
 {
   "323": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "L'ambiance sinistre pèse sur la pièce. La lumière s'éteint, laissant place à une obscurité dense qui t'enveloppe. Devant toi, une salle de forme irrégulière, délabrée, semble avoir été abandonnée depuis des siècles. Les murs, couverts de têtes de mort et de tentacules, paraissent évoquer des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, comme si des sacrifices avaient eu lieu ici. Des piliers et une colonne majestueuse se dressent au centre, autour d'un autel qui parais avoir été délaissé. Tu perçois une odeur de soufre et de mort qui te pique les narines. L'eau stagnante, qui coule lentement, parais attendre sa prochaine victime. L'atmosphère est sinistre, presque palpable, comme si l'abîme lui-même respirait. Tu sens une présence étrange, comme si quelque chose t'observait depuis les ténèbres.",
+    "title": "Abîme des Champignons",
+    "description": "Dans l'obscurité qui règne dans cette petite grotte irrégulière, les ombres se dessinent sur le sol délabré. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, sombre et mystérieux, se dresse au centre de la grotte, entouré de champignons étranges qui semblent vivre et pousser dans l'air stagnant. Des traces de créatures étranges sillonnent le sol, ajoutant à l'atmosphère sinistre de ce lieu. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'ensemble. Cette grotte, dédiée à des rituels ou cultes obscurs, est un lieu de culte où les anciens pratiquaient leurs cérémonies les plus sombres.",
     "tags": [
       "abîme",
+      "grotte",
       "rituel",
-      "ténèbres",
-      "soufre",
-      "sacrifice"
+      "champignon",
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

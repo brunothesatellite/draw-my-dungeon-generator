@@ -1,13 +1,13 @@
 {
   "61": {
-    "title": "Le Sanctuaire des Anciens",
-    "description": "Des tentsacles couvrent les murs. Le sol s'ouvre sous tes pieds, révélant un espace immense et rectangulaire, éclairé par la lumière naturelle qui filtre à travers des fissures dans le plafond. Les murs, usés par le temps, sont ornés de tentacules et de crânes de mort, des symboles qui te font frissonner. Au centre de la pièce, un autel majestueux, sculpté de spirales et de croix, attire ton regard. Des colonnes imposantes soutiennent le plafond, tandis qu'un tableau trône sur une table en bois, son contenu mystérieux. Des traces d'oiseau et de fleur marquent le sol, comme si quelque chose avait récemment sillonné ces lieux. La porte à l'extrémité de la pièce semble fermée, mais tu sens une présence étrange qui plane dans l'air. L'odeur de soufre et de vieux papier te pique les narines, ajoutant à l'atmosphère mélancolique et mystérieuse de la salle. Les enchantements qui flottent dans l'air te font sursauter, mais tu sais que tu dois explorer ce sanctuaire si tu veux en apprendre plus.",
+    "title": "Le Couloir des Barils Sacrés",
+    "description": "Le couloir étroit et ancien est recouvert de barils de bois massif, empilés de chaque côté. Les barils, usés par le temps, semblent avoir été disposés avec un certain ordre, comme si un rituel ancien avait été effectué ici. Le sol, couvert de spirales et de croix gravées, émet une lueur naturelle qui éclaire les murs de pierre. Des colonnes et des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de l'endroit. Des tentacules et des têtes de mort sont sculptés dans les pierres des murs, rappelant l'ancienne puissance qui a régné ici. Un grand autel, orné de tentacules, se dresse au fond du couloir, entouré d'un tableau posé sur une table en bois. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. Des enchantements subtils flottent dans l'air, rendant l'endroit plus que simplement mystérieux.",
     "tags": [
-      "sacré",
-      "mystérieux",
-      "ancien",
-      "enchantement",
-      "creatures"
+      "Couloir",
+      "Ancien",
+      "Sacré",
+      "Enchantement",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

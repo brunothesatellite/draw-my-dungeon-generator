@@ -1,13 +1,13 @@
 {
   "31": {
-    "title": "La Chambre des Anciens",
-    "description": "Un unknown occupe le centre de l'espace. La lumière est si faible que tu peux à peine distinguer les murs. La pièce est immense, carrée, et semble avoir été construite il y a des milliers d'années. Les pierres sont usées, comme si elles avaient subi les assauts du temps. Des colonnes massives soutiennent le plafond, et des spirales et des croix gravées dans le sol te regardent avec une froideur déconcertante. Des tentacules et des crânes de mort sont suspendus aux murs, comme des têtes de démon. Tu sens une odeur de soufre et de mort qui te pénètre les narines. L'atmosphère est oppressante, et tu te demandes ce qui se cache derrière les portes closes. La tension est palpable, et tu sais que quelque chose de terrible se cache dans cette pièce.",
+    "title": "Chambre des Anciens",
+    "description": "La chambre est immense, presque carrée, avec un sol recouvert de petits cailloux qui émettent un écho sourd sous vos pas. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air, créant un halo de mystère autour de vous. Les murs, usés par le temps, sont ornés de tentacules et de têtes de mort, des symboles qui semblent avoir été sculptés par des mains d'anciens. Des spirales et des croix gravées dans le sol indiquent un ancien rituel, peut-être perdu au fil des siècles. Des colonnes et des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère de vieilles pierres et de secrets enfouis. Les objets qui se trouvent ici restent un mystère, mais leur présence ajoute une tension palpable à l'air. Les portes de la chambre sont closes, et vous ne savez pas où elles mènent. Les risques potentiels sont nombreux, mais la curiosité vous pousse à explorer ce lieu si ancien et si mystérieux.",
     "tags": [
-      "ritual chamber",
-      "ancient",
-      "mysterious",
-      "dark",
-      "southern"
+      "rituel",
+      "ancien",
+      "mystère",
+      "salle",
+      "cailloux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

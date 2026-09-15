@@ -1,16 +1,13 @@
 {
   "363": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Un altar occupe le centre de l'espace. La lumière tamisée éclaire une pièce immense, rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs énigmatiques, s'élèvent de part et d'autre d'un autel central, où des tentacules et des crânes de morts flottent dans l'air. Des spirales et des lignes mystérieuses marquent le sol, tandis que des objets étranges, insondables, sont disséminés autour. Un murmure subtil, presque imperceptible, semble provenir de l'ombre. La tension est palpable, et tu sens une présence fantomatique qui te scrute. Des pièges enchantés attendent, prêts à s'abattre sur toi. L'atmosphère est oppressante, mais aussi fascinante, comme si la pièce avait gardé un secret millénaire.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre est immense, avec des murs de pierre qui semblent avoir été sculptés par les mains des dieux. Des colonnes massives soutiennent le plafond voûté, et des spirales et des lignes gravées dans le sol évoquent des symboles anciens et mystérieux. La lumière tamisée émane des fenêtres étroites, révélant une ambiance sombre et étrange. Des objets étranges et mystérieux sont disséminés un peu partout, semblant attendre leur révélation. Des tentacules et des têtes de mort ornent les murs, ajoutant à l'atmosphère sinistre. La pièce est dépourvue d'issues, et des pièges enchantés sont prêts à s'activer à la moindre intrusion. La présence d'un esprit fantomatique plane dans l'air, rendant l'atmosphère encore plus oppressante. Cette chambre sacrée, ancienne et mystérieuse, semble avoir été le lieu de rituels et de sacrifices, maintenant abandonnée et oubliée.",
     "tags": [
-      "salle sacrée",
-      "tentacules",
-      "crânes de mort",
-      "colonne",
-      "spirale",
-      "mystère",
-      "pièges",
-      "atmosphère étrange"
+      "salle",
+      "ancienne",
+      "rituel",
+      "sacrifice",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "9": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, un autel massif, taillé dans une pierre ancienne, attire ton regard. Des tentacules et des crânes de mort ornent les murs, tandis que des spirales et des croix marquent le sol. Les colonnes massives et les piliers robustes donnent à la pièce une impression de grandeur et de mystère. Des runes et des cercles rituels sont gravés sur les murs, et des traces de créatures anciennes sont visibles sur le sol. L'air est lourd, et une odeur de soufre flotte dans l'atmosphère étrange et étrange. Tu sens une présence ancienne et malveillante qui plane dans l'air. Le mur de droite semble vibrer, et tu entends un murmure lointain qui semble provenir de l'autel.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, presque carrée, avec des murs qui semblent avoir été sculptés par les mains des dieux eux-mêmes. La lumière y pénètre à peine, éclairant les spirales et les croix gravées dans le sol. Des colonnes majestueuses soutiennent le plafond, tandis que des piliers ornés de runes émergent de l'ancienne pierre. Des cercles rituels sont gravés dans le sol, et des runes mystérieuses sont inscrites sur les murs. Des tentacules et des têtes de mort sont suspendues aux murs, ajoutant une touche d'horreur à l'atmosphère déjà étrange. La salle est silencieuse, mais on peut sentir une présence ancienne et malveillante qui plane dans l'air. Les tonneaux, alignés le long du mur, semblent avoir été oubliés depuis des siècles. La seule entrée est étroite, et on ne peut pas voir à l'extérieur. Les anciens trappes et les sorts enchantés sont prêts à se déclencher à tout moment, rendant la salle un lieu de peur et de mystère.",
     "tags": [
-      "salle sacrée",
+      "salle",
       "ancien",
-      "mystère",
-      "creatures anciennes",
-      "odeur de soufre"
+      "rituel",
+      "tête de mort",
+      "tentacule"
     ],
     "sourceFeatures": {
       "roomSize": "large",

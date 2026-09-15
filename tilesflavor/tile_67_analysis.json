@@ -1,13 +1,13 @@
 {
   "67": {
-    "title": "La Salle des Anciens",
-    "description": "Un autel ou mobilier occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs, vieillis et fissurés. L'air est lourd, chargé d'une odeur de soufre et de mort. Devant toi, un autel en pierre, usé par le temps, semble être le point central de cette pièce. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le marbre, ajoutant une note de terreur à l'atmosphère. Des cercles rituels et des glyphes runiques sont gravés dans le sol, comme si la salle avait été utilisée pour des rituels obscurs. Les piliers et colonnes, robustes et vieillies, soutiennent le plafond qui parais prêt à s'effondrer. L'eau stagnante, noire et malsaine, coule lentement le long du mur, créant un murmure sinistre. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinueux, comme s'il avait été sculpté par les mains des dieux. Ses murs, couverts de peintures rupestres et de symboles mystiques, semblent raconter des histoires millénaires. La lumière y est faible, filtrant à travers des fissures minuscules, créant un éclairage tamisé qui met en valeur les ombres et les reflets des pierres vieillies. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant le passage de l'ancien culte qui y a vécu. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, dépourvu de tout objet, semble être le point central de ce lieu, témoin silencieux des rituels passés. L'eau stagnante, noire et trouble, s'accumule dans les coins, ajoutant une touche de mystère à l'atmosphère déjà ancienne et mystérieuse. Seul un passage étroit permet de continuer, menant à l'inconnu.",
     "tags": [
+      "couloir",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "tension"
+      "ancien",
+      "mystère",
+      "vieillissement"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

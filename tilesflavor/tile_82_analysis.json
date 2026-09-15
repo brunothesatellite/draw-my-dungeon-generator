@@ -1,13 +1,13 @@
 {
   "82": {
-    "title": "La Crypte des Anciens",
-    "description": "Un large circular object occupe le centre de l'espace. La lumière vacillante révèle une salle immense, aux murs irréguliers et aux plafonds bas. La dilapidation est palpable, les pierres usées et les murs fissurés. Au centre, un grand cercle de pierre semble émettre un écho sourd. Des tentes de toile sont accrochées aux murs, et des spirales mystérieuses marquent le sol. Un croisillon de pierre se dresse au milieu, comme un autel ancien. L'odeur de moisi et de poussière flotte dans l'air, et un murmure lointain parais provenir de l'ombre. La tension est palpable, et tu sens que quelque chose de glaçant se cache dans l'air.",
+    "title": "Le Couloir des Boîtes",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs irréguliers et décrépits témoignant de l'âge et de l'abandon. La lumière tamisée émane des torches anciennes qui se balancent au bout de cordes, créant des ombres danseuses sur les parois. Des spirales mystérieuses gravées dans le sol semblent guider le chemin, mais leur signification reste un mystère. Un grand cercle, étrangement intact malgré le désordre général, attire l'œil, semblant être le point focal de ce passage. Des tentes de toile sont accrochées aux murs, comme si quelqu'un avait cherché refuge ici. Les croix sculptées dans le plafond ajoutent une touche de mystère à l'atmosphère déjà étrange. Les boîtes, de toutes tailles et formes, sont empilées ici et là, certaines ouvertes révélant des objets étranges et mystérieux. Le couloir semble se perdre dans l'inconnu, chaque pas menant à de nouvelles découvertes et dangers potentiels.",
     "tags": [
-      "mystère",
-      "rituel",
-      "ancien",
-      "dilapidé",
-      "spirale"
+      "Couloir",
+      "Mystère",
+      "Anciennes Boîtes",
+      "Rituels",
+      "Désordre"
     ],
     "sourceFeatures": {
       "roomSize": "large",

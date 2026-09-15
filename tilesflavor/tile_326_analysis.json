@@ -1,16 +1,13 @@
 {
   "326": {
     "title": "L'Abîme des Tentacules",
-    "description": "Un autel occupe le centre de l'espace. La pièce est petite, mais l'irrégularité de ses murs te donne l'impression de se perdre dans un labyrinthe. La lumière est faible, comme si la noirceur même de l'abîme tentait de te consumer. Les murs vieillis, érodés par le temps, semblent murmurer des secrets obscurs. Un autel central, usé par les siècles, attire ton regard. Des têtes de mort, sculptées avec une précision macabre, sont suspendues aux murs, tandis que des tentacules sortent de la noirceur, paraissant tenter de te saisir. Des cercles rituels gravés dans le sol te font frémir, et des piliers robustes soutiennent le plafond, comme des gardiens silencieux. L'œil, un œil de créature ancienne, te scrute de son regard perçant. L'humidité est lourde, et une odeur de soufre et de mort flotte dans l'air. L'eau stagnante, noire et trouble, s'écoule lentement vers le centre de la pièce, formant un cercle sombre qui parais t'attirer. L'atmosphère est sinistre, et tu sens une menace latente qui plane dans l'air. Le mur de droite parais vibrer, et tu entends un murmure lointain qui résonne dans ta tête.",
+    "description": "Au cœur de l'obscurité, un abîme circulaire se découvre, ses parois noires et lisses semblant avaler tout ce qui s'approche. Deux tentacules, noirs et sinistres, émergent de la noirceur, se balançant d'un air menaçant. La lumière est si faible que seules les silhouettes des tentacules sont visibles, projetant des ombres danseuses sur les parois. Des cercles rituels, usés par le temps, marquent le sol, semblant inviter à une danse macabre. Des piliers, usés et décrépits, soutiennent la structure, leurs surfaces lisses et glissantes. L'atmosphère est sinistre, pesante, comme si l'abîme était le berceau d'une force maléfique. Les tentacules semblent attendre, prêts à s'enrouler autour de tout être qui ose approcher. L'abîme est une salle de rituel, un lieu où les anciens pratiquaient des sacrifices et des cérémonies sombres. Les têtes de mort, éparpillées ici et là, semblent témoigner de l'horreur qui y réside. L'eau stagnante, noire et putride, coule lentement au fond de l'abîme, ajoutant à l'atmosphère lugubre. L'œil, un objet mystérieux, semble observer tout ce qui se passe, prêts à réagir à la moindre intrusion.",
     "tags": [
       "abîme",
       "tentacules",
-      "rituel",
-      "vieillie",
-      "sinistre",
-      "creatures",
-      "soufre",
-      "mystère"
+      "rituel sombre",
+      "salle de sacrifice",
+      "atmosphère sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

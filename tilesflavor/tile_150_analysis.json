@@ -1,17 +1,13 @@
 {
   "150": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière est faible, presque inexistante, mais tu perçois une atmosphère mystérieuse et ancienne qui te pèse sur les épaules. Les murs, vieillis et fissurés, sont recouverts de têtes de mort et de tentacules, comme si la salle avait été le théâtre de rituels obscurs. Un autel central, entouré de cercles rituels, semble attendre les fidèles. Des piliers robustes soutiennent le plafond, et un oiseau, peut-être un corbeau, plane au-dessus de la table avec inscription ISO, comme s'il avait été piégé là depuis longtemps. L'odeur de soufre et de moisi flotte dans l'air, et tu sens une présence ancienne qui t'observe. L'eau stagnante au fond de la salle crache un murmure sinistre. La tension est palpable, et tu te demandes ce qui s'est passé ici, il y a si longtemps.",
+    "title": "Salle des Anciens",
+    "description": "La petite salle rectangulaire est plongée dans une ambiance mystérieuse et ancienne. La faible lumière qui filtre à travers les voiles déchirés éclaire les murs vieillis, où des têtes de mort et des tentacules émergent des fissures. Des cercles rituels gravés dans le sol attirent votre regard, tandis que des piliers robustes soutiennent le plafond. Une table avec une inscription ISO est posée au centre, mais elle semble être un objet étranger dans ce lieu. Un champignon étrange pousse dans un coin, et un trou dans le sol semble vous inviter à explorer plus avant. L'eau stagnante dans un coin de la salle vous rappelle l'ancienneté et la magie qui réside ici. L'atmosphère est pesante, comme si les âmes des anciens observaient encore ce lieu.",
     "tags": [
+      "salle",
       "rituel",
-      "salle de culte",
+      "mystère",
       "vieillie",
-      "mystérieuse",
-      "ancienne",
-      "odeur de soufre",
-      "piliers",
-      "autel",
-      "tentacules"
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

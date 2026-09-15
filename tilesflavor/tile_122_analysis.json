@@ -1,13 +1,13 @@
 {
   "122": {
-    "title": "La Salle des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière est faible, mais tu perçois immédiatement l'atmosphère mystérieuse et ancienne qui plane dans l'air. Les murs, usés et couverts de taches, semblent raconter des siècles d'histoire. Un autel central, orné de tentacules et de têtes de mort, attire ton regard. Des cercles rituels gravés dans le sol te font tiquer. Des piliers robustes soutiennent le plafond, tandis que des barils de bois ancien sont disséminés un peu partout. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher. L'eau stagnante, qui coule lentement, ajoute une note de menace à l'ambiance. Devant toi, un seul passage parais mener à l'extérieur, bloqué par des pierres. L'odeur de soufre et de vieux papier te pique les narines. Tu sens une présence ancienne, presque palpable, qui te scrute.",
+    "title": "Salle des Anciens",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques qui pourraient avoir habité ces lieux. Des cercles rituels marquent le sol, tandis que des piliers robustes soutiennent le plafond. Un mobilier ancien, usé par le temps, est dissimulé dans un coin, et un coffre en bois, fermé par une grille carrée, est placé au centre de la pièce. La seule sortie, bloquée par des pierres, semble être la seule issue de cette salle, ajoutant à l'atmosphère mystérieuse et ancienne qui règne ici. L'eau stagnante au fond de la pièce ajoute une touche de danger supplémentaire à cette ancienne salle de rituels.",
     "tags": [
-      "rituel",
-      "ancien",
-      "mystère",
-      "pilier",
-      "tête de mort"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Mystérieuse",
+      "Ancienne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

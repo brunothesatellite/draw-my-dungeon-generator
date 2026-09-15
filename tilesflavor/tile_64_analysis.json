@@ -1,13 +1,13 @@
 {
   "64": {
-    "title": "La Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière filtre à peine à travers les voiles de poussière qui flottent dans l'air, créant des éclairs de lumière qui danse sur les murs vieillis. Devant toi, un autel rectangulaire, recouvert de têtes de mort et de tentacules qui semblent jaillir du sol. Des cercles rituels et des glyphes runiques gravés dans le sol te regardent, comme s'ils attendaient un rituel ancien. Les piliers et les statues, usés par le temps, paraissent garder des secrets millénaires. Le mobilier ancien, délabré, ajoute à l'atmosphère sinistre de la pièce. Des traces de créatures, comme des pattes d'animaux ou des griffes, marquent le sol, comme si quelque chose avait récemment parcouru ces murs. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure un mystère ancien. La tension est palpable, comme si quelque chose allait se déclencher à tout moment.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière. Des cercles rituels et des glyphes runiques sont gravés dans le sol, entourant un autel central. Des statues et des piliers ornent les murs, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre. Des cercles rituels et des glyphes runiques marquent le sol, et des piliers et des statues ornent les murs. Des traces de créatures sont visibles sur le sol, et une eau stagnante menace les coins de la salle. La salle semble être un lieu de rituels anciens, avec des objets et des meubles anciens dispersés un peu partout. Les murs sont recouverts de têtes de mort et de tentacules, et l'atmosphère est sinistre et oppressante.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "sombre",
-      "creatures",
-      "ancien"
+      "Salle",
+      "Anciens",
+      "Rituels",
+      "Têtes de Mort",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

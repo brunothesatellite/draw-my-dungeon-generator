@@ -1,24 +1,19 @@
 {
   "271": {
-    "title": "La Crypte Sacrée",
-    "description": "Des tentsacles couvrent les murs. La lumière vacillante révèle une salle rectangulaire, immense et délabrée. Les murs, fissurés et recouverts de taches de moisissure, semblent murmurer des secrets millénaires. Un escalier d'escalade grimpe vers le plafond, tandis qu'un tuyau sort du mur, comme s'il voulait échapper à l'obscurité qui l'enveloppe. Au centre de la pièce, un autel, orné de tentacules et de crânes, parais inviter les mortels à un culte ancien. Des spirales gravées dans le sol attirent ton regard, tandis que des colonnes majestueuses soutiennent le plafond. Un coffre en bois, fermé par une serrure ancienne, repose contre le mur, son contenu mystérieux. Des apparitions fantomatiques flottent dans l'air, ajoutant une note d'étrangeté à l'atmosphère malsaine. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure lointain d'un murmurer ancien résonne dans les murs. Un Archiac se trouve à l'extrémité de la pièce, menant à un autre passage. Des pièges attendent ceux qui oseront approcher de près.",
+    "title": "Escalier d'Escalade dans l'Égout",
+    "description": "Tu te retrouves dans un égout sombre et dilapidé, où les murs sont recouverts de spirales énigmatiques. Des colonnes et des piliers anciens se dressent à intervalles réguliers, évoquant un passé oublié. Un tuyau étrange sort du mur, semblant émettre un bruit métallique. L'air est chargé d'une odeur nauséabonde, et des ombres flottent dans l'obscurité, te faisant frissonner. À ton pied, un escalier d'escalade grimpe vers le haut, taissant une pente raide. À l'extrémité de l'égout, un archway te permet de sortir de ce lieu lugubre.",
     "tags": [
-      "sacré",
-      "ancien",
-      "mystère",
-      "fantôme",
-      "mystique"
+      "égoût",
+      "escalier",
+      "tuyau",
+      "spirales",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "large",
       "roomShape": "rectangular",
       "lighting": "dim",
       "condition": "dilapidated",
-      "centralFeature": "altar",
-      "wallDecorations": [
-        "tentsacles",
-        "heads of death"
-      ],
       "floorMarkings": [
         "spirals"
       ],
@@ -28,9 +23,6 @@
       ],
       "objectsOrFurniture": [
         "chest"
-      ],
-      "creaturesOrTraces": [
-        "ghostly apparitions"
       ],
       "exits": [
         "archway"

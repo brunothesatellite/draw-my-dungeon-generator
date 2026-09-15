@@ -1,18 +1,13 @@
 {
   "194": {
-    "title": "La Crypte des Anciens",
-    "description": "Quand tu pénètres dans la crypte, un frisson te parcourt. Le sol s'ouvre sous tes pieds, révélant un escalier descendant dans l'obscurité. La lumière est faible, mais tu perçois des ombres qui t'observent depuis les murs vieillis. Des têtes de mort et des tentacules décorent les murs, et des cercles rituels marquent le sol. Des piliers majestueux soutiennent le plafond, et des piliers anciens sont disséminés dans la salle. L'odeur de soufre et de mort flotte dans l'air, et un murmure étrange résonne dans les colonnes. L'autel au centre semble attendre un sacrifice. Des pièges anciens sont dissimulés dans les recoins, et une eau stagnante menace de vous submerger. La porte murée à l'entrée est fermée, mais tu sens une présence menaçante derrière elle.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et vieillies par les siècles. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère déjà menaçante. Le passage descend en escalier, menant à une salle plus sombre et mystérieuse. Des traces de pièges anciens sont encore visibles, et l'eau stagnante au fond de l'escalier est un danger à ne pas sous-estimer. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'ambiance lugubre de ce lieu. La porte murée au fond semble être le seul moyen de quitter ce passage, mais elle est fermée et verrouillée. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les anciens rituels qui ont eu lieu ici.",
     "tags": [
-      "escalier",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "odeur de soufre",
-      "murmure",
-      "pièges anciens",
-      "eau stagnante",
-      "porte murée"
+      "Passage",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Menace"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

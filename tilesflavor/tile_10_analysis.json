@@ -1,13 +1,13 @@
 {
   "10": {
-    "title": "La Chambre Sacrificielle",
-    "description": "L'ambiance mysterious pèse sur la pièce. L'humidité pèse lourdement dans l'air, et un vague parfum de soufre flotte dans l'atmosphère mystérieuse. Devant toi, un autel central, entouré de tentacules étranges qui semblent vouloir te saisir. Des spirales et des croix gravées dans le sol te regardent, tandis que des colonnes imposantes soutiennent le plafond. Un coffre en bois, fermé à clé, repose contre le mur, et des ossements dispersés témoignent de sacrifices passés. Un mur, caché derrière un rideau de tissu, cache une porte secrète. Le sol est glissant, et un murmure lointain parais provenir de l'ombre. La tension est palpable, et tu sens que quelque chose de terrible se cache dans cette pièce.",
+    "title": "Passage Sacratoire",
+    "description": "Le passage sacratoire est large et rectangulaire, éclairé par une faible lumière qui se répand dans l'air humide. Des motifs de spirales et de lignes croisées marquent le sol, semblant guider le regard vers le centre. Les murs, couverts d'un tissu de tentacules, semblent vivants et ondulent légèrement. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère mystérieuse. Un coffre en bois, fermé et ancien, repose contre un mur, tandis que des ossements dispersés témoignent de sacrifices passés. Un passage secret, dissimulé par un rideau de toile, se trouve à l'extrémité du couloir, menant à une salle plus sombre. Le sol est glissant, rendant chaque pas un défi. Cette chambre sacrée est le cœur d'un rituel ancien, où les morts sont sacrifiés pour l'ascension des vivants.",
     "tags": [
       "sacrifice",
+      "rituel",
+      "couloir",
       "mystère",
-      "tentacules",
-      "colonne",
-      "soufre"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

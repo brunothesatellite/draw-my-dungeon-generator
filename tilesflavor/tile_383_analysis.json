@@ -1,13 +1,13 @@
 {
   "383": {
-    "title": "La Chambre Sacrée des Anciens",
-    "description": "L'ambiance mysterious and eerie pèse sur la pièce. La lumière d'Emma, révélant une pièce rectangulaire immense, aux murs couverts de tentacules et de crânes de mort. Des spirales et des glyphes gravés dans le sol semblent murmurer des secrets millénaires. Les colonnes massives et les piliers sculptés de figures étranges évoquent une époque longtemps oubliée. Au centre, un autel, orné de mobilier ancien, parais être le cœur de ce sanctuaire. Les odeurs de soufre et de mort flottent dans l'air, tandis que des traces de créatures évoluant autrefois dans cette pièce s'inscrivent dans le sable. La tension est palpable, comme si quelque chose de maléfique attendait dans les ombres.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "Vous entrez dans une salle immense, aux murs couverts de spirales et de glyphes anciens. La lumière tamisée émane des colonnes massives qui soutiennent le plafond voûté. Des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère sinistre à l'endroit. Le sol est marqué de spirales et de symboles mystérieux, semblant guider le regard vers un autel central. Des traces de créatures anciennes sont visibles sur les parois, témoignant de l'ancienneté et de la puissance de ce lieu. La chambre est entourée de colonnes et de pilastres, créant un espace majestueux et sacré. Tout autour, le mobilier ancien est dissimulé, prêt à être découvert. Les anciens secrets de ce lieu sont à portée de main, mais les dangers potentiels sont nombreux. Les enchantements et les pièges anciens sont prêts à vous accueillir si vous osez approcher.",
     "tags": [
-      "salle sacrée",
+      "salle",
       "ancien",
-      "creatures étranges",
-      "soufre",
-      "mystère"
+      "sacré",
+      "mystère",
+      "creatures anciennes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "158": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent avoir vu des temps obscurs. Un autel central, entouré de cercles rituels, attire ton regard. Des piliers robustes soutiennent le plafond, tandis que des barils de bois sont dissimulés dans les recoins. Un chien errant, la fourrure sale et les yeux vides, parais t'observer avec méfiance. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de te piéger. La porte, fermée, parais prête à s'ouvrir sur l'inconnu.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine, éclairant de faibles cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des cercles de pierre semblent avoir été utilisés pour des rituels anciens. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules sculptés ornent les murs, ajoutant une atmosphère de mystère et de danger. Des champignons émergent de la roche, leur couleur changeant selon les lueurs qui filtrent à travers les fissures. Le mobilier, vieilli, semble avoir été abandonné depuis longtemps, ajoutant à l'ambiance de décrépitude. À l'entrée, une porte ancienne semble protéger l'accès à cette grotte sacrée. L'eau stagnante au fond de la grotte est un danger à ne pas négliger.",
     "tags": [
-      "salle de culte",
-      "vieillie",
-      "mystérieuse",
-      "autel central",
-      "têtes de mort"
+      "Grotte",
+      "Salle de Culte",
+      "Champignons",
+      "Anciens Rituels",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

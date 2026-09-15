@@ -1,13 +1,13 @@
 {
   "157": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La lumière faible pénètre à peine, éclairant les murs couverts de têtes de mort et de tentacules qui semblent jaillir du néant. Un autel central, orné de cercles rituels et de glyphes runiques, attire immédiatement l'attention. Des piliers et des statues de pierre gardent le secret de cette ancienne salle de culte. Le sol est marqué de cercles rituels et de runes mystérieuses, tandis que des traces de créatures évoquent l'activité passée. L'odeur de soufre et de moisi flotte dans l'air, ajoutant à l'atmosphère menaçante. Un murmure lointain parais provenir de l'ombre, comme si quelque chose attendait dans l'obscurité.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons de toutes les couleurs. La lumière y est faible, filtrant à travers des couches de sédiments et de végétation. Les murs vieillis montrent des cercles rituels et des glyphes runiques, des traces de piliers et de statues qui semblent avoir été détruites par le temps. Des cercles de lumière émergent parfois, révélant des têtes de mort et des tentacules qui semblent sortir du sol. Le mobilier ancien est disséminé un peu partout, ajoutant à l'atmosphère mystérieuse et menaçante de la grotte. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La grotte est une salle de rituels ou de culte, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "rituel",
-      "salle de culte",
-      "mystère",
-      "vieillie",
-      "ancien"
+      "Grotte",
+      "Champignons",
+      "Rituels",
+      "Anciens",
+      "Mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

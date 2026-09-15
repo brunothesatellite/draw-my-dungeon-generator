@@ -1,13 +1,13 @@
 {
   "235": {
     "title": "Salle des Anciens",
-    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une humidité stagnante. Devant toi, une salle irrégulière, aux murs vieillis et aux piliers robustes. L'atmosphère est oppressante, comme si la pierre elle-même respirait l'histoire de milliers d'années. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, semble attendre un rituel ancien. Des tentacules, comme ceux d'un monstre marin, sont gravés dans le mur, tandis que des têtes de mort, sculptées avec une précision macabre, paraissent te regarder de tous les côtés. Le sol est marqué de cercles rituels et de runes, comme si la salle avait été utilisée pour des cérémonies sombres. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. Des pièges anciens, invisibles, mais bien présents, attendent les intrus. L'eau stagnante, noire et trouble, coule lentement au fond de la salle, ajoutant une note de menace à l'atmosphère déjà lugubre. La tension est palpable, chaque coin de la salle parais cacher un danger. La source de vérité révèle que cette salle était utilisée pour des rituels sombres, peut-être même pour invoquer des forces obscures.",
+    "description": "Cette salle ouverte, de taille petite et de forme irrégulière, évoque une ancienne salle de rituels. La faible lumière qui y pénètre accentue l'atmosphère mystérieuse et ancienne qui plane dans cette pièce. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels et sacrifices. Des cercles rituels et des glyphes runiques marquent le sol, indiquant l'importance de ce lieu pour les anciens. Des piliers et des colonnes majestueuses soutiennent le plafond, ajoutant à l'ambiance de grandeur et de mystère. Des meubles anciens sont disséminés dans la pièce, témoignant de l'ancienneté et de l'importance de ce lieu. L'eau stagnante qui s'est formée dans un coin de la salle ajoute une touche de danger à cette atmosphère déjà sombre et ancienne. Les traces de pièges anciens sont encore visibles, prouvant que ce lieu a été un lieu de sacrifice et de rituel pour les anciens.",
     "tags": [
-      "rituels sombres",
-      "salle de rituels",
-      "ancien",
-      "tensions",
-      "mystère"
+      "Salle",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Ancienneté"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

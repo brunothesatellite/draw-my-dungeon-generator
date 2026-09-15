@@ -1,14 +1,13 @@
 {
   "130": {
-    "title": "Le Sanctuaire des Anciens",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, aux murs couverts d'une patine ancienne. Les colonnes massives, sculptées de motifs archaïques, semblent soutenir un plafond qui semble s'effondrer peu à peu. Au centre, un autel, orné de tentes et de crânes, attire ton regard. Des cercles rituels et des glyphes mystérieux marquent le sol, comme si la pièce avait été utilisée pour des cérémonies sacrées. L'odeur de poussière et de mystère flotte dans l'air, tandis que le murmure lointain d'eau froide résonne dans les recoins. Tu sens une présence ancienne, presque palpable, qui te pousse à avancer avec prudence. Les colonnes paraissent vibrer légèrement, comme si elles étaient en train de s'effondrer. Tu es seul, et la tension est palpable. Que feras-tu ?",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle ouverte est immense, son plan rectangulaire s'étend sous vos yeux comme une toile ancienne. La lumière naturelle filtre à travers les fissures du plafond, éclairant les murs couverts de sculptures et de symboles anciens. Des colonnes massives soutiennent le toit, tandis que des pilastres ornés de motifs complexes se dressent à intervalles réguliers. Des cercles rituels et des glyphes mystérieux marquent le sol, semblant guider le regard vers un point central. Un grand autel, orné de tentes et de crânes, domine la pièce, évoquant une ancienne cérémonie sacrée. Des tables sont disposées ici et là, peut-être pour des rituels ou des sacrifices. La salle est silencieuse, mais l'atmosphère est pesante, comme si les âmes des anciens observaient encore de ce lieu sacré. Les anciens secrets de cette salle ouverte vous attendent, prêts à révéler leurs mystères s'il vous faut les découvrir.",
     "tags": [
-      "salle sacrée",
-      "ancien",
-      "rituel",
-      "mystère",
-      "colonne",
-      "autel"
+      "Salle Sacrée",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

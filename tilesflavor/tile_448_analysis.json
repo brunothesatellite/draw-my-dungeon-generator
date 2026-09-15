@@ -1,13 +1,13 @@
 {
   "448": {
-    "title": "Salle des Anciens Rituels",
-    "description": "Des têtes de mort couvrent les murs. La lumière pénètre à peine, éclairant les murs vieillis par le temps. Des têtes de mort et des tentacules peints sur les murs semblent observer les intrus, tandis que des cercles rituels marquent le sol. Des piliers robustes soutiennent le plafond, et des poutres de bois ancien reposent sur des meubles usés. Un squelette, presque intact, repose au milieu de la pièce, son crâne dégoulinant de sang séché. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la salle murmure un secret ancien. La tension est palpable, comme si la salle attendait une cérémonie rituelle.",
+    "title": "Passage sous le Couloir des Anciens",
+    "description": "Le passage sous le couloir des Anciens est étroit et bas, éclairé par une faible lumière qui filtre à travers des fissures dans le plafond. Les murs, usés et couverts de mousse, sont ornés de têtes de mort et de tentacules qui semblent avoir été sculptés dans le roc. Des cercles rituels sont gravés au sol, marquant un passage ancien et sacré. Des piliers massifs soutiennent le passage, ajoutant à son impression de vieillesse et de mystère. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant une touche d'abandon à l'atmosphère sinistre. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un danger potentiel pour les explorateurs. Le passage est la seule voie pour accéder à la salle de rituel ancien qui se trouve au bout, un lieu de culte et de mystère qui a été oublié depuis des siècles.",
     "tags": [
-      "rituel",
-      "sombre",
-      "vieillie",
-      "squelette",
-      "têtes de mort"
+      "Couloir",
+      "Ancien",
+      "Mystère",
+      "Rituel",
+      "Salle des Anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

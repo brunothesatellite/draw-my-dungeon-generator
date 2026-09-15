@@ -1,13 +1,13 @@
 {
   "402": {
-    "title": "La Salle des Ténèbres",
-    "description": "Des tentsacles couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce rectangulaire, immense et humide. Les murs, recouverts de mousse et de lichens, semblent murmurer des secrets millénaires. Un grand cercle, étrangement lumineux, domine le centre de la pièce, entouré de tentacules et de crânes de mort. Des spirales gravées dans le sol attirent ton regard, tandis que les colonnes et les fenêtres ajoutent une touche de mystère à l'architecture. L'odeur de soufre et de moisi te pénètre les narines, et tu sens une présence étrange, comme si quelque chose t'observait. Deux fenêtres donnent sur le monde extérieur, mais elles sont fermées par des barils de bois. Le sol, couvert de mousse, est glissant et te fait trébucher. L'atmosphère est oppressante, et tu te demandes ce que cette salle rituelle cache vraiment.",
+    "title": "La Salle du Labyrinthe",
+    "description": "Au cœur de l'ancien donjon, une salle de labyrinthe immense vous accueille. La lumière naturelle filtre à travers les fenêtres, éclairant les murs couverts de mousse et de lierre. Des spirales mystérieuses marquent le sol, tandis que des colonnes élancées et des fenêtres hautes donnent une impression de hauteur et de majesté. Le grand cercle au centre de la pièce attire votre attention, semblant être le point focal de cette salle. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'horreur à l'atmosphère étrange. Deux fenêtres donnent sur le monde extérieur, mais elles sont souvent bouchées par des barils et des coffres, rendant l'issue difficile à trouver. Le sol, couvert de mousse, est glissant et peut être dangereux pour les explorateurs non préparés. Cette salle est bien plus qu'un simple espace de labyrinthe : elle est le cœur d'un rituel ancien, et les traces de pas sur le sol semblent indiquer qu'elle a été utilisée récemment. Les murs sont parsemés de symboles énigmatiques, et les tentacules semblent vivants, prêts à s'attaquer aux intrus. La salle est un lieu de mystère et de peur, où les secrets de l'ancien donjon se cachent derrière chaque coin.",
     "tags": [
+      "labyrinthe",
       "rituel",
       "mystère",
-      "mossy",
-      "tentacules",
-      "crânes de mort"
+      "horreur",
+      "donjon"
     ],
     "sourceFeatures": {
       "roomSize": "large",

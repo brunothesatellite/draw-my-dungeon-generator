@@ -1,13 +1,13 @@
 {
   "311": {
     "title": "L'Abîme des Tentacules",
-    "description": "Des tentsacles couvrent les murs. La noirceur t'engloutit, mais tu perçois vaguement une forme étrange qui semble sortir de l'obscurité. La salle est immense, ses murs irréguliers et décrépits, éclairés par une lumière diffuse qui parais venir de nulle part. Des colonnes majestueuses s'élèvent de partout, comme des gardiens silencieux. Au centre, un autel sombre attire ton regard, entouré de tentacules qui paraissent palpiter dans l'ombre. Des spirales mystérieuses marquent le sol, et des objets énigmatiques sont disséminés un peu partout. Des fantômes flottent autour, leurs silhouettes floues et hantées. L'air est lourd, chargé d'une odeur de soufre et de mort. Tu sens une présence malveillante qui plane dans l'air, prête à te piéger. Les tentacules paraissent attendre, prêts à s'enrouler autour de toi. La tension est palpable, et tu te demandes ce que cache vraiment cette salle sacrée.",
+    "description": "Au cœur de l'obscurité, un abîme s'ouvre, sa profondeur inconnue. Un seul tentacule émerge de la noirceur, sa peau luisante et ses nageoires frémissantes. Les murs de cette grotte sont irréguliers, marqués de spirales mystérieuses qui semblent danser sous la faible lumière qui pénètre par une fente au plafond. Les piliers délabrés, tordus par le temps, ajoutent à l'atmosphère étrange de l'endroit. Des objets étranges, inconnus, sont disséminés un peu partout, leur nature seules connues par les murmures des anciens. Des figures fantomatiques, floues et translucides, se déplacent lentement, ajoutant une note de terreur à l'air sinistre. Les tentacules qui sortent de l'abîme semblent toujours en mouvement, comme s'ils cherchaient à s'agripper à tout ce qui se trouve à leur portée. Les murs sont ornés de tentacules sculptés, rappelant la nature des créatures qui habitent ce lieu. Les spirales sur le sol semblent indiquer un passage, mais aucun passage n'est visible. Les trappes sont omniprésentes, prêtes à s'activer à la moindre intrusion. L'endroit est si ancien et si sacré que même les plus audacieux des explorateurs se demandent ce qui se cache vraiment dans l'abîme.",
     "tags": [
       "abîme",
       "tentacules",
       "sacré",
-      "mystère",
-      "tension"
+      "obscurité",
+      "trappes"
     ],
     "sourceFeatures": {
       "roomSize": "large",

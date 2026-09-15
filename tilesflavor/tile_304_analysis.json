@@ -1,13 +1,13 @@
 {
   "304": {
     "title": "L'Abîme des Anciens",
-    "description": "Un large, dark, organic structure occupe le centre de l'espace. La lumière vacille, révélant une salle immense et décrépie, où les murs se courbent et les colonnes s'effondrent. Un large, sombre et organique structure domine le centre de la pièce, émettant une énergie ancienne et mystérieuse. Des tentacules et des tapisseries pendantes décorent les murs, tandis que des spirales et des lignes dessinent des motifs énigmatiques sur le sol. Les autels, alignés le long des murs, semblent attendre des sacrifices. L'air est saturé d'une odeur de soufre et de mort, et un murmure lointain résonne dans l'ombre. Les pierres, usées par le temps, paraissent murmurer des secrets millénaires. Un frisson te parcourt, et tu sens une présence ancienne et malveillante qui t'observe. La tension est palpable, et tu sais que tu n'es pas seul dans cette salle.",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Le sol est marqué de spirales et de lignes énigmatiques, qui semblent danser sous vos pieds. Des colonnes et des piliers délabrés se dressent ici et là, leurs pierres usées par le temps et les éléments. Des autels sombres sont disséminés dans la salle, leurs surfaces lisses et lisses, comme si ils avaient été utilisés pour des rituels anciens. Un large, dark, organic structure domine le centre de la pièce, son étrange forme semblant émaner d'une force ancienne et mystérieuse. Le portail magique, minuscule et délicat, se trouve dans un coin de la salle, entouré de tentacules et de têtes de mort, comme s'il avait été gardé par des créatures maléfiques. La salle est plongée dans une atmosphère étrange et mystérieuse, où l'ancienneté et la magie se mêlent pour créer un lieu d'incertitude et de fascination.",
     "tags": [
       "abîme",
       "rituel",
-      "mystère",
+      "magie",
       "ancien",
-      "tension"
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "large",

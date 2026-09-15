@@ -1,13 +1,13 @@
 {
   "125": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, mais tu perçois immédiatement l'atmosphère sinistre qui plane. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de têtes de mort et de tentacules, paraissent avoir été sculptés par des mains malveillantes. Au centre, un autel, entouré de cercles rituels, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour de toi, comme des gardiens silencieux. Le sol est marqué de cercles rituels, et tu sens une odeur de soufre et de mort qui te pénètre les narines. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. Tu entends un murmure lointain, comme si quelque chose attendait patiemment dans les ténèbres.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints autrefois. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des statues étranges, dont certaines semblent avoir des tentacules, sont alignées le long des murs. Le mobilier ancien est délabré, ajoutant à l'atmosphère sinistre de la pièce. Trois pierres étranges, lisses et luisantes, sont posées sur le sol, au centre de la salle. L'eau stagnante, qui a envahi une partie de la pièce, ajoute une touche de danger à l'ambiance déjà oppressante. Les têtes de mort et les tentacules qui ornent les murs semblent être des traces de rituels passés, et les cercles rituels indiquent que cette salle a été utilisée pour des cérémonies sombres. La salle est vide, mais l'air y résonne d'une présence ancienne et malveillante.",
     "tags": [
-      "rituels",
-      "sacrifices",
-      "vieillie",
-      "sinistre",
-      "mystère"
+      "Salle des Rituels",
+      "Anciens Rituels",
+      "Salle Sacrée",
+      "Pierres Étranges",
+      "Eau Stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "32": {
-    "title": "La Chambre Sacrificielle",
-    "description": "Un empty space occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une salle rectangulaire immense, presque aussi vaste qu'un champ de bataille. Les murs, couverts de mousse et de végétation, semblent avoir été oubliés depuis des siècles. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre, soutenant un plafond qui parais prêt à s'effondrer. Au centre de la pièce, un autel, entouré de tentacules et de crânes, attire ton regard. Des spirales mystérieuses et des croix gravés dans le sol te font scruter l'endroit avec un mélange de fascination et de terreur. Des traces de pas, comme si quelqu'un avait fui précipitamment, sont visibles près de l'autel. L'odeur de la moisissure et de l'humidité ancienne te pénètre les narines, ajoutant à l'atmosphère lugubre. À l'ouest, un mur est percé d'une porte étroite, tandis qu'à l'est, une autre porte, plus large, parais menacer de s'effondrer. Les murs sont parsemés de runes et de symboles énigmatiques, qui paraissent attendre d'être interprétés. La tension est palpable, comme si quelque chose de terrible avait récemment eu lieu ici.",
+    "title": "Chambre Sacrée des Anciens",
+    "description": "La chambre est immense, son plafond voûté est soutenu par de puissants piliers et colonnes sculptées de motifs complexes. La lumière naturelle filtre à travers de grands fenêtres, éclairant les murs couverts de mousse et de lichens. Des spirales mystérieuses et un croix gravées dans le sol attirent l'œil, tandis que des tentacules et des têtes de mort ornent les murs. Un autel, symbole de sacrifices anciens, se dresse au centre de la pièce, entouré d'un espace vide qui semble inviter à l'exploration. Les murs sont décorés de tentacules et de têtes de mort, ajoutant une atmosphère de mystère et d'ancienneté. Des empreintes de pas, peut-être celles d'anciens rituels, marquent le sol. La chambre est accessible par deux portes, l'une au nord et l'autre au sud, et est parsemée de dangers tels que le sol mouillé et les motifs de spirales qui peuvent être glissants. L'atmosphère est pesante, presque palpable, comme si les murs murmuraient des secrets millénaires.",
     "tags": [
       "sacrifice",
       "ancien",
       "mystère",
-      "moisissure",
-      "colère"
+      "rituel",
+      "mystique"
     ],
     "sourceFeatures": {
       "roomSize": "large",

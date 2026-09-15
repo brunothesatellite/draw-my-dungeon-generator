@@ -1,13 +1,13 @@
 {
   "104": {
-    "title": "La Salle Sacrée des Anciens",
-    "description": "Un central altar or platform occupe le centre de l'espace. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, aux murs décrépits et aux colonnes massives qui semblent avoir vu des milliers d'années. Au centre, un autel ou une plateforme circulaire attire ton regard, ornée de tentacules et de têtes sculptées qui paraissent observer les visiteurs. Des spirales et des croix gravées dans le sol attirent ton attention, tandis que les murs sont décorés de tentacules et de têtes sculptées. L'odeur de l'ancienneté et de la poussière flotte dans l'air, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Deux fenêtres donnent sur le monde extérieur, mais tu sens une présence étrange dans l'air, comme si quelque chose attendait de révéler son secret. Les spirales sur le sol pourraient être des pièges, prêtes à tuer ceux qui osent s'approcher trop près.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière naturelle filtre à travers deux fenêtres étroites, éclairant les murs décrépits et les colonnes qui soutiennent le plafond. Des spirales et des croix gravées dans le sol semblent indiquer un ancien rituel. Des statues et un autel central, ornés de tentacules et de têtes sculptées, dominent la pièce. Les murs sont parsemés de tentacules et de têtes de mort, ajoutant une atmosphère de mystère et d'ancienneté. Les spirales sur le sol pourraient être des pièges, prouvant que cette salle est bien plus qu'un simple espace de culte. Deux fenêtres permettent de voir à l'extérieur, mais la salle semble être isolée, comme si elle avait été abandonnée depuis des siècles.",
     "tags": [
-      "salle sacrée",
-      "ancien",
-      "mystère",
-      "pièges",
-      "rituel"
+      "Salle Sacrée",
+      "Anciens",
+      "Rituels",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "360": {
-    "title": "Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours des murs. La pièce est petite, rectangulaire, et semble avoir été abandonnée depuis des siècles. Les murs, couverts de têtes de mort et de tentacules, paraissent avoir été sculptés par des forces obscures. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues, vieilles et érodées, se dressent autour de toi, comme des gardiens silencieux. Le sol est marqué de cercles rituels et de runes, et tu sens une odeur de soufre et de mort qui te pénètre les narines. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle.",
+    "title": "Salle des Anciens",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques qui pourraient avoir habité ces lieux. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ajoutent une touche d'ancienneté à l'architecture. Le mobilier, composé de tables et de chaises, semble avoir été utilisé pour des assemblées ou des sacrifices. L'eau stagnante au fond de la salle, combinée à l'atmosphère sinistre, crée une ambiance de mystère et de danger. La seule issue de cette salle semble menacer un passage obscur, promettant des surprises inattendues pour ceux qui oseraient y pénétrer.",
     "tags": [
       "salle de culte",
-      "vieillie",
-      "sinistre",
-      "rituel",
-      "soufre"
+      "rituels anciens",
+      "atmosphère sinistre",
+      "eau stagnante",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

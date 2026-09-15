@@ -1,18 +1,13 @@
 {
   "131": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu peux à peine distinguer les contours des murs. Devant toi, un autel rectangulaire, délabré, semble avoir été abandonné depuis des siècles. Des têtes de mort et des tentacules émergents des murs, comme si la salle était habitée par des créatures obscures. Des cercles rituels et des glyphes runiques marquent le sol, comme si des sacrifices avaient eu lieu ici. Les piliers et les colonnes, usés par le temps, paraissent soutenir un plafond qui menace de s'effondrer. Des barils de bois ancien sont empilés dans un coin, et un squelette, probablement celui d'un ancien prêtre, repose au milieu de la pièce. La porte murée à l'arrière de la salle est fermée, mais tu sens une présence étrange derrière elle. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui recouvre le sol. L'atmosphère est sinistre, et tu te demandes ce qui s'est passé ici.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, son plafond voûté s'élève à plusieurs mètres au-dessus de vous. La lumière tamisée filtre à travers des fenêtres brisées, éclairant les murs couverts de peintures sombres et de symboles énigmatiques. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des colonnes imposantes soutiennent la structure. Des cercles de lumière se dessinent sur le sol, indiquant des passages secrets ou des points de pouvoir. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère sinistre. Un squelette, probablement celui d'un ancien maître de la salle, repose au fond de la pièce, son crâne décharné émergeant de l'eau stagnante qui recouvre le sol. La porte murée au fond de la pièce semble être le seul moyen de quitter cette salle, mais elle est fermée et verrouillée. Les têtes de mort et les tentacules peints sur les murs ajoutent une touche macabre à l'ensemble. La salle semble être un lieu de rituel ancien, mais son passé obscur et son état délabré la rendent dangereuse.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "salle de culte",
-      "tête de mort",
-      "tentacules",
-      "squelette",
-      "porte murée",
-      "eau stagnante",
-      "soufre",
-      "mystère"
+      "Salle",
+      "Anciens",
+      "Rituel",
+      "Macabre",
+      "Délavée"
     ],
     "sourceFeatures": {
       "roomSize": "large",

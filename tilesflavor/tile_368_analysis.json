@@ -1,13 +1,13 @@
 {
   "368": {
-    "title": "Salle des Anciens Cultes",
-    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de statues et de piliers aux contours étranges. Des cercles rituels marquent le sol, tandis que des tentacules et des têtes de mort ornent les murs, racontant des histoires d'anciennes puissances. Un tableau, encadré de bois usé, semble peindre des scènes obscures. Un banc, usé par le temps, est placé contre le mur, comme si quelqu'un y avait récemment pris place. Un souffle froid et humide s'infiltre, portant avec lui des murmures lointains. La porte, à peine visible, parais être la seule issue de cette crypte ancienne.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et basse, avec des murs de pierre vieillie qui semblent avoir été sculptés par les mains des anciens. Les tonneaux et les boîtes en bois sont empilés au centre, comme si quelqu'un avait oublié de les ranger. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre regardent fixement les visiteurs. Un tableau accroché au mur à droite semble avoir été peint par un artiste de talent, mais son sujet est difficile à distinguer. Un banc en bois est placé contre le mur de gauche, offrant un endroit pour s'asseoir et méditer. La lumière est faible, provenant d'une source inconnue, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Une porte se trouve à l'extrémité de la salle, menant à un autre espace. L'eau stagnante dans un coin de la pièce est un danger potentiel. La salle semble être un lieu de culte, avec des traces de rituels anciens et des objets sacrés disséminés partout.",
     "tags": [
+      "salle",
+      "rituel",
       "culte",
       "vieillie",
-      "mystérieuse",
-      "ancien",
-      "soufre"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

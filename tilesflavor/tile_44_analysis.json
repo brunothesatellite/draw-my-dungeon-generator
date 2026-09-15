@@ -1,13 +1,13 @@
 {
   "44": {
-    "title": "Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. L'air est lourd, chargé d'une odeur de soufre et de mort. Au centre, un autel sombre attire le regard, entouré de piliers massifs qui semblent avoir vu des siècles d'obscurité. Des cercles rituels gravés dans le sol évoquent des rites anciens, et les murs sont ornés de têtes de mort sculptées, ajoutant une note macabre à l'atmosphère mystérieuse. Le mobilier ancien, usé par le temps, parais avoir été oublié depuis longtemps. L'eau stagnante, noire et trouble, remonte doucement le long du mur, créant une tension palpable. Devant toi, un seul passage parais mener à l'extérieur, mais l'air humide et l'odeur de soufre te font hésiter.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc par des mains inconnues. Les murs, usés par le temps, sont ornés de têtes de mort sculptées dans la pierre, rappelant l'ancienne gloire de ce lieu. Des cercles rituels émaillent le sol, marquant l'ancien passage de cultistes. Les piliers massifs, sculptés de motifs complexes, soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, délabré, semble avoir été abandonné depuis des siècles. La faible lumière qui filtre à travers les fissures du plafond éclaire les murs, révélant des traces de vieilles peintures murales. L'unique sortie semble menacer un bassin d'eau stagnante, où des bulles de gaz montent à la surface, rendant l'air irrespirable. La présence de l'eau stagnante et des têtes de mort donne une atmosphère de danger et de mystère, faisant de ce passage un lieu à éviter à tout prix.",
     "tags": [
-      "salle de culte",
-      "rituel ancien",
-      "têtes de mort",
-      "eau stagnante",
-      "atmosphère sombre"
+      "Passage",
+      "Ancien",
+      "Mystère",
+      "Rituel",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

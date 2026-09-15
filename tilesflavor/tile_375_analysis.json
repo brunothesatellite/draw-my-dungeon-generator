@@ -1,18 +1,13 @@
 {
   "375": {
-    "title": "La Salle des Rituels",
-    "description": "Un autel occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les étagères remplies de livres anciens et un fauteuil usé. Devant toi, un autel rectangulaire, vieilli, semble attendre un rituel. Des têtes de mort et des tentacules émergents des murs, comme si la salle était peuplée de créatures obscures. Des cercles rituels marquent le sol, et des piliers et des statues de pierre gardent le secret de la pièce. L'odeur de soufre et de vieux parchemins te pénètre les narines, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement. La tension est palpable, et tu sens que quelque chose de sinistre se cache dans cette salle de rituels.",
+    "title": "Bibliothèque des Anciens",
+    "description": "Dans ce coin sombre et étroit, vous vous retrouvez face à une bibliothèque aux murs recouverts de livres anciens et poussiéreux. Les étagères, hautes et étroites, sont remplies de manuscrits et de tomes de toutes tailles, certains avec des pages jaunies par le temps. Un fauteuil, usé par l'âge, est placé devant une table où repose un livre étrange, ses pages déchirées et ses caractères noirs flous. La pièce est éclairée par une lumière faible, filtrée à travers une fenêtre voilée, créant un halo de mystère autour de la table. Les murs sont ornés de statues et de piliers, ajoutant à l'atmosphère sinistre de la pièce. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. La bibliothèque semble être un lieu de rituels, où des objets étranges et des livres anciens sont conservés. La pièce est vieillie, avec des traces de vieilles livres et de poussière recouvrant les étagères. L'eau stagnante se forme dans un coin, ajoutant une touche de danger à cette bibliothèque des anciens.",
     "tags": [
-      "rituel",
-      "salle obscure",
-      "têtes de mort",
-      "tentacules",
-      "cercles rituels",
-      "piliers",
-      "statues",
-      "odeur de soufre",
-      "eau stagnante",
-      "atmosphère sinistre"
+      "Bibliothèque",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

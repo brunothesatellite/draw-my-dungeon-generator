@@ -1,13 +1,12 @@
 {
   "94": {
-    "title": "L'autel des ténèbres",
-    "description": "L'ambiance mysterious and ancient pèse sur la pièce. La lumière tamisée éclaire un autel colossal en pierre, orné de tentacules et de têtes sculptées. Des spirales mystérieuses gravées dans le sol attirent ton regard, tandis que des hachures évoquent des secrets enfouis. L'odeur de soufre et de vieux papier humide te pique le nez, et un murmure ancien résonne dans ta tête. Tu sens une présence étrange, comme si l'autel était le cœur d'un rituel ancien. Les arches majestueuses te guident vers l'entrée, mais les spirales pourraient cacher des pièges mortels. L'atmosphère est glaçante, et tu te demandes si tu as vraiment le droit d'être ici.",
+    "title": "Chambre des Tentacules",
+    "description": "La chambre est immense, son plafond voûté et sa largeur impressionnante. La lumière tamisée émane des torches anciennes qui se dressent sur des colonnes de pierre, éclairant les murs ornés de tentacules sculptés et de têtes de morts étranges. Des hachures mystérieuses sillonnent le sol, formant des spirales qui semblent guider le regard vers un autel central. Des statues de pierre, étranges et dépourvues de visage, gardent la pièce. Les arches majestueuses permettent d'accéder à d'autres parties du donjon, mais les spirales sur le sol pourraient être des pièges. L'atmosphère est pesante, presque palpable, comme si la pièce était le cœur d'un rituel ancien et perpétuel.",
     "tags": [
+      "salle sacrée",
       "rituel ancien",
-      "autel sombre",
-      "spirales mystiques",
-      "tentacules",
-      "soufre"
+      "tête de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

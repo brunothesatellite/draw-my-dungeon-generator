@@ -1,15 +1,13 @@
 {
   "105": {
-    "title": "Le Sanctuaire des Tentacules",
-    "description": "L'ambiance mysterious pèse sur la pièce. La lumière naturelle filtre à travers les fissures du plafond, révélant une pièce immense et rectangulaire, aux murs couverts d'une patine ancienne. Des colonnes massives, sculptées de motifs archaïques, se dressent de part et d'autre, soutenant un plafond qui semble prêt à s'effondrer. Au centre, un autel, orné de tentacules et de crânes de mort, attire ton regard. Des spirales mystérieuses marquent le sol, et un tableau de pierre, gravé de symboles énigmatiques, repose sur une table en bois. L'odeur de soufre et de mort flotte dans l'air, tandis que le murmure d'eau froide résonne sous tes pieds. Un courant d'air glacial te caresse le visage, et tu sens une présence étrange, comme si quelque chose t'observait depuis l'ombre. L'enchanté spiral, un piège ancien, parais attendre patiemment que tu te rapproches.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "Cette vaste salle rectangulaire, éclairée par la lumière naturelle qui filtre à travers les fissures du plafond, semble avoir été construite il y a des milliers d'années. Les colonnes massives et les pilastres sculptés de motifs complexes donnent une impression de grandeur et de mystère. Au centre de la pièce, un mur mince et ancien domine la scène, surmonté d'un autel de pierre où des tentacules et des têtes de mort sont sculptés, ajoutant une touche d'horreur à l'atmosphère sacrée. Des spirales gravées dans le sol indiquent un passage secret, mais une sortie est bloquée par des barils empilés, rendant l'accès difficile. L'air de la salle est chargé d'une atmosphère mélangeant le mystère et la peur, comme si elle gardait un secret ancien et puissant.",
     "tags": [
-      "sacré",
-      "mystérieux",
-      "tentacules",
-      "crânes",
-      "spirales",
-      "colère",
-      "prudent"
+      "Salle Sacrée",
+      "Anciens",
+      "Tentacules",
+      "Mystère",
+      "Spirales"
     ],
     "sourceFeatures": {
       "roomSize": "large",

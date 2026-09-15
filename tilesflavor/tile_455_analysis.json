@@ -1,13 +1,13 @@
 {
   "455": {
-    "title": "La Salle des Sacrifices",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. La faible lumière qui filtre à travers les fenêtres voilées éclaire des têtes de mort sculptées dans le mur, leurs yeux vides semblant vous observer. Un autel central, orné de tentacules étranges, attire votre regard. Des cercles rituels gravés dans le sol vous font frémir. Des piliers massifs soutiennent le plafond, tandis que des barils de bois ancien sont empilés dans un coin. L'odeur de soufre et de mort flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule lentement au fond de la salle. La tension est palpable, et vous sentez que quelque chose de menaçant vous observe depuis l'ombre.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir semble avoir été construit il y a des siècles, les planches de bois qui le composent sont usées et décolorées par le temps. Les murs, autrefois blancs, sont maintenant tachés de noir et de rouge, témoignant des rituels sombres qui y ont été pratiqués. Des cercles rituels sont gravés au sol, marquant les passages sacrés. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et lisses, comme si ils avaient été sculptés par des mains expertes. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère lugubre du lieu. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir éclaire les têtes de mort et les tentacules qui semblent avoir émergé du mur, ajoutant une note de menace à l'ambiance déjà sombre. L'eau stagnante qui s'est formée au fond du couloir est un danger à ne pas sous-estimer. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui ont eu lieu ici. La présence de ces créatures évoque une histoire ancienne et terrifiante.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "tête de mort",
+      "couloir",
+      "rituels sombres",
+      "têtes de mort",
       "tentacules",
-      "salle de culte"
+      "anciens rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

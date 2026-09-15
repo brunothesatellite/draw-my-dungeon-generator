@@ -1,13 +1,13 @@
 {
   "276": {
-    "title": "La Crypte des Anciens",
-    "description": "Des têtes de mort couvrent les murs. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels, attire ton regard. Les piliers et colonnes, usés par le temps, paraissent murmurer des secrets anciens. Des cercles rituels marquent le sol, et des barils de bois ancien sont disséminés un peu partout. Des pièges anciens, visibles sous la poussière, attendent patiemment leur prochain. La porte murée, à l'extrémité de la salle, parais tailler un passage vers l'inconnu. L'odeur de soufre et de moisi flotte dans l'air, tandis que l'eau stagnante menace de vous engloutir. La tension est palpable, et un murmure lointain parais résonner dans les murs. La crypte des Anciens vous réserve encore de nombreuses surprises.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens est étroit et sombre, éclairé par une faible lumière qui filtre à travers des fissures dans le plafond. Les murs, recouverts de mousse et de végétation, sont ornés de piliers et de colonnes vieillies, témoins de l'ancienne architecture. Des cercles rituels sont gravés dans le sol, marquant l'ancien emplacement d'une salle de rituels. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'effrayante mystérieuse à l'atmosphère. À l'extrémité du passage, deux escaliers descendent et grimpent, l'un menant à un niveau inférieur et l'autre à un niveau supérieur. La porte murée à l'entrée semble avoir été murée depuis longtemps, mais une fente révèle une étrange boîte en métal, posée au fond du passage. L'eau stagnante, noire et trouble, remplit une partie du passage, rendant l'endroit dangereux à traverser. Les murs sont parsemés de mobilier ancien, abandonné et délabré, ajoutant à l'ambiance de décrépitude et d'oubli.",
     "tags": [
-      "salle de rituels",
-      "vieillie",
-      "mystérieuse",
-      "ancien",
-      "crypte"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Mystère",
+      "Décadence"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

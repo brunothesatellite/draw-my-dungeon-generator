@@ -1,18 +1,13 @@
 {
   "229": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et menaçante pèse sur la pièce. Les quatre cellules, séparées par des barreaux rouillés, semblent abandonnées depuis des siècles. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Des cercles rituels gravés dans le sol te font frissonner. Les piliers massifs, recouverts de mobilier ancien, paraissent témoigner d'une époque longtemps oubliée. L'odeur de soufre et de moisi te pénètre les narines, tandis que l'eau stagnante au fond de la pièce menace de te submerger. La porte murée à l'extrémité de la crypte te fait hésiter, mais tu sais que tu dois explorer ce lieu pour découvrir ce qui se cache derrière.",
+    "title": "La Prison des Anciens",
+    "description": "Vous pénétrez dans une pièce sombre et étroite, aux murs recouverts de peintures vieillies. La lumière faible révèle des cercles rituels gravés au sol, entourant un autel central. Des têtes de mort et des tentacules peints ornent les murs, ajoutant à l'atmosphère menaçante. Des piliers massifs soutiennent le plafond, et des cercles rituels sont gravés sur le sol. Des meubles anciens sont empilés dans un coin, et une eau stagnante s'accumule dans un coin, créant un danger potentiel. La porte murée au fond semble être le seul moyen de quitter cette prison sombre.",
     "tags": [
-      "crypte",
-      "rituels",
-      "têtes de mort",
-      "tentacules",
-      "soufre",
-      "vieillie",
-      "ancien",
-      "eau stagnante",
-      "menace",
-      "mystérieuse"
+      "Prison",
+      "Anciens",
+      "Rituels",
+      "Mystérieuse",
+      "Menace"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

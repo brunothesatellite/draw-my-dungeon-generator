@@ -1,13 +1,13 @@
 {
   "93": {
-    "title": "La Salle des Anciens",
-    "description": "Des tented wall coverings couvrent les murs. La lumière naturelle filtre à travers les fenêtres, révélant une pièce immense et rectangulaire, aux murs décrépits et aux plafonds bas. Un pilier central, sculpté de croix, domine la pièce, entouré de tentes de toile qui semblent avoir été là depuis des siècles. Des motifs spiraux gravés dans le sol attirent ton regard, tandis que les poutres en bois ajoutent une touche de rusticité à l'ensemble. Les tentacules, visibles dans l'angle, paraissent attendre l'occasion de se déployer. L'odeur de l'humidité et de l'ancienneté se mêle à l'air, créant une atmosphère mélangeant mystère et angoisse. Deux fenêtres donnent sur le monde extérieur, mais la présence d'eau sur le sol indique que la salle est en partie inondée. L'ancien rituel qui a eu lieu ici est palpable, chaque détail racontant une histoire ancienne et sombre.",
+    "title": "Passage des Anciens",
+    "description": "Le passage des Anciens s'inscrit dans un mur de pierre délabré, ses murs recouverts de tentes de toile qui semblent avoir été abandonnées depuis des siècles. Des motifs de spirales gravés dans le sol indiquent un ancien rituel, et les croix sculptées sur les piliers centraux évoquent une époque où les dieux étaient encore vénérés. La lumière naturelle qui filtre à travers les deux fenêtres éclaire les restes de boiseries et de poutres qui s'effondrent lentement. L'humidité qui s'accumule au sol laisse des traces de l'eau qui s'écoule, ajoutant à l'atmosphère mystérieuse et ancienne de ce lieu. À chaque pas, les tentacules qui se glissent entre les pierres semblent chercher à se dégager, rappelant l'ancienne puissance qui réside encore dans ce passage.",
     "tags": [
-      "rituel ancien",
-      "salle des ténèbres",
-      "ancienneté",
-      "mystère",
-      "tentacules"
+      "Passage",
+      "Ancien",
+      "Rituel",
+      "Tentacules",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

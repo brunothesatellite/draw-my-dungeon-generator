@@ -1,13 +1,13 @@
 {
   "443": {
-    "title": "La Salle des Sacrifices",
-    "description": "Un autel occupe le centre de l'espace. La lumière filtre à peine à travers les fenêtres brisées, éclairant les murs vieillis par le temps. Un autel central, recouvert de poussière, semble avoir été le témoin de rituels obscurs. Des têtes de mort sculptées sont plantées dans les murs, tandis que des cercles rituels marquent le sol, comme des cercles d'ombre. Les piliers robustes, usés par l'âge, soutiennent le plafond qui menace de s'effondrer. L'air est lourd, chargé d'une odeur de soufre et de mort. Un murmure lointain parais provenir de l'angle sombre, comme si quelque chose attendait. Les anciens pièges risquent de se déclencher à tout moment, ajoutant une tension palpable à l'atmosphère sinistre.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand lentement à travers les voûtes. Le sol est couvert de cercles rituels, des symboles anciens qui semblent avoir été dessinés il y a des siècles. Au centre de la pièce, un pilier massif domine le tout, semblant soutenir le poids de l'histoire qui y réside. Les murs sont vieillis, marqués par des stries et des éraflures qui racontent des siècles d'abandon. Des têtes de mort, sculptées avec une finesse qui évoque l'art des anciens, sont accrochées aux murs, ajoutant une note macabre à l'atmosphère sinistre de la pièce. Les portes, nombreuses et bien alignées, semblent inviter à l'exploration, mais chacune d'elles est un mystère à elle seule. Les cercles rituels au sol indiquent que cette pièce a été utilisée pour des rituels anciens, peut-être même pour des sacrifices. Les anciens pièges anciens sont toujours prêts à se déclencher, prouvant que cette salle n'a jamais été abandonnée depuis des temps immémoriaux.",
     "tags": [
+      "salle",
       "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre",
-      "pièges anciens"
+      "ancien",
+      "macabre",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

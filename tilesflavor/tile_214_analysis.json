@@ -1,13 +1,13 @@
 {
   "214": {
     "title": "Salle des Anciens",
-    "description": "L'ambiance mystérieuse pèse sur la pièce. La faible lumière filtre à travers des fenêtres brisées, éclairant des reliefs sculptés qui racontent des mythes oubliés. Un autel central, orné de cercles rituels, semble être le cœur de cette pièce. Les piliers massifs, usés par les siècles, soutiennent un plafond qui parais prêt à s'effondrer. L'odeur de soufre et d'humidité se mêle à l'air, créant une atmosphère glauque. L'eau stagnante, visible dans un coin, parais prête à se lever à tout moment. La tension est palpable, comme si quelque chose de terrible attendait dans l'ombre.",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis par le temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des reliefs sculptés ornent les murs, racontant des mythes anciens. Les tonneaux, empilés contre le mur, semblent avoir été oubliés depuis longtemps. L'atmosphère est mystérieuse, presque oppressante, comme si les secrets des anciens y étaient encore enfouis. L'eau stagnante au centre de la pièce est un danger à ne pas négliger.",
     "tags": [
-      "rituel",
-      "vieillie",
-      "mystérieuse",
-      "salle de culte",
-      "eau stagnante"
+      "Salle",
+      "Rituels",
+      "Anciens",
+      "Mystère",
+      "Vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

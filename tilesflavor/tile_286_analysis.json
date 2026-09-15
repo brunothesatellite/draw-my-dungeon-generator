@@ -1,15 +1,13 @@
 {
   "286": {
-    "title": "La Crypte des Tentacules",
-    "description": "Des tentsacles couvrent les murs. La lumière est si faible que tu ne peux distinguer que les contours des murs. L'air est lourd et humide, et tu perçois une odeur de soufre et de mort. Devant toi, un escalier d'escalade semble tailler le rocher, menant à l'inconnu. Les murs sont recouverts de tentacules, comme s'ils avaient été peints par un artiste ancien. Des colonnes massives s'élèvent de partout, comme des gardiens silencieux. Le sol est marqué d'un spiral complexe, qui parais avoir été gravé il y a des millénaires. Tu sens une présence étrange, comme si quelque chose observait tes moindres mouvements. L'atmosphère est oppressante, et tu te demandes ce que cette crypte cache vraiment.",
+    "title": "Grotte Escaladée",
+    "description": "La grotte escaladée vous accueille dans un espace large et irrégulier, où la lumière diffuse et diffuse donne une ambiance mystérieuse. Les murs humides et froids sont ornés de tentacules qui semblent vivants, se balançant doucement dans l'air. Des pilastres massifs soutiennent le plafond, ajoutant à l'atmosphère sombre et ancienne de la grotte. Des marques de spirale gravées dans le sol vous guident vers un escalier d'escalade qui monte vers l'obscurité. Les murs sont parsemés de tentacules, et les pilastres sont ornés de motifs étranges qui semblent avoir été sculptés par des forces obscures. La grotte est un lieu de rituel, et les marques de spirale indiquent un passage vers un autre espace, peut-être un autre niveau de la grotte. Les tentacules et les marques de spirale vous rappellent que vous n'êtes pas seul dans cette grotte, et que des créatures plus sombres que vous attendent peut-être en haut.",
     "tags": [
-      "crypte",
-      "tentacules",
+      "grotte",
       "escalier",
-      "colonne",
-      "spiral",
-      "mystère",
-      "rituel"
+      "rituel",
+      "tentacules",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

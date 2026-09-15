@@ -1,13 +1,13 @@
 {
   "423": {
-    "title": "L'Observatoire des Ténèbres",
-    "description": "Des têtes de mort couvrent les murs. La lumière est si faible que tu dois te contenter de deviner les contours de la salle vieillie. Les murs, recouverts de peintures sombres et de tentacules phosphorescents, semblent respirer une atmosphère mystérieuse et menaçante. Au centre de la pièce, un robot suspendu parais surveiller tes moindres mouvements. Des cercles rituels gravés dans le sol te font tiquer, et des têtes de mort sculptées dans le mur ajoutent une touche d'horreur à l'ambiance. Les piliers massifs et les colonnes imposantes donnent l'impression d'une ancienne salle de laboratoire ou de stockage. Une boîte en bois, posée au milieu de la pièce, parais être le seul objet de valeur. L'odeur de soufre et de rouille te pique les narines, et tu sens une présence étrange qui plane dans l'air. Des pièges électriques sont dissimulés un peu partout, prêts à s'activer à tout moment.",
+    "title": "Observatoire Ancien",
+    "description": "Vous pénétrez dans une petite pièce rectangulaire, éclairée par une faible lumière qui se répand à peine. La pièce est vieillie, les murs recouverts d'un vernis terni qui laisse entrevoir des traces de vieilles peintures. Des cercles rituels sont gravés au sol, formant un motif complexe qui semble avoir perdu son sens au fil du temps. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'effrayante mystérieux à l'atmosphère. Au centre de la pièce, un robot suspendu semble veiller sur les lieux, son visage métallique fixe et impassible. Une boîte en bois, fermée à clé, repose sur une table en bois usé. L'observatoire est un laboratoire ou un lieu de stockage, mais les objets et les décorations suggèrent une utilisation plus ancienne et plus secrète. Des pièges électriques sont dissimulés dans les murs, prêts à frapper à tout moment.",
     "tags": [
-      "obscurité",
-      "mystère",
-      "robot",
-      "tentacules",
-      "soufre"
+      "Observatoire",
+      "Ancien",
+      "Mystérieux",
+      "Pièges",
+      "Robot"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

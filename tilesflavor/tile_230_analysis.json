@@ -1,14 +1,13 @@
 {
   "230": {
-    "title": "La Crypte des Anciens",
-    "description": "L'ambiance mystérieuse et ancienne pèse sur la pièce. La lumière faible révèle une salle rectangulaire, vieillie et mystérieuse. Les murs, recouverts de têtes de mort et de tentacules, semblent observer tes moindres mouvements. Un autel central, orné de cercles rituels et de glyphes runiques, attire ton regard. Des piliers et des statues anciennes se dressent autour, ajoutant à l'atmosphère glauque. Le mobilier ancien, usé par le temps, parais attendre son heure. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante menace de te piéger. La tension monte avec chaque pas que tu fais dans cette salle de culte ou de rituel, où les secrets de l'ancien monde paraissent se cacher derrière chaque mur.",
+    "title": "Prison des Anciens",
+    "description": "Dans ce couloir étroit et sombre, les murs vieillis par le temps sont recouverts de cercles rituels et de glyphes runiques. Les cellules, rectangulaires et de taille modeste, sont séparées par des barreaux rouillés. Les grilles au sol et les lits rudimentaires ajoutent à l'atmosphère oppressante de la prison. Les cellules sont vieillies, et des traces de vieilles peintures murales sont encore visibles, malgré leur état délabré. L'air est chargé d'une odeur de moisi et d'anciennes émanations. Des statues et des piliers majestueux ornent les murs, ajoutant une touche de mystère à l'ensemble. Les cercles rituels et les glyphes runiques sur le sol semblent avoir été dessinés avec une précision qui évoque des temps anciens et des cultes obscurs.",
     "tags": [
-      "salle de culte",
-      "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancien",
-      "crypte"
+      "Prison",
+      "Anciens",
+      "Rituels",
+      "Mystère",
+      "Vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

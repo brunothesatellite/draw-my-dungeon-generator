@@ -1,13 +1,13 @@
 {
   "162": {
-    "title": "La Crypte des Anciens",
-    "description": "Un autel occupe le centre de l'espace. La lumière est faible, presque inexistante, mais suffisante pour distinguer les têtes de mort sculptées dans le mur et les tentacules qui semblent sortir du plafond. Au centre, un autel, entouré de cercles rituels et de glyphes runiques, attire l'œil. Des piliers et des statues de pierre gardent la pièce, tandis que des barils de bois ancien sont disséminés un peu partout. L'odeur de soufre et de moisi flotte dans l'air, et un murmure lointain parais provenir de l'eau stagnante qui coule au fond de la salle. La tension est palpable, et un frisson vous parcourt le dos. Devant vous, un piège attend patiemment, prêts à vous piéger.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers des fentes minuscules, créant un halo de faible éclat qui éclaire les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien et sacré. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant à son mystère. Le mobilier ancien semble avoir été abandonné depuis longtemps, recouvert de mousse et de champignons. L'atmosphère est pesante et ancienne, comme si la grotte avait gardé des secrets depuis des millénaires. Des eaux stagnantes se trouvent au fond de la grotte, formant un bassin sombre qui reflète la faible lumière qui pénètre à l'intérieur. Les champignons, de toutes les couleurs, semblent vivants et prêts à pousser, ajoutant une touche de vie à ce lieu si ancien et si mystérieux.",
     "tags": [
-      "salle de culte",
-      "rituel ancien",
-      "mystère",
-      "vieillissement",
-      "tête de mort"
+      "Grotte",
+      "Champignons",
+      "Sacrés",
+      "Ancien",
+      "Mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

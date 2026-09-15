@@ -1,17 +1,13 @@
 {
   "354": {
-    "title": "La Salle Sacrée des Tentacules",
-    "description": "Un altar occupe le centre de l'espace. La lumière est si faible que tu ne peux distinguer que les contours de la pièce. L'air est lourd, presque oppressant, et une odeur de soufre flotte dans l'air. Devant toi, un autel rectangulaire, entouré de colonnes massives, attire ton regard. Des tentacules, comme ceux d'un ancien monstre marin, sont gravés dans le marbre des murs, des colonnes et même sur l'autel. Le sol, humide et glissant, est marqué d'un cercle au centre, comme un rituel ancien. Les murs, recouverts de peintures sombres et mystérieuses, semblent respirer une atmosphère de vie ancienne. Tu sens une présence étrange, comme si quelque chose attendait dans l'ombre. L'eau qui coule doucement au fond de la salle, provenant d'un tuyau caché, ajoute à l'ambiance lugubre. La porte en bois, à peine visible dans l'obscurité, parais être le seul moyen de quitter cette pièce sacrée.",
+    "title": "Salle Sacrée des Ancêtres",
+    "description": "Cette vaste salle rectangulaire, éclairée par une faible lumière tamisée, révèle un sol humide et marqué d'un cercle au centre. Les murs, ornés de tentacules étranges, sont soutenus par de solides piliers. Un coffre en bois sombre repose contre le mur, tandis qu'une porte en bois massif ferme l'entrée. La salle, bien que vide, dégage une atmosphère mystérieuse et sacrée, comme si elle avait été utilisée pour des rituels anciens. Les tentacules sur les murs semblent vivants, ajoutant une touche d'effrayante réalité à l'ambiance. L'eau stagnante au sol indique que la salle pourrait être inondée à tout moment, rendant l'exploration dangereuse.",
     "tags": [
       "salle sacrée",
+      "rituels anciens",
       "tentacules",
-      "autel",
-      "colonne",
-      "odeur de soufre",
-      "rituel ancien",
-      "atmosphère lugubre",
-      "eau coulante",
-      "porte en bois"
+      "salle de donjon",
+      "salle humide"
     ],
     "sourceFeatures": {
       "roomSize": "large",

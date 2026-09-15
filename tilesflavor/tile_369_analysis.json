@@ -1,13 +1,13 @@
 {
   "369": {
-    "title": "La Salle des Sacrifices",
-    "description": "Des têtes de mort couvrent les murs. La faible lumière qui filtre à travers les fenêtres voilées éclaire des colonnes massives, leurs pierres usées par les siècles. Au centre, une table ornée de tentacules et de têtes de mort semble attendre son destin. Des cercles rituels marquent le sol, tandis que les murs sont décorés de tentacules et de têtes de mort, comme si la salle avait été utilisée pour des rituels obscurs. L'odeur de soufre et de mort flotte dans l'air, tandis que l'eau stagnante au fond de la pièce murmure des secrets anciens. La tension est palpable, comme si quelque chose de terrible allait se produire.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des fenêtres étroites, créant un halo de mystère. Des cercles rituels sont gravés dans le sol, marquant les limites de l'espace sacré. Au centre de la pièce, une table de sorcier ornée de symboles mystiques attire l'œil. Une statue de dieu monstre, ancienne et décrépite, domine l'arrière de la pièce, son regard perçant semblant surveiller les occupants. Les murs sont décorés de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'atmosphère déjà ancienne et mystérieuse. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'endroit dangereux. La salle semble être un lieu de culte ou de rituel, où des sacrifices et des pratiques obscures ont eu lieu au fil des siècles.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "vieillie",
-      "mystérieuse",
-      "salle de culte"
+      "Salle",
+      "Ancien",
+      "Rituel",
+      "Statue",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
