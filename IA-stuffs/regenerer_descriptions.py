@@ -47,25 +47,32 @@ def build_prompt(tile_num, csv_desc, filtered_sf, full_sf):
     return (
         "Tu es un auteur de donjons pour jeux de role OSR (DCC, OSE, Shadowdark). "
         "Tu ecris en francais.\n\n"
-        "Tu dois decrire une salle de donjon.\n\n"
+        "Tu dois decrire un lieu de donjon.\n\n"
         f"### DESCRIPTION DE L'AUTEUR (source de verite ABSOLUE) ###\n"
-        f"C'est la seule donnee fiable sur le CONTENU de la salle. "
-        f"Tu DOIS decrire CHAQUE element mentionne. Ne rien inventer qui contredise.\n"
+        f"C'est la seule donnee fiable sur le CONTENU et le TYPE de lieu. "
+        f"Tu DOIS respecter le type de lieu mentionne.\n"
+        f'Si la description dit "couloir", c est un couloir, PAS une salle.\n'
+        f'Si la description dit "grotte", c est une grotte, PAS une salle.\n'
+        f'Si la description dit "escalier", decris l escalier.\n'
+        f'Si la description dit "riviere", decris la riviere.\n'
+        f'Ne JAMAIS remplacer le type de lieu par "salle".\n\n'
         f'"{csv_desc}"\n\n'
         f"### AMBIANCE VISUELLE (complement) ###\n"
-        f"Ces informations decrivent l'atmosphere et l'etat de la salle. "
+        f"Ces informations decrivent l'atmosphere et l'etat du lieu. "
         f"Utilise-les pour enrichir la description, mais ne les prefere PAS a la description de l'auteur.\n"
         f"{features_json}\n\n"
         "### REGLES IMPERATIVES ###\n"
         "1. La description de l'auteur est la BASE. Les details visuels sont un COMPLEMENT.\n"
-        "2. Si la description de l'auteur mentionne un element (coffre, baril, escalier, "
+        "2. Respecte le TYPE de lieu (couloir, grotte, salle, etc.).\n"
+        "3. Si la description mentionne un element (coffre, baril, escalier, "
         "fontaine, sarcophage, champignon, araignee, alligator, cheminée, etc.), "
         "tu DOIS le decrire en detail.\n"
-        "3. NE PAS ajouter d'elements absents de la description de l'auteur.\n"
-        "4. NE PAS mentionner de tentacules, autels, têtes de mort SAUF si "
+        "4. NE PAS ajouter d'elements absents de la description de l'auteur.\n"
+        "5. NE PAS mentionner de tentacules, autels, têtes de mort SAUF si "
         "la description de l'auteur le mentionne explicitement.\n\n"
         "### TITRE ###\n"
-        "Cree un titre unique et evocateur, lie a ce que la salle contient.\n"
+        "Cree un titre unique et evocateur, lie a ce que le lieu contient.\n"
+        "Le titre doit refleter le type de lieu (Couloir, Grotte, Pasage, etc.).\n"
         "INTERDIT: 'Crypte des Anciens', 'Salle des Sacrifices', 'Salle des Anciens', "
         "'Chambre Sacrée', 'Abîme des Tentacules', 'Salle des Rituels'.\n\n"
         "### STYLE ###\n"
@@ -85,13 +92,36 @@ def build_prompt(tile_num, csv_desc, filtered_sf, full_sf):
     )
 
 
+_initial_ram = None
+
 def log_memory():
+    global _initial_ram
     import psutil
     p = psutil.Process()
     ram = p.memory_info().rss / 1024 / 1024
     sys_mem = psutil.virtual_memory()
     sys_free = sys_mem.available / 1024 / 1024 / 1024
-    print(f"  [mem] RAM process: {ram:.0f} Mo | RAM libre: {sys_free:.1f} Go")
+    if _initial_ram is None:
+        _initial_ram = sys_free
+    delta = _initial_ram - sys_free
+    print(f"  [mem] RAM process: {ram:.0f} Mo | RAM libre: {sys_free:.1f} Go (delta: {delta:+.1f} Go)")
+
+
+def restart_ollama():
+    """Tue et relance ollama pour liberer la memoire."""
+    import subprocess, time
+    print("  [ollama] Arret d'ollama...")
+    subprocess.run(["taskkill", "/F", "/IM", "ollama.exe"], capture_output=True)
+    time.sleep(2)
+    print("  [ollama] Demarrage...")
+    subprocess.Popen(["C:/Users/bruno/AppData/Local/Programs/Ollama/ollama.exe", "serve"],
+                     creationflags=subprocess.DETACHED_PROCESS)
+    time.sleep(5)
+    # Verifier que le modele est dispo
+    from ollama import Client
+    client = Client()
+    client.list()
+    print("  [ollama] Pret")
 
 
 def main():
@@ -115,7 +145,6 @@ def main():
         output_file = OUTPUT_DIR / f"tile_{tile_num}_analysis.json"
 
         if not input_file.exists():
-            print(f"\n--- [{i}/{total}] Tuile {tile_num} --- ABSENTE, skip")
             skipped += 1
             continue
 
@@ -128,6 +157,7 @@ def main():
             tile = data.get(str(tile_num), data.get(tile_num, {}))
             sf = tile.get("sourceFeatures", {})
             csv_desc = sf.get("csvDescription", "")
+            del data, tile
 
             if not csv_desc:
                 print("  Pas de csvDescription, skip")
@@ -135,34 +165,106 @@ def main():
                 continue
 
             filtered_sf = filter_features(sf, csv_desc)
-            prompt = build_prompt(tile_num, csv_desc, filtered_sf, sf)
 
-            response = client.chat(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-            )
+            # Retry jusqu'a 3 fois
+            saved = False
+            for attempt in range(3):
+                prompt = build_prompt(tile_num, csv_desc, filtered_sf, sf)
+                response = client.chat(
+                    model=MODEL,
+                    messages=[{"role": "user", "content": prompt}],
+                )
+                content = response["message"]["content"]
+                del response
 
-            content = response["message"]["content"]
-            match = re.search(r"\{.*\}", content, re.DOTALL)
+                # Extraire JSON (gere les blocs markdown)
+                json_str = None
 
-            if match:
-                result = json.loads(match.group())
+                # 1. Essayer bloc markdown
+                code_block = re.search(r"```(?:json)?\s*(.*?)\s*```", content, re.DOTALL)
+                raw = code_block.group(1) if code_block else content
+
+                # 2. Extraire l'objet principal {"tile_num": {...}}
+                key = f'"{tile_num}"'
+                key_pos = raw.find(key)
+                if key_pos >= 0:
+                    # Remonter au { precedant la cle
+                    start = raw.rfind("{", 0, key_pos)
+                    if start >= 0:
+                        depth = 0
+                        for i in range(start, len(raw)):
+                            if raw[i] == "{": depth += 1
+                            elif raw[i] == "}":
+                                depth -= 1
+                                if depth == 0:
+                                    json_str = raw[start:i+1]
+                                    break
+
+                # Fallback : si pas de clé, prendre le premier objet JSON complet
+                if not json_str:
+                    start = raw.find("{")
+                    if start >= 0:
+                        depth = 0
+                        for i in range(start, len(raw)):
+                            if raw[i] == "{": depth += 1
+                            elif raw[i] == "}":
+                                depth -= 1
+                                if depth == 0:
+                                    candidate = raw[start:i+1]
+                                    try:
+                                        parsed = json.loads(candidate)
+                                        # Si c'est un objet avec une clé numérique, l'utiliser
+                                        if isinstance(parsed, dict) and any(k.isdigit() for k in parsed):
+                                            json_str = candidate
+                                        # Si c'est un objet avec title/description, le wrapper
+                                        elif isinstance(parsed, dict) and "description" in parsed:
+                                            json_str = json.dumps({str(tile_num): parsed}, ensure_ascii=False)
+                                    except json.JSONDecodeError:
+                                        pass
+                                    break
+
+                if not json_str:
+                    print(f"  [retry {attempt+1}/3] Pas de JSON (key='{key}' found={key_pos >= 0})")
+                    del content, json_str
+                    time.sleep(args.delay)
+                    continue
+
+                try:
+                    result = json.loads(json_str)
+                except json.JSONDecodeError as e:
+                    print(f"  [retry {attempt+1}/3] JSON invalide: {e}")
+                    del content, json_str
+                    time.sleep(args.delay)
+                    continue
+
                 with open(output_file, "w", encoding="utf-8") as f:
                     json.dump(result, f, indent=2, ensure_ascii=False)
+                del result, content, json_str, prompt
+                saved = True
                 done += 1
                 print(f"  [OK] {tile_num}")
-            else:
-                print(f"  [ERREUR] JSON non detecte")
+                break
+
+            if not saved:
+                print(f"  [ERREUR] 3 tentatives echouees")
+
+            del sf, csv_desc, filtered_sf
 
         except Exception as e:
             print(f"  [ERREUR] {e}")
+
+        gc.collect()
 
         if i < total:
             time.sleep(args.delay)
 
         if i % 10 == 0:
-            gc.collect()
             log_memory()
+
+        # Restart ollama toutes les 50 tuiles pour liberer la memoire
+        if i % 50 == 0 and i < total:
+            restart_ollama()
+            client = Client()
 
     print(f"\n=== TERMINE - {done} regenerees, {skipped} sautees ===")
 
