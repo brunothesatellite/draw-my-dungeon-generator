@@ -83,22 +83,6 @@ def extract_json(text: str) -> dict:
     return json.loads(match.group())
 
 
-_language_tool = None
-_lt_utils = None
-
-def corriger_texte(texte: str) -> str:
-    """Corrige grammaire et orthographe du texte français via LanguageTool."""
-    global _language_tool, _lt_utils
-    if _language_tool is None:
-        import language_tool_python
-        print("  [ortho] Chargement de LanguageTool...")
-        _language_tool = language_tool_python.LanguageTool("fr")
-        _lt_utils = language_tool_python.utils
-    matches = _language_tool.check(texte)
-    if matches:
-        print(f"  [ortho] {len(matches)} erreur(s) corrigee(s)")
-    return _lt_utils.correct(texte, matches)
-
 
 import random
 
@@ -288,14 +272,9 @@ def phase2_writer(client: Client, tile_number: int, csv_desc: str, features: dic
     return extract_json(content)
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Analyse OSR d'une tuile de donjon")
-    parser.add_argument("tile_number", type=int, help="Numero de la tuile a analyser")
-    parser.add_argument("--no-correct", action="store_true", help="Desactiver la correction orthographique")
-    args = parser.parse_args()
-
-    tile_number = args.tile_number
-    do_correct = not args.no_correct
+def process_tile(tile_number: int, do_correct: bool, client: Client, lt_utils=None, lt_tool=None) -> tuple:
+    """Traite une tuile et retourne (features, result, lt_utils, lt_tool)."""
+    import gc
 
     tile_path = find_tile_image(tile_number)
     csv_desc = get_csv_description(tile_number)
@@ -303,8 +282,6 @@ def main():
     print(f"Tuile {tile_number} : {tile_path.name}")
     if csv_desc:
         print(f"  CSV : {csv_desc}")
-
-    client = Client()
 
     # Phase 1 : analyse visuelle
     features = phase1_vision(client, tile_path)
@@ -317,10 +294,21 @@ def main():
     if do_correct:
         print("  [3/3] Correction orthographique...")
         tile_data = result.get(str(tile_number), result)
+        if lt_tool is None:
+            import language_tool_python
+            print("  [ortho] Chargement de LanguageTool...")
+            lt_tool = language_tool_python.LanguageTool("fr")
+            lt_utils = language_tool_python.utils
         if "description" in tile_data:
-            tile_data["description"] = corriger_texte(tile_data["description"])
+            matches = lt_tool.check(tile_data["description"])
+            if matches:
+                print(f"  [ortho] {len(matches)} erreur(s) corrigee(s)")
+            tile_data["description"] = lt_utils.correct(tile_data["description"], matches)
         if "title" in tile_data:
-            tile_data["title"] = corriger_texte(tile_data["title"])
+            matches = lt_tool.check(tile_data["title"])
+            if matches:
+                print(f"  [ortho] {len(matches)} erreur(s) corrigee(s)")
+            tile_data["title"] = lt_utils.correct(tile_data["title"], matches)
 
     # Phase 4 : variation des ouvertures
     tile_data = result.get(str(tile_number), result)
@@ -339,6 +327,70 @@ def main():
         json.dump(result, f, indent=2, ensure_ascii=False)
 
     print(f"\n[OK] Description enregistree dans {output_file}")
+
+    # Nettoyage memoire
+    del features, result, tile_data
+    gc.collect()
+
+    return lt_utils, lt_tool
+
+
+def log_memory():
+    """Affiche l'utilisation memoire."""
+    import psutil
+    p = psutil.Process()
+    ram = p.memory_info().rss / 1024 / 1024
+    sys_mem = psutil.virtual_memory()
+    sys_free = sys_mem.available / 1024 / 1024 / 1024
+    print(f"  [mem] RAM process: {ram:.0f} Mo | RAM libre: {sys_free:.1f} Go")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Analyse OSR d'une tuile de donjon")
+    parser.add_argument("tile_number", type=int, nargs="?", help="Numero de la tuile a analyser")
+    parser.add_argument("--start", type=int, help="Premiere tuile (mode batch)")
+    parser.add_argument("--end", type=int, help="Derniere tuile (mode batch)")
+    parser.add_argument("--no-correct", action="store_true", help="Desactiver la correction orthographique")
+    parser.add_argument("--delay", type=int, default=2, help="Delai en secondes entre les tuiles (defaut: 2)")
+    args = parser.parse_args()
+
+    # Mode batch : --start 128 --end 460
+    if args.start is not None and args.end is not None:
+        import gc, time, psutil
+        client = Client()
+        lt_utils = None
+        lt_tool = None
+        total = args.end - args.start + 1
+
+        print(f"=== Batch {args.start} -> {args.end} ({total} tuiles) ===")
+        log_memory()
+
+        for i, tile_num in enumerate(range(args.start, args.end + 1), 1):
+            print(f"\n--- [{i}/{total}] Tuile {tile_num} ---")
+            try:
+                lt_utils, lt_tool = process_tile(tile_num, not args.no_correct, client, lt_utils, lt_tool)
+            except Exception as e:
+                print(f"  [ERREUR] Tuile {tile_num}: {e}")
+                continue
+
+            # Delai pour laisser la memoire se stabiliser
+            if i < total:
+                print(f"  [wait] {args.delay}s...")
+                time.sleep(args.delay)
+
+            # Log memoire tous les 10 tuiles
+            if i % 10 == 0:
+                gc.collect()
+                log_memory()
+
+        print(f"\n=== TERMINE - {total} tuiles traitées ===")
+        return
+
+    # Mode single tile
+    if args.tile_number is None:
+        parser.error("Specifier tile_number ou --start/--end")
+
+    process_tile(args.tile_number, not args.no_correct, Client())
 
 
 if __name__ == "__main__":
