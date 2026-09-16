@@ -180,13 +180,13 @@ body {
 
 /* COLA : collapses left */
 .cola {
-    width: 160px;
+    width: 280px;
     flex-shrink: 0;
     align-self: stretch;
 }
 
 .cola[open] {
-    width: 160px;
+    width: 280px;
 }
 
 .cola:not([open]) {
