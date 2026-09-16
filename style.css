@@ -490,6 +490,10 @@ body {
     word-break: break-word;
 }
 
+.flavor-description .feature-item--full {
+    grid-column: 1 / -1;
+}
+
 .flavor-description .feature-label {
     font-size: 11px;
     color: var(--text-secondary);

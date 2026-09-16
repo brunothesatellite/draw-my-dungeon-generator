@@ -1013,7 +1013,7 @@ function formatFeatureName(key) {
         'hazards': 'Dangers',
         'atmosphere': 'Atmosphère',
         'roomPurpose': 'Usage de la pièce',
-        'csvDescription': 'Description CSV',
+        'csvDescription': 'Notes de l\'auteur',
         'tileNumber': 'Numéro de tuile'
     };
     return names[key] || key;
@@ -1032,10 +1032,14 @@ function generateFeaturesHTML(features) {
     let html = '<div class="section-title">Caractéristiques</div>';
     html += '<div class="features-grid">';
     
-    for (const [key, value] of Object.entries(features)) {
-        if (key === 'tileNumber') continue; // On affiche le numéro ailleurs
+    const orderedKeys = ['csvDescription', ...Object.keys(features).filter(k => k !== 'csvDescription')];
+    
+    for (const key of orderedKeys) {
+        if (key === 'tileNumber') continue;
+        const value = features[key];
+        const fullW = key === 'csvDescription' ? ' feature-item--full' : '';
         
-        html += '<div class="feature-item">';
+        html += `<div class="feature-item${fullW}">`;
         html += `<div class="feature-label">${formatFeatureName(key)}</div>`;
         
         if (Array.isArray(value) && value.length > 0) {
