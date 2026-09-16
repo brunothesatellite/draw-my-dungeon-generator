@@ -366,7 +366,7 @@ async function renderGridToCanvas() {
     const firstCell = cells[0];
     const cellW = firstCell.getBoundingClientRect().width;
     const cellH = firstCell.getBoundingClientRect().height;
-    const gap = 5;
+    const gap = 1;
     const totalW = cols * cellW + (cols - 1) * gap;
     const totalH = rows * cellH + (rows - 1) * gap;
     const scale = 2;
@@ -691,7 +691,7 @@ function updateAvailableTiles(folder) {
 function fitCells() {
     const pad = 60;
     const containerBorder = 4;
-    const gap = 5;
+    const gap = 1;
     const contentW = gridArea.clientWidth - pad;
     const contentH = gridArea.clientHeight - pad;
     if (contentW <= 0 || contentH <= 0) return;

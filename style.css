@@ -42,7 +42,7 @@
     --shadow-md: 0 4px 12px rgba(60, 36, 21, 0.12);
     --shadow-lg: 0 10px 25px rgba(60, 36, 21, 0.2);
 
-    --grid-gap: 5px;
+    --grid-gap: 1px;
     --radius-sm: 3px;
     --radius-md: 6px;
     --radius-lg: 10px;
