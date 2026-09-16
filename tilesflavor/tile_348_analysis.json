@@ -1,13 +1,13 @@
 {
   "348": {
-    "title": "Grotte des Anciens",
-    "description": "Vous pénétrez dans une grotte étroite, où la lumière filtre à travers une fente étroite au plafond. Des branches s'entrelacent autour de vous, créant un tapis naturel qui semble avoir été sculpté par le temps. Après avoir franchi une série de planches instables, vous vous trouvez devant une arche majestueuse, comme si vous aviez passé un test de survie. La grotte est petite et irrégulière, avec des murs vieillis qui portent les stigmates de l'âge. Des cercles rituels sont gravés dans le sol, et des piliers et des colonnes soutiennent la structure. Un autel, orné de têtes de mort et de tentacules, domine le centre de la grotte. Une table, ancienne et usée, est placée à côté de l'autel. L'atmosphère est sinistre, accentuée par l'eau stagnante qui s'accumule dans les coins. Cette grotte est la salle de rituel des Anciens, un lieu où les secrets les plus sombres sont gardés.",
+    "title": "Passage des Planches Instables",
+    "description": "Dans cette grotte étroite et sombre, les branches s'entrelacent autour de vous, formant un toit naturel qui vous protège des regards éventuels. À la fin du couloir, une arche majestueuse se dresse, comme une porte vers l'inconnu. Pour la traverser, vous devez passer par-dessus des planches instables, un piège qui pourrait vous faire perdre l'équilibre. La grotte est petite et irrégulière, avec des murs vieillis qui racontent des siècles d'histoire. La lumière est faible, filtrant à travers des fentes minuscules, créant un jeu de lumière et d'ombre qui rend l'atmosphère sinistre et oppressante. Des cercles rituels sont gravés dans le sol, indiquant que cette grotte a été utilisée pour des rituels mystiques. Des piliers et des colonnes robustes soutiennent le plafond, ajoutant à l'ambiance de mystère. Un simple table est posée dans un coin, peut-être utilisée pour les sacrifices ou les rituels. L'eau stagnante au fond de la grotte est un danger à ne pas sous-estimer, car elle peut vous entraîner vers l'abîme.",
     "tags": [
-      "grotte",
-      "rituel",
-      "sombre",
-      "secrets",
-      "anciens"
+      "Couloir",
+      "Grotte",
+      "Rituels",
+      "Instabilités",
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

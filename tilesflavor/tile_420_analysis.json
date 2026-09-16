@@ -1,13 +1,13 @@
 {
   "420": {
-    "title": "Salle des Latrines Sacrées",
-    "description": "Cette petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels, émane d'une atmosphère mystérieuse et menaçante. La faible lumière qui filtre à travers les fenêtres usées révèle des piliers massifs qui soutiennent le plafond. Des têtes de mort et des tentacules étranges ornent les murs, ajoutant à l'ambiance lugubre. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Un baril, probablement rempli d'eau stagnante, occupe un coin de la pièce, ajoutant à l'atmosphère de décrépitude. L'air est chargé d'une odeur nauséabonde, et les cercles rituels au sol semblent inviter à des pratiques obscures. Cette salle, bien qu'apparemment insignifiante, semble être le cœur d'un culte ancien, et les traces de pièges dissimulés dans les murs indiquent que ceux qui s'y aventurent le font à leur propre risque.",
+    "title": "Salle des Latrines avec Baril",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au sol. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère menaçante. Des piliers robustes soutiennent le plafond, et le mobilier ancien est réparti autour de la pièce. Un baril de bois, usé par le temps, occupe un coin de la salle, son contenu inconnu. La faible lumière qui pénètre à travers les fenêtres voilées accentue l'ambiance mystérieuse de la pièce. Les cercles rituels au sol indiquent que cette salle a probablement été utilisée pour des rituels ou des cultes. L'eau stagnante dans un coin de la pièce est un danger potentiel pour les explorateurs. La salle semble abandonnée depuis longtemps, mais les traces de vieilles pratiques surnaturelles sont encore visibles.",
     "tags": [
-      "Salle des Latrines",
-      "Salle Sacrée",
-      "Culte Ancien",
-      "Atmosphère Menacante",
-      "Salle des Rituels"
+      "salle des latrines",
+      "baril",
+      "rituels",
+      "mystérieuse",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

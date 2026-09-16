@@ -960,10 +960,7 @@ async function loadTileFlavorData(tileNumber) {
         return TILES_FLAVOR_DATA;
     }
     
-    // 2. Fallback fetch (pour les serveurs web sans tiles_flavor.js) — impossible en file://
-    if (location.protocol === 'file:') {
-        return null;
-    }
+    // 2. Fallback fetch (pour les serveurs web sans tiles_flavor.js)
     try {
         const response = await fetch(`tilesflavor/tile_${tileNumber}_analysis.json`);
         if (!response.ok) {

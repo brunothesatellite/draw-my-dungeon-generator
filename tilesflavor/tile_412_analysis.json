@@ -1,12 +1,12 @@
 {
   "412": {
     "title": "Couloir des Anciens",
-    "description": "Le couloir est étroit et sinueux, ses murs sont recouverts de peintures sombres et de symboles énigmatiques. Des cercles rituels marquent le sol, et des piliers massifs soutiennent le plafond. Le couloir est faiblement éclairé, ce qui ajoute à son atmosphère sinistre. Des têtes de mort et des tentacules peints sur les murs semblent observer les passants. Des traces de créatures mystérieuses sont visibles sur le sol, et une eau stagnante s'accumule dans un coin, rendant le passage dangereux. À l'extrémité du couloir, une porte murée cache son contenu, et un crâne de démon est accroché au mur, ajoutant une touche macabre à l'ensemble. Cette ancienne salle de rituel semble avoir été abandonnée depuis longtemps, mais les secrets qu'elle cache sont nombreux et dangereux.",
+    "description": "Le couloir est étroit et rectangulaire, avec des murs vieillis et des pierres qui s'accumulent au sol, bloquant la progression. Un crâne de démon, étrangement intact, repose contre le mur, comme s'il avait été jeté là par un ancien maître. Les murs sont ornés de cercles rituels, des symboles mystiques qui semblent avoir été gravés il y a des siècles. Des piliers massifs soutiennent le plafond, et le mobilier ancien, usé par le temps, est disséminé ici et là. La lumière est faible, filtrant à travers des fissures dans le plafond, créant un halo sinistre. L'eau stagnante, noire et trouble, remplit une partie du couloir, ajoutant une touche de danger à l'atmosphère déjà oppressante. La porte murée à l'extrémité semble être le seul moyen de sortir de ce lieu, mais elle est fermée et verrouillée. Les traces de créatures étranges sont visibles sur le sol, comme si quelqu'un avait tenté de s'échapper de ce lieu maudit.",
     "tags": [
       "couloir",
+      "anciens",
       "rituel",
-      "ancien",
-      "macabre",
+      "démon",
       "sinistre"
     ],
     "sourceFeatures": {

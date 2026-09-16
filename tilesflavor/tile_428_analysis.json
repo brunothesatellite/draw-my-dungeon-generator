@@ -1,13 +1,13 @@
 {
   "428": {
-    "title": "Salle des Rituels Glacée",
-    "description": "La salle est petite et rectangulaire, avec un sol couvert de cercles rituels. La faible lumière qui pénètre à travers les voiles de neige qui recouvrent les fenêtres donne une ambiance mystérieuse et ancienne. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'atmosphère. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté de ce lieu. L'eau stagnante, qui s'est formée dans un coin, est un danger potentiel. La seule sortie mène à un couloir sombre, où l'on peut deviner les traces de rituels anciens gravés dans le sol.",
+    "title": "Salle des Glaces",
+    "description": "La salle des Glaces est une petite pièce rectangulaire, vieillie et recouverte d'une fine couche de glace qui s'écaille sous vos pas. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les cercles rituels gravés au sol, qui semblent avoir été dessinés il y a des siècles. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. Le mobilier ancien, délabré, est empilé dans un coin, tandis qu'une eau stagnante s'accumule dans un coin de la pièce, créant un miroir glacial qui reflète les ombres qui hantent l'endroit. L'atmosphère est mystérieuse et ancienne, comme si les murs avaient entendu des secrets millénaires. La seule issue de cette salle est un couloir étroit qui semble mener à l'inconnu.",
     "tags": [
-      "Salle des Rituels",
-      "Ancien",
-      "Mystère",
-      "Neige",
-      "Tentacules"
+      "glace",
+      "rituels",
+      "salle",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

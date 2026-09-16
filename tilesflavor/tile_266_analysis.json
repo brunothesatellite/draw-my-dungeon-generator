@@ -1,13 +1,13 @@
 {
   "266": {
-    "title": "Passage des Anciens",
-    "description": "Le passage est étroit et bas, avec un plafond voûté qui semble avoir été sculpté par les mains de l'oubli. La lumière pénètre à peine à travers les fissures dans le plafond, créant un halo de ténèbres qui danse sur les murs. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été oublié depuis des siècles. Des piliers massifs soutiennent le passage, leurs surfaces usées par le temps et les éternités. Des tentures sombres, tachées de sang séché, flottent au vent, ajoutant à l'atmosphère sinistre. Un autel, couvert de têtes de mort et de tentacules, se dresse au fond du passage, comme si des forces obscures y avaient été invoquées. Un squelette, probablement celui d'un ancien maître de ce lieu, repose sur une table au centre du passage, comme s'il avait été sacrifié. L'eau stagnante, noire et putride, remplit une partie du passage, créant un obstacle potentiel. À l'extrémité du passage, une fenêtre laisse filtrer une lumière froide, révélant un paysage sombre et désolé. Les murs sont recouverts de peintures anciennes, difficiles à distinguer, mais qui semblent raconter des histoires de sacrifices et de rituels obscurs.",
+    "title": "Salle de Rituel dans l'Égout",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée et vieillie, semble être un lieu de rituel. Des cercles rituels marquent le sol, et des piliers et tentures ornent les murs. Une table se trouve au centre, et une planche y est posée pour former un pont. Une fenêtre permet d'apercevoir l'extérieur, tandis que de l'eau stagnante menace les visiteurs. L'atmosphère sinistre est accentuée par les têtes de mort et les tentacules suspendus aux murs. Un squelette est visible dans un coin, ajoutant à l'ambiance lugubre de cette salle de rituel.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Sacrifices",
-      "Rituels",
-      "Ténèbres"
+      "rituel",
+      "égout",
+      "sinistre",
+      "salle de prière",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "égout avec une planche utilisée pour faire un pont",
       "tileNumber": 266

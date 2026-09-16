@@ -1,13 +1,13 @@
 {
   "446": {
     "title": "Cage Carrée dans Grande Salle",
-    "description": "Dans cette grande salle, les murs sont recouverts de peintures sombres et vieillies, qui semblent avoir été peintes par des mains expertes. La lumière pénètre à peine à travers les fenêtres brisées, créant un halo de ténèbres qui se répand sur le sol. La salle est rectangulaire et petite, avec des piliers massifs qui soutiennent le plafond voûté. Des cercles rituels sont gravés dans le sol, marquant un espace sacré au centre de la pièce. Des têtes de mort et des tentacules peints sur les murs ajoutent une atmosphère sinistre à l'ensemble. Le mobilier est ancien et usé, avec des meubles qui semblent avoir été utilisés pour des rituels obscurs. Une porte à l'extrémité de la salle semble être la seule issue, mais l'eau stagnante qui s'est formée au sol rend l'accès difficile. Cette salle est dédiée à un culte ancien, et les cercles rituels indiquent qu'elle est utilisée pour des cérémonies sacrées.",
+    "description": "Dans cette grande salle rectangulaire, la lumière faible éclaire les murs vieillis, révélant des cercles rituels gravés au sol. Des piliers robustes soutiennent le plafond, tandis que des cercles rituels marquent le sol, évoquant une ancienne cérémonie. Un mobilier ancien est dissimulé dans un coin, ajoutant à l'atmosphère sinistre de la pièce. La cage carrée, suspendue au centre de la salle, semble avoir été utilisée pour des sacrifices. L'eau stagnante au sol indique un danger potentiel. La porte à l'extrémité de la salle semble être le seul moyen de quitter cette salle de culte, où les tentacules et les têtes de mort sont visibles sur les murs, rappelant l'horreur qui réside ici.",
     "tags": [
-      "Salle de Culte",
-      "Ancien Culte",
-      "Salle Sacrée",
-      "Salle Ancienne",
-      "Salle Sacrée"
+      "salle de culte",
+      "cage carrée",
+      "rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

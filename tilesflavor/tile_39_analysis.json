@@ -1,13 +1,13 @@
 {
   "39": {
     "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La faible lumière qui pénètre à travers la fenêtre ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et une table ancienne est placée au centre de la pièce. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle est dédiée à des rituels sacrés, et les cercles rituels marquent les emplacements où les participants devaient se tenir.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Au centre de la pièce, un autel est entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et une table trône au fond de la pièce. Un squelette, probablement celui d'un ancien initiateur, repose au coin, ajoutant à l'atmosphère sinistre. Une fenêtre permet une faible lumière, et l'eau stagnante dans un coin de la pièce est un danger à ne pas négliger. Cette salle, bien qu'obscure, semble avoir été le cœur des anciens rituels.",
     "tags": [
       "rituel",
+      "ancien",
+      "salle",
       "sacrifice",
-      "vieillie",
-      "sinistre",
-      "salle"
+      "squelette"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

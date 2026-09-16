@@ -1,13 +1,13 @@
 {
   "429": {
-    "title": "Salle du Conseil Sacrée",
-    "description": "La salle du conseil sacrée est une petite pièce ovale, éclairée par une faible lumière qui se répand doucement à travers les fenêtres brisées. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond voûté. Des chaises et une table ancienne sont disposées au centre, témoignant de l'importance de ce lieu. L'atmosphère est mystérieuse et menaçante, comme si les esprits des ancêtres observaient encore les rituels qui y étaient célébrés. L'eau stagnante au fond de la pièce ajoute à l'ambiance lugubre, rappelant les dangers potentiels qui pourraient se cacher dans ce lieu sacré.",
+    "title": "Salle du Conseil des Anciens",
+    "description": "La salle du conseil des Anciens est petite et ovale, éclairée par une faible lumière qui se répand doucement à travers les colonnes massives. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant l'ancienne gloire de cette salle de culte. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Le mobilier ancien, incluant une table et des chaises, semble avoir été oublié depuis des siècles. L'atmosphère est mystérieuse et menaçante, comme si les esprits des anciens observaient encore les rituels qui y étaient autrefois pratiqués. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre, rendant l'endroit encore plus inquiétant.",
     "tags": [
-      "Salle du Conseil",
-      "Rituels Sacrés",
-      "Anciens Cultes",
-      "Atmosphère Menaçante",
-      "Salle Sacrée"
+      "salle du conseil",
+      "rituels",
+      "colonne",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

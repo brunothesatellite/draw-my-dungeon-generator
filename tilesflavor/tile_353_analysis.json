@@ -1,13 +1,13 @@
 {
   "353": {
-    "title": "Salle des Sacrifices",
-    "description": "Vous pénétrez dans une salle rectangulaire, minuscule et sombre, où la vieillesse et l'abandon se sont emparés. Les murs, une fois blancs, sont aujourd'hui tachés de mousse et de boue, et des têtes de mort et des tentacules étranges sont collés ici et là, comme si un ancien culte avait laissé ses traces. Des cercles rituels sont gravés au sol, marquant l'ancien emplacement d'un autel. Des piliers massifs soutiennent le plafond, et une table, usée par le temps, est posée au centre de la pièce. Des branches et des pierres spéciales sont disséminées sur le sol, formant un piège complexe. Un tonneau, probablement rempli d'eau stagnante, est posé dans un cul-de-sac, prêt à se renverser à tout moment. La salle est enveloppée d'une atmosphère mystérieuse et menaçante, comme si elle gardait un secret ancien et terrifiant.",
+    "title": "La Cage du Cul-de-sac",
+    "description": "Le souterrain est un réseau de couloirs étroits et tortueux, parsemé de pièges mortels. Des pointes acérées sortent des murs, prêtes à percer les carapaces des intrus. Des branches mortes et des pierres spéciales, sculptées de motifs étranges, jonchent le sol. Dans un cul-de-sac, une petite cage en bois, ancienne et rouillée, est suspendue au bout d'un câble. À côté, un tonneau de bois, usé par le temps, semble avoir été oublié ici. La lumière est faible, filtrant à travers des fissures dans le plafond, donnant une ambiance mystérieuse et menaçante à l'endroit. Les murs vieillis montrent des traces de vieilles peintures murales, dont certaines sont difficiles à distinguer. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sombre et ancienne du lieu. La pièce semble avoir été utilisée pour des rituels ou des cultes, comme le suggèrent les cercles rituels gravés dans le sol. L'eau stagnante dans un coin ajoute à l'atmosphère lugubre de l'endroit.",
     "tags": [
-      "Salle",
-      "Sacrifice",
-      "Ancien Culte",
+      "Couloir",
       "Pièges",
-      "Mystère"
+      "Souterrain",
+      "Cage",
+      "Cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,12 @@
 {
   "184": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol couvert de cercles rituels et de glyphes runiques. Les murs vieillis sont ornés de tentures et de têtes de mort, tandis que des piliers majestueux soutiennent le plafond. Un grand escalier, orné de tentacules, monte vers un autel mystérieux. La lumière est faible, créant une ambiance sinistre. Des pièges anciens sont dissimulés dans les recoins, et l'eau stagnante menace les explorateurs. Cette salle, ancienne et sacrée, semble avoir été utilisée pour des rituels majeurs.",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. Un obélisque majestueux domine le centre de la pièce, entouré de colonnes massives qui soutiennent un grand escalier menant à un étage supérieur. Les murs sont ornés de tentures sombres et de piliers robustes, tandis que des cercles rituels et des glyphes runiques marquent le sol. Des cercles de lumière faible éclairent la pièce, ajoutant à son ambiance sinistre. Le mobilier ancien est disséminé autour de la salle, et une porte murée se trouve à l'extrémité de la pièce. L'eau stagnante recouvre le sol dans une partie de la salle, rendant l'atmosphère encore plus menaçante. Cette salle était probablement utilisée pour des rituels anciens, et les traces de pièges anciens suggèrent qu'elle a été utilisée pour des sacrifices.",
     "tags": [
       "rituels",
-      "salle",
-      "vieillie",
-      "mystérieuse",
-      "ancienne"
+      "anciens",
+      "escalier",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

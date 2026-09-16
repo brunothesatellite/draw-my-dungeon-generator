@@ -1,13 +1,12 @@
 {
   "356": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière. Des cercles rituels sont gravés dans le sol, entourant une tête de mort qui semble émerger du sol. Des piliers massifs soutiennent le plafond, et un autel est placé au centre de la pièce. Un tonneau et une coffre sont visibles, mais la salle est vide de tout signe de vie récente. Les anciens pièges sont toujours en place, prêts à se déclencher.",
+    "description": "La salle est petite et irrégulière, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Les murs vieillis sont marqués de cercles rituels, et des piliers robustes soutiennent le plafond. Un trou mène à l'obscurité, et un tonneau en bois est posé au centre de la pièce. À un angle, un coffre de fer est fermé, mais son contenu reste un mystère. Un autel sombre est placé contre un mur, et une tête de mort sculptée y repose, ajoutant une touche macabre à l'ensemble. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La salle semble avoir été utilisée pour des rituels sombres, et les tentacules qui s'agissent dans l'air ajoutent une note d'horreur à l'atmosphère.",
     "tags": [
       "salle",
       "rituels",
-      "vieillie",
       "tête de mort",
-      "piliers"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

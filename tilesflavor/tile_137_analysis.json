@@ -1,13 +1,13 @@
 {
   "137": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant un chemin ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un autel central, orné de têtes de mort et de tentacules, semble être le point focal de ce lieu. Une table, ancienne et usée, repose contre un mur, peut-être utilisée pour des rituels obscurs. L'eau stagnante au fond du passage ajoute une touche de danger, et une porte ouverte au bout du couloir semble être le seul moyen de quitter ce lieu sinistre. Les murs sont parsemés de têtes de mort et de tentacules, et l'atmosphère est oppressante, rendant l'endroit propice pour des rituels anciens.",
+    "title": "Le Couloir des Pointes",
+    "description": "Le couloir est étroit et sinistre, avec des murs vieillis et des piliers massifs qui semblent avoir vu des siècles d'abandon. Le sol est couvert de cercles rituels anciens, leurs motifs érodés par le temps. À mesure que vous avancez, vous remarquez neuf trous sur le sol, comme des pointes ou des lances pourraient sortir à tout moment. L'air est lourd et chargé d'une atmosphère sinistre, accentuée par l'éclairage faible qui filtre à travers des fenêtres brisées. Des têtes de mort et des tentacules émergent des murs, ajoutant à l'effrayante ambiance. À l'extrémité du couloir, une porte ouverte révèle une eau stagnante et un autel ancien, où des cercles rituels sont gravés dans le sol. Un vieux tableau, délavé, est posé contre le mur, mais il est difficile de distinguer ce qu'il représente.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Sombre"
+      "couloir",
+      "rituel",
+      "têtes de mort",
+      "tentacules",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "206": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels et de glyphes runiques qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et un autel sombre se dresse au fond, orné de têtes de mort et de tentacules qui semblent émerger du sol. Un tableau de pierre, posé sur une table, semble attendre un mystérieux rituel. L'eau stagnante au fond du passage, à peine visible, semble prête à se lever à tout moment. La porte à l'extrémité semble fermée, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose veillait sur ce lieu. Les murs sont parsemés de traces de créatures, et l'atmosphère sinistre est accentuée par les ombres qui dansent sur les pierres vieillies.",
+    "title": "Couloir des Escaliers",
+    "description": "Le couloir des Escaliers est étroit et sombre, éclairé par une faible lumière qui filtre à travers des voiles de poussière. Les murs, usés par le temps, sont recouverts de cercles rituels et de glyphes runiques, des symboles mystiques qui semblent avoir été gravés il y a des siècles. Des piliers massifs, usés par l'humidité, soutiennent le plafond qui semble prêt à s'effondrer. À la fin du couloir, une série d'escaliers de descente mène à un niveau inférieur, où l'air est plus frais et où l'humidité est plus prononcée. Des traces de créature sont visibles sur le sol, indiquant que quelqu'un a récemment descendu ces escaliers. À l'extrémité du couloir, une porte ancienne, légèrement évasée, semble être le seul moyen de quitter ce lieu sinistre. L'atmosphère est oppressante, et l'air humide semble chargé d'une tension inquiétante.",
     "tags": [
+      "escaliers",
+      "descendre",
       "couloir",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "passage"
+      "sinistre",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Couloir avec escaliers de descente",
       "tileNumber": 206

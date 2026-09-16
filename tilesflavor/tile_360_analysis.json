@@ -1,13 +1,12 @@
 {
   "360": {
     "title": "Salle des Anciens",
-    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques qui pourraient avoir habité ces lieux. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ajoutent une touche d'ancienneté à l'architecture. Le mobilier, composé de tables et de chaises, semble avoir été utilisé pour des assemblées ou des sacrifices. L'eau stagnante au fond de la salle, combinée à l'atmosphère sinistre, crée une ambiance de mystère et de danger. La seule issue de cette salle semble menacer un passage obscur, promettant des surprises inattendues pour ceux qui oseraient y pénétrer.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues majestueuses dominent l'architecture. Des boîtes et des tonneaux, probablement utilisés pour stocker des objets sacrés, sont visibles dans la pièce. Le mobilier, incluant des tables et des chaises, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre de la salle est accentuée par l'eau stagnante qui s'est formée dans un coin, rendant l'endroit dangereux. La seule issue de cette salle semble être un escalier menant à un niveau inférieur, où l'on peut espérer trouver d'autres secrets.",
     "tags": [
       "salle de culte",
       "rituels anciens",
-      "atmosphère sinistre",
-      "eau stagnante",
-      "têtes de mort"
+      "salle des anciens",
+      "salle de donjon"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

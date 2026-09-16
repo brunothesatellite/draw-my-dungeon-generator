@@ -1,13 +1,12 @@
 {
   "341": {
-    "title": "Grotte des Anciens Sacrifices",
-    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. La faible lumière qui pénètre à travers les fissures naturelles éclaire vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sinistre de la grotte. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Des boîtes et des tonneaux sont empilés contre le mur, laissant entrevoir des objets mystérieux. La grotte semble vieillie, avec des traces de vieilles peintures murales qui se détachent. Une porte murée au fond de la grotte semble être l'unique sortie, mais elle est bloquée par une eau stagnante qui remonte jusqu'à mi-hauteur. La grotte est un lieu de rituel ancien, où des sacrifices ont probablement eu lieu il y a des siècles.",
+    "title": "Grotte des Anciens",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des stalactites qui tombent du plafond. La lumière pénètre à peine à travers une petite ouverture au sommet, créant un halo de faible éclat qui éclaire la pièce. Le sol est recouvert de cendres et de poussière, marqué de cercles rituels anciens qui semblent avoir été dessinés il y a des siècles. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. À l'intérieur, une table en bois usée est placée au centre, entourée de chaises en osier vieillies. À côté de la table, plusieurs boîtes et tonneaux sont empilés, leurs couvercles légèrement ouverts, révélant des objets mystérieux à l'intérieur. L'atmosphère est sinistre et l'air est chargé d'une odeur de poussière et de mystère ancien. À l'entrée, une porte ancienne semble avoir été taillée dans le rocher, menant à un autre mystère. L'eau stagnante se forme dans un coin, ajoutant à l'ambiance lugubre de la grotte.",
     "tags": [
       "grotte",
       "rituel",
-      "sacrifice",
-      "vieillie",
-      "sinistre"
+      "boîtes",
+      "tonneaux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

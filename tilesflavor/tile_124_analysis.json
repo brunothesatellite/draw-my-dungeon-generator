@@ -1,13 +1,13 @@
 {
   "124": {
-    "title": "La Salle des Ténèbres",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des têtes de mort et des tentacules étranges grimpent sur les murs, ajoutant une atmosphère de mystère et de danger. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des têtes de mort et des tentacules étranges grimpent sur les murs, ajoutant une atmosphère de mystère et de danger. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle. Des cercles de lumière émergent de l'eau stagnante qui recouvre le sol, révélant des oiseaux étranges qui se déplacent avec une grâce sinistre. Un autel central, orné de symboles obscurs, semble être le point focal de cette salle.",
+    "title": "Salle des Tentacules",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis, où des créatures étranges et petites grimpent avec une lenteur presque hypnotique. Un tentacule étrange sort d'un trou dans le mur, semblant surveiller les alentours. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des traces de vieilles pierres sont visibles. Le mobilier, usé et délabré, semble avoir été oublié depuis longtemps. L'atmosphère mystérieuse et menaçante est accentuée par l'eau stagnante qui s'accumule dans un coin de la pièce. Cette salle, bien qu'ancienne, semble être un lieu de culte, où des rituels étranges sont peut-être encore pratiqués.",
     "tags": [
-      "salle de culte",
-      "rituels",
-      "ténèbres",
-      "têtes de mort",
-      "tentacules"
+      "salle",
+      "rituel",
+      "tête de mort",
+      "tentacule",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
