@@ -722,9 +722,7 @@ function createGrid(cols = currentCols, rows = currentRows) {
             cell.dataset.col = col;
             cell.addEventListener('click', handleCellClick);
             cell.addEventListener('contextmenu', handleCellRightClick);
-            // cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
-            // cell.addEventListener('mouseleave', handleMouseLeave);
-            // cell.addEventListener('mousemove', handleMouseMove);
+            cell.addEventListener('dblclick', handleCellDblClick);
             gridContainer.appendChild(cell);
         }
     }
@@ -884,9 +882,7 @@ function applyNewGridData(newData, restoreZoom = false) {
             cell.dataset.col = c;
             cell.addEventListener('click', handleCellClick);
             cell.addEventListener('contextmenu', handleCellRightClick);
-            // cell.addEventListener('mouseenter', (e) => handleMouseEnter(e, cell));
-            // cell.addEventListener('mouseleave', handleMouseLeave);
-            // cell.addEventListener('mousemove', handleMouseMove);
+            cell.addEventListener('dblclick', handleCellDblClick);
 
             const tileInfo = newData[r][c];
             if (tileInfo) {
@@ -1312,6 +1308,26 @@ function handleCellRightClick(e) {
         saveState();
         clearFlavor();
     }
+    e.preventDefault();
+}
+
+function handleCellDblClick(e) {
+    const cell = e.target.closest('.cell');
+    if (!cell || cell.classList.contains('empty')) return;
+    const img = cell.querySelector('img');
+    if (!img) return;
+    const tileInfo = getTileInfoFromCell(cell);
+    if (!tileInfo) return;
+    activeFlavorCell = cell;
+    activeTileData = {
+        fileName: tileInfo.fileName,
+        folderName: tileInfo.folderName,
+        rotation: tileInfo.rotation,
+        mirrorH: tileInfo.mirrorH,
+        mirrorV: tileInfo.mirrorV
+    };
+    activeTileData.rotation = (parseInt(activeTileData.rotation) + 90) % 360;
+    applyTransformToActive();
     e.preventDefault();
 }
 
