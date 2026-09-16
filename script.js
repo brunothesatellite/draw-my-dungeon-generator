@@ -1165,27 +1165,6 @@ function setupFlavorEvents() {
             }, flavorHoverDelay);
         }
     }, true);
-
-    const fullscreenOverlay = document.getElementById('imageFullscreen');
-    const fullscreenImg = document.getElementById('imageFullscreenImg');
-    const fullscreenCaption = document.getElementById('imageFullscreenCaption');
-
-    flavorTile.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const img = flavorTile.querySelector('img');
-        if (!img) return;
-        fullscreenImg.src = img.src;
-        fullscreenImg.style.transform = img.style.transform;
-        const tileNum = img.alt.replace('Tuile ', '');
-        const rotMatch = img.style.transform.match(/rotate\((-?\d+)deg\)/);
-        const rotation = rotMatch ? rotMatch[1] : '0';
-        fullscreenCaption.textContent = `Tuile ${tileNum} — Rotation ${rotation}°`;
-        fullscreenOverlay.classList.add('open');
-    });
-
-    fullscreenOverlay.addEventListener('click', () => {
-        fullscreenOverlay.classList.remove('open');
-    });
 }
 
 // --- CELL EVENTS ---
