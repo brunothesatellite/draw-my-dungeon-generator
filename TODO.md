@@ -27,7 +27,7 @@ Du coup peut être pré-remplie la grille avec les cartes hachuré ou les mettre
 => [REJECT] Tuiles retirées du tirage, c'est le plus simple
 
 [23:33, 15/09/2026] Nicolas Beyleix: La deuxième réflexion c'est que c'est pas si bien de faire tourner la tuile quand tu clics dessus. Peut être ne pas le faire auto, cliquer c'est juste sélectionné la tuille et a droite tu as des outils pas exemple rotation et ajouter peut-être des transformations miroirs pour certains cas. Du coup ca permettrait potentiellement d'ajouter d'autre action, style tagger entrée, zone actuelle....
-=> [THINK] Bonne idée
+=> [FAIT] Bonne idée
 Dans cette branche je voudrai faire les évolutions suivantes :
 - sous flavorTile il y aura une barre d'outils avec les boutons suivants : rotation 90°, miroir horizontal, miroir vertical, reset. Ces boutons appliquent les transformations à flavorTile et à la tuile associée dans la grille
 rotation 90° : rotation de 90° vers la droite
