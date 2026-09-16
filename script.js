@@ -54,16 +54,21 @@ const maxZoom = 2;
 const zoomStep = 0.1;
 
 // --- PERSISTANCE localStorage ---
+let saveStateTimer = null;
 function saveState() {
-    try {
-        localStorage.setItem('dmd-grid-cols', currentCols);
-        localStorage.setItem('dmd-grid-rows', currentRows);
-        localStorage.setItem('dmd-grid-data', JSON.stringify(getGridData()));
-        localStorage.setItem('dmd-zoom', zoomLevel);
-        localStorage.setItem('dmd-tile-folder', currentTileFolder);
-    } catch (e) {
-        logToDebug(`Erreur sauvegarde: ${e.message}`);
-    }
+    if (saveStateTimer) clearTimeout(saveStateTimer);
+    saveStateTimer = setTimeout(() => {
+        try {
+            localStorage.setItem('dmd-grid-cols', currentCols);
+            localStorage.setItem('dmd-grid-rows', currentRows);
+            localStorage.setItem('dmd-grid-data', JSON.stringify(getGridData()));
+            localStorage.setItem('dmd-zoom', zoomLevel);
+            localStorage.setItem('dmd-tile-folder', currentTileFolder);
+        } catch (e) {
+            logToDebug(`Erreur sauvegarde: ${e.message}`);
+        }
+        saveStateTimer = null;
+    }, 50);
 }
 
 function loadState() {
@@ -611,16 +616,25 @@ async function exportGridToPdf() {
 }
 
 // --- DEBUG ---
+let debugScrollPending = false;
 function logToDebug(message) {
     const timestamp = new Date().toLocaleTimeString();
     const logMessage = `[${timestamp}] ${message}`;
     console.log(logMessage);
     debugLog.value += logMessage + '\n';
-    debugLog.scrollTop = debugLog.scrollHeight;
+    if (!debugScrollPending) {
+        debugScrollPending = true;
+        requestAnimationFrame(() => {
+            debugLog.scrollTop = debugLog.scrollHeight;
+            debugScrollPending = false;
+        });
+    }
 }
 
 // --- MESSAGE MODAL ---
 function showMessage(title, message) {
+    if (modalOpen) return Promise.resolve();
+    modalOpen = true;
     const modal = document.getElementById('messageModal');
     const titleEl = document.getElementById('messageModalTitle');
     const msgEl = document.getElementById('messageModalMsg');
@@ -629,7 +643,7 @@ function showMessage(title, message) {
     msgEl.textContent = message;
     modal.style.display = 'flex';
     return new Promise((resolve) => {
-        okBtn.onclick = () => { modal.style.display = 'none'; resolve(); };
+        okBtn.onclick = () => { modal.style.display = 'none'; modalOpen = false; resolve(); };
     });
 }
 
@@ -1377,7 +1391,10 @@ function positionOverlays() {
     if (rightGroup) styles.push([rightGroup, midY + 'px', (gLeft + gWidth + margin) + 'px', 'translate(0, -50%)']);
 
     for (const [el, top, left, transform] of styles) {
-        el.style.cssText = `position:absolute;top:${top};left:${left};transform:${transform}`;
+        el.style.position = 'absolute';
+        el.style.top = top;
+        el.style.left = left;
+        el.style.transform = transform;
     }
 }
 
