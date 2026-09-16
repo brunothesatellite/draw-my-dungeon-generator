@@ -870,25 +870,28 @@ body {
 /* ===== JOURNAL DE DEBUG ===== */
 .debug-container {
     flex-shrink: 0;
-    height: 15vh;
-    min-height: 80px;
+}
+
+.debug-container > summary {
+    background-color: var(--bg-debug);
+    color: var(--text-debug-title);
+    border-color: var(--border-dark);
+    font-family: 'MedievalSharp', cursive;
+    font-size: 14px;
+    padding: 8px 12px;
+}
+
+.debug-container > summary:hover {
+    background-color: #3a2d18;
+}
+
+.debug-container .collapsible-body {
     background-color: var(--bg-debug);
     color: var(--text-debug);
     padding: 10px 15px;
     border: 1px solid var(--border-dark);
-    border-radius: var(--radius-md);
-    overflow-y: auto;
-    box-shadow: var(--shadow-sm);
-}
-
-.debug-container h3 {
-    margin: 0 0 8px 0;
-    color: var(--text-debug-title);
-    border-bottom: 1px solid var(--border-dark);
-    padding-bottom: 8px;
-    font-family: 'MedievalSharp', cursive;
-    font-size: 16px;
-    letter-spacing: 0.5px;
+    border-top: none;
+    border-radius: 0 0 var(--radius-md) var(--radius-md);
 }
 
 .debug-container textarea {
@@ -899,7 +902,7 @@ body {
     font-family: 'Courier New', monospace;
     font-size: 12px;
     width: 100%;
-    height: calc(100% - 40px);
+    height: 120px;
     resize: none;
 }
 

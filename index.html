@@ -98,10 +98,15 @@
         </div>
 
         <!-- Debug area -->
-        <div class="debug-container">
-            <h3>Journal de debug</h3>
-            <textarea id="debugLog" readonly rows="10"></textarea>
-        </div>
+        <details class="collapsible debug-container">
+            <summary>
+                <span class="arrow">▸</span>
+                <span class="label-text">Journal de debug</span>
+            </summary>
+            <div class="collapsible-body">
+                <textarea id="debugLog" readonly rows="10"></textarea>
+            </div>
+        </details>
     </div>
 
     <div id="customTooltip"></div>

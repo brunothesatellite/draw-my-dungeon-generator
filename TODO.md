@@ -1,6 +1,5 @@
 **TODO**
 * l'export PDF doit fonctionner en file:\\ ou sur serveur web
-* virer l'export PDF en file:
 
 
 PROMPT ANALYSE 
