@@ -1,13 +1,13 @@
 {
   "368": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et basse, avec des murs de pierre vieillie qui semblent avoir été sculptés par les mains des anciens. Les tonneaux et les boîtes en bois sont empilés au centre, comme si quelqu'un avait oublié de les ranger. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre regardent fixement les visiteurs. Un tableau accroché au mur à droite semble avoir été peint par un artiste de talent, mais son sujet est difficile à distinguer. Un banc en bois est placé contre le mur de gauche, offrant un endroit pour s'asseoir et méditer. La lumière est faible, provenant d'une source inconnue, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Une porte se trouve à l'extrémité de la salle, menant à un autre espace. L'eau stagnante dans un coin de la pièce est un danger potentiel. La salle semble être un lieu de culte, avec des traces de rituels anciens et des objets sacrés disséminés partout.",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine. Les murs vieillis sont recouverts de cercles rituels, et des piliers et statues ornent l'endroit. Des petits tonneaux et des boîtes sont empilés dans un coin, laissant entrevoir des objets mystérieux. Un tableau et un banc sont placés contre un mur, tandis qu'une porte permet d'entrer et de sortir. L'atmosphère est mystérieuse et ancienne, avec une odeur de vieillissement et d'anciennes cérémonies. L'eau stagnante dans un coin ajoute à l'ambiance lugubre. Des tentacules et des têtes de mort sont dissimulés dans les recoins, prêts à s'attaquer aux intrus. La salle semble être un lieu de culte, avec des objets sacrés dissimulés parmi les tonneaux et les boîtes.",
     "tags": [
       "salle",
-      "rituel",
       "culte",
-      "vieillie",
-      "mystérieuse"
+      "rituels",
+      "tête de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

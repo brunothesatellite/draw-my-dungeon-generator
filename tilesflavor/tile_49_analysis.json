@@ -1,13 +1,13 @@
 {
   "49": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc. Sa petite taille et sa forme rectangulaire donnent l'impression d'avoir été creusé à la main. La faible lumière qui filtre à travers les fissures éclaire les murs vieillis, où des têtes de mort sculptées semblent observer les passants. Des cercles rituels gravés dans le sol indiquent l'ancienneté et la signification sacrée de ce lieu. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne. Le mobilier ancien, délabré, semble avoir été abandonné depuis des siècles. L'eau stagnante au fond du passage est un danger à ne pas négliger. Les murs sont ornés de têtes de mort, rappelant l'importance de la mort et de la vie dans ce lieu de culte. Les cercles rituels et les têtes de mort évoquent une ancienne tradition de sacrifice ou de culte. Le passage des Anciens est un lieu de culte, où les anciens pratiquaient des rituels et des sacrifices.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs vieillis et recouverts de têtes de mort. Des cercles rituels émaillent le sol, marquant un passage ancien. Les piliers massifs, usés par le temps, soutiennent le plafond voûté. Le mobilier ancien, délabré, semble avoir été abandonné depuis des siècles. L'atmosphère est mystérieuse et ancienne, comme si les murs murmuraient des secrets millénaires. L'eau stagnante au fond du couloir semble prête à s'engouffrer dans un abîme inconnu. Les cercles rituels et les têtes de mort ajoutent une touche de surnaturel à cet endroit, rendant chaque pas un défi pour les explorateurs.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Sacrifice",
-      "Rituel",
-      "Mystérieux"
+      "couloir",
+      "ancien",
+      "rituel",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

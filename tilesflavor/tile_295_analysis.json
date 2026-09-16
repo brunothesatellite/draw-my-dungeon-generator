@@ -1,13 +1,13 @@
 {
   "295": {
-    "title": "L'Abîme des Anciens",
-    "description": "Vous vous trouvez dans un abîme immense, une cavité sombre et profonde qui semble s'ouvrir dans le cœur de la terre. Les murs de pierre sont rugueux et fissurés, laissant entrevoir des couches de roche plus claires sous la surface. Des spirales mystérieuses gravées dans le sol vous guident vers le centre de cette cavité, où une lumière faible et diffuse éclaire une zone sombre et énigmatique. Des colonnes de pierre, érodées par le temps, se dressent ici et là, ajoutant à l'atmosphère lugubre de l'endroit. Un autel, délabré et recouvert de poussière, semble avoir été un temps le centre d'une cérémonie ancienne. Les murs sont ornés de tentacules noirs, qui semblent vivants et qui se déplacent lentement, ajoutant une note d'horreur à l'ambiance. Les spirales gravées dans le sol vous attirent inexorablement vers le centre de l'abîme, où une ombre immense et sombre semble se profiler. Les murs sont recouverts de poussière et de débris, et les colonnes sont érodées, mais l'atmosphère mystérieuse et étrange de l'endroit persiste.",
+    "title": "L'Abîme des Tentacules",
+    "description": "L'abîme s'ouvre comme un trou noir dans le sol, dévoilant un espace immense et sombre. Les murs, délabrés et recouverts de spirales mystérieuses, semblent vibrer sous vos pas. Des tentacules sombres et ondulants émergent de l'ombre, se déplaçant lentement vers vous. Des colonnes massives, érodées par le temps, soutiennent le plafond qui semble prêt à s'effondrer à tout moment. Un autel, étrangement intact malgré l'atmosphère lugubre, se dresse au centre de la pièce, entouré de spirales lumineuses qui semblent danser dans l'obscurité. L'air est chargé d'une odeur de mort et de mystère, et chaque bruit semble amplifié dans cet espace étendu. Les tentacules, de taille variable, semblent attendre une proie, prêts à s'en saisir à tout moment. L'atmosphère est oppressante, et l'abîme semble vouloir avaler tout ce qui s'approche.",
     "tags": [
       "abîme",
-      "rituel",
-      "ancien",
       "tentacules",
-      "mystère"
+      "rituel",
+      "mystère",
+      "délavé"
     ],
     "sourceFeatures": {
       "roomSize": "large",

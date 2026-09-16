@@ -1,13 +1,13 @@
 {
   "78": {
     "title": "Salle des Anciens",
-    "description": "La salle des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se filtre à travers des voiles de poussière. Les murs sont recouverts de cercles rituels et de glyphes runiques, des symboles mystérieux qui semblent avoir été gravés il y a des siècles. Des piliers massifs soutiennent le plafond, et des statues étranges, aux visages déformés, gardent le silence. Le sol est marqué de cercles rituels et de glyphes runiques, et des cercles de poussière indiquent les emplacements d'anciennes pratiques. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sombre. Le mobilier ancien est délabré, et une eau stagnante s'accumule dans un coin, créant un piège mortel. La porte murée au fond semble être le seul moyen de quitter cette salle, mais elle est fermée par une barrière invisible. La salle des Anciens est un lieu de rituels, mais aussi un endroit où les anciens ont peut-être sacrifié des innocents.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques qui pourraient avoir habité ces lieux. Des cercles rituels et des glyphes runiques marquent le sol, indiquant l'importance de ce lieu pour les anciens. Des piliers et des statues majestueuses dominent l'espace, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Le mobilier ancien, usé par le temps, semble avoir été laissé là par les derniers occupants. Une porte murée, fermée depuis longtemps, semble être l'unique sortie de cette salle. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est chargée d'histoire et de mystère.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "tête de mort",
-      "tentacules",
-      "salle des Anciens"
+      "rituels",
+      "salle",
+      "anciens",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,12 @@
 {
   "323": {
     "title": "Abîme des Champignons",
-    "description": "Dans l'obscurité qui règne dans cette petite grotte irrégulière, les ombres se dessinent sur le sol délabré. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, sombre et mystérieux, se dresse au centre de la grotte, entouré de champignons étranges qui semblent vivre et pousser dans l'air stagnant. Des traces de créatures étranges sillonnent le sol, ajoutant à l'atmosphère sinistre de ce lieu. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'ensemble. Cette grotte, dédiée à des rituels ou cultes obscurs, est un lieu de culte où les anciens pratiquaient leurs cérémonies les plus sombres.",
+    "description": "L'abîme est étroit et sinueux, ses parois rugueuses et délabrées sont parsemées de cercles rituels et de glyphes runiques. Des champignons étranges poussent ici et là, leurs têtes émergent de la vase stagnante qui recouvre le sol. Des piliers et des colonnes anciennes, usées par le temps, se dressent de partout, offrant un soutien instable à l'édifice. L'obscurité règne dans cette salle, seule une faible lumière filtrant à travers les fissures dans le plafond permet de distinguer les détails. L'atmosphère est sinistre, pesante, comme si l'abîme lui-même respirait une malédiction. Un autel, dépourvu de tout objet, se dresse au centre de la pièce, comme témoin silencieux des rituels passés. Des traces de créatures étranges, imprégnées de mystère, sont gravées dans le sol, témoignant de l'activité ancienne qui a eu lieu ici. L'eau stagnante, noire et trouble, s'écoule lentement vers le bas, créant un bruit sourd et menaçant. Les champignons, avec leurs têtes étranges et leurs tiges déformées, semblent vivre une vie propre, ajoutant une touche de surnaturel à l'atmosphère déjà lugubre.",
     "tags": [
       "abîme",
-      "grotte",
+      "champignons",
       "rituel",
-      "champignon",
-      "tête de mort"
+      "salle de culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

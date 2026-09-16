@@ -1,11 +1,12 @@
 {
   "427": {
     "title": "Magasin des Anciens",
-    "description": "Dans ce petit magasin rectangulaire, les murs vieillis et les étagères en bois sont chargés de boîtes et de barils. La faible lumière qui filtre à travers les volets usés révèle une table au centre, entourée de chaises en bois usé. Les étagères sont remplies de divers objets, dont des boîtes de toutes tailles et des barils de vin ou d'eau. Des cercles rituels sont gravés au sol, et des piliers massifs soutiennent le plafond. L'atmosphère est mystérieuse et menaçante, comme si le lieu avait connu des temps obscurs et secrets.",
+    "description": "Dans ce petit magasin rectangulaire, les murs vieillis et les étagères usées témoignent de l'âge du lieu. La faible lumière qui filtre à travers les volets délavés éclaire les boîtes et les barils empilés sur les étagères. Un vieux comptoir en bois, recouvert de poussière, est le seul meuble visible. Les cercles rituels gravés au sol ajoutent une note de mystère à l'atmosphère déjà menaçante. Les piliers massifs soutiennent le plafond, et les cercles rituels au sol indiquent que ce lieu a probablement servi de salle de rituel ou de culte. L'eau stagnante dans un coin du magasin ajoute une touche de danger à l'ensemble. Les boîtes et les barils, bien que vieillis, semblent contenir des objets précieux, mais leur contenu reste un mystère.",
     "tags": [
       "magasin",
       "rituel",
       "vieillie",
+      "eau stagnante",
       "mystérieuse"
     ],
     "sourceFeatures": {
@@ -13,8 +14,11 @@
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "table",
-      "wallDecorations": [],
+      "centralFeature": "autel",
+      "wallDecorations": [
+        "têtes de mort",
+        "tentacules"
+      ],
       "floorMarkings": [
         "cercles rituels"
       ],

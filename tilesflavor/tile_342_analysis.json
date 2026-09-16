@@ -1,13 +1,13 @@
 {
   "342": {
     "title": "Grotte des Tonneaux et de la Pierre Étrange",
-    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. La lumière pénètre à peine à travers des fissures minuscules, créant un halo de faible éclat qui éclaire les tonneaux empilés au fond de la grotte. Une boîte métallique est posée sur l'un des tonneaux, et à côté, une pierre étrange avec des pointes émerge de la terre. Des cercles rituels et des glyphes runiques sont gravés dans le sol, tandis que des piliers et des statues ornent les murs. Un tableau avec le numéro 349 est accroché au mur, ajoutant une touche de mystère à l'atmosphère déjà ancienne et mystérieuse. Une porte ouverte au fond de la grotte laisse entrevoir une eau stagnante, ajoutant une note de danger à cette ancienne et énigmatique grotte.",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. Des tonneaux de bois sombres sont empilés contre le mur, leurs bouchons de liège usés. À l'entrée, une boîte métallique brisée repose au sol, ses couvercles arrachés. Une pierre étrange, avec des pointes acérées, repose au milieu de la grotte, émettant une étrange lueur bleutée. Des cercles rituels et des glyphes runiques gravés dans le sol évoquent des anciens secrets. Des piliers et des statues de pierre ornent les murs, ajoutant à l'atmosphère mystérieuse. Un tableau avec le numéro 349 est accroché au mur, son contenu indéchiffrable. Une porte ouverte au fond laisse entrevoir une eau stagnante, un danger potentiel. La grotte est vieillie, avec des traces de vieilles peintures murales et des restes de torches brûlées.",
     "tags": [
       "grotte",
       "rituel",
-      "ancienne",
-      "mystérieuse",
-      "tonneaux"
+      "tonneaux",
+      "pierre étrange",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituel",
       "csvDescription": "grotte avec tonneaux, une boîte et une pierre étrange avec des pointes",
       "tileNumber": 342

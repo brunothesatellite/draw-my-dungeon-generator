@@ -1,13 +1,13 @@
 {
   "369": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des fenêtres étroites, créant un halo de mystère. Des cercles rituels sont gravés dans le sol, marquant les limites de l'espace sacré. Au centre de la pièce, une table de sorcier ornée de symboles mystiques attire l'œil. Une statue de dieu monstre, ancienne et décrépite, domine l'arrière de la pièce, son regard perçant semblant surveiller les occupants. Les murs sont décorés de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'atmosphère déjà ancienne et mystérieuse. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'endroit dangereux. La salle semble être un lieu de culte ou de rituel, où des sacrifices et des pratiques obscures ont eu lieu au fil des siècles.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Au centre de la pièce, une table de sorcier, ornée de symboles mystérieux, attire l'œil. Une statue de dieu monstre domine la pièce, son regard menaçant fixé sur les visiteurs. L'atmosphère est mystérieuse et ancienne, évoquant des temps où les rituels sacrés étaient pratiqués avec ferveur.",
     "tags": [
-      "Salle",
-      "Ancien",
-      "Rituel",
-      "Statue",
-      "Tentacules"
+      "rituel",
+      "sacrifice",
+      "statue",
+      "dieu monstre",
+      "table de sorcier"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

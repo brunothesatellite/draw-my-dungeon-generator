@@ -1,13 +1,13 @@
 {
   "249": {
     "title": "Siphon du Sacrifice",
-    "description": "Au cœur de la grotte, un siphon étroit et sinistre vous attend. Ses parois, humides et froides, sont marquées de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. L'air est chargé d'une odeur de moisi et de mystère, et l'eau stagnante qui remplit le siphon semble prête à vous engloutir. Un autel, au fond de la grotte, semble être le point focal de ce lieu, mais il est vide, laissant les mystères de son passé entourés de mystère.",
+    "description": "Dans ce siphon étroit et humide, les murs rectangulaires sont couverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et un autel sombre est placé au centre, entouré de traces de pas anciennes. L'eau stagnante remplit la moitié du siphon, créant un miroir lugubre qui reflète les têtes de mort et les tentacules qui flottent à la surface. L'atmosphère sinistre est accentuée par l'humidité et la faible lumière qui pénètre à travers les fissures du plafond. Le siphon est le cœur d'un rituel ancien, et les cercles rituels marquent les points de passage pour les initiés.",
     "tags": [
-      "Salle de Rituels",
-      "Grotte",
-      "Siphon",
-      "Mystère",
-      "Horreur"
+      "rituel",
+      "salle de rituel",
+      "siphon",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "81": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des murs qui ont vu des siècles d'usure. La faible lumière qui pénètre à travers une fenêtre brisée éclaire des cercles rituels gravés au sol, qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère mystérieuse. Des cercles rituels sont gravés au sol, et des piliers majestueux soutiennent le plafond. Des meubles anciens sont dispersés un peu partout, ajoutant à l'ambiance ancienne et sacrée de la pièce. L'eau stagnante dans un coin de la salle rend l'atmosphère encore plus lugubre. Les murs sont ornés de têtes de mort et de tentacules, tandis que des cercles rituels marquent le sol. Des piliers imposants soutiennent le plafond, et des meubles anciens sont disséminés un peu partout. L'atmosphère est mystérieuse et ancienne, et la salle semble avoir été utilisée pour des rituels ou des cultes.",
+    "title": "Salle des Cercles Rituels",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent les murs, et le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère mystérieuse. Un dessin étrange, indéchiffrable, est gravé sur le mur au centre de la pièce, entouré de têtes de mort et de tentacules qui semblent sortir du mur. L'air est saturé d'une odeur ancienne et étrange, et l'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus oppressante. Les cercles rituels marquent l'endroit où se déroulent les rituels ou les cultes, et la salle semble avoir été utilisée pour des cérémonies sacrées il y a des siècles.",
     "tags": [
       "rituels",
-      "culte",
-      "macabre",
-      "ancien",
-      "salle sacrée"
+      "salle sacrée",
+      "cercles rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "33": {
-    "title": "Chambre des Rituels Sacrés",
-    "description": "La Chambre des Rituels Sacrés est une salle immense, de forme rectangulaire, dont les murs sont recouverts de tentacules et de trophées étranges. La lumière tamisée émane des colonnes et des piliers qui soutiennent le plafond, rendant l'atmosphère encore plus mystérieuse. Les sols sont marqués de spirales et d'inscriptions anciennes, qui semblent indiquer un rituel ancien. Un autel et une table sont visibles au centre de la pièce, mais leur utilité exacte reste un mystère. Un murmure fantomatique flotte dans l'air, et une porte dissimulée semble mener à un autre monde. Les tentacules et les trophées sur les murs racontent des histoires de sacrifices et de cultes obscurs. Les pièges et le gaz toxique qui se dissipe dans l'air ajoutent une touche de danger à cette atmosphère étrange et étrange.",
+    "title": "Chambre des Sacrifices",
+    "description": "La salle est immense, de forme rectangulaire, avec des murs décrépits et des colonnes massives qui soutiennent le plafond voûté. La lumière tamisée émane des fenêtres étroites, révélant des spirales mystérieuses gravées dans le sol. Des inscriptions anciennes, difficiles à déchiffrer, sont visibles sur les murs. Des tentacules et des trophées ornent les murs, témoignant d'une ancienne civilisation. Un autel sombre et une table en bois sont placés au centre de la pièce, entourés de symboles énigmatiques. Un murmure sinistre flotte dans l'air, et une présence fantomatique plane dans l'ombre. Un secret se cache derrière une porte dissimulée, et des pièges et du gaz toxique risquent de vous accueillir si vous vous approchez trop près. L'atmosphère est oppressante et étrangement fascinante, comme si la pièce avait gardé un secret millénaire.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "tentaclés",
-      "mystère",
-      "ancien"
+      "ritual chamber",
+      "ancient symbols",
+      "mysterious inscriptions",
+      "ghostly presence",
+      "hidden door"
     ],
     "sourceFeatures": {
       "roomSize": "large",

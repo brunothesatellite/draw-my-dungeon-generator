@@ -1,13 +1,13 @@
 {
   "346": {
-    "title": "La Grotte des Anciens",
-    "description": "La grotte avec une arche semble avoir été utilisée pour des rituels anciens. Les murs, usés par le temps, sont ornés de têtes de mort qui semblent regarder les visiteurs avec un regard menaçant. Des cercles rituels gravés dans le sol indiquent l'ancienne importance de ce lieu. Des piliers robustes soutiennent la voûte, tandis que du mobilier ancien est dissimulé dans les recoins. L'atmosphère est mystérieuse et menaçante, accentuée par l'eau stagnante qui s'accumule dans le fond de la grotte. Un seul passage mène à l'extérieur, rendant l'endroit isolé et difficile à quitter.",
+    "title": "Grotte sous l'Arche",
+    "description": "La grotte sous l'Arche est étroite et basse, avec une seule sortie menant à l'extérieur. L'air y est frais, mais la lumière y est faible, émanant d'une source lointaine. Les murs sont recouverts de têtes de mort sculptées, et des cercles rituels sont gravés dans le sol. Des piliers massifs soutiennent l'arche qui domine le fond de la grotte. Le mobilier ancien est disséminé un peu partout, ajoutant à l'atmosphère mystérieuse et menaçante. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. Cette grotte, ancienne et sacrée, semble avoir été utilisée pour des rituels anciens.",
     "tags": [
       "grotte",
+      "arche",
       "rituel",
       "ancien",
-      "mystère",
-      "eau stagnante"
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

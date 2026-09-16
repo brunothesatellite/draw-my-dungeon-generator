@@ -1,13 +1,13 @@
 {
   "366": {
     "title": "Crypte des Anciens",
-    "description": "Dans l'obscurité qui règne dans cette crypte, les murs vieillis par le temps semblent murmurer des secrets millénaires. La petite pièce carrée est éclairée par une faible lumière qui pénètre à travers une fenêtre étroite, révélant des cercles rituels gravés au sol. Deux colonnes robustes, ornées de reliefs sculptés, soutiennent le plafond voûté. À l'extrémité de la pièce, un sarcophage ancien repose sur une plateforme, entouré de piliers. La porte murée au fond de la crypte semble murée depuis des siècles, mais une sensation de présence mystérieuse plane dans l'air. Les reliefs sculptés racontent des histoires d'anciens cultes et de rituels sacrés, et les cercles rituels indiquent un espace dédié à la prière ou au culte. Les pièges anciens, bien que invisibles, sont prêts à se déclencher sur les intrus imprudents. La crypte est un lieu de culte ou de prière, où les anciens pratiquaient leurs rituels et où les secrets de l'histoire se mêlent aux mystères de l'au-delà.",
+    "description": "Dans cette crypte étroite et carrée, les murs vieillis par le temps sont ornés de reliefs sculptés représentant des figures mystérieuses. Le sol est marqué de cercles rituels, dont l'origine et le sens restent un mystère. Deux colonnes massives, robustes et vieillies, soutiennent le plafond, tandis qu'un sarcophage ancien repose au centre de la pièce, entouré de faibles lumières qui éclairent la crypte de manière diffuse. La porte murée au fond semble être le seul accès à cette crypte, et des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. L'atmosphère est pesante et mystérieuse, comme si les âmes des anciens observaient encore les passants.",
     "tags": [
-      "Crypte",
-      "Sarcophage",
-      "Reliefs sculptés",
-      "Cercles rituels",
-      "Pièges anciens"
+      "crypte",
+      "sarcophage",
+      "colonnes",
+      "mystérieuse",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

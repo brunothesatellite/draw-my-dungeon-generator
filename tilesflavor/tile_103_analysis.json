@@ -1,13 +1,13 @@
 {
   "103": {
-    "title": "Salle des Rituels des Tentacules",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Des têtes de mort sont suspendues aux murs, tandis que des tentacules étranges pendent du plafond, ajoutant une touche d'horreur à l'ambiance. Le mobilier ancien est délabré, et des pièges anciens sont dissimulés dans les recoins. L'eau stagnante recouvre une partie du sol, rendant la pièce dangereuse. Le seul passage est étroit et semble mener à un autre espace, mais la porte est fermée par une barrière de pierre ancienne.",
+    "title": "Passage des Tentacules",
+    "description": "Le passage est étroit et bas, avec des murs rugueux et des plafonds voûtés. La lumière est faible, filtrant à travers des fissures minuscules dans le plafond. Les tentacules, noirs et luisants, s'enroulent autour des piliers et des murs, semblant attendre l'arrivée d'un intrus. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'entrée de la salle. Le mobilier ancien, usé et délabré, est empilé contre le mur, ajoutant à l'atmosphère mystérieuse et menaçante. L'eau stagnante, noire et trouble, remonte jusqu'à la moitié du mur, rendant le passage glissant et dangereux. Un seul passage mène à une salle plus grande, où l'on peut deviner l'existence d'un autel, bien que les tentacules et les cercles rituels empêchent de voir clairement. Les piliers sont robustes et vieillis, avec des traces de vieilles peintures qui se sont effacées au fil du temps.",
     "tags": [
-      "Salle",
-      "Rituels",
+      "Passage",
       "Tentacules",
-      "Ancien",
-      "Mystère"
+      "Salle de Rituels",
+      "Atmosphère Menacante",
+      "Salle Vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

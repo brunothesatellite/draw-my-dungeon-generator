@@ -1,13 +1,13 @@
 {
   "214": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis par le temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des reliefs sculptés ornent les murs, racontant des mythes anciens. Les tonneaux, empilés contre le mur, semblent avoir été oubliés depuis longtemps. L'atmosphère est mystérieuse, presque oppressante, comme si les secrets des anciens y étaient encore enfouis. L'eau stagnante au centre de la pièce est un danger à ne pas négliger.",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs recouverts de reliefs sculptés. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Les tonneaux, empilés contre le mur, semblent avoir été utilisés pour des rituels anciens. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. Les reliefs sculptés racontent des histoires de guerriers et de sacrifices, ajoutant une touche d'ancienneté à l'atmosphère. L'eau stagnante dans un coin de la pièce est un danger potentiel pour les explorateurs. La salle semble avoir été utilisée pour des rituels de grande importance, peut-être même pour des sacrifices.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Mystère",
-      "Vieillie"
+      "rituel",
+      "sacrifice",
+      "ancien",
+      "tonneaux",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

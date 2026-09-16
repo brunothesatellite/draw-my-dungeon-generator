@@ -1,13 +1,13 @@
 {
   "52": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont recouverts de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant le passage d'une ancienne cérémonie. Des piliers robustes soutiennent le plafond, tandis qu'une table sombre est posée au centre, peut-être un autel. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les murs et les objets, créant un étrange jeu de lumière et d'ombre. L'atmosphère est oppressante, et le sang qui tache le sol indique que des sacrifices ont eu lieu ici. Les rares passants qui ont osé pénétrer dans ce lieu se sont souvent retrouvés piégés par l'eau stagnante qui s'accumule dans les coins obscurs. Les murs murmurent des secrets anciens, et les ombres qui flottent dans l'air semblent attendre l'arrivée de quelqu'un pour révéler leurs secrets les plus sombres.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'eau stagnante qui s'accumule au fond. Des cercles rituels sont gravés au sol, marquant le passage de rituels anciens. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. À l'extrémité du couloir, un autel sombre attire l'œil, orné de têtes de mort et de tentacules qui semblent émerger de l'ombre. Un sang coagulé tache le sol près de l'autel, rappelant les sacrifices passés. Un simple table est posée contre le mur, sans objet apparent. L'atmosphère sinistre est accentuée par l'humidité et l'obscurité qui règne dans ce lieu de rituel ancien.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Sacrifices",
-      "Rituels",
-      "Tentacules"
+      "rituel",
+      "sacrifice",
+      "couloir",
+      "obscurité",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

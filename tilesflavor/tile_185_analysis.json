@@ -1,13 +1,13 @@
 {
   "185": {
-    "title": "Escalier Ancien",
-    "description": "L'escalier ancien descend dans l'obscurité, ses marches de pierre usées par le temps semblent murmurer des secrets millénaires. Les murs rectangulaires, légèrement inclinés, sont recouverts d'un éclairage faible qui éclaire vaguement les piliers massifs qui soutiennent la structure. Des cercles rituels gravés dans le sol indiquent l'ancienne utilisation de ce lieu pour des rituels mystiques. L'atmosphère est mystérieuse et ancienne, comme si le temps avait laissé son empreinte sur chaque pierre. L'eau stagnante au fond de l'escalier est un danger à ne pas négliger. Les murs sont vieillis, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance. Le dessin magique au sommet de l'escalier semble attendre quelqu'un pour le réveiller.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels dessinés au sol. La lumière est faible, créant une ambiance mystérieuse et ancienne. Des piliers robustes soutiennent les murs, ajoutant à l'atmosphère de vieilles pierres. Un grand escalier descendant se trouve au centre de la pièce, menant à un abîme sombre et inconnu. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une touche macabre à l'endroit. L'escalier est recouvert d'un tapis magique qui semble émettre des éclairs de lumière bleue. L'air est chargé d'une odeur de poussière et de mystère, et l'eau stagnante au fond de l'escalier semble prête à jaillir à tout moment.",
     "tags": [
-      "escalier",
       "rituel",
-      "ancien",
+      "escalier",
+      "salle",
       "mystère",
-      "eau stagnante"
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

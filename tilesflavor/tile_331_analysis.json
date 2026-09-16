@@ -1,13 +1,13 @@
 {
   "331": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Vous vous trouvez dans un abîme immense, une cavité sombre et profonde qui semble s'ouvrir dans le cœur de la terre. Les parois rugueuses et irrégulières sont parsemées de spirales et de glyphes énigmatiques, comme si une ancienne civilisation avait laissé ici des messages secrets. Des colonnes et des piliers délabrés s'élèvent ici et là, témoins de l'ancienneté et de la décadence. L'air est lourd et chargé, et une odeur nauséabonde flotte dans l'air, provenant probablement de la matière organique qui se décompose au fond de l'abîme. Des tentacules sombres et ondulantes pendent des parois, et des têtes de mort étranges sont sculptées dans le roc, ajoutant à l'atmosphère sinistre. L'abîme est si profond qu'il semble ne pas avoir de fond, et les ombres y dansent et se déplacent de manière étrange. Les murs sont parsemés de marques étranges, comme si quelqu'un avait gravé des symboles sacrés ou des runes anciennes. L'air est saturé d'une atmosphère mystérieuse et effrayante, et il semble que l'abîme soit le lieu d'un rituel sacré, peut-être même d'un sacrifice ancien. Les murs sont parsemés de marques énigmatiques, et un autel sombre est visible au fond, entouré de tentacules et de têtes de mort. L'abîme est un lieu de ténèbres et de mystères, et il est difficile de savoir ce qui se cache vraiment au fond.",
+    "title": "L'Abîme des Tentacules",
+    "description": "L'abîme s'ouvre comme une bouche immense, dévoilant un espace immense et délabré. Les murs, recouverts de tentacules et de têtes de mort, semblent vivants et menaçants. Des spirales et des glyphes gravés dans le sol émettent une lumière faible, révélant des structures colossales et des colonnes qui semblent avoir été érigées par des mains invisibles. Un autel, sombre et ancien, se dresse au centre de la pièce, entouré de flammes intermittentes qui évoquent une atmosphère sacrée et sinistre. L'air est saturé d'un poison gazeux qui pique les narines, et le sol glisse dangereusement sous les pieds. L'abîme est un lieu mystérieux et effrayant, où les rituels sacrés et les sacrifices ont probablement eu lieu il y a des siècles.",
     "tags": [
       "abîme",
       "sacrifice",
-      "ténèbres",
-      "mystère",
-      "rituel"
+      "tentacules",
+      "rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

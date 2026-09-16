@@ -1,13 +1,13 @@
 {
   "351": {
-    "title": "Salle des Anciens",
-    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux, marqué par un croisement de lignes spirales qui semblent gravées dans le sol humide. Les murs, couverts d'un tissu de toile tendue, semblent protéger un secret ancien. Des colonnes majestueuses, ornées de motifs complexes, soutiennent le plafond voûté. Un coffre en bois sombre, fermé par une serrure complexe, repose au centre de la pièce, tandis qu'un tonneau en cuir est posé à côté, son contenu inconnu. L'atmosphère est oppressante, comme si la salle avait été utilisée pour des rituels obscurs. Un œil étrange, semblant regarder de tous les côtés, est gravé dans le mur, ajoutant une note de mystère à l'ensemble. Les murs sont humides, et des taches de verdure s'accumulent sur les parois, témoignant de l'âge et de l'abandon de ce lieu. Les spirales et le croisement de lignes sur le sol semblent indiquer un passage ou une piste à suivre, mais leur signification reste un mystère.",
+    "title": "Salle de Donjon avec Boîte et Tonneau",
+    "description": "Cette vaste salle rectangulaire, éclairée par une faible lumière tamisée, est recouverte d'une humidité qui la rend glissante. Des marquages au sol dessinent un motif spiralé et une croix, ajoutant une touche de mystère à l'atmosphère déjà étrange. Des colonnes majestueuses soutiennent le plafond, tandis que des tentes sont suspendues aux murs, comme si elles étaient utilisées pour des rituels. Au centre de la pièce, un coffre en bois sombre est posé sur un tonneau, le tout entouré d'un motif spiralé qui semble se prolonger jusqu'à l'œil-like structure au cœur de la salle. Cette structure étrange, qui semble observer les visiteurs, ajoute une note de peur à l'ambiance déjà sombre. Les murs sont ornés de tentes, et le sol est marqué d'un croisement, évoquant une ancienne tradition ou un rituel ancien. La salle semble être un lieu de donjon, mais son utilisation exacte reste un mystère.",
     "tags": [
-      "salle",
+      "salle de donjon",
       "rituel",
-      "ancien",
-      "mystère",
-      "rituelique"
+      "œil-like structure",
+      "tonneau",
+      "coffre"
     ],
     "sourceFeatures": {
       "roomSize": "large",

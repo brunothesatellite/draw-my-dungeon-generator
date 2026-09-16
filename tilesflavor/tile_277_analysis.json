@@ -1,16 +1,13 @@
 {
   "277": {
-    "title": "Passages Souterrains Sacrés",
-    "description": "Les eaux stagnantes de l'égout créent un miroir sombre qui reflète les cercles rituels gravés dans le sol. Des piliers et des colonnes vieillies se dressent à l'intérieur, leurs pierres usées par le temps. Un autel, orné de têtes de mort et de tentacules, domine la pièce. Un tableau ancien, recouvert de poussière, repose sur une table au centre. La grille au sol et les deux passerelles permettent de traverser l'égout, mais l'eau stagnante est un danger à ne pas sous-estimer. La porte à l'extrémité de la pièce semble être le seul moyen de quitter ce lieu sinistre.",
+    "title": "Passage des Passerelles",
+    "description": "Le passage est étroit et sinueux, avec deux passerelles suspendues au-dessus de l'égout. La grille de protection est rouillée et tordue, laissant entrevoir les eaux stagnantes en dessous. Les murs sont recouverts de peintures vieillies, des cercles rituels sont gravés dans le sol. Des piliers et des colonnes supportent le plafond, donnant une impression de vieilles ruines. La lumière est faible, filtrant à travers des fissures dans le plafond. Des têtes de mort et des tentacules peints sur les murs ajoutent une atmosphère sinistre à l'endroit. Un autel est dissimulé dans un coin, entouré de cercles rituels. Un squelette, probablement ancien, repose au fond du passage, ajoutant une touche d'effroi. La porte à l'extrémité semble fermée, mais une table est posée devant, peut-être pour dissimuler un piège.",
     "tags": [
-      "égoût",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "salle de rituel",
-      "piliers",
-      "colonnnes",
-      "eau stagnante"
+      "Passage",
+      "Passerelles",
+      "Egout",
+      "Salle de Rituels",
+      "Atmosphère Sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -41,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "égout avec 2 passerelles et grille au sol",
       "tileNumber": 277

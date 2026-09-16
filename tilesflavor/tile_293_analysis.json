@@ -1,13 +1,13 @@
 {
   "293": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Vous vous trouvez dans un abîme immense, ses parois irrégulières et rugueuses semblent s'effondrer sous vos pieds. La lumière est si faible que vous ne pouvez distinguer que les contours des tentacules qui pendent des murs, semblant vouloir vous attraper. L'air est saturé d'une odeur nauséabonde, et l'humidité vous pèse sur la peau. Des spirales mystérieuses marquent le sol, semblant indiquer un chemin à suivre. Des colonnes majestueuses, comme sorties d'un autre monde, se dressent au milieu de l'abîme, ajoutant à l'atmosphère sinistre. Un autel, étrangement intact malgré l'atmosphère lugubre, se dresse au centre de l'espace, comme témoin d'anciennes cérémonies. Le fond de l'abîme est un lac noir, sombre et trouble, où des tentacules s'agitent, prêts à vous engloutir. Vous sentez une présence malveillante, comme si l'abîme lui-même était un être vivant, prêt à vous avaler.",
+    "title": "Abîme des Tentacules",
+    "description": "L'abîme des Tentacules est un lieu sinistre et mystérieux, où les murs et le sol sont recouverts de spirales sombres qui semblent s'enrouler vers le centre. Les colonnes massives, ornées de tentacules, émergent de la pénombre, ajoutant une touche de terreur à l'atmosphère déjà oppressante. Le sol est humide et glissant, marqué de motifs de tentacules qui semblent vivants et qui se déplacent lentement. Un autel, étrangement intact malgré l'atmosphère lugubre, se dresse au centre de la pièce, entouré de tentacules qui semblent le protéger. La lumière est si faible que l'on ne peut voir que les contours des tentacules qui se balancent dans l'air, créant une ambiance de terreur et de mystère. L'abîme est un lieu de rituel, où les tentacules semblent agir de manière inconsciente, comme si ils étaient sous l'emprise d'une force maléfique. Les tentacules semblent attendre, prêts à s'attaquer à tout être qui ose approcher. Les murs sont recouverts de tentacules qui semblent vivants et qui se déplacent lentement. Le sol est humide et glissant, marqué de motifs de tentacules qui semblent vivants et qui se déplacent lentement. Un autel, étrangement intact malgré l'atmosphère lugubre, se dresse au centre de la pièce, entouré de tentacules qui semblent le protéger. La lumière est si faible que l'on ne peut voir que les contours des tentacules qui se balancent dans l'air, créant une ambiance de terreur et de mystère. L'abîme est un lieu de rituel, où les tentacules semblent agir de manière inconsciente, comme si ils étaient sous l'emprise d'une force maléfique. Les tentacules semblent attendre, prêts à s'attaquer à tout être qui ose approcher.",
     "tags": [
       "abîme",
+      "tentacules",
       "rituel",
-      "tentes",
-      "sombre",
-      "mystère"
+      "mystère",
+      "terreur"
     ],
     "sourceFeatures": {
       "roomSize": "large",

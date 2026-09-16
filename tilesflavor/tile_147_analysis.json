@@ -1,20 +1,20 @@
 {
   "147": {
     "title": "Couloir des Anciens",
-    "description": "Le couloir est étroit et sinistre, éclairé par une faible lumière qui se répand à peine. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. À l'extrémité du couloir, un coffre de bois ancien est posé sur une table, son contenu mystérieux. À droite, une fenêtre laisse entrer une eau stagnante qui remonte lentement le couloir. Le couloir est une voie sombre et sinistre, où chaque pas semble résonner dans l'ancienne pierre.",
+    "description": "Le couloir est étroit et sinistre, éclairé par une faible lumière qui se répand à peine. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. À l'extrémité du couloir, un coffre ancien est posé sur une table, son contenu mystérieux. Un squelette, probablement celui d'un ancien maître, repose au fond du couloir, son regard fixe et menaçant. À droite, une fenêtre laisse entrer une eau stagnante qui remonte lentement le couloir. Le couloir est une voie sacrée, un passage vers l'abîme des Anciens.",
     "tags": [
       "couloir",
       "rituel",
-      "vieillie",
-      "sinistre",
-      "coffre"
+      "squelette",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "coffre",
+      "centralFeature": "autel",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

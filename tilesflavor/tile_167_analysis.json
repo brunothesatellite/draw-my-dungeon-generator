@@ -1,13 +1,13 @@
 {
   "167": {
     "title": "Grotte des Champignons",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons de toutes les couleurs. La lumière y est faible, filtrant à peine à travers des couches de sédiments. Les murs vieillis montrent des cercles rituels et des glyphes runiques, comme si des anciens magiciens y avaient pratiqué des rituels. Des piliers et des statues évoquent une ancienne civilisation, maintenant en ruine. Le sol est marqué de cercles rituels et de glyphes runiques, et des cercles de lumière se dessinent parfois, éclairant brièvement les parois. Des traces de vieillissement sont visibles partout, avec des taches de moisissure et des éclats de pierre. Des champignons de toutes les couleurs poussent sur les murs et le sol, créant une atmosphère sinistre et mystérieuse. Des objets anciens sont disséminés un peu partout, ajoutant à l'ambiance de mystère. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. La grotte semble être un lieu de rituels, mais les anciens qui l'ont utilisé sont longtemps disparus.",
+    "description": "La grotte est étroite et sinueuse, avec des parois irrégulières et des formations rocheuses qui semblent s'écarter pour former des niches. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur les murs et le sol. Des traces de vieillissement sont visibles partout, avec des couches de sédiments et des traces de vieilles peintures murales. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels et des glyphes runiques sont gravés dans le sol, semblant indiquer un ancien rituel. Le mobilier ancien est délabré, mais quelques objets en bois et en métal sont encore visibles. L'eau stagnante au fond de la grotte est un danger potentiel. La grotte semble être un lieu de rituels, avec des traces de sacrifices et de pratiques anciennes.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituels",
-      "Anciens",
-      "Mystère"
+      "grotte",
+      "champignons",
+      "rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

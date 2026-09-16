@@ -1,13 +1,12 @@
 {
   "146": {
-    "title": "Couloir des Anciens",
-    "description": "Le couloir semble s'étirer indéfiniment, ses murs de pierre vieillie se reflétant dans une eau stagnante qui s'accumule au fond. Des cercles rituels et des glyphes runiques sont gravés dans le sol, évoquant des secrets millénaires. Des piliers et des colonnes majestueuses se dressent de partout, ajoutant à l'ambiance mystérieuse et ancienne. Des têtes de mort et des tentacules émergent des murs, rappelant l'existence d'êtres maléfiques enfouis ici. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps. La grille enfouie dans les murs, visible à travers la brume, semble être le point de départ d'un mystère profond. Les faibles lumières qui filtre à travers les fissures des murs éclairent les cercles rituels, révélant leur pouvoir potentiel. Les anciens rituels qui se déroulaient ici semblent avoir laissé des traces indélébiles, et les pièges anciens sont toujours prêts à se déclencher.",
+    "title": "Couloir des Grilles Enfouies",
+    "description": "Le couloir est étroit et sombre, éclairé par une faible lumière qui filtre à travers les fissures dans les murs. Les murs, vieillis par le temps, sont recouverts de cercles rituels et de glyphes runiques, des symboles mystérieux qui semblent avoir été gravés il y a des siècles. Des grilles, enfouies dans les murs, sont visibles à certains endroits, comme si quelqu'un avait tenté de les dissimuler. Des piliers et des colonnes, robustes et vieillies, soutiennent le plafond, ajoutant à l'atmosphère ancienne et mystérieuse du lieu. Des cercles rituels et des glyphes runiques sont gravés sur le sol, marquant des passages ou des points de pouvoir. Le mobilier ancien, usé par le temps, est disséminé ici et là, ajoutant une touche de vieillesse à l'ensemble. L'eau stagnante, noire et trouble, s'accumule dans certains coins, créant un danger potentiel. Le couloir semble avoir été un passage sacré, peut-être un lieu de rituels, mais aujourd'hui, il est abandonné et recouvert de mystère.",
     "tags": [
       "couloir",
       "rituels",
-      "têtes de mort",
-      "tentacules",
-      "mystère"
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "394": {
-    "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des statues de pierre, vieilles et usées, sont alignées le long des murs, leurs visages émaciés et dépourvus d'yeux. Des cercles de pierre sont gravés sur le sol, formant un motif complexe qui semble avoir une signification rituelle. Un autel en pierre, orné de têtes de mort, se dresse au centre de la pièce. Une grille métallique, posée sur le sol, semble pouvoir déverser du poison ou de la fumée. Des piliers massifs soutiennent le plafond, et une table en bois est placée près de l'autel. L'atmosphère est mystérieuse et pesante, comme si la salle avait été utilisée pour des rituels sombres et sacrés. L'eau stagnante, visible dans un coin de la pièce, ajoute à l'ambiance lugubre. La porte à l'extrémité de la salle semble être la seule issue de cette salle.",
+    "title": "Salle des Statues",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles de pierre. Des statues imposantes, sculptées avec une finesse inégalée, sont alignées le long des murs. Des piliers massifs soutiennent le plafond, et une table en bois est placée au centre de la pièce. Des têtes de mort sont suspendues aux murs, ajoutant une atmosphère sinistre à l'ensemble. Une grille métallique, ancienne et rouillée, semble pouvoir déverser du poison ou de la fumée, créant une ambiance mystérieuse et menaçante. La lumière est faible, ce qui rend encore plus difficile de distinguer les détails des statues et des cercles de pierre. La salle semble être un lieu de rituel, avec des cercles rituels gravés au sol. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre de l'endroit.",
     "tags": [
-      "Salle",
-      "Rituel",
-      "Statues",
-      "Pierres",
-      "Pilier"
+      "rituel",
+      "statues",
+      "cercles",
+      "pierre",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse",
+      "atmosphère": "mystérieuse",
       "roomPurpose": "salle de rituel",
       "csvDescription": "salle ouverte avec des statues et des cercles de pierre sur le sol (une grille métallique semble pouvoir déverser du poison ou de la fumée)",
       "tileNumber": 394

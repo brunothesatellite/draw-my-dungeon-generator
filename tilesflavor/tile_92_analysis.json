@@ -1,13 +1,13 @@
 {
   "92": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant à une salle carrée aux murs vieillis. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire une salle aux murs ornés de têtes de mort et de tentacules, rappelant les créatures mythiques des anciens temps. Des cercles rituels sont gravés au sol, marquant l'ancienne importance de ce lieu. Des piliers robustes soutiennent le plafond, tandis que des meubles anciens sont disséminés un peu partout, témoignant de l'occupation passée. L'atmosphère est oppressante, et l'eau stagnante au fond de la salle ajoute à l'ambiance lugubre. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les créatures des anciens temps. Les cercles rituels au sol indiquent que cette salle était utilisée pour des rituels obscurs. Le passage est étroit et sans issue, menant à une impasse sombre et sinistre.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs vieillis et recouverts de têtes de mort et de tentacules. Des cercles rituels marquent le sol, évoquant une ancienne cérémonie. Les piliers majestueux soutiennent le plafond, tandis que des traces de mobilier ancien sont disséminées le long du passage. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule au fond de la salle, rendant l'endroit encore plus menaçant. Sans issue visible, le couloir semble mener à un destin inconnu.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Rituels",
-      "Têtes de Mort",
-      "Tentacules"
+      "couloir",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "salle des anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

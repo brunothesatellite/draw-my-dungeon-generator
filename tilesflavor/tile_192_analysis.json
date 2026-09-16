@@ -1,13 +1,13 @@
 {
   "192": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier descendant qui semble mener à l'oubli. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant le passage d'un rituel ancien. Des piliers massifs soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé et délabré, est disséminé ici et là, témoignant de l'ancienne importance de ce lieu. L'atmosphère est oppressante, et l'eau stagnante au fond de l'escalier semble prête à s'engouffrer dans le vide. Seul un escalier descend, menant à l'inconnu.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir descend en spirale, les murs de pierre vieillie se rapprochant dangereusement. À chaque pas, les échos résonnent dans les arches anciennes, amplifiant le sinistre murmure qui semble provenir de l'abîme. Des cercles rituels gravés dans le sol marquent le chemin, guidant les explorateurs vers l'escalier descendant qui s'ouvre à la fin du couloir. Les piliers massifs, usés par le temps, soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. Le mobilier ancien, délabré, est disséminé le long du couloir, ajoutant à l'atmosphère sinistre. L'eau stagnante, noire et trouble, s'accumule dans les coins, formant des bassins morts qui attirent les créatures malveillantes. Le seul espoir d'évasion se trouve à l'extrémité du couloir, où l'escalier descend en spirale vers l'abîme. Les explorateurs doivent être prudents, car les pièges anciens sont nombreux et prêts à les accueillir.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Mystère"
+      "couloir",
+      "escalier",
+      "rituels",
+      "anciens",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Couloir avec escalier descendant",
       "tileNumber": 192

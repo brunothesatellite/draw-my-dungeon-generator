@@ -1,14 +1,13 @@
 {
   "252": {
-    "title": "Égout des Anciens",
-    "description": "Dans ce bassin d'égout, les murs humides et froids sont recouverts de cercles rituels énigmatiques. Des piliers massifs soutiennent le plafond, et l'air est chargé d'une odeur de moisi. Le sol est marqué de cercles rituels, et un personnage couché, vêtu d'une robe sombre, repose paisiblement au centre du bassin. L'eau stagnante est sombre et opaque, reflétant les ombres des murs. La faible lumière qui pénètre à travers les fissures du plafond ajoute à l'atmosphère mystérieuse de ce lieu. Les têtes de mort et les tentacules qui flottent à la surface de l'eau semblent veiller sur le repos du personnage. Les piliers majestueux et les cercles rituels évoquent une ancienne civilisation, peut-être celle des Anciens.",
+    "title": "Bassin des Rêveries",
+    "description": "L'égout est étroit et humide, ses parois sont recouvertes de mousse verte. Le bassin, en forme carrée, est rempli d'eau stagnante qui reflète les piliers majestueux qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant un espace de repos ou de méditation. Le bassin est entouré de piliers robustes, leurs colonnes lisses et lisses, évoquant une ancienne architecture. L'atmosphère est mystérieuse, presque onirique, comme si le lieu était un refuge pour l'esprit. Un personnage couché, les yeux fermés, repose au fond du bassin, comme s'il était en train de méditer ou de se reposer. La lumière est faible, filtrant à travers des fentes minuscules dans le plafond, créant des ombres danseuses sur les murs. Les cercles rituels sont visibles, marquant un espace de paix et de réflexion. L'eau stagnante est calme, mais on peut sentir une présence sous-jacente, comme si le bassin était gardé par une force ancienne.",
     "tags": [
       "égoïsme",
-      "rituel",
-      "repose",
+      "retraite",
       "mystère",
-      "ancien",
-      "égout"
+      "paix",
+      "repose"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "232": {
-    "title": "Salle du Trône Sacrée",
-    "description": "La salle du trône sacrée est étroite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur gloire. La lumière pénètre à peine à travers les fenêtres brisées, créant un halo de mystère et de menace. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers et des colonnes imposantes soutiennent le plafond, tandis que des chaises et des colonnes ornent la plateforme du trône. Un tapis ancien repose sur le sol, devant le trône, ajoutant une touche de richesse à l'atmosphère sombre. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. L'air est lourd, et l'eau stagnante se forme dans les coins, ajoutant une touche de danger à l'endroit. La salle est un lieu de culte, où les anciens pratiquaient des rituels sombres et mystérieux.",
+    "title": "Salle du Trône",
+    "description": "La salle du trône est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine dans l'air. Les murs vieillis sont ornés de piliers et de colonnes qui soutiennent une plateforme surélevée. Sur cette plateforme, un trône est installé, entouré de chaises de bois vieillies. Un tapis de couleur sombre est étendu sur le sol, derrière la plateforme, marquant un espace sacré. Les cercles rituels gravés dans le sol ajoutent une atmosphère mystérieuse et menaçante à la pièce. Le mobilier, bien que vieilli, semble avoir été soigneusement placé pour un rituel ou une cérémonie. L'air est humide et l'eau stagnante se forme dans les coins, ajoutant à l'atmosphère lugubre de la salle. La pièce est utilisée pour des rituels ou des cultes, et l'atmosphère est mystérieuse et menaçante.",
     "tags": [
-      "Salle du Trône",
-      "Salle de Culte",
-      "Rituel",
-      "Anciens",
-      "Mystère"
+      "rituel",
+      "salle du trône",
+      "colonne",
+      "tapis",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

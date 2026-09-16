@@ -1,13 +1,13 @@
 {
   "98": {
-    "title": "Passage des Anciens",
-    "description": "Le couloir s'élargit peu à peu, révélant une largeur impressionnante. Les murs, ornés de tentacules et de têtes de mort, semblent avoir été sculptés par des forces obscures. Des cercles rituels et des glyphes mystérieux marquent le sol, évoquant des rituels anciens. Des colonnes et des piliers imposants soutiennent le plafond, ajoutant à l'atmosphère étrange et menaçante. Un grand autel, orné de tentacules et de têtes de mort, se dresse au fond du couloir, semblant être le point central de ce lieu sacré. Des apparitions fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'expérience. Les murs sont recouverts de tentacules et de têtes de mort, tandis que des cercles rituels et des glyphes marquent le sol. Des colonnes et des piliers imposants soutiennent le plafond, et un grand autel, orné de tentacules et de têtes de mort, se dresse au fond du couloir. Des apparitions fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'expérience. Les murs sont recouverts de tentacules et de têtes de mort, tandis que des cercles rituels et des glyphes marquent le sol. Des colonnes et des piliers imposants soutiennent le plafond, et un grand autel, orné de tentacules et de têtes de mort, se dresse au fond du couloir. Des apparitions fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'expérience.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, érodée par le temps et les éons. Les murs sont ornés de tentacules et de têtes de mort, symboles de la mort et de la corruption. Des cercles rituels et des glyphes gravés dans le sol évoquent des rituels anciens et mystiques. Des colonnes et des piliers majestueux soutiennent le plafond, tandis qu'un grand autel de pierre se dresse au fond du couloir. Un tableau, posé sur une table en bois, semble être le point central de ce lieu sacré. L'atmosphère est pesante et étrange, comme si le couloir était le passage vers un autre monde. Des apparitions fantomatiques flottent dans l'air, ajoutant à l'ambiance sinistre. Des pièges enchantés sont dissimulés dans les ombres, prêts à s'activer à la moindre intrusion. Le couloir est large et rectangulaire, avec une lumière naturelle qui pénètre à travers des ouvertures minuscules dans le plafond. Les murs sont recouverts de peintures anciennes, et les sols sont marqués de cercles rituels et de symboles mystiques.",
     "tags": [
       "couloir",
       "ancien",
       "rituel",
-      "fantôme",
-      "tentacule"
+      "sacrifice",
+      "corruption"
     ],
     "sourceFeatures": {
       "roomSize": "large",

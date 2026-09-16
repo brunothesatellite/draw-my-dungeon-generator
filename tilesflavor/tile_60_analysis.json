@@ -1,13 +1,12 @@
 {
   "60": {
     "title": "Salle des Serpents",
-    "description": "Cette petite salle aux murs irréguliers et aux colonnes vieillies semble avoir été utilisée pour des rituels anciens. La faible lumière qui filtre à travers une fenêtre étroite éclaire des cercles rituels et des glyphes runiques gravés au sol. Un serpent, dessiné avec une précision surprenante, semble encercler le centre de la pièce. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère mystérieuse et menaçante. Des piliers et des colonnes soutiennent le plafond, tandis que des meubles anciens sont disséminés un peu partout. L'eau stagnante dans un coin de la pièce rend l'endroit encore plus dangereux. La salle semble avoir été utilisée pour des rituels, peut-être même pour des sacrifices. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici.",
+    "description": "La salle est petite et irrégulière, éclairée par une faible lumière qui se répand à peine à travers les piliers et les colonnes vieillies. Le sol est marqué de cercles rituels et de glyphes runiques, qui semblent avoir été dessinés par un ancien maître de rituels. Des serpents, dessinés avec une précision surprenante, serpentent sur le sol, ajoutant une touche de mystère à l'atmosphère déjà sombre. Des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté de ce lieu. Un autel, orné de têtes de mort et de tentacules, se dresse au centre de la pièce, évoquant une ambiance de sacrifice et de puissance ancienne. Des pièges sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. Une fenêtre permet une vue sur une eau stagnante qui semble attendre son heure pour se réveiller.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Serpent",
-      "Têtes de Mort",
-      "Tentacules"
+      "rituel",
+      "sacrifice",
+      "serpent",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

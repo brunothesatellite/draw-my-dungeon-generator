@@ -1,13 +1,13 @@
 {
   "350": {
     "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et tortueux, ses murs irréguliers et vieillis par le temps. La faible lumière qui filtre à travers les fissures éclaire vaguement les cercles rituels gravés au sol, qui semblent avoir été utilisés pour des cérémonies obscures. Des piliers massifs soutiennent le plafond, leurs surfaces usées par les années. Les têtes de mort sculptées dans le mur ajoutent une note macabre à l'atmosphère mystérieuse et ancienne. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un danger potentiel pour les explorateurs. Le passage semble avoir été conçu pour une seule entrée et une seule sortie, rendant l'exploration difficile. Les cercles rituels et les têtes de mort indiquent que ce lieu était probablement un sanctuaire ou un lieu de rituel ancien.",
+    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc. Les murs, usés par le temps, sont parsemés de têtes de mort sculptées dans le granit. Des cercles rituels émaillent le sol, marquant des passages secrets ou des points de pouvoir. Les piliers massifs, usés par les siècles, soutiennent le passage, leur surface rugueuse témoignant de l'âge et de l'histoire qui les habite. La faible lumière qui filtre à travers les fissures du plafond éclaire les murs et les piliers, révélant des traces de vieilles peintures murales. L'atmosphère est mystérieuse et ancienne, chaque pas résonne dans le silence de la grotte. Les rares passants doivent faire preuve de prudence, car l'eau stagnante qui s'accumule dans les coins peut être dangereuse. Le passage des Anciens est une voie sacrée, un lieu de rituel et de mystère, où les anciens se sont réunis pour célébrer leurs forces et leurs secrets.",
     "tags": [
       "Passage",
-      "Ancien",
-      "Rituel",
+      "Anciens",
+      "Rituels",
       "Mystère",
-      "Tête de Mort"
+      "Grotte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

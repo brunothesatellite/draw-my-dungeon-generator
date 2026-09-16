@@ -1,13 +1,13 @@
 {
   "439": {
-    "title": "Rivière Sacrée",
-    "description": "La rivière sacrée coule lentement, ses eaux sombres reflétant les ombres qui dansent sur les caisses et barils flottants. Des spirales mystérieuses marquent le sol, tandis que des piliers majestueux soutiennent les murs. Un grand cercle, énigmatique, domine le centre de la pièce, entouré d'une structure tente qui semble protéger un secret ancien. La lumière diffuse et humide donne une ambiance de mystère et de puissance ancienne. Des tentacules sombres émergent parfois de l'eau, ajoutant une touche de menace à l'atmosphère déjà chargée. Les barils et caisses, emplies de mystères inexplorés, flottent sur la surface de l'eau, tandis que l'air humide et l'humidité qui imprègne la pièce rendent l'endroit encore plus mystérieux. Les spirales sur le sol semblent indiquer un passage ancien, peut-être un rituel perdu. Les piliers et la structure tente ajoutent une touche de sophistication à cet endroit qui semble être le cœur d'un rituel ancien.",
+    "title": "Rivière des Caisses Flottantes",
+    "description": "La rivière, large et rectangulaire, est sombre et humide, reflétant les ombres des colonnes qui la bordent. Des caisses et des barils, parfois entassés, flottent sur l'eau, créant un bruit monotone qui résonne dans l'air. Des tentacules émergent de l'eau, se balançant lentement, ajoutant une note de mystère à l'atmosphère déjà étrange. Des spirales mystérieuses marquent le sol, et un grand objet circulaire, inconnu, domine le centre de la pièce. Des structures tentaculaires sont suspendues aux murs, et des colonnes majestueuses soutiennent le plafond. L'endroit semble être un lieu rituel, mais les intentions derrière ces objets restent un mystère. Les caisses et les barils flottants ajoutent une note de danger, car ils peuvent se déplacer à tout moment.",
     "tags": [
-      "Rivière Sacrée",
-      "Salle Sacrée",
-      "Mystère Ancien",
+      "Rivière",
+      "Caisses",
+      "Barils",
       "Tentacules",
-      "Rituel Ancien"
+      "Mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

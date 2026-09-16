@@ -1,13 +1,13 @@
 {
   "31": {
-    "title": "Chambre des Anciens",
-    "description": "La chambre est immense, presque carrée, avec un sol recouvert de petits cailloux qui émettent un écho sourd sous vos pas. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air, créant un halo de mystère autour de vous. Les murs, usés par le temps, sont ornés de tentacules et de têtes de mort, des symboles qui semblent avoir été sculptés par des mains d'anciens. Des spirales et des croix gravées dans le sol indiquent un ancien rituel, peut-être perdu au fil des siècles. Des colonnes et des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère de vieilles pierres et de secrets enfouis. Les objets qui se trouvent ici restent un mystère, mais leur présence ajoute une tension palpable à l'air. Les portes de la chambre sont closes, et vous ne savez pas où elles mènent. Les risques potentiels sont nombreux, mais la curiosité vous pousse à explorer ce lieu si ancien et si mystérieux.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, ses murs carrés sont recouverts de colonnes massives qui semblent avoir été sculptées par les mains des dieux. Le sol est recouvert de petits cailloux qui émettent une lueur faible, comme si ils étaient chargés d'une énergie ancienne. Des spirales et des croix sont gravées dans le sol, formant un mystérieux cercle au centre de la pièce. Des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère de terreur et de mystère. La pièce est éclairée par une lumière diffuse, rendant l'endroit encore plus sombre et inquiétant. Les colonnes sont ornées de motifs complexes, et des objets inconnus sont disséminés un peu partout, ajoutant à l'ambiance de mystère. Les sorties semblent se perdre dans l'obscurité, et les dangers potentiels sont inconnus. Cette salle semble être un lieu de rituel ancien, mais son exacte destination reste un mystère.",
     "tags": [
       "rituel",
       "ancien",
-      "mystère",
       "salle",
-      "cailloux"
+      "cailloux",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "large",

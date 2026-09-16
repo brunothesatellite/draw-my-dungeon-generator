@@ -1,13 +1,13 @@
 {
   "66": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinueux, ses murs irréguliers semblent avoir été façonnés par les mains de l'oubli. La faible lumière qui filtre à travers les fissures éclaire des cercles rituels gravés au sol, des symboles qui semblent anciens et mystérieux. Les piliers massifs, usés par le temps, portent le poids de l'histoire qui s'est écoulée depuis des millénaires. Des têtes de mort et des tentacules émergent des murs, rappelant l'existence d'êtres maléfiques qui ont peut-être une influence sur ce lieu. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps, ajoutant à l'atmosphère sinistre qui plane dans ce passage. À l'horizon, une porte murée semble bloquer le chemin, tandis que l'eau stagnante au fond du couloir menace de s'engouffrer dans les moindres recoins. Les rituels qui ont eu lieu ici semblent avoir laissé des traces indélébiles, et le passage des Anciens est un lieu où le passé et le présent se mêlent pour former une atmosphère oppressante et menaçante.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens est étroit et sinistre, ses murs vieillis et recouverts de têtes de mort et de tentacules. Des cercles rituels marquent le sol, et des piliers majestueux soutiennent le plafond. Le mobilier ancien est disséminé ici et là, ajoutant à l'atmosphère lugubre. La lumière est faible, rendant l'endroit encore plus menaçant. À chaque pas, l'air semble pesant, et l'eau stagnante au fond du couloir révèle des indices de rituels anciens. La porte murée à l'extrémité semble être le seul moyen de quitter ce lieu sinistre.",
     "tags": [
       "couloir",
       "rituels",
       "têtes de mort",
       "tentacules",
-      "ancien"
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

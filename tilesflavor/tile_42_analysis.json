@@ -1,13 +1,13 @@
 {
   "42": {
     "title": "Passage des Anciens",
-    "description": "Le couloir étroit et tortueux semble avoir été creusé par des mains anciennes. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et des têtes de mort et des tentacules émergent des parois, ajoutant une touche d'effrayante réalité à l'atmosphère mystérieuse. Le mobilier ancien, délabré, est disséminé ici et là, témoignant de l'ancienne importance de ce lieu. Des pièges anciens sont dissimulés dans les ombres, prêts à s'abattre sur les intrus. Le passage semble mener à un endroit plus profond, mais les portes à l'horizon sont fermées par des barrières invisibles.",
+    "description": "Le passage est étroit et sinueux, taillant son chemin à travers les roches. Les murs, usés par le temps, sont recouverts de peintures sombres et de symboles énigmatiques. Des cercles rituels marquent le sol, évoquant une ancienne cérémonie. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par les siècles. Le passage est faiblement éclairé, la lumière filtrant à travers des fissures minuscules. Des traces de créatures étranges sont visibles sur le sol, comme si des êtres mystérieux avaient parcouru ce chemin il y a longtemps. Les murs sont ornés de têtes de mort et de tentacules, ajoutant à l'atmosphère menaçante. Le passage semble mener à un endroit plus profond, mais les sorties sont fermées par des portes massives et des barrières anciennes. Les anciens rituels qui ont eu lieu ici semblent avoir laissé des pièges anciens, prêts à se déclencher à tout moment.",
     "tags": [
       "Passage",
-      "Ancien",
-      "Rituel",
-      "Mystère",
-      "Pièges"
+      "Anciens",
+      "Rituels",
+      "Mystérieux",
+      "Menace"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

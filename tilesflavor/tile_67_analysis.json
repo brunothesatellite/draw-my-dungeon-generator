@@ -1,13 +1,13 @@
 {
   "67": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinueux, comme s'il avait été sculpté par les mains des dieux. Ses murs, couverts de peintures rupestres et de symboles mystiques, semblent raconter des histoires millénaires. La lumière y est faible, filtrant à travers des fissures minuscules, créant un éclairage tamisé qui met en valeur les ombres et les reflets des pierres vieillies. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant le passage de l'ancien culte qui y a vécu. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, dépourvu de tout objet, semble être le point central de ce lieu, témoin silencieux des rituels passés. L'eau stagnante, noire et trouble, s'accumule dans les coins, ajoutant une touche de mystère à l'atmosphère déjà ancienne et mystérieuse. Seul un passage étroit permet de continuer, menant à l'inconnu.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs irréguliers et vieillis par le temps. La faible lumière qui filtre à travers les fissures révèle des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, ancien et mystérieux, se dresse au fond du couloir, son existence évoquant des secrets profonds. L'eau stagnante au sol ajoute à l'atmosphère lugubre et mystérieuse de ce lieu. Seul un passage étroit mène à l'entrée de la salle des rituels, où les anciens cultes se déroulaient peut-être. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui pourraient se cacher dans les recoins obscurs. La présence de ces éléments rend le couloir un lieu à la fois fascinant et effrayant, où chaque pas peut révéler un nouveau danger.",
     "tags": [
       "couloir",
       "rituel",
       "ancien",
       "mystère",
-      "vieillissement"
+      "sécrétion"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "43": {
-    "title": "Passage des Sacrifices",
-    "description": "Le couloir étroit et rectangulaire semble avoir été conçu pour une seule file de marcheurs. Les murs vieillis et écaillés sont parsemés de têtes de mort sculptées dans le grès, rappelant l'ancienne gloire de ce lieu. Des cercles rituels sont gravés au sol, marquant un chemin qui semble avoir été suivi par de nombreux initiés. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sinistre qui plane dans l'air. Un autel, dépourvu de tout objet, se dresse au fond du couloir, témoignant de l'importance de ce lieu. À l'extrémité du passage, une fenêtre laisse filtrer une lumière faible, révélant une eau stagnante qui menace de s'étendre sur le sol. Le squelette d'un ancien initiateur repose au centre du couloir, un rappel glaçant de l'histoire sombre de ce lieu. Les murs sont ornés de têtes de mort, ajoutant une touche macabre à l'ambiance déjà oppressante. Les cercles rituels marquent un chemin qui semble avoir été suivi par de nombreux initiés, tandis que les piliers massifs soutiennent le plafond. Un autel, dépourvu de tout objet, se dresse au fond du couloir, témoignant de l'importance de ce lieu. À l'extrémité du passage, une fenêtre laisse filtrer une lumière faible, révélant une eau stagnante qui menace de s'étendre sur le sol. Le squelette d'un ancien initiateur repose au centre du couloir, un rappel glaçant de l'histoire sombre de ce lieu.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir est étroit et sinistre, ses murs rectangulaires sont recouverts de têtes de mort et de cercles rituels. La faible lumière qui pénètre à travers la fenêtre à l'extrémité semble émaner d'une source obscure. Les piliers massifs, vieillis par le temps, supportent le plafond qui semble prêt à s'effondrer. Sur le sol, des cercles rituels sont gravés, marquant le passage de rituels anciens. Un autel, délabré, se dresse au centre du couloir, son autel est recouvert de sang séché. L'eau stagnante au fond du couloir semble être un obstacle à franchir avec prudence. L'atmosphère sinistre et oppressante est accentuée par les murmures lointains qui parviennent jusqu'aux oreilles des explorateurs. Le couloir semble être le passage vers un lieu sacré, mais aussi un lieu de sacrifice.",
     "tags": [
       "rituel",
-      "macabre",
-      "sombre",
-      "ancien",
-      "eau stagnante"
+      "sacrifice",
+      "couloir",
+      "têtes de mort",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

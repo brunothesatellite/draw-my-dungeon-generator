@@ -1,13 +1,13 @@
 {
   "156": {
     "title": "Grotte des Champignons",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien semble être abandonné, avec des meubles usés et des objets étranges qui trahissent l'ancienneté du lieu. Des traces de créatures indiquent que ce passage est fréquenté, mais les dangers potentiels sont nombreux. Les vieux pièges anciens sont toujours prêts à se déclencher, ajoutant une tension à l'exploration de cette grotte mystérieuse.",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter vers le plafond. Des champignons de toutes les couleurs et de toutes les tailles poussent sur les murs et les sols, formant un tapis naturel qui semble vivant. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant des passages secrets ou des points de pouvoir. Des piliers et des statues anciennes sont disséminés à travers la grotte, ajoutant une touche de mystère à l'atmosphère sinistre. Le mobilier ancien est délabré, mais semble avoir été utilisé pour des rituels. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher à tout moment. La grotte est petite et carrée, avec une lumière faible qui éclaire les champignons et les marques sur le sol. Les parois vieillies et les traces de créatures indiquent que cette grotte a été utilisée depuis longtemps.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Ancienneté",
-      "Pièges",
-      "Atmosphère Sinistre"
+      "grotte",
+      "champignons",
+      "rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "434": {
     "title": "Pont en Bois pourri",
-    "description": "Le pont en bois pourri, ses planches craquantes et ses noeuds décharnés, semble avoir été oublié depuis des siècles. Il s'étire au-dessus d'une salle rectangulaire, petite et sombre, où les cercles rituels dessinés au sol semblent attendre un rituel ancien. Les piliers et colonnes, vieillies par le temps, ajoutent une touche de mystère à l'atmosphère déjà menaçante. L'air est chargé d'une odeur de pourriture et d'anciennes cérémonies. L'autel, en pierre, se dresse au centre de la salle, comme témoin silencieux des secrets gardés par ce lieu. La lumière pénètre à peine à travers les fissures du plafond, éclairant les têtes de mort et les tentacules qui semblent avoir échoué ici, comme si le lieu avait une vie propre. L'eau stagnante au pied du pont menace de s'engouffrer sous les pieds du voyageur imprudent.",
+    "description": "Le pont en bois pourri, ses planches craquantes et ses noeuds décharnés, semble avoir été oublié depuis des siècles. Il s'élève au-dessus d'une salle rectangulaire, dont les murs vieillis et les piliers colossaux semblent témoigner d'une époque longtemps passée. La faible lumière qui filtre à travers les fissures de la voûte ajoute à l'atmosphère mystérieuse et menaçante de l'endroit. Des cercles rituels gravés dans le sol indiquent que cette salle a été utilisée pour des rituels anciens. L'atmosphère est pesante, comme si l'ombre des ancêtres observait les passants depuis les hauteurs du mur. L'eau stagnante sous le pont, noire et trouble, semble prête à avaler tout intrus imprudent. L'autel, placé au centre de la salle, semble attendre quelqu'un pour le réveiller. Les piliers et colonnes, robustes et imposants, semblent garder le secret des rituels passés. Le pont en bois pourri, un simple passage, est en réalité le lien entre deux mondes, l'un ancien et l'autre moderne.",
     "tags": [
-      "Salle de Rituels Anciens",
-      "Pont pourri",
-      "Atmosphère Menacante",
-      "Salle Rectangulaire",
-      "Cercles Rituels"
+      "rituel",
+      "ancien",
+      "pont",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

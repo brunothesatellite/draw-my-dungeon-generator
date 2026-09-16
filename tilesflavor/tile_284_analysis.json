@@ -1,13 +1,13 @@
 {
   "284": {
-    "title": "L'Égout des Anciens",
-    "description": "Tu te retrouves plongé dans un égout immense, ses parois irrégulières et délabrées te donnent l'impression d'avoir pénétré dans un lieu abandonné depuis des siècles. La lumière tamisée filtre à travers des fissures dans le plafond, éclairant les spirales mystérieuses gravées dans le sol. Des colonnes et des piliers décrépits se dressent ici et là, témoignant de l'ancienneté de ce lieu. Un signe avec le numéro 234 est accroché à un pilier, son message perdu dans le temps. L'atmosphère est pesante, presque oppressante, comme si le passé pesait sur ce lieu. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'horreur à l'ambiance. Un araignée tisse son toile dans un coin, prête à bondir à tout moment. L'unique issue semble être une grande arche qui semble mener à un autre monde, mais tu sais que derrière cette porte se cache un danger inconnu.",
+    "title": "Égout des Anciens",
+    "description": "L'égout s'élargit soudainement, révélant un passage étroit et tortueux. Les murs, couverts de spirales mystérieuses, semblent avoir été sculptés par des mains anciennes. Des colonnes et des piliers, usés par le temps, se dressent de partout, ajoutant à l'atmosphère étrange de l'endroit. Le sol est marqué de motifs complexes, qui semblent indiquer un ancien rituel. Un signe, portant le numéro 234, est accroché à un pilier, comme s'il était destiné à guider les initiés. À l'extrémité du passage, une arche majestueuse se dresse, menant à un autre espace. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche de terreur à l'atmosphère déjà étrange. Un araignée géante, captée dans un filet de toile, semble attendre patiemment, prête à bondir. L'égout est dilapidé, mais les murs sont ornés de détails architecturaux impressionnants, comme des colonnes et des piliers. L'endroit est mystérieux et étrange, comme s'il avait été conçu pour un rituel ancien et perdu.",
     "tags": [
       "épouvante",
-      "ancien",
       "rituel",
+      "ancien",
       "égaré",
-      "égaré"
+      "épouvantail"
     ],
     "sourceFeatures": {
       "roomSize": "large",

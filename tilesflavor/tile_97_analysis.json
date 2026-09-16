@@ -1,13 +1,13 @@
 {
   "97": {
     "title": "Salle des Anciens",
-    "description": "La salle des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand péniblement à travers les fissures du plafond. Les murs, recouverts de peintures écaillées, sont ornés de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers et des statues de pierre sont disséminés à travers la pièce, ajoutant à l'atmosphère sinistre. Un autel central, orné de symboles mystiques, domine la pièce. Une table, usée par le temps, est placée près de l'autel. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'atmosphère encore plus oppressante. Une porte ouverte permet d'apercevoir un passage sombre qui semble mener à d'autres mystères. Les murs sont recouverts de têtes de mort et de tentacules qui semblent sortir du plafond. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers et des statues de pierre sont disséminés à travers la pièce, ajoutant à l'atmosphère sinistre. Un autel central, orné de symboles mystiques, domine la pièce. Une table, usée par le temps, est placée près de l'autel. La salle des Anciens est un lieu de rituel ancien, où les anciens pratiquaient des cérémonies sombres et mystiques.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, émanant d'une source inconnue, ajoutant à l'atmosphère sinistre de la pièce. Des piliers massifs soutiennent le plafond, et des statues étranges sont disséminées dans la pièce, ajoutant une touche de mystère. Un autel central, orné de tentacules et de têtes de mort, domine la pièce. Un vieux table est placé près de l'autel, et une porte ouverte permet d'entrer et de sortir. L'eau stagnante dans un coin de la pièce est un danger potentiel. La salle semble être un lieu de rituel ancien, avec des traces de sacrifices et de pratiques obscures.",
     "tags": [
       "rituel",
       "ancien",
-      "salle",
-      "sinistre",
-      "mystique"
+      "sacrifice",
+      "tête de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

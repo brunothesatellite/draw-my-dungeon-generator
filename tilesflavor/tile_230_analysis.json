@@ -1,24 +1,19 @@
 {
   "230": {
-    "title": "Prison des Anciens",
-    "description": "Dans ce couloir étroit et sombre, les murs vieillis par le temps sont recouverts de cercles rituels et de glyphes runiques. Les cellules, rectangulaires et de taille modeste, sont séparées par des barreaux rouillés. Les grilles au sol et les lits rudimentaires ajoutent à l'atmosphère oppressante de la prison. Les cellules sont vieillies, et des traces de vieilles peintures murales sont encore visibles, malgré leur état délabré. L'air est chargé d'une odeur de moisi et d'anciennes émanations. Des statues et des piliers majestueux ornent les murs, ajoutant une touche de mystère à l'ensemble. Les cercles rituels et les glyphes runiques sur le sol semblent avoir été dessinés avec une précision qui évoque des temps anciens et des cultes obscurs.",
+    "title": "Prison des Cellules Barreaudées",
+    "description": "Dans ce lieu sombre et vieilli, trois cellules rectangulaires se dressent face à vous. Les murs sont recouverts de cercles rituels et de glyphes runiques, évoquant une ancienne tradition cultuelle. Des piliers et des statues ornent les coins, ajoutant à l'atmosphère mystérieuse et ancienne. Les cellules sont fermées par des barreaux robustes, et des grilles sont posées au sol, formant des lits rudimentaires. La pièce est éclairée par une lumière faible, rendant l'endroit encore plus sombre et inquiétant. L'eau stagnante au fond de la cellule la plus grande ajoute une touche de danger à ce lieu. Les cellules sont petites et rectangulaires, mais l'une d'entre elles est plus grande que les autres, ce qui pourrait indiquer une importance particulière pour celle-ci.",
     "tags": [
-      "Prison",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Vieillie"
+      "prison",
+      "cellules",
+      "grilles",
+      "sol",
+      "barreaux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
-      "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
-      ],
       "floorMarkings": [
         "cercles rituels",
         "glyphes runiques"
@@ -30,7 +25,6 @@
       "objectsOrFurniture": [
         "mobilier ancien"
       ],
-      "creaturesOrTraces": [],
       "exits": [],
       "hazards": [
         "eau stagnante"

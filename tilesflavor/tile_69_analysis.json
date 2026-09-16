@@ -1,13 +1,13 @@
 {
   "69": {
     "title": "Les Voies Énigmatiques",
-    "description": "Vous vous trouvez dans un complexe de deux couloirs séparés, dont les murs sont recouverts de tentacules et de trophées étranges. Les couloirs, de taille large et de forme irrégulière, sont éclairés par une lumière diffuse qui semble provenir de sources inconnues. Le sol est marqué de spirales et de croix, comme si quelqu'un avait tenté de dessiner un plan ou un rituel. Les colonnes et les piliers, délabrés, ajoutent à l'atmosphère mystérieuse de ce lieu. Les murs sont décorés de tentacules et de trophées, des objets qui semblent avoir une signification sacrée ou mystique. Les couloirs se perdent dans l'obscurité, et vous ne savez pas où ils mènent. Les marques sur le sol et les décorations murales laissent entrevoir un passé ancien et complexe, mais leur signification reste un mystère. Les couloirs sont en bon état, mais l'ambiance générale est celle d'un lieu abandonné et oublié depuis longtemps.",
+    "description": "Les deux couloirs s'entrecroisent comme des tentacules, leurs murs rugueux et décrépits témoignant d'années d'abandon. Des croix et des spirales gravées dans le sol évoquent des rites anciens, mais leur signification reste un mystère. Les colonnes et les piliers, érodés par le temps, semblent vouloir soutenir un passé glorieux. Des tentacules et des trophées étranges ornent les murs, ajoutant une touche de surnaturel à l'atmosphère lugubre. Les couloirs s'élargissent et s'effilochent, offrant de multiples sorties, mais chacune semble mener à un autre mystère. Les murs, délavés, révèlent des traces de peintures énigmatiques, et les sols, marqués de croix et de spirales, semblent inviter à l'exploration. Les couloirs, bien qu'irréguliers, sont vastes et offrent un espace suffisant pour se déplacer. Les lumières tamisées et les ombres qui dansent ajoutent une ambiance de mystère et de danger潜伏在每个角落。",
     "tags": [
       "couloir",
       "mystère",
       "ancien",
-      "trophées",
-      "tentacules"
+      "tentacules",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

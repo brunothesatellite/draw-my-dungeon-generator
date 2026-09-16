@@ -1,13 +1,12 @@
 {
   "326": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Au cœur de l'obscurité, un abîme circulaire se découvre, ses parois noires et lisses semblant avaler tout ce qui s'approche. Deux tentacules, noirs et sinistres, émergent de la noirceur, se balançant d'un air menaçant. La lumière est si faible que seules les silhouettes des tentacules sont visibles, projetant des ombres danseuses sur les parois. Des cercles rituels, usés par le temps, marquent le sol, semblant inviter à une danse macabre. Des piliers, usés et décrépits, soutiennent la structure, leurs surfaces lisses et glissantes. L'atmosphère est sinistre, pesante, comme si l'abîme était le berceau d'une force maléfique. Les tentacules semblent attendre, prêts à s'enrouler autour de tout être qui ose approcher. L'abîme est une salle de rituel, un lieu où les anciens pratiquaient des sacrifices et des cérémonies sombres. Les têtes de mort, éparpillées ici et là, semblent témoigner de l'horreur qui y réside. L'eau stagnante, noire et putride, coule lentement au fond de l'abîme, ajoutant à l'atmosphère lugubre. L'œil, un objet mystérieux, semble observer tout ce qui se passe, prêts à réagir à la moindre intrusion.",
+    "title": "Abîme des Tentacules",
+    "description": "Vous vous trouvez dans un abîme circulaire, où la noirceur semble avaler tout ce qui s'approche. Deux tentacules noirs sortent de la profondeur, frôlant le sol avec une lenteur sinistre. Le sol est marqué de cercles rituels, qui semblent avoir été dessinés par une main froide et ancienne. Des piliers massifs soutiennent le ciel de cette cavité sombre, mais leur architecture vieillie et usée ajoute à l'atmosphère sinistre. La faible lumière qui pénètre ici ne révèle que des ombres et des reflets de la noirceur qui plane autour de vous. L'air est lourd et chargé d'une odeur nauséabonde, et vous pouvez sentir l'œil d'un monstre qui vous observe depuis l'abîme.",
     "tags": [
       "abîme",
       "tentacules",
-      "rituel sombre",
-      "salle de sacrifice",
-      "atmosphère sinistre"
+      "rituel",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,12 +1,13 @@
 {
   "94": {
-    "title": "Chambre des Tentacules",
-    "description": "La chambre est immense, son plafond voûté et sa largeur impressionnante. La lumière tamisée émane des torches anciennes qui se dressent sur des colonnes de pierre, éclairant les murs ornés de tentacules sculptés et de têtes de morts étranges. Des hachures mystérieuses sillonnent le sol, formant des spirales qui semblent guider le regard vers un autel central. Des statues de pierre, étranges et dépourvues de visage, gardent la pièce. Les arches majestueuses permettent d'accéder à d'autres parties du donjon, mais les spirales sur le sol pourraient être des pièges. L'atmosphère est pesante, presque palpable, comme si la pièce était le cœur d'un rituel ancien et perpétuel.",
+    "title": "L'autel des Tentacules",
+    "description": "Vous pénétrez dans une grande salle rectangulaire, éclairée par une faible lumière qui se répand doucement à travers les arches. L'atmosphère est humide et mystérieuse, comme si la salle avait été abandonnée depuis des siècles. Le sol est marqué de spirales et de hachures, qui semblent indiquer un ancien rituel. Des colonnes majestueuses soutiennent le plafond, et des statues de pierre gardent les arches d'entrée. Au centre de la pièce, un autel colossal est sculpté de tentacules et de formes étranges, comme si une créature marine géante avait tenté de s'implanter ici. Des têtes sculptées de créatures étranges ornent les murs, ajoutant à l'atmosphère sinistre. Les spirales sur le sol pourraient être des pièges, prouvant que cette salle est un lieu sacré et dangereux. Les arches d'entrée permettent d'accéder à d'autres parties du donjon, mais la porte est fermée par une barrière de pierre. La salle est silencieuse, mais vous pouvez sentir une présence ancienne et malveillante qui plane dans l'air.",
     "tags": [
       "salle sacrée",
       "rituel ancien",
-      "tête de mort",
-      "tentacules"
+      "tentacules",
+      "autel",
+      "salle mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "large",

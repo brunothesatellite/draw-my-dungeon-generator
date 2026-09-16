@@ -1,13 +1,13 @@
 {
   "51": {
     "title": "Couloir des Os",
-    "description": "Le couloir étroit et sinistre est recouvert de couches d'os, les ossements se mêlant aux murs et au sol. Les murs, usés et vieillis, sont parsemés de cercles rituels sombres qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et lisses reflétant faiblement la lumière qui pénètre à travers une porte ouverte à l'extrémité du couloir. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère déjà lugubre. Un cercle de cercles rituels est gravé au sol, entourant une table ancienne et usée, sur laquelle repose un squelette, les os fragiles et cassés. L'eau stagnante, noire et putride, s'accumule dans les coins, créant un miroir sombre qui reflète les ténèbres qui règnent dans ce lieu. La porte ouverte à l'extrémité laisse entrevoir une lumière plus vive, mais aussi une menace potentielle.",
+    "description": "Le couloir étroit et sinistre est recouvert de couches d'os, les ossements se détachant des murs et du plafond avec une étrange lenteur. Les piliers de pierre sont usés et recouverts de croûtes de calcaire, tandis que des cercles rituels émaillent le sol, marquant un passage ancien. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir éclaire les os et les ombres qui les entourent, créant un spectacle d'horreur. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'effrayante réalité à l'atmosphère sinistre. Un squelette, probablement ancien, repose au fond du couloir, son crâne dégoulinant de sang séché. La porte à l'extrémité semble légèrement ouverte, révélant un espace sombre et inconnu. L'eau stagnante au sol rend le passage glissant et dangereux.",
     "tags": [
-      "Couloir",
-      "Rituels",
-      "Têtes de Mort",
-      "Tentacules",
-      "Squelette"
+      "couloir",
+      "os",
+      "rituel",
+      "squelette",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Couloir avec des os",
       "tileNumber": 51

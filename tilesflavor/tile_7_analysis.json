@@ -1,13 +1,13 @@
 {
   "7": {
-    "title": "Le Couloir des Tentes Sacrées",
-    "description": "Le couloir s'étend devant vous, large et rectangulaire, éclairé par une faible lumière qui se répand dans l'air humide. Des tentes blanches sont suspendues aux murs, comme des autels silencieux. Le sol est marqué d'un spirale mystérieuse, qui semble guider le regard vers le fond du couloir. Des colonnes majestueuses, ornées de motifs anciens, se dressent de part et d'autre, ajoutant à l'atmosphère sacrée et énigmatique du lieu. Un autel, vide mais majestueux, se dresse au fond du couloir, comme si une cérémonie récente y avait eu lieu. L'humidité qui imprègne l'air rend le couloir presque glissant, et une fine couche d'eau recouvre le sol, créant un miroir qui reflète les tentes et les colonnes. Le mystère qui plane ici est palpable, et chaque détail semble raconter une histoire ancienne et sacrée.",
+    "title": "Couloir des Tentes Sacrées",
+    "description": "Le couloir s'étend devant vous, large et rectangulaire, ses murs humides et couverts de taches de condensation. La lumière tamisée émane des torches fixées aux piliers massifs qui soutiennent le plafond voûté. Des tentes de toile sont suspendues aux murs, leur tissu déchiré laisse filtrer la faible lumière. Le sol est marqué d'un spiral complexe gravé dans la pierre, qui semble guider le regard vers le fond du couloir. L'atmosphère est mystérieuse, presque sacrée, comme si ce lieu avait été consacré à des rituels anciens. L'air humide et l'odeur de terre humide vous enveloppent, ajoutant à l'ambiance étrange de ce passage. Aucun passage ne semble mener à l'extérieur, et l'eau stagnante au fond du couloir semble prête à vous engloutir. Un autel, dépourvu de tout objet, se dresse au fond du couloir, comme si quelqu'un avait été appelé pour un rituel, mais n'avait pas encore répondu.",
     "tags": [
-      "Couloir",
-      "Sacré",
-      "Tentes",
-      "Colonne",
-      "Mystère"
+      "couloir",
+      "tentes",
+      "autel",
+      "rituel",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

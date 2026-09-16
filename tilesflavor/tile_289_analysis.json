@@ -1,13 +1,13 @@
 {
   "289": {
-    "title": "Passage suspendu au cœur de l'abîme",
-    "description": "Le passage suspendu, étroit et rectangulaire, semble avoir été construit il y a des siècles. La lumière tamisée filtre à peine à travers les fissures du plafond, éclairant les murs vieillis par le temps. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble inachevé. Des piliers robustes soutiennent le pont de corde qui traverse l'abîme, mais l'eau stagnante qui s'accumule sous le pont rend le passage dangereux. Des têtes de mort, sculptées avec une finesse surprenante, ornent les murs, ajoutant une touche macabre à l'atmosphère déjà menaçante. Le mobilier ancien, usé et délabré, semble avoir été laissé là depuis longtemps, témoignant de l'ancienneté de ce lieu. À chaque pas, le pont de corde gémit sous le poids, et l'eau stagnante résonne sous vos pieds. À l'horizon, un escalier semble descendre dans l'abîme, menant à un endroit inconnu. Cette salle, bien qu'apparemment petite, est un lieu de stockage ou de rituel, où les secrets les plus sombres sont gardés.",
+    "title": "Pont de Corde au Fond de l'Abîme",
+    "description": "Au cœur de l'abîme, un pont de corde tordu s'étire entre deux falaises escarpées. La lumière pâle et diffuse éclaire vaguement le passage, révélant des cercles rituels gravés dans le sol. Des piliers massifs, usés par le temps, soutiennent le pont, leurs colonnes érodées par les eaux stagnantes qui roulent lentement vers le bas. Des têtes de mort, sculptées avec une finesse surprenante, ornent les murs, ajoutant une note macabre à l'atmosphère déjà menaçante. Le mobilier ancien, délabré, semble avoir été abandonné depuis des siècles, ses meubles usés et ses tissus déchirés. À chaque pas, le pont gémit sous le poids, et l'eau stagnante, noire et trouble, s'agite sous vos pieds. L'escalier qui mène à l'abîme semble être la seule issue, mais la descente est interdite, car les têtes de mort qui gardent le passage ont été réveillées par les eaux. Les cercles rituels, visibles sur le sol, semblent être des points de passage vers un autre monde, mais leur nature est inconnue. Les piliers, les têtes de mort et les cercles rituels font de ce lieu un endroit à la fois mystérieux et dangereux.",
     "tags": [
       "abîme",
       "pont de corde",
-      "rituel",
       "têtes de mort",
-      "sécrétion"
+      "cercles rituels",
+      "escalier"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

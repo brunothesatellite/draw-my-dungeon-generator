@@ -1,13 +1,12 @@
 {
   "355": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "Cette petite salle rectangulaire, aux murs vieillis et aux piliers massifs, émane d'une atmosphère sinistre. La faible lumière qui filtre à travers les fenêtres fêlées révèle des cercles rituels gravés dans le sol, entourant un autel central. Des têtes de mort sont suspendues aux murs, ajoutant à l'aura macabre de la pièce. Une table, simple et ancienne, repose au milieu de la salle, tandis qu'un tonneau et une boîte en bois sont posés à un angle. L'eau stagnante, noire et trouble, remplit une partie de la pièce, créant un danger potentiel. Les murs sont décorés de têtes de mort, et les piliers majestueux ajoutent une touche de mystère à cette salle de rituel sacré.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent les murs, et une table ancienne occupe un coin de la pièce. Sur une des murs, des têtes de mort sont suspendues, ajoutant une touche macabre à l'ambiance. Un tonneau et une boîte sont visibles dans un coin, laissant entrevoir des secrets enfouis. L'eau stagnante dans un coin de la pièce est un danger potentiel. Cette salle semble être réservée à des rituels sombres et mystérieux.",
     "tags": [
-      "Salle de Rituels",
-      "Salle Sacrée",
-      "Salle Ancienne",
-      "Salle Macabre",
-      "Salle de Donjon"
+      "rituel",
+      "macabre",
+      "salle",
+      "donjon"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

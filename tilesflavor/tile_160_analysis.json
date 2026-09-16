@@ -1,13 +1,13 @@
 {
   "160": {
-    "title": "Grotte des Anciens",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Le sol est couvert de cercles rituels anciens, marquant un passage ancien. Des piliers massifs soutiennent le plafond, et des traces de vieillissement sont visibles partout. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'atmosphère sinistre de la grotte. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche macabre à l'ensemble. Cette grotte, bien que petite, est un lieu de rituels sacrés, où les anciens pratiquaient des cérémonies sombres.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et sombre, avec des parois irrégulières et des formations rocheuses qui semblent s'écarter pour former un passage étroit. Les lumières naturelles sont rares, et la seule source de lumière est une petite ouverture au sommet de la grotte, qui laisse filtrer une faible clarté. Des champignons de toutes les couleurs poussent sur les parois et le sol, formant un tapis de couleurs vives qui contraste avec la pénombre. Des cercles rituels sont gravés dans le sol, et des piliers de pierre soutiennent le plafond. Le mobilier ancien, délabré, est disséminé un peu partout, ajoutant à l'atmosphère sinistre de la grotte. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel pour les explorateurs. Les parois sont parsemées de têtes de mort et de tentacules, ajoutant une touche macabre à l'endroit. La grotte semble être un ancien lieu de rituels, et les cercles gravés indiquent qu'elle a été utilisée pour des cérémonies sacrées. Les champignons, pourtant, semblent être une source de vie dans ce lieu sinistre.",
     "tags": [
       "grotte",
+      "champignons",
       "rituels",
-      "macabre",
-      "anciens",
-      "sombre"
+      "ancien",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

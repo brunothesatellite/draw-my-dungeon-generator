@@ -1,13 +1,13 @@
 {
   "370": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "Cette immense salle rectangulaire, aux murs couverts de tentacules et de têtes de mort, évoque une atmosphère mélangeant le mystère et l'étrangeté. Les colonnes massives et les pilastres imposants, ornés de motifs anciens, semblent avoir été sculptés par les mains des dieux. Deux brasiers, l'un à chaque extrémité de la pièce, émettent une lumière faible et vacillante, révélant les cercles et les croix gravés au sol. La pièce est si ancienne qu'elle semble avoir été conçue pour des rituels sacrés, mais les traces de créatures étranges gravées sur les murs indiquent qu'elle a été utilisée pour des cérémonies plus sombres. Les runes anciennes et les cercles enchantés, suspendus dans l'air, ajoutent une touche de danger à cette atmosphère déjà étrange. Les murs sont ornés de tentacules et de têtes de mort, rappelant les créatures qui ont peut-être une place dans ces rituels. La pièce est si vaste qu'elle semble ne pas avoir de sortie visible, ajoutant à son mystère et à son étrangeté.",
+    "title": "Salle des Colonnes et Brasiers",
+    "description": "Cette vaste salle rectangulaire, aux murs couverts de colonnes imposantes, émane une atmosphère mystérieuse et étrange. La lumière tamisée éclaire les cercles et croix gravés au sol, tandis que les runes anciennes scintillent sous la faible lumière. Deux brasiers, l'un à chaque extrémité de la pièce, émettent une lueur orangée qui danse sur les tentacules et les têtes de mort suspendues aux murs. Les colonnes, robustes et vieilles, semblent avoir été sculptées par des mains d'anciens maîtres. Des meubles étranges, difficiles à identifier, sont disséminés un peu partout, ajoutant à l'ambiance étrange de la pièce. Les cercles magiques enchantés et les runes anciennes, bien que invisibles à l'œil nu, sont un rappel constant de l'histoire secrète de cette salle. Les traces de créatures anciennes sont visibles dans le sable, ajoutant une touche de mystère à l'atmosphère déjà étrange de la pièce.",
     "tags": [
       "salle",
+      "colonnes",
+      "brasiers",
       "ancien",
-      "rituel",
-      "mystère",
-      "tête de mort"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,20 +1,20 @@
 {
   "403": {
     "title": "Salle de Labyrinthe avec Grille",
-    "description": "La salle de labyrinthe avec grille est étroite et rectangulaire, ses murs vieillis et recouverts de cercles rituels. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire vaguement les piliers et les colonnes qui soutiennent la structure. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules sont gravés sur les murs, ajoutant une atmosphère menaçante à l'endroit. Des cercles de lumière se reflètent sur le sol, créant une ambiance mystérieuse et étrange. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'ambiance d'abandon et de mystère. L'eau stagnante dans un coin de la salle rend l'endroit encore plus dangereux. Cette salle semble être un lieu de rituels ou de culte, et les cercles rituels et les têtes de mort indiquent qu'elle a été utilisée pour des cérémonies sombres. La grille au centre de la pièce semble être un point de passage vers un autre monde, mais elle est bloquée par une eau stagnante qui s'est accumulée au fil du temps.",
+    "description": "La salle de labyrinthe avec grille est étroite et rectangulaire, ses murs vieillis et recouverts de cercles rituels. La faible lumière qui pénètre à travers les fissures dans la voûte ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers et des colonnes soutiennent le plafond, et le mobilier ancien est disséminé un peu partout, ajoutant à l'ambiance vieillie de la pièce. Des cercles rituels marquent le sol, et l'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus menaçante. La grille au centre de la pièce semble être le point focal de cette salle, peut-être un autel ou un point de passage vers un autre monde. Les tentacules et les têtes de mort sont visibles sur les murs, ajoutant une touche d'horreur à l'ensemble. La salle semble être un lieu de rituels ou de culte, et l'endroit est certainement hanté par des forces obscures.",
     "tags": [
-      "rituel",
-      "salle de culte",
       "labyrinthe",
-      "eau stagnante",
-      "têtes de mort"
+      "grille",
+      "rituels",
+      "mystérieuse",
+      "menaçante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "grille",
+      "centralFeature": "autel",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "salle de labyrinthe avec grille",
       "tileNumber": 403

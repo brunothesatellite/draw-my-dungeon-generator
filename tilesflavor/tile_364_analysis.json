@@ -1,13 +1,13 @@
 {
   "364": {
     "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand à peine à travers les voûtes. Les murs vieillis sont recouverts de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont peints au sol, marquant des points de pouvoir ou de protection. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Des tables et des chaises, ainsi que des tonneaux, sont disposés au centre de la salle, laissant entrevoir un passé de cultes ou de rituels. Les murs sont ornés de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont peints au sol, marquant des points de pouvoir ou de protection. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Des tables et des chaises, ainsi que des tonneaux, sont disposés au centre de la salle, laissant entrevoir un passé de cultes ou de rituels.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des murs qui ont vu des siècles d'usure. La faible lumière qui pénètre à travers les fenêtres éclairées par des bougies crée une ambiance mystérieuse et menaçante. Des cercles rituels sont gravés au sol, marquant l'ancienne importance de ce lieu. Des piliers robustes soutiennent le plafond, et des colonnes vieillies ajoutent à l'atmosphère sombre. Des tables et des chaises, vieillies et usées, sont alignées contre les murs, entourées de tonneaux qui semblent avoir été utilisés pour des rituels ou des cérémonies. Le mobilier ancien, délabré, ajoute une touche de mystère à la pièce. Des traces de créatures étranges sont visibles sur le sol, et des tentacules émergent des coins sombres, ajoutant une note de menace à l'atmosphère déjà sinistre. L'ancien autel, entouré de têtes de mort, est le point central de la pièce, rappelant l'ancien culte qui y a été pratiqué. Les pièges anciens sont dissimulés dans les recoins, prêts à se déclencher à tout moment.",
     "tags": [
       "rituels",
-      "culte",
       "salle des anciens",
-      "mystérieuse",
-      "vieillie"
+      "tentacules",
+      "squelettes",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

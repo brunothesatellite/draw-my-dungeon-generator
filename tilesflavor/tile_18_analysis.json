@@ -1,13 +1,13 @@
 {
   "18": {
     "title": "Salle des Boîtes Sacrées",
-    "description": "La salle est immense, son plafond voûté et sa largeur impressionnante. Les murs, couverts de spirales mystérieuses, sont ornés de tentacules qui semblent vivants, se balançant doucement dans l'air humide. Des colonnes massives, sculptées de motifs complexes, soutiennent le toit. Le sol est marqué de spirales, comme si une force invisible les avait gravées. Un grand autel, entouré de boîtes de toutes tailles, occupe le centre de la pièce. La lumière tamisée émane des fenêtres étroites, créant une ambiance sombre et énigmatique. Les boîtes, certaines ouvertes, révèlent des objets étranges et mystérieux. Des pièges sont dissimulés un peu partout, prêts à s'activer à la moindre intrusion. La salle semble être un lieu de culte ancien, dédié à des forces obscures et sacrées.",
+    "description": "La salle est immense, de forme rectangulaire, avec un plafond voûté qui semble s'effondrer peu à peu. La lumière est faible, filtrant à travers des ténèbres qui semblent s'accumuler autour de la pièce. Le sol est humide et recouvert de spirales mystérieuses qui semblent danser sous vos pieds. Des colonnes massives soutiennent le plafond, leurs surfaces lisses et lisses, comme si elles avaient été sculptées par des mains invisibles. Au centre de la pièce, une table massive est posée, entourée de boîtes de toutes tailles, certaines fermées, d'autres ouvertes, révélant des objets de forme étrange et inquiétante. Des tentacules sinueux, semblables à ceux d'un monstre marin, sont suspendus aux murs, ajoutant une touche d'horreur à l'atmosphère déjà sombre. Les spirales sur le sol semblent se concentrer autour d'un autel central, qui est entouré de boîtes de bois. La salle est silencieuse, mais on peut entendre le murmure des eaux qui coulent sous le sol, ajoutant une note de mystère à l'ensemble. Les boîtes semblent contenir des secrets, des objets anciens et des mystères à découvrir. Les tentacules suspendus aux murs semblent attendre, prêts à se déplacer à tout moment. La salle est un lieu sacré, mais aussi un lieu de peur, où les secrets les plus profonds de l'univers sont peut-être dissimulés.",
     "tags": [
-      "Salle Sacrée",
-      "Tentacules",
-      "Spirales",
-      "Pièges",
-      "Autel"
+      "salle",
+      "boîtes",
+      "tentacules",
+      "sacré",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

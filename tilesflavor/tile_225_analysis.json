@@ -1,13 +1,14 @@
 {
   "225": {
-    "title": "Salle des Rituels",
-    "description": "Tu te trouves dans une petite salle rectangulaire, vieillie et sombre. Les murs sont couverts de cercles rituels, et des piliers massifs soutiennent le plafond. La lumière est faible, filtrant à travers une fenêtre étroite au fond de la pièce. Un autel central, orné de têtes de mort et de tentacules, attire ton regard. Une table, ancienne et usée, repose contre un mur. L'atmosphère est sinistre, pesante, comme si la salle avait été utilisée pour des rituels sombres. L'eau stagnante, noire et trouble, remplit une moitié de la pièce, rendant l'endroit dangereux. La salle est dépourvue d'issues, mais l'eau peut être un obstacle à franchir.",
+    "title": "Salle des Cercles Rituels",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Des cercles rituels sont gravés au sol, entourant une table en bois usée. Des piliers massifs soutiennent le plafond, et l'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans un coin. La salle semble abandonnée depuis longtemps, mais les traces de vieilles cérémonies sont encore visibles.",
     "tags": [
       "rituel",
       "salle",
       "vieillie",
-      "sinistre",
-      "eau stagnante"
+      "têtes de mort",
+      "tentacules",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

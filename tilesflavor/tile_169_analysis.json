@@ -1,13 +1,13 @@
 {
   "169": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Les sols sont parsemés de cercles rituels et de glyphes runiques, des symboles mystiques qui émettent une lueur étrange. Des piliers et des statues anciennes se dressent ici et là, ajoutant à l'atmosphère sinistre de la grotte. Le mobilier ancien est délabré, mais des traces de rituels anciens sont encore visibles sur les murs. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un miroir lugubre qui reflète les ombres qui hantent l'endroit. Les têtes de mort et les tentacules qui pendent des plafonds ajoutent une touche macabre à ce lieu de culte ancien. La grotte est une salle de rituels, où les anciens pratiquaient des cérémonies sombres et mystiques.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte des Champignons est étroite et sombre, avec des parois irrégulières et des formations rocheuses qui semblent s'écarter pour former des niches. La lumière pénètre à peine, éclairant de faibles cercles rituels gravés dans le sol et des glyphes runiques qui brillent faiblement. Des piliers et des statues anciennes sont disséminés un peu partout, ajoutant une touche de mystère à l'atmosphère sinistre. Des champignons de toutes les couleurs poussent sur les parois et le sol, formant un tapis naturel qui semble vivant. Le mobilier ancien est délabré, mais quelques objets sont encore identifiables. L'eau stagnante dans un coin de la grotte est un danger potentiel. La grotte semble être un lieu de rituels, avec des cercles rituels et des glyphes qui semblent avoir une signification sacrée. Les parois sont parsemées de têtes de mort et de tentacules, ajoutant une touche macabre à l'ensemble. Les champignons semblent être la seule source de vie dans ce lieu abandonné.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituels",
-      "Anciens",
-      "Sombre"
+      "grotte",
+      "champignons",
+      "rituels",
+      "macabre",
+      "abandonné"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Grotte avec champignons",
       "tileNumber": 169

@@ -1,13 +1,13 @@
 {
   "53": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec un sol couvert de cercles rituels. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, et une table sombre est placée au centre de la pièce. Un crâne humain, intact, repose sur la table, comme un symbole de sacrifice. L'eau stagnante au sol indique un danger potentiel. Cette salle est dédiée à des rituels obscurs, et les grilles au fond semblent être les seules sorties de cette crypte ancienne.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, ce qui ajoute à l'atmosphère sinistre de la pièce. Trois grilles métalliques sont suspendues au plafond, et un crâne humain est posé sur une table au centre de la pièce. Des piliers massifs soutiennent les murs, et des têtes de mort et des tentacules sont sculptés dans les pierres des murs. La salle semble avoir été utilisée pour des rituels sacrés, et l'eau stagnante dans un coin ajoute à l'ambiance lugubre. Les grilles et le crâne sont les seuls points d'accès à cette pièce, qui semble être isolée et sans issue visible.",
     "tags": [
       "rituel",
       "sacrifice",
-      "crypte",
-      "tête de mort",
-      "tentacules"
+      "salle",
+      "grilles",
+      "crâne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

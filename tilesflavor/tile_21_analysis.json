@@ -1,13 +1,13 @@
 {
   "21": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des murs qui ont vu des siècles passer. La faible lumière qui pénètre à travers les fenêtres éclairées par des bougies crée une ambiance mystérieuse et un peu menaçante. Au centre de la pièce se dresse une table avec une chaise, les marques de cercles rituels gravées dans le sol autour de la table ajoutent une touche de surnaturel à l'atmosphère. Des piliers robustes soutiennent les murs, et les murs eux-mêmes sont ornés de quelques têtes de mort, rappelant l'ancienne tradition de ce lieu. La salle semble avoir été utilisée pour des réunions ou des cultes, et les cercles rituels indiquent qu'elle a probablement été utilisée pour des rituels sacrés. Les murs sont couverts de peintures anciennes et de symboles mystiques, ajoutant à l'atmosphère énigmatique de la pièce. Les cercles rituels sont les seuls dangers potentiels, mais ils sont également les indices les plus importants pour comprendre l'histoire de cette salle.",
+    "title": "Salle des Rituels",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des réunions ou des cultes. Les murs vieillis sont ornés de cercles rituels, et un grand pilier central soutient le plafond. Au centre de la pièce, une table avec une chaise est disposée, comme si quelqu'un venait de s'asseoir pour une réunion importante. Les sols sont marqués de cercles rituels, et les piliers sont ornés de têtes de mort, ajoutant une atmosphère mystérieuse à l'endroit. La pièce semble avoir été abandonnée depuis longtemps, mais les cercles rituels et les têtes de mort laissent entrevoir des pratiques obscures qui y ont eu lieu.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituels",
-      "Mystérieuse",
-      "Vieillie"
+      "rituel",
+      "salle",
+      "cercles rituels",
+      "têtes de mort",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

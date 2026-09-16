@@ -1,13 +1,13 @@
 {
   "265": {
-    "title": "L'Égout des Sacrifices",
-    "description": "Dans ce couloir étroit et humide, l'air est chargé d'une odeur de mort et de mystère. Les murs, couverts de spirales et de lignes énigmatiques, semblent murmurer des secrets anciens. Des colonnes et des piliers majestueux, ornés de tentacules et de têtes de mort, émergent de la pénombre. Un baril, posé au fond du couloir, semble avoir été oublié depuis des siècles. La lumière naturelle filtre à travers une ouverture dans le mur, révélant un égout qui s'écoule lentement, formant des ruisseaux de lumière qui dansent sur le sol. Des figures fantomatiques, floues et translucides, se déplacent dans l'ombre, ajoutant à l'atmosphère sinistre. À l'extrémité du couloir, une porte massive semble protéger un secret sacré.",
+    "title": "Égout du Baril",
+    "description": "L'égout, une partie sortant du mur, s'élargit soudainement pour révéler un baril ancien, posé sur une table en bois usée. Les murs, couverts de tentacules et de têtes de mort, semblent témoigner d'une ancienne cérémonie. Des spirales et des lignes gravées dans le sol indiquent un passage ancien, peut-être un rituel. Les colonnes et les piliers, ornés de motifs complexes, ajoutent à l'atmosphère mystérieuse de ce lieu. La lumière naturelle pénètre à travers une ouverture au plafond, éclairant les tentacules qui semblent se mouvoir légèrement. Des figures fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'ambiance. Un seul passage mène à une porte, derrière laquelle se cache peut-être un piège. Les murs sont humides, et l'air est chargé d'une odeur de moisi et de mystère ancien.",
     "tags": [
-      "couloir",
-      "épouvante",
+      "égoût",
+      "baril",
       "sacrifice",
       "mystère",
-      "égout"
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

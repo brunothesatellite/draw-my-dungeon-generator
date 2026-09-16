@@ -1,22 +1,22 @@
 {
   "432": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est petite et carrée, éclairée par une fenêtre qui laisse filtrer une lumière froide et sinistre. Les murs sont recouverts de têtes de mort et de tentacules, symboles de la cruauté et de la mort qui règnent ici. Au centre de la pièce, un bassin rempli d'eau trouble abrite trois statues gigantesques, représentant des divinités obscures. Des cercles rituels gravés dans le sol indiquent les emplacements des autels sacrés. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère menaçante de la salle. Les anciens pièges, toujours prêts à se déclencher, sont dissimulés dans les recoins sombres. La présence de la fenêtre offre une issue, mais elle semble être la seule lumière de cette salle de rituel ou de sacrifice.",
+    "description": "La salle est petite et carrée, éclairée par une fenêtre qui laisse filtrer une lumière froide. Les murs sont recouverts d'une peinture ancienne, aux couleurs ternes et aux motifs sombres. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Trois statues, vieilles et érodées, gardent le bassin au centre de la salle. Les statues représentent des figures énigmatiques, leurs visages déformés par le temps. Des tentacules s'enroulent autour des statues, ajoutant une touche d'horreur à l'atmosphère. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à la moindre intrusion. La salle semble être un lieu de rituel ou de sacrifice, où des sacrifices ont peut-être eu lieu dans le passé. Les cercles rituels et les statues évoquent une ancienne civilisation, peut-être même une civilisation de tentacules.",
     "tags": [
       "rituel",
       "sacrifice",
-      "divinités obscures",
-      "têtes de mort",
-      "tentacules"
+      "tentacules",
+      "ancien",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "fenêtre",
       "condition": "ancienne",
-      "centralFeature": "autel",
+      "centralFeature": "bassin",
       "wallDecorations": [
-        "têtes de mort",
+        "statues",
         "tentacules"
       ],
       "floorMarkings": [

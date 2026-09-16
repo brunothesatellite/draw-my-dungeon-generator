@@ -1,13 +1,12 @@
 {
   "193": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules émergent des parois, ajoutant une touche d'horreur à l'atmosphère déjà lugubre. Le passage est faiblement éclairé, la lumière tamisée accentuant les ombres et les détails macabres. Des piliers massifs soutiennent le plafond, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation sacrée. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le seul passage semble mener à une salle de rituel, où les cercles rituels semblent converger vers un autel central.",
+    "title": "Couloir avec Escalier Montant",
+    "description": "Le couloir avec escalier montant est étroit et sombre, éclairé par une faible lumière qui filtre à travers des voiles de poussière. Les murs, recouverts de peintures vieillies, sont ornés de piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien rituel. Le mobilier ancien, usé et délabré, est disséminé ici et là, ajoutant à l'atmosphère sinistre. L'escalier, en pierre, grimpe vers le haut, menant à une destination inconnue. L'eau stagnante, noire et trouble, s'accumule dans un coin, créant un danger potentiel. Le seul passage est étroit et semble menacer de s'effondrer à tout moment. Les têtes de mort et les tentacules, suspendus aux murs, ajoutent une touche macabre à l'ensemble. La salle de rituel semble avoir été utilisée pour des cérémonies sombres et sacrées, maintenant un souvenir sinistre.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Salle de Rituel"
+      "escalier",
+      "salle de rituel",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

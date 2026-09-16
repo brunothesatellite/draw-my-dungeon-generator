@@ -1,13 +1,13 @@
 {
   "330": {
     "title": "Passage de l'Abîme",
-    "description": "Le passage de l'Abîme est étroit et sinistre, taillé dans le roc sombre. Les planches de bois, usées par le temps, forment un pont instable qui traverse un abîme profond. Des cercles rituels gravés dans le sol émettent une faible lumière, éclairant vaguement le passage. Les murs, vieillis et fissurés, sont ornés de têtes de mort et de tentacules qui semblent sortir du rocher. Des piliers robustes soutiennent le passage, ajoutant à l'atmosphère lugubre. Une statue ancienne, érodée par les siècles, se dresse au fond du passage, comme témoin silencieux des secrets cachés. L'eau stagnante, noire et trouble, remonte doucement le long du sol, ajoutant une touche de danger à l'exploration. Le passage semble être le dernier refuge d'une ancienne civilisation, maintenant abandonnée et envahie par les forces obscures.",
+    "description": "Le passage de l'abîme est étroit et sinistre, taillé dans le roc sombre. Des planches de bois, usées par le temps, servent de pont pour traverser l'abîme. Le sol est marqué de cercles rituels, leurs contours usés par l'usure. Des piliers massifs, vieillis par les siècles, soutiennent le passage. Une statue ancienne, érodée par les eaux stagnantes, se dresse au fond du passage, ajoutant à l'atmosphère sinistre. La lumière est faible, filtrant à travers des fissures dans le plafond, éclairant les cercles rituels et les piliers. L'abîme est rempli d'eau stagnante, qui bouille et frétille sous la surface, ajoutant une note de menace à l'air déjà oppressant. Les murs sont recouverts de têtes de mort et de tentacules, rappelant les créatures qui pourraient se cacher dans l'abîme. La salle est conçue pour des rituels, mais l'atmosphère sinistre rend l'endroit effrayant.",
     "tags": [
-      "Passage",
-      "Abîme",
-      "Salle de Rituels",
-      "Ancien",
-      "Sinistre"
+      "abîme",
+      "pont",
+      "planches",
+      "rituel",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

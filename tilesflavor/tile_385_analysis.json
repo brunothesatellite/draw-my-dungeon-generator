@@ -1,13 +1,13 @@
 {
   "385": {
-    "title": "Chambre des Rituels Sacrés",
-    "description": "La chambre des Rituels Sacrés est immense, son plan irrégulier et ses murs délabrés témoignent d'une ancienne époque. La lumière tamisée émane des fenêtres étroites, révélant un espace sombre et mystérieux. Des colonnes massives et des piliers sculptés de motifs complexes dominent l'endroit, évoquant une architecture ancienne et mystique. Des spirales et un cercle gravés dans le sol attirent l'œil, semblant former un symbole ou un guide pour les rituels. Un autel sombre et une table en pierre sont visibles, probablement utilisés pour les cérémonies. Des fantômes flottants, vagues et translucides, se déplacent lentement dans l'air, ajoutant une atmosphère étrange à l'endroit. Les murs sont ornés de tentes et de crânes, rappelant l'importance des rituels et des sacrifices. Les pièges et le gaz toxique qui se dissipe lentement dans l'air rendent cette chambre dangereuse et imprévisible. Les rituels qui se déroulent ici sont censés être sacrés, mais la chambre elle-même est remplie de mystères et de dangers.",
+    "title": "Chambre des Sacrifices",
+    "description": "La salle ouverte complète est immense, avec des murs irréguliers qui semblent avoir été façonnés par la main de l'oubli. La lumière tamisée pénètre à travers des fenêtres brisées, éclairant les spirales et le cercle gravés au sol. Les colonnes et les piliers, usés par le temps, semblent soutenir un plafond qui menace de s'effondrer. Un autel, dépourvu de tout autelier, se dresse au centre de la pièce, entouré d'une table où des objets mystérieux sont posés. Des fantômes flottent dans l'air, leurs silhouettes floues et hantées. Les murs sont ornés de tentes et de crânes, tandis que des pièges et des nuages de gaz toxiques flottent dans l'air. L'atmosphère est oppressante et étrangement calme, comme si la pièce était le témoin d'un rituel ancien et interdit.",
     "tags": [
       "rituel",
       "sacrifice",
-      "mystère",
-      "ancien",
-      "désolation"
+      "salle des anciens",
+      "fantômes",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,14 @@
 {
   "421": {
     "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, témoignant de l'ancienneté de ce lieu. La faible lumière qui pénètre à travers les fissures dans les murs révèle un autel central, entouré de cercles rituels. L'eau stagnante dans un trou au centre de la salle semble être un piège, et les tentacules qui s'en échappent ajoutent une touche d'horreur à l'atmosphère. Cette salle est dédiée à des rituels obscurs, et la présence d'une créature géante dans un trou au centre de la salle rend l'endroit encore plus menaçant.",
+    "description": "Dans cette petite salle carrée, la lumière faible éclaire les murs vieillis, où des cercles rituels sont gravés au sol. Des piliers massifs soutiennent le plafond, et des têtes de mort sculptées y sont suspendues, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien, usé par le temps, semble avoir été oublié depuis longtemps. Au centre de la pièce, un trou mène à un abîme sombre, où une créature géante, recouverte de tentacules, semble attendre. L'eau stagnante au fond du trou ajoute une touche de danger à cette salle de rituels sacrés.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Tentacules",
-      "Salle Sacrée"
+      "rituels",
+      "créature géante",
+      "tentacules",
+      "salle carrée",
+      "vieillie",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "45": {
-    "title": "Le Couloir des Sombres Rituels",
-    "description": "Le couloir étendu et délabré semble avoir été une fois le passage d'une ancienne civilisation. Les murs, recouverts de tentacules et de trophées, racontent des secrets millénaires. Des spirales et des croix gravées dans le sol indiquent un ancien rituel. Les colonnes et les piliers, usés par le temps, semblent soutenir un passé mystérieux. L'air est chargé d'une atmosphère étrange, où l'obscurité et l'ombre se mêlent pour créer une ambiance sinistre. Des objets énigmatiques et un autel sont dissimulés dans les recoins, prouvant que ce couloir a été le théâtre de cérémonies rituelles. Les murs, ornés de tentacules et de trophées, racontent des secrets millénaires. Des spirales et des croix gravées dans le sol indiquent un ancien rituel. Les colonnes et les piliers, usés par le temps, semblent soutenir un passé mystérieux. L'air est chargé d'une atmosphère étrange, où l'obscurité et l'ombre se mêlent pour créer une ambiance sinistre. Des objets énigmatiques et un autel sont dissimulés dans les recoins, prouvant que ce couloir a été le théâtre de cérémonies rituelles.",
+    "title": "Couloir des Anciennes Marques",
+    "description": "Le couloir étroit et sinistre, avec ses murs décrépits et ses sols marqués de spirales et de croix, semble avoir été abandonné depuis des siècles. Les colonnes et les piliers, autrefois robustes, sont maintenant érodés par le temps et la poussière. L'atmosphère est oppressante, et un écho lointain semble résonner dans les profondeurs du couloir. Des tentacules et des trophées étranges ornent les murs, ajoutant à l'ambiance mystérieuse. Un autel sombre se dresse au fond, et un objet mystérieux repose sur une table en ruine. Les marques sur le sol semblent indiquer un passage ancien, peut-être un rituel ou une ancienne voie sacrée. Les échos et les ombres dans ce couloir sont si profonds qu'ils semblent vouloir avaler tout ce qui s'aventure ici. Les créatures inconnues qui pourraient se cacher dans les recoins les plus sombres sont un danger réel.",
     "tags": [
       "couloir",
       "rituel",
-      "mystère",
       "ancien",
-      "obscurité"
+      "trophées",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

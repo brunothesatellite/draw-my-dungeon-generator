@@ -1,13 +1,13 @@
 {
   "399": {
     "title": "Salle de Destruction",
-    "description": "La salle de destruction est étroite et sombre, avec des murs de pierre qui semblent avoir été façonnés par les mains de l'oubli. Des colonnes massives, vieillies par le temps, se dressent à l'intérieur, formant un espace irrégulier. La lumière est faible, filtrant à travers des fissures minuscules dans le plafond, créant un éclairage tamisé qui met en valeur les ombres et les reflets sur les pierres. La salle est vieillie, avec des traces de vieilles peintures et des motifs de cercles rituels gravés dans le sol. Des cercles de pierre sont disposés de manière étrange, comme s'ils avaient été utilisés pour des rituels obscurs. Le mobilier ancien, usé et délabré, est disséminé un peu partout, ajoutant à l'atmosphère sinistre de la pièce. Une porte murée, fermée depuis longtemps, se trouve à l'extrémité de la salle, tandis qu'une eau stagnante, noire et trouble, occupe une partie du sol, rendant l'endroit dangereux. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui ont peut-être une présence dans ce lieu. La salle est un vestige d'un passé sombre, où des rituels et des sacrifices ont peut-être eu lieu.",
+    "description": "La salle de destruction est étroite et irrégulière, avec des pierres et des colonnes qui semblent avoir été jetées hâtivement. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs sont vieillis, marqués de cercles rituels qui semblent avoir été dessinés par un doigt tremblant. Des piliers et des colonnes de pierre sont disséminés un peu partout, certains encore debout, d'autres déjà tombés. Le sol est couvert de mobilier ancien, des meubles usés et délabrés qui semblent avoir été abandonnés depuis longtemps. Une porte murée bloque l'entrée, tandis qu'une eau stagnante s'accumule dans un coin, créant un danger supplémentaire. L'atmosphère est sinistre, accentuée par les murmures lointains et les échos de pas lointains. Cette salle semble avoir été utilisée pour des rituels de destruction, et les cercles rituels sur le sol indiquent qu'elle a été utilisée pour des cérémonies sombres.",
     "tags": [
       "salle de destruction",
-      "rituels obscurs",
-      "salle vieillie",
-      "eau stagnante",
-      "têtes de mort"
+      "pierres",
+      "colonnes",
+      "rituels",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "salle de destruction avec des pierres, des colonnes",
       "tileNumber": 399

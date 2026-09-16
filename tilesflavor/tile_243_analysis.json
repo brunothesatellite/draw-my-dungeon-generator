@@ -1,21 +1,21 @@
 {
   "243": {
     "title": "Siphon avec tonneau flottant",
-    "description": "Dans ce siphon étroit et rectangulaire, la lumière faible révèle des cercles rituels gravés dans le sol. Les murs vieillis sont ornés de têtes de mort et de tentacules qui semblent s'agiter dans l'air. Un tonneau flottant, rempli d'eau stagnante, occupe le centre de la pièce. Des piliers robustes soutiennent le plafond, et une table ancienne est posée contre un mur. L'atmosphère sinistre est accentuée par l'odeur de moisi et de mort qui flotte dans l'air. Cette salle semble être un lieu de rituel ancien, mais elle est maintenant abandonnée et remplie de mystères.",
+    "description": "Dans ce siphon étroit et rectangulaire, la lumière faible éclaire les murs vieillis et les piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant l'ancien rituel qui s'y déroulait. Un tonneau flottant, rempli d'eau stagnante, est suspendu au-dessus d'un siphon, créant un effet sinistre. Des cercles de sang séché sont visibles sur le sol, témoignant de sacrifices passés. Un squelette, probablement celui d'un ancien prêtre, repose au fond du siphon, son crâne décharné regardant vers le ciel. La table en bois, usée par le temps, est posée contre le mur, son dessus recouvert de poussière et de poussière. L'atmosphère sinistre et ancienne imprègne chaque coin de cette salle de rituel, où les anciens pratiquaient leurs cérémonies sombres.",
     "tags": [
+      "rituel",
       "salle de rituel",
       "siphon",
-      "tête de mort",
-      "tentacules",
-      "eau stagnante",
-      "vieillie"
+      "tonneau flottant",
+      "squelette",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "tonneau flottant",
+      "centralFeature": "autel",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

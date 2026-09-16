@@ -1,13 +1,13 @@
 {
   "120": {
     "title": "Salle du Bassin Étrange",
-    "description": "La salle est une pièce carrée de 120 pieds de côté, aux murs usés et aux piliers massifs qui soutiennent une voûte ancienne. Un bassin sombre et inconnu occupe le centre de la pièce, son liquide stagnant reflétant les ombres qui dansent sur les parois. Des cercles rituels sont gravés dans le sol, entourant une table en bois usée qui semble avoir été utilisée pour des rituels. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche de mystère à l'atmosphère déjà ancienne. La lumière pénètre à travers une fenêtre au nord, révélant une vue sur une forêt lointaine. La salle semble avoir été utilisée pour des cultes ou des rituels, et les traces de vieilles pratiques sont encore visibles dans les marques sur le sol et les objets anciens. L'eau stagnante au centre de la salle est un danger à ne pas négliger, car elle peut contenir des créatures ou des substances inconnues.",
+    "description": "La salle est une pièce carrée de 120 pieds de côté, vieillie et usée. Un bassin étrange occupe le centre de la pièce, rempli d'un liquide sombre et inconnu. Des cercles rituels sont gravés dans le sol autour du bassin, et des piliers et colonnes soutiennent les murs. Une fenêtre au nord éclaire la pièce, mais l'atmosphère est mystérieuse et ancienne. Des têtes de mort et des tentacules sont suspendus aux murs, ajoutant à l'ambiance sinistre. Une table est placée près du bassin, et une porte ouest permet d'en sortir. L'eau stagnante dans le bassin est un danger potentiel. Cette salle semble être utilisée pour des rituels ou des stockages secrets.",
     "tags": [
-      "Salle",
-      "Ancienne",
-      "Mystérieuse",
-      "Rituel",
-      "Liquide Inconnu"
+      "salle",
+      "liquide sombre",
+      "rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "120",

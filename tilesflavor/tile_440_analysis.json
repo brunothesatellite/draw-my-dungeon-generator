@@ -1,13 +1,13 @@
 {
   "440": {
-    "title": "Fin d'une Rivière avec Ponton Brisé",
-    "description": "À la fin de ce long et sinistre couloir, se trouve une rivière qui se termine brutalement. Le ponton, une fois solide et solide, est maintenant en ruine, laissant une ouverture étroite dans le mur. L'eau sombre et stagnante s'écoule lentement, reflétant les ombres qui dansent sur les parois de pierre vieillies. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien et sacré. Des piliers majestueux soutiennent le plafond, tandis que des statues étranges, aux visages énigmatiques, gardent le secret de l'endroit. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps, ajoutant à l'atmosphère mystérieuse et ancienne de la salle. La faible lumière qui pénètre à travers les fissures du plafond révèle des têtes de mort et des tentacules qui semblent sortir du mur, ajoutant une touche d'horreur à l'endroit. La porte murée au fond semble être le seul moyen de quitter cette salle de rituel, mais elle est fermée et verrouillée, comme si elle avait été abandonnée depuis des siècles.",
+    "title": "Fin du Ponton Brisé",
+    "description": "À la fin de ce long et sinistre couloir, vous vous trouvez face à une rivière qui se termine abruptement. Le ponton, une structure en bois qui devait permettre de traverser la rivière, est brisé en deux morceaux, laissant une ouverture étroite entre les deux parties. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers et des statues, vieillies par le temps, ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. L'eau de la rivière est stagnante, reflétant les ombres des piliers et des statues. À l'extrémité de la rivière, une porte murée semble bloquer toute issue, tandis que des traces de créature indiquent que quelqu'un a récemment traversé ce lieu. L'air est chargé d'une odeur de vieilles pierres et d'eau stagnante, rendant l'atmosphère encore plus oppressante.",
     "tags": [
-      "Couloir",
-      "Salle de Rituels",
-      "Ancien",
-      "Mystère",
-      "Horreur"
+      "couloir",
+      "rivière",
+      "ponton",
+      "rituel",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Fin d'une rivière avec ponton brisé",
       "tileNumber": 440

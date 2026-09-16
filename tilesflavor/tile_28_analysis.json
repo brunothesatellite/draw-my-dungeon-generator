@@ -1,13 +1,13 @@
 {
   "28": {
     "title": "Salle des Anciens",
-    "description": "La salle est petite et ronde, éclairée par une faible lumière qui se répand doucement à travers les piliers vieillis. Les quatre colonnes, ornées de statues mystérieuses, semblent garder un secret ancien. Au centre de la pièce, un autel est dressé, entouré de cercles rituels et de glyphes runiques qui brillent faiblement. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère déjà menaçante. La salle est vieillie, les murs sont couverts de mousse et de poussière, et les piliers sont usés par le temps. L'air est chargé d'une odeur de mystère et d'anciennes cérémonies. La pièce semble avoir été utilisée pour des rituels sacrés, mais les anciens qui y ont vécu sont maintenant oubliés.",
+    "description": "La salle est petite et ronde, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ornent l'architecture. Un autel se dresse au centre, entouré de cercles rituels. La salle est flanquée de quatre colonnes, dont l'une semble être une figure humaine, ajoutant une touche d'étrangeté à l'ensemble. Les murs sont recouverts de peintures anciennes, et des pièges anciens sont dissimulés dans les recoins. Les sols sont marqués de cercles rituels et de glyphes runiques, et une atmosphère de vieillesse et de mystère plane sur l'ensemble de la pièce.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Vieillie"
+      "salle",
+      "rituels",
+      "anciens",
+      "mystère",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "386": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de tentacules et de crânes humains. La lumière y est faible, créant une ambiance lugubre et mystérieuse. Des cercles rituels et des glyphes anciens marquent le sol, tandis que des colonnes et des piliers majestueux soutiennent le plafond. Un grand autel central, orné de tentacules et de crânes, domine la pièce. Des figures fantomatiques flottent dans l'air, ajoutant à l'atmosphère étrange. Des pièges et de la fumée toxique flottent dans l'air, rendant la chambre dangereuse. À l'ouest, une porte étroite mène à un couloir sombre.",
+    "title": "Chambre Sacrificielle",
+    "description": "La chambre sacrificielle est immense, son espace ouvert et rectangulaire se reflétant dans les murs humides et couverts de taches de condensation. La lumière tamisée pénètre à travers des fenêtres étroites, éclairant les cercles rituels gravés au sol et les symboles mystérieux qui ornent les parois. Des colonnes massives soutiennent le plafond, leurs surfaces lisses et lisses reflétant la faible lumière. Un grand autel, orné de tentacules et de crânes, occupe le centre de la pièce, entouré de rituels circulaires et de glyphes anciens. Un vieux tableau, posé sur un support, semble attendre son destin. À l'ouest, un passage étroit mène à l'extérieur, tandis qu'un nuage de gaz toxique flotte dans l'air, rendant l'atmosphère encore plus étrange. Des fantômes flottent dans l'air, leurs silhouettes floues et hantées, ajoutant une note de mystère à l'ambiance déjà sombre et étrange. La chambre sacrificielle est un lieu de rituels anciens, où les sacrifices étaient autrefois pratiqués, et où les esprits des ancêtres se manifestent encore.",
     "tags": [
-      "sacrifice",
-      "rituel",
-      "ancien",
-      "tentaclés",
-      "crânes"
+      "rituels",
+      "sacrifices",
+      "mystère",
+      "anciens",
+      "salle sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "large",

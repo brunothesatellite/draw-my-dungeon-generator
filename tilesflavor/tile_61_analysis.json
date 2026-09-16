@@ -1,13 +1,13 @@
 {
   "61": {
-    "title": "Le Couloir des Barils Sacrés",
-    "description": "Le couloir étroit et ancien est recouvert de barils de bois massif, empilés de chaque côté. Les barils, usés par le temps, semblent avoir été disposés avec un certain ordre, comme si un rituel ancien avait été effectué ici. Le sol, couvert de spirales et de croix gravées, émet une lueur naturelle qui éclaire les murs de pierre. Des colonnes et des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de l'endroit. Des tentacules et des têtes de mort sont sculptés dans les pierres des murs, rappelant l'ancienne puissance qui a régné ici. Un grand autel, orné de tentacules, se dresse au fond du couloir, entouré d'un tableau posé sur une table en bois. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. Des enchantements subtils flottent dans l'air, rendant l'endroit plus que simplement mystérieux.",
+    "title": "Couloir des Barils Sacrés",
+    "description": "Le couloir étroit est flanqué de barils de bois massif, leurs anciennes peintures écaillées révélant des motifs de spirales et de croix gravés dans le bois. Les murs, ornés de tentacules et de têtes de mort, semblent témoigner d'une ancienne civilisation. Des colonnes massives soutiennent le plafond, et des spirales et des croix marquent le sol. Un autel de pierre se dresse au bout du couloir, entouré d'un tableau de fleurs étranges. La lumière naturelle filtre à travers une petite ouverture au fond, révélant une atmosphère mystérieuse et sacrée. Des enchantements subtils flottent dans l'air, rendant l'endroit plus que simplement ancien.",
     "tags": [
-      "Couloir",
-      "Ancien",
-      "Sacré",
-      "Enchantement",
-      "Tentacules"
+      "couloir",
+      "barils",
+      "sacrés",
+      "ancien",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

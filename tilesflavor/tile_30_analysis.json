@@ -1,12 +1,12 @@
 {
   "30": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière naturelle filtre à travers une fenêtre au fond, éclairant la pièce d'une lueur froide et mystérieuse. Les murs, recouverts de mousse et de lichens, semblent avoir vieilli avec le temps, racontant des millénaires d'histoire. Des colonnes majestueuses soutiennent le plafond, leurs pierres luisant sous la lumière tamisée. Au centre de la pièce, une grille de fer repose sur le sol, marquant un cercle spiralé gravé dans le sol. Un autel, orné de tentacules étranges, domine l'endroit, évoquant une ancienne cérémonie sacrée. Un simple meuble en bois, une table, est placé à l'entrée, comme si quelqu'un avait laissé un message ou une offrande. La salle est silencieuse, mais l'atmosphère est chargée d'une présence ancienne et mystérieuse. Un seul passage mène à l'extérieur, mais la mousse et la verdure qui s'accumulent sur le sol rendent l'accès difficile. Les tentacules qui ornent les murs semblent vivants, se déplaçant légèrement dans l'air, ajoutant à l'ambiance sinistre de la pièce.",
+    "title": "Salle avec Grille au Sol",
+    "description": "La salle est immense, de forme rectangulaire, avec un sol humide et recouvert de mousse. Des colonnes massives soutiennent le plafond, éclairé par la lumière naturelle filtrant à travers une fenêtre au fond. Des tentacules étranges sont peints sur les murs, ajoutant une touche de mystère à l'atmosphère ancienne et mystérieuse de la pièce. Un spiral gravé dans le sol guide le regard vers un autel central, entouré de pierres lisses. Un simple table est placée près de l'autel, sans objet apparent. La seule sortie mène à un couloir sombre, dont la grille au sol semble être le seul moyen de franchir cette barrière. Le sol est glissant et recouvert de mousse, rendant l'endroit dangereux à traverser.",
     "tags": [
-      "salle sacrée",
-      "ancien",
-      "rituel",
+      "salle",
+      "grille",
       "mystère",
+      "ancien",
       "tentacules"
     ],
     "sourceFeatures": {

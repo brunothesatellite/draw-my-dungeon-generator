@@ -1,13 +1,13 @@
 {
   "318": {
-    "title": "Abîme des Fissures",
-    "description": "L'abîme s'ouvre devant vous, un trou immense et sombre, ses parois rugueuses et fissurées semblent se creuser sans fin. Des champignons étranges poussent ici et là, leurs tiges déformées par l'humidité et les éclairs qui déchirent occasionnellement le ciel. Le sol est un mélange de craie et de roche, marqué de cercles rituels et de glyphes runiques qui semblent avoir été gravés il y a des milliers d'années. Des piliers et des colonnes, usés par le temps, se dressent ici et là, portant des traces de vieilles pierres sculptées. Le tout est éclairé par une faible lumière qui semble provenir de l'abîme lui-même, rendant l'atmosphère sinistre et oppressante. Des traces de vieilles pierres sculptées et de mobilier ancien sont disséminés un peu partout, témoignant de l'ancienneté et de l'importance de ce lieu. L'eau stagnante qui s'accumule dans les crevasses est un danger à ne pas sous-estimer.",
+    "title": "Abîme Fissuré",
+    "description": "Tu te trouves dans un abîme minuscule, ses parois rugueuses et fissurées semblent s'effondrer à tout moment. Le sol est un tapis de champignons étranges, leurs tiges minces et leurs chapeaux d'un vert pâle. Les cercles rituels et les glyphes runiques gravés dans le sol semblent avoir été oubliés depuis des siècles, leur magie dorée ternie par le temps. Des piliers et des colonnes, vieillies et usées, soutiennent le plafond, leurs surfaces recouvertes de mousse et de lichen. Le mobilier ancien, étrangement intact malgré l'atmosphère sinistre, semble avoir été laissé là par des explorateurs curieux. L'air est lourd et humide, et l'eau stagnante se forme dans les coins, créant un miroir sombre qui reflète les ombres qui dansent dans l'air. Les cercles rituels et les glyphes runiques émettent une faible lumière, mais elle est insuffisante pour éclairer l'abîme entier. Les murs sont parsemés de têtes de mort et de tentacules, ajoutant à l'atmosphère macabre. La seule issue semble être un escalier qui descend dans l'obscurité, mais tu ne sais pas si tu peux te permettre de descendre.",
     "tags": [
       "abîme",
-      "rituel",
-      "champignon",
-      "vieillie",
-      "sinistre"
+      "fissuré",
+      "champignons",
+      "rituels",
+      "salle de rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

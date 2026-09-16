@@ -1,13 +1,13 @@
 {
   "376": {
-    "title": "Souterrain Sans Issue",
-    "description": "Vous vous trouvez dans un souterrain sans issue, un lieu étrange et mystérieux. Les murs irréguliers et délabrés sont parsemés de tentacules qui semblent sortir du néant, ajoutant une touche d'horreur à l'atmosphère déjà sombre. La lumière est faible, seules quelques lueurs filtrant à travers des fissures dans le plafond éclairent la pièce. Des marques de spirale sont gravées sur le sol, semblant indiquer un chemin ou une destination inconnue. Des colonnes majestueuses, pourtant en ruine, dominent la pièce, rappelant l'ancien prestige de ce lieu. Les murs sont recouverts de mystérieux symboles, mais leur signification reste un mystère. Les portes et les fenêtres semblent fermées, mais vous sentez une présence indéfinissable qui vous pousse à avancer. Que cache ce souterrain sans issue ? Que cherchent ces tentacules ? Que se cache-t-il derrière les marques de spirale ?",
+    "title": "Passage Souterrain Sans Issue",
+    "description": "Le passage s'inscrit dans un souterrain sans issue, un lieu qui semble avoir été abandonné depuis des siècles. Les murs, décrépits et recouverts de mousse, semblent avoir été érodés par le temps et les eaux souterraines. Des pilastres de pierre, érodés et recouverts de lichens, se dressent de partout, donnant une impression de vieilles ruines. Le sol, recouvert d'une spirale de peinture sombre, semble avoir été dessiné par un artiste ancien, peut-être un mage ou un sorcier. La lumière est faible, filtrant à travers des fissures dans le plafond, créant un éclairage tamisé qui rend l'atmosphère encore plus mystérieuse. Les murs sont parsemés de tâches de peinture indéchiffrables, et des barils de bois, probablement vides, sont empilés dans un coin, ajoutant à l'ambiance de désolation. Les sorties semblent inaccessibles, et les dangers potentiels sont inconnus. Le passage semble avoir été conçu pour un usage ancien, mais son but exact reste un mystère. Les murs sont parsemés de tentacules peints, ajoutant une touche d'étrange à l'atmosphère déjà sombre et mystérieuse.",
     "tags": [
       "souterrain",
+      "passage",
       "mystère",
-      "tentacules",
-      "ruines",
-      "mystérieux"
+      "abandonné",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",
@@ -25,7 +25,7 @@
         "pillars"
       ],
       "objectsOrFurniture": [
-        "unknown"
+        "barils"
       ],
       "creaturesOrTraces": [
         "unknown"
@@ -36,7 +36,7 @@
       "hazards": [
         "unknown"
       ],
-      "atmosphere": "mysterious",
+      "atmosphere": "mystérieuse",
       "roomPurpose": "unknown",
       "csvDescription": "souterrain sans issue",
       "tileNumber": 376

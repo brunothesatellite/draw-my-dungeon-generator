@@ -1,13 +1,13 @@
 {
   "122": {
     "title": "Salle des Anciens",
-    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les créatures mythiques qui pourraient avoir habité ces lieux. Des cercles rituels marquent le sol, tandis que des piliers robustes soutiennent le plafond. Un mobilier ancien, usé par le temps, est dissimulé dans un coin, et un coffre en bois, fermé par une grille carrée, est placé au centre de la pièce. La seule sortie, bloquée par des pierres, semble être la seule issue de cette salle, ajoutant à l'atmosphère mystérieuse et ancienne qui règne ici. L'eau stagnante au fond de la pièce ajoute une touche de danger supplémentaire à cette ancienne salle de rituels.",
+    "description": "Dans cette petite et rectangulaire salle, la lumière faible éclaire les murs vieillis, où des têtes de mort et des tentacules émergent des pierres. Des cercles rituels marquent le sol, et des piliers soutiennent les murs. Un coffre en bois ancien repose au centre, protégé par une grille carrée. Une sortie unique est bloquée par des pierres, et l'eau stagnante menace les explorateurs. L'atmosphère mystérieuse et ancienne imprègne l'air, rappelant les rituels passés qui se sont tenus ici.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Mystérieuse",
-      "Ancienne"
+      "rituels",
+      "salle",
+      "anciens",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

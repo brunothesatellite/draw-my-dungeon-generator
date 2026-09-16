@@ -1,13 +1,13 @@
 {
   "125": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints autrefois. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des statues étranges, dont certaines semblent avoir des tentacules, sont alignées le long des murs. Le mobilier ancien est délabré, ajoutant à l'atmosphère sinistre de la pièce. Trois pierres étranges, lisses et luisantes, sont posées sur le sol, au centre de la salle. L'eau stagnante, qui a envahi une partie de la pièce, ajoute une touche de danger à l'ambiance déjà oppressante. Les têtes de mort et les tentacules qui ornent les murs semblent être des traces de rituels passés, et les cercles rituels indiquent que cette salle a été utilisée pour des cérémonies sombres. La salle est vide, mais l'air y résonne d'une présence ancienne et malveillante.",
+    "title": "Salle des Rituels",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des marques de cercles rituels gravées dans le sol. Trois pierres étranges, lisses et luisantes, sont posées sur le sol, comme si elles étaient des objets sacrés. Les murs sont recouverts de piliers massifs et de statues anciennes, dont les visages sont déformés par le temps. Le mobilier ancien, usé et délabré, est réparti autour de la pièce, ajoutant à l'atmosphère sinistre. La faible lumière qui pénètre à travers les fissures dans les murs éclaire les pierres étranges et les marques de cercles rituels, créant un étrange éclat. L'eau stagnante, noire et trouble, remplit une partie de la pièce, rendant l'atmosphère encore plus oppressante. Les cercles rituels semblent inviter à une ancienne cérémonie, mais la salle est déserte et les pierres étranges semblent attendre leur prochain utilisateur.",
     "tags": [
-      "Salle des Rituels",
-      "Anciens Rituels",
-      "Salle Sacrée",
-      "Pierres Étranges",
-      "Eau Stagnante"
+      "rituels",
+      "salle",
+      "pierres",
+      "vieillie",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

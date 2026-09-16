@@ -1,13 +1,13 @@
 {
   "50": {
     "title": "Salle des Tonneaux Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un sol couvert de cercles rituels. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, et une statue étrange se dresse au centre de la pièce. Des tonneaux, remplis d'un liquide trouble, sont alignés le long des murs, leur contenu inconnu. L'eau stagnante au sol indique un danger potentiel. La salle semble être un lieu de rituel ancien, mais son usage exact reste un mystère.",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs recouverts de peintures sombres. Les tonneaux, empilés de chaque côté, semblent avoir été utilisés pour des rituels anciens. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules peints ornent les murs, ajoutant une atmosphère sinistre à la pièce. Des piliers massifs soutiennent le plafond, et une statue étrange se dresse au milieu de la salle. La faible lumière qui pénètre à travers une petite fenêtre au fond révèle une eau stagnante qui remonte lentement le long du mur. La salle semble avoir été utilisée pour des rituels sacrés, mais les traces de créatures indiquent qu'elle est maintenant abandonnée.",
     "tags": [
       "rituel",
-      "tonneaux",
-      "salle",
-      "sinistre",
-      "vieillie"
+      "sacrifice",
+      "ancien",
+      "tonneau",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

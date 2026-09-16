@@ -1,20 +1,20 @@
 {
   "245": {
     "title": "Siphon des Anciens",
-    "description": "Au cœur de l'obscurité, un siphon étroit et sinistre vous attend. La lumière y est si faible que vous devez vous fier à vos sens pour vous guider. Les murs, usés par le temps, sont ornés de reliefs sculptés représentant des créatures étranges et des symboles mystérieux. Des cercles rituels gravés dans le sol vous rappellent l'ancienne puissance qui réside ici. Un pilier central, vieilli et recouvert de têtes de mort et de tentacules, domine la pièce. Un autel, dépourvu de tout objet, semble attendre un culte ancien. L'atmosphère est oppressante, et les traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'ouverture à l'autre bout du siphon cache des pièges anciens prêts à vous piéger.",
+    "description": "Le siphon étroit et tortueux semble avoir été creusé par des mains anciennes. Les murs, usés par le temps, sont parsemés de têtes de mort et de tentacules, comme si des créatures maléfiques y avaient laissé leur empreinte. Des cercles rituels émaillent le sol, marquant l'ancien passage de cultistes. Des piliers robustes soutiennent le plafond, ornés de reliefs sculptés représentant des scènes mystérieuses. Un autel, dépourvu de tout objet, semble attendre un rituel ancien. L'atmosphère est pesante, chargée d'une histoire ancienne et mystérieuse. Des pièges anciens sont dissimulés dans les recoins, prêts à s'abattre sur les intrus. L'unique ouverture au bout du siphon semble être le seul moyen de quitter ce lieu, mais elle est gardée par des traces de pas, comme si quelqu'un avait déjà tenté de s'enfuir.",
     "tags": [
-      "salle de rituel",
-      "ancien",
-      "mystère",
       "siphon",
-      "creatures étranges"
+      "rituel",
+      "ancien",
+      "creatures maléfiques",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "salle avec une ouverture",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "pilier",
+      "centralFeature": "piliers",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

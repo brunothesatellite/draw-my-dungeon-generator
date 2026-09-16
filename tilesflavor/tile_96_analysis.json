@@ -1,13 +1,13 @@
 {
   "96": {
     "title": "Couloir des Anciens",
-    "description": "Le couloir s'insinue lentement dans l'obscurité, ses murs irréguliers et délabrés semblant avoir été sculptés par les mains des dieux. Les spirales gravées dans le sol semblent danser sous vos pieds, tandis que les colonnes majestueuses, érodées par le temps, vous guident vers l'ancien sanctuaire. La lumière diffuse qui filtre à travers les tentes suspendues sur les murs ajoute une atmosphère étrange à l'air sinistre. Des ombres flottantes, telles des apparitions fantomatiques, se profilent contre les parois, ajoutant une note de mystère à l'air sinistre. Les pièces de mobilier brisées sont disséminées ici et là, témoignant de l'abandon et de l'oubli qui règnent dans ce lieu. Les pièces de ce couloir sont parsemées de pièges, prêts à vous piéger à tout moment. À chaque pas, vous vous rapprochez de l'ancien sanctuaire, où des rituels obscurs ont probablement eu lieu il y a des milliers d'années.",
+    "description": "Les couloirs étroits et sinueux semblent avoir été sculptés par les mains des dieux. Leur muraille, délabrée et recouverte de tentes, semble avoir été utilisée pour des rituels obscurs. Des motifs de spirales gravés dans le sol indiquent un passage ancien, peut-être un chemin sacré. Les colonnes massives, érodées par le temps, portent le poids de l'histoire. Des meubles brisés et des objets anciens sont éparpillés un peu partout, témoignant de l'activité passée. L'atmosphère est pesante et mystérieuse, comme si les esprits des anciens observaient encore les visiteurs. Des figures fantomatiques flottent dans l'air, ajoutant une note d'effroi à l'ambiance. Les couloirs se perdent dans l'obscurité, et les pièces à l'horizon semblent se multiplier sans fin. Les pièges sont nombreux, prêts à s'activer à la moindre intrusion. Les couloirs des Anciens sont un lieu de peur et de fascination, où l'histoire se mêle à l'obscurité.",
     "tags": [
       "couloir",
-      "ancien",
       "rituel",
-      "mystère",
-      "délapidé"
+      "ancien",
+      "obscur",
+      "esprit"
     ],
     "sourceFeatures": {
       "roomSize": "large",

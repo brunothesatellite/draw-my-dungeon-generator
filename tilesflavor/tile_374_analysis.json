@@ -1,13 +1,15 @@
 {
   "374": {
-    "title": "Salle des Rituels Anciens",
-    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les étagères en laiton qui s'élèvent jusqu'au plafond. Des cercles rituels marquent le sol, et les piliers massifs donnent une impression de vieilles pierres. Une table en bois, légèrement usée, supporte des potions colorées et des bougies qui créent une ambiance mystérieuse. Un autre livre de sorts, bien conservé, est posé à côté. La salle semble avoir été utilisée pour des rituels anciens, et l'eau stagnante au fond de la pièce ajoute à l'atmosphère menaçante. Des têtes de mort et des tentacules sont visibles sur les murs, témoignant de l'ancienne magie qui réside ici.",
+    "title": "Salle de Sorcier Ancienne",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, révèle les traces d'une vie ancienne. Les étagères en laiton sont remplies de potions mystérieuses et de bougies qui émettent une lumière vacillante. Un livre de sorts, ouvert sur une page de magie, repose sur une table où trônent des objets de puissance. Les murs sont ornés de têtes de mort et de tentacules, rappelant l'ancien culte qui régnait ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond vieilli. L'atmosphère est mystérieuse et menaçante, comme si les esprits des anciens sorciers encore présents veillent sur ce sanctuaire. L'eau stagnante dans un coin ajoute à l'ambiance lugubre de cette salle de rituel ancien.",
     "tags": [
-      "rituel",
       "sorcier",
-      "ancien",
-      "mystère",
-      "eau stagnante"
+      "étagères",
+      "laiton",
+      "potions",
+      "bougies",
+      "livre",
+      "sorts"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "salle de sorcier avec des étagères en laiton, une table avec des potions et des bougies, une table avec un livre de sorts",
       "tileNumber": 374

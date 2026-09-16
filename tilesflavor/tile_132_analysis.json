@@ -1,13 +1,13 @@
 {
   "132": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La faible lumière qui pénètre à travers les deux grilles ajoute à l'atmosphère sinistre de la pièce. Des cercles rituels sont gravés sur le sol, marquant les limites de l'espace sacré. Des têtes de mort et des tentacules étranges sont suspendus aux murs, ajoutant une touche macabre à l'ambiance. Un autel central, orné de symboles mystiques, domine la pièce. Une table en bois, usée par le temps, est placée à côté de l'autel, prête à être utilisée pour les rituels. L'eau stagnante qui s'est formée dans un coin de la pièce est un danger potentiel pour les explorateurs. La salle semble avoir été utilisée pour des rituels sombres et sacrés, et chaque détail contribue à cette atmosphère lugubre.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La faible lumière qui pénètre à travers les deux grilles ajoute à l'atmosphère sinistre de la pièce. Des piliers et des colonnes soutiennent les murs, donnant une impression de vieilles pierres sculptées. Un autel central, orné de têtes de mort et de tentacules, domine la pièce. Une table est placée près de l'autel, mais elle semble abandonnée. L'eau stagnante dans un coin de la salle ajoute à l'ambiance lugubre. La salle semble être utilisée pour des rituels anciens, mais elle est actuellement en désuétude.",
     "tags": [
       "rituel",
-      "macabre",
-      "sacré",
       "vieillie",
-      "sinistre"
+      "sinistre",
+      "salle",
+      "autel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

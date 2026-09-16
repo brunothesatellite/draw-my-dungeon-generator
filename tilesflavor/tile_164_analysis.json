@@ -1,13 +1,13 @@
 {
   "164": {
-    "title": "Grotte des Anciens",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Les murs vieillis sont marqués de cercles rituels sombres, et des piliers robustes soutiennent le plafond. Des traces de vieilles pierres sculptées sont visibles, et des têtes de mort et des tentacules émergent des ombres. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans les coins, créant un miroir sombre qui reflète les ombres qui hantent les parois. La grotte est une salle de rituels, et les cercles rituels marquent les emplacements où les anciens pratiquaient leurs cérémonies. Les têtes de mort et les tentacules ajoutent une touche macabre à l'atmosphère, rappelant les sacrifices et les pratiques surnaturelles qui ont eu lieu ici.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et sombre, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. Des champignons de toutes les couleurs poussent sur les murs et les sols, créant une atmosphère mystérieuse et presque magique. Des cercles rituels sont gravés dans le sol, marquant des points de passage ou de pouvoir. Des piliers de pierre soutiennent le plafond, et des traces de vieillissement sont visibles partout. Le mobilier ancien, délabré, est disséminé un peu partout, ajoutant à l'ambiance sinistre de la grotte. L'eau stagnante, noire et trouble, se trouve au fond de la grotte, rendant l'endroit encore plus dangereux. Les champignons, pourtant, semblent vivants et pourraient être utilisés pour des rituels ou des potions. La grotte est une salle de rituels, mais son ancien usage est perdu dans le temps.",
     "tags": [
-      "Grotte",
-      "Anciens",
-      "Rituels",
-      "Champignons",
-      "Têtes de Mort"
+      "grotte",
+      "champignons",
+      "rituels",
+      "ancien",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

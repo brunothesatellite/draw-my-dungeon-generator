@@ -1,36 +1,34 @@
 {
   "460": {
     "title": "Salle des Pioches",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les voiles de tissu qui recouvrent les fenêtres. Les murs vieillis sont marqués de cercles rituels, et les piliers robustes soutiennent le plafond. Des tentures sombres flottent au-dessus des piliers, ajoutant à l'atmosphère sinistre de la pièce. Au centre de la salle, un puits profond est creusé dans le sol, rempli de pioches et de poignées de fer. Deux coffres massifs sont dissimulés derrière des parois de pierre, séparés par le puits. Des traces de pas indiquent que quelqu'un a récemment exploré cette zone. L'eau stagnante au fond du puits est un danger à ne pas négliger.",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis et les piliers aux tentures déchirées. Des cercles rituels marquent le sol, et une table en bois trône au centre. À l'entrée, un puits profond sépare deux coffres massifs, leurs serrures rouillées. Des pioches enfoncées dans le sol indiquent l'ancien passage de personnes. L'air est chargé d'une atmosphère sinistre, accentuée par l'eau stagnante qui remonte du puits. La porte à l'extrémité de la salle semble être le seul accès à cette pièce.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Pioches",
-      "Coffres",
-      "Atmosphère Sinistre"
+      "pioches",
+      "puits",
+      "coffres",
+      "salle de rituel",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "pioches",
+      "centralFeature": "table",
       "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
+        "tentures"
       ],
       "floorMarkings": [
         "cercles rituels"
       ],
       "architecturalDetails": [
-        "piliers",
-        "tentures"
+        "piliers"
       ],
       "objectsOrFurniture": [
         "table"
       ],
       "creaturesOrTraces": [
-        "traces de pas"
+        "pioches"
       ],
       "exits": [
         "porte"

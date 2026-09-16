@@ -1,13 +1,13 @@
 {
   "210": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Les murs, usés par le temps, sont recouverts de têtes de mort et de tentacules qui semblent sortir du sol. Des cercles rituels émaillent le sol, marquant un chemin ancien. Des piliers robustes soutiennent le plafond, tandis qu'une table solitaire est posée au fond du couloir. L'atmosphère est oppressante, et l'eau stagnante au fond du passage menace de s'élancer vers le bas des escaliers de descente. Les murs sont parsemés de têtes de mort et de tentacules, rappelant l'ancienne puissance qui a créé ce lieu. Les cercles rituels indiquent que ce passage était autrefois un lieu de culte, peut-être même un autel. Les piliers et la table ajoutent à l'ambiance de mystère et de danger qui plane dans ce lieu. Les escaliers de descente, bien que menaçants, offrent la seule issue pour quitter ce lieu sinistre.",
+    "title": "Couloir des Escaliers",
+    "description": "Le couloir des Escaliers est étroit et sombre, éclairé par une faible lumière qui filtre à travers des voiles de poussière. Les murs, recouverts de mousse et de végétation, sont ornés de têtes de mort et de tentacules qui semblent avoir échoué ici il y a des siècles. Des cercles rituels sont gravés dans le sol, marquant l'ancien passage de rituels obscurs. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. À l'extrémité du couloir, une table en bois est posée, la poussière recouvrant sa surface. Des escaliers de descente, usés par l'usage, mènent vers un niveau inférieur, où l'eau stagnante a formé des mares. Le sinistre ambiance de ce lieu est accentuée par les murmures lointains et les échos de pas lourds qui résonnent dans les murs.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Mystère"
+      "couloir",
+      "rituel",
+      "eau stagnante",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

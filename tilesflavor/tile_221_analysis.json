@@ -1,13 +1,12 @@
 {
   "221": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir été peints il y a des siècles. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Un tableau avec le numéro 291 est accroché au mur, son contenu mystérieux. L'eau stagnante au centre de la pièce est un danger à ne pas négliger. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. La salle semble être dédiée à des cultes obscurs et des rituels anciens.",
+    "description": "Cette salle ouverte, de taille petite et rectangulaire, est plongée dans une ambiance mystérieuse et ancienne. La faible lumière qui y pénètre ne révèle que des traces de vieillissement sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés au sol, évoquant des pratiques cultuelles anciennes. Des piliers massifs soutiennent le plafond, et des statues étranges y sont disséminées, ajoutant à l'atmosphère étrange de la pièce. Un tableau avec le numéro 291 est accroché au mur, son contenu mystérieux ajoutant une note de mystère supplémentaire. L'eau stagnante qui s'est formée dans un coin de la salle rend l'endroit encore plus dangereux. Les murs sont ornés de têtes de mort et de tentacules, rappelant des créatures mythiques. Cette salle semble avoir été utilisée pour des rituels ou des cultes anciens, et son état actuel laisse supposer qu'elle a été abandonnée depuis longtemps.",
     "tags": [
       "rituels",
-      "culte",
-      "vieillie",
-      "mystérieuse",
-      "ancienne"
+      "cultes anciens",
+      "salle ouverte",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

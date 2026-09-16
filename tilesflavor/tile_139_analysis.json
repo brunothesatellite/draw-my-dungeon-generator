@@ -1,13 +1,13 @@
 {
   "139": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sombre, éclairé seulement par la faible lueur d'une bougie posée sur une table au fond. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Deux couloirs s'ouvrent sur votre droite, séparés par un baril. Entre ces deux voies, un pilier en bois étrange semble dissimuler un mécanisme complexe. Des cercles rituels marquent le sol, et les piliers ajoutent une touche de mystère à l'ensemble. L'atmosphère est pesante, et l'eau stagnante au fond du passage ajoute une note de danger. Cette salle est destinée à des rituels anciens, et les traces de vieillissement et de négligence sont évidentes.",
+    "title": "Les Couloirs Secrets",
+    "description": "Au cœur de l'ancien donjon, deux couloirs s'étendent dans l'obscurité, séparés par un baril de bois. Entre eux, un pilier en bois étrange semble cacher un mécanisme complexe. La lumière faible révèle des cercles rituels gravés dans le sol, et les murs vieillis sont ornés de têtes de mort et de tentacules. Un autel central, orné de sang séché, semble être le point focal de cette salle carrée. La présence d'eau stagnante dans un coin ajoute à l'atmosphère mystérieuse et menaçante de ce lieu, où les rituels anciens semblent avoir laissé leur empreinte.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Mystère",
-      "Danger"
+      "couloir",
+      "rituel",
+      "sécrétion",
+      "mystère",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

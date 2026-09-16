@@ -1,13 +1,13 @@
 {
   "150": {
-    "title": "Salle des Anciens",
-    "description": "La petite salle rectangulaire est plongée dans une ambiance mystérieuse et ancienne. La faible lumière qui filtre à travers les voiles déchirés éclaire les murs vieillis, où des têtes de mort et des tentacules émergent des fissures. Des cercles rituels gravés dans le sol attirent votre regard, tandis que des piliers robustes soutiennent le plafond. Une table avec une inscription ISO est posée au centre, mais elle semble être un objet étranger dans ce lieu. Un champignon étrange pousse dans un coin, et un trou dans le sol semble vous inviter à explorer plus avant. L'eau stagnante dans un coin de la salle vous rappelle l'ancienneté et la magie qui réside ici. L'atmosphère est pesante, comme si les âmes des anciens observaient encore ce lieu.",
+    "title": "Salle des Rituels",
+    "description": "La petite salle rectangulaire est faiblement éclairée, laissant une ambiance mystérieuse et ancienne. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Un champignon étrange pousse dans un coin, et un trou dans le sol semble communiquer avec un abîme profond. Un autel central, orné d'inscriptions ISO, semble être le point focal de cette salle. L'eau stagnante dans un coin ajoute à l'atmosphère lugubre. Une table avec une inscription ISO est placée au centre, prête à être utilisée pour des rituels obscurs.",
     "tags": [
-      "salle",
       "rituel",
+      "salle",
       "mystère",
       "vieillie",
-      "ancien"
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

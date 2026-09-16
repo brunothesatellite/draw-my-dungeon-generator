@@ -1,13 +1,13 @@
 {
   "379": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de tentacules et de crânes humains. La lumière y est si faible que les ombres dansent sur le sol, où des cercles rituels et des runes mystiques sont gravés. Des colonnes et des piliers imposants soutiennent le plafond, qui semble prêt à s'effondrer à tout moment. Un objet mystérieux, dont la nature est inconnue, repose au centre de la pièce, entouré d'une aura de mystère. Des traces de créatures éthérées flottent dans l'air, et un secret sombre semble se cacher derrière une porte dissimulée dans un mur. Les dangers潜伏在角落，等待着胆大的探索者。",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle ouverte complète est immense, son espace rectangulaire s'étend sous vos yeux avec une majesté déclinante. La lumière tamisée émane des fenêtres ébréchées, révélant un décor délabré mais chargé d'histoire. Des colonnes massives, ornées de motifs sculptés, soutiennent le plafond voûté. Des cercles rituels et des runes mystérieuses marquent le sol, tandis que des pilastres majestueux ajoutent à l'atmosphère sacrée. Un objet mystérieux, dont la nature est inconnue, repose au centre de la pièce, entouré de runes et de symboles énigmatiques. Des traces de tentacules et des crânes humains sont disséminés un peu partout, témoignant de rituels passés. Un murmure sinistre flotte dans l'air, et une porte secrète semble dissimulée dans un coin, prête à révéler des secrets encore plus sombres. Les murs sont ornés de tentacules et de crânes, ajoutant à l'atmosphère étrange et menaçante de la pièce. Les trappes sont nombreuses, prêtes à vous piéger dans ce sanctuaire ancien.",
     "tags": [
       "salle sacrée",
       "rituels",
-      "tentesacles",
+      "tentacules",
       "crânes",
-      "mystère"
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,12 +1,12 @@
 {
   "253": {
     "title": "Égout Sacrificiel",
-    "description": "L'égout est immense, sa largeur impressionnante et sa forme rectangulaire donne l'impression d'un couloir souterrain. La lumière est faible, presque inexistante, ce qui rend l'atmosphère encore plus mystérieuse. L'humidité est perceptible, et les murs sont couverts d'une fine couche de condensation. Des motifs de spirales et de runes gravées dans le sol attirent l'œil, semblant indiquer un passage ancien et sacré. Des piliers massifs et des poutres en bois ajoutent à l'ancienneté du lieu. Un grand autel de pierre se dresse au centre, entouré de tentacules sculptés et de têtes de mort, rappelant les rites sacrificals anciens. Des araignées se baladent sur le sol glissant, ajoutant une touche de danger à l'atmosphère déjà sombre et ancienne. À gauche, une porte étroite semble être l'unique sortie de ce lieu. L'égout est humide et glissant, rendant chaque pas un défi. La présence de l'eau ajoute une note de danger supplémentaire à cette chambre sacrée ancienne.",
+    "description": "L'égout est large et rectangulaire, avec un plafond bas et des murs humides qui reflètent faiblement la lumière qui pénètre à travers les fissures. Des spirales mystérieuses et des runes anciennes gravées dans le sol indiquent un passage ancien et sacré. Des colonnes robustes et des poutres en bois soutiennent le toit, tandis qu'un grand autel de pierre se dresse au centre du passage. Des tentacules étranges et des têtes sculptées de créatures étranges ornent les murs, ajoutant à l'atmosphère lugubre et ancienne. Des marques de runes et de symboles mystiques sont gravées dans le sol, formant des spirales complexes. Un vieux et solide meuble en pierre est placé contre un mur, et un araignée grimpante sur le mur semble attendre son prochain repas. À gauche, une porte étroite offre un passage vers un autre espace. L'égout est humide et glissant, avec des flaques d'eau stagnante qui risquent de faire glisser les explorateurs. L'atmosphère est mystérieuse et ancienne, avec un air de sacré et de mystère qui plane dans l'air. Cette pièce est utilisée comme une chambre sacrificielle, où des rituels anciens sont célébrés.",
     "tags": [
       "égoût",
       "sacrifice",
-      "ancien",
       "rituel",
+      "ancien",
       "mystère"
     ],
     "sourceFeatures": {

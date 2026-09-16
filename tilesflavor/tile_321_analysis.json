@@ -1,13 +1,13 @@
 {
   "321": {
     "title": "Abîme des Champignons",
-    "description": "Dans l'obscurité qui règne dans cette petite et rectangulaire grotte, les ombres se dessinent sur le sol couvert de cercles rituels. La lumière pâle qui filtre à travers les fissures de la roche éclaire vaguement les piliers massifs qui soutiennent le plafond. La grotte semble vieillie, les murs recouverts d'une fine couche de poussière et de mousse. Un tableau étrange attire l'œil : une table, entourée de cercles rituels, semble être le cœur de cette ancienne salle de rituel. Des champignons étranges poussent sur le sol, leurs tiges délicates se dressant vers le plafond. L'atmosphère est mystérieuse et menaçante, comme si quelque chose de maléfique se cachait dans l'ombre. Les têtes de mort et les tentacules qui ornent les murs ajoutent à l'ambiance lugubre. L'eau stagnante qui s'est formée dans un coin de la grotte est un danger à ne pas négliger. La présence d'une figurine humaine au centre de la salle, étrangement intacte malgré l'âge, laisse supposer que des rituels sombres ont eu lieu ici. Les cercles rituels et les piliers témoignent de l'ancienneté de ce lieu, mais la raison exacte de sa présence dans cet abîme reste un mystère.",
+    "description": "Dans cet abîme étroit et rectangulaire, la lumière faible et diffuse éclaire les murs vieillis et les piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant l'ancien emplacement d'un autel. Des champignons étranges poussent sur les murs et les sols, leur couleur sombre contrastant avec la pâleur des pierres. Un table, usée par le temps, repose au centre de la pièce, son bois craquelé révélant des traces de vieilles cérémonies. L'air est chargé d'une odeur étrange, mêlant la putréfaction et la magie ancienne. L'eau stagnante, noire et trouble, remonte jusqu'à la moitié des murs, créant un miroir sombre qui reflète les ombres qui hantent l'abîme. La pièce est mystérieuse et menaçante, chaque détail racontant une histoire ancienne et sombre.",
     "tags": [
       "abîme",
-      "salle de rituel",
       "champignons",
-      "rituels sombres",
-      "têtes de mort"
+      "rituel",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "mystérieuse et menaçante",
+      "atmosphere": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituel",
       "csvDescription": "abîme avec des champignons",
       "tileNumber": 321

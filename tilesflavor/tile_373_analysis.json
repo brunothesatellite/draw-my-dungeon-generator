@@ -1,13 +1,13 @@
 {
   "373": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté. La lumière tamisée émane des fenêtres étroites, révélant une ambiance humide et mystérieuse. Des cercles et des points sont gravés sur le sol, formant un motif complexe. Des colonnes majestueuses soutiennent le toit, tandis que des pilastres ornent les murs. Un autel central, vide, domine la pièce, entouré de statues anciennes et mystérieuses. Des runes mystiques et des enchantements anciens flottent dans l'air, ajoutant à l'atmosphère étrange. Des figures fantomatiques flottent dans l'ombre, rappelant l'histoire sacrée de ce lieu. La chambre est un sanctuaire, un lieu de culte et de mystère, où les anciens pratiquaient des rituels sacrés.",
+    "title": "Salle des Statues",
+    "description": "La salle est immense et rectangulaire, avec un sol humide et des marquages circulaires et points sur le sol. Les murs sont ornés de colonnes et de pilastres, donnant une impression de grandeur et de mystère. La lumière est faible, créant une ambiance sombre et étrange. L'atmosphère est chargée de mystère, avec des runes mystiques gravées sur les murs et des enchantements anciens qui semblent flotter dans l'air. L'unique pièce de mobilier est un autel central, entouré de statues gigantesques qui gardent le secret de la salle. Des figures fantomatiques flottent dans l'air, ajoutant à l'atmosphère étrange de la pièce. Les statues sont sculptées avec une grande précision, représentant des créatures mythiques et des personnages importants. Les murs sont recouverts de tentacules et de crânes, ajoutant une touche macabre à l'ensemble. Les runes mystiques et les enchantements anciens rendent la salle dangereuse, mais aussi fascinante pour les explorateurs intrépides.",
     "tags": [
       "salle",
-      "anciens",
-      "rituels",
+      "statues",
       "mystère",
-      "sacrés"
+      "enchantements",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "308": {
     "title": "Passage de l'Abîme",
-    "description": "Le passage de l'Abîme est large et rectangulaire, éclairé par une faible lumière qui se répand dans l'air humide. Des colonnes majestueuses soutiennent le plafond, et un motif de spirale gravé dans le sol guide le regard vers l'horizon. Les murs sont ornés de tentacules qui semblent vivre, ajoutant une touche d'effrayante mystérieux à l'atmosphère. L'abîme, visible au bout du passage, est traversé par un pont de pierre naturel, un pont qui semble avoir été sculpté par les eaux tumultueuses qui le traversent. L'endroit est humide et lourd de secrets, chaque coin révélant une nouvelle énigme ou un danger潜伏. Les tentacules qui ornent les murs semblent attendre, prêts à s'agripper à l'ennemi ou à l'explorateur imprudent. Le passage est un lieu de rituel, un sanctuaire pour les forces obscures qui y sont adorées.",
+    "description": "Le passage de l'Abîme est un couloir large et rectangulaire, traversé par un pont de pierre naturel qui semble avoir été sculpté par les forces de l'obscurité. La lumière y est si faible que les ombres dansent sur les parois, créant une ambiance mélangeant la peur et l'émerveillement. L'humidité qui imprègne l'air rend le sol glissant, et des traces de spirales gravées dans le sol indiquent un passage ancien, peut-être un rituel. Les colonnes massives qui soutiennent le pont sont couvertes de tentacules qui semblent attendre, prêts à s'enrouler autour de ceux qui osent approcher. L'atmosphère est mystérieuse, presque palpable, comme si l'abîme lui-même respirait. Les murs sont ornés de tentacules qui semblent sortir du néant, ajoutant à l'atmosphère sinistre. Le passage est un lieu de rituel, et bien que personne ne sache exactement ce qui se passe dans l'abîme, les murmures et les légendes parlent d'une puissance ancienne et maléfique.",
     "tags": [
-      "Passage",
-      "Abîme",
-      "Mystère",
-      "Rituel",
-      "Tentacules"
+      "abîme",
+      "pont",
+      "tentacules",
+      "rituel",
+      "obscurité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

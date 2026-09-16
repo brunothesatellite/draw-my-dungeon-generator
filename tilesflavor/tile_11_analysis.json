@@ -1,13 +1,13 @@
 {
   "11": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La Chambre Sacrée des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de peintures anciennes et mystérieuses. La lumière y est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère étrange et énigmatique de la pièce. Les sols sont marqués de spirales et de croix, symboles de puissance et de protection. Des colonnes et des piliers majestueux soutiennent le plafond, ornés de motifs complexes. Des objets étranges et des symboles mystérieux sont disséminés un peu partout, semblant avoir été laissés là par des cultistes oubliés. À l'extrémité de la pièce, un autel ancien, orné de tentacules et de têtes de mort, semble être le point focal de cette chambre sacrée. Des traces de créatures étranges et des ombres flottantes flottent dans l'air, ajoutant à l'atmosphère sinistre. Un seul passage, dissimulé derrière un rideau de toile, semble mener à une autre partie du donjon.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière tamisée émane des fenêtres hautes, révélant des colonnes massives qui soutiennent le plafond voûté. Des spirales et des croix gravées dans le sol marquent l'ancienneté de ce lieu. Des symboles mystérieux sont gravés sur les murs, et des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère étrange. Un autel central, orné de symboles énigmatiques, semble être le point focal de cette pièce sacrée. Des traces de présence fantomatique flottent dans l'air, et un secret se cache derrière une porte dissimulée. Les dangers潜伏在角落，陷阱随时可能触发。",
     "tags": [
       "salle",
-      "ancienne",
+      "ancien",
       "rituel",
       "sacrifice",
-      "mystère"
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

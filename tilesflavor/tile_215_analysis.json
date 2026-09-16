@@ -1,20 +1,20 @@
 {
   "215": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers une fenêtre étroite éclaire les cercles rituels gravés au sol, qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, et le mobilier, bien que peu visible, semble ancien et usé. Les têtes de mort et les tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère mystérieuse de la pièce. L'eau stagnante dans un coin de la salle rend l'endroit encore plus dangereux. La salle semble avoir été utilisée pour des rituels anciens, et le dessin de poing au centre de la pièce semble être le point focal de ces cérémonies. Les cercles rituels et les têtes de mort donnent à cette pièce un air de mystère et de danger.",
+    "title": "Salle des Rituels",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis. Des cercles rituels sont gravés au sol, marquant l'ancien espace de rituels. Des piliers massifs soutiennent le plafond, et des têtes de mort et des tentacules émergent des murs, ajoutant une touche macabre à l'atmosphère mystérieuse. Un dessin de poing est peint sur le mur de face, rappelant l'ancien pouvoir qui réside ici. Des meubles usés sont empilés dans un coin, et une fenêtre permet une vue sur une eau stagnante qui s'étend au-delà de la salle. Les murs sont ornés de cercles rituels, et les piliers sont visibles à travers la pièce. La salle semble avoir été utilisée pour des rituels anciens, et l'atmosphère est chargée d'une tension étrange.",
     "tags": [
-      "Salle",
-      "Rituel",
-      "Ancien",
-      "Mystère",
-      "Danger"
+      "rituel",
+      "salle",
+      "macabre",
+      "ancien",
+      "dessin de poing"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "dessin de poing",
+      "centralFeature": "autel",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

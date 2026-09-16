@@ -1,13 +1,12 @@
 {
   "176": {
-    "title": "Couloir de la Grotte des Champignons",
-    "description": "Le couloir de la grotte est étroit et sinueux, éclairé par la faible lumière qui filtre à travers les épaisses feuillages qui l'entourent. Les parois rocheuses sont parsemées de champignons étranges, leurs têtes pointues semblant observer les passants. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à un but inconnu. Des piliers massifs soutiennent le plafond, ajoutant à l'ambiance mystérieuse de ce lieu. Les têtes de mort sculptées dans les murs ajoutent une note macabre à l'atmosphère déjà sombre. L'eau stagnante au fond du couloir semble prête à se lever à tout moment, prête à engloutir qui se risquerait à s'aventurer plus avant. Les murs sont parsemés de têtes de mort, rappelant l'ancienne histoire sordide de ce lieu. La grotte semble être un passage vers un rituel ancien, mais la raison exacte reste un mystère.",
+    "title": "Couloir de Grotte aux Champignons",
+    "description": "Le couloir de grotte est étroit et sinueux, éclairé par la faible lumière qui filtre à travers les épaisses parois rocheuses. Les parois sont parsemées de champignons étranges, leurs têtes verdâtres se dressant comme des gardiens silencieux. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien culte. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et lisses reflétant la faible lumière. Les têtes de mort, suspendues aux parois, ajoutent une note macabre à l'atmosphère mystérieuse. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un miroir sombre qui renvoie les ombres des visiteurs. Le couloir semble se perdre dans l'obscurité, chaque pas révélant de nouvelles surprises sous la forme de champignons et de mystères enfouis.",
     "tags": [
-      "Couloir",
-      "Grotte",
-      "Champignons",
-      "Rituel",
-      "Mystère"
+      "grotte",
+      "champignons",
+      "rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

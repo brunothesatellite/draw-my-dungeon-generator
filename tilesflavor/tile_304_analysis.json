@@ -1,13 +1,13 @@
 {
   "304": {
-    "title": "L'Abîme des Anciens",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Le sol est marqué de spirales et de lignes énigmatiques, qui semblent danser sous vos pieds. Des colonnes et des piliers délabrés se dressent ici et là, leurs pierres usées par le temps et les éléments. Des autels sombres sont disséminés dans la salle, leurs surfaces lisses et lisses, comme si ils avaient été utilisés pour des rituels anciens. Un large, dark, organic structure domine le centre de la pièce, son étrange forme semblant émaner d'une force ancienne et mystérieuse. Le portail magique, minuscule et délicat, se trouve dans un coin de la salle, entouré de tentacules et de têtes de mort, comme s'il avait été gardé par des créatures maléfiques. La salle est plongée dans une atmosphère étrange et mystérieuse, où l'ancienneté et la magie se mêlent pour créer un lieu d'incertitude et de fascination.",
+    "title": "L'Abîme du Portail Magique",
+    "description": "Au cœur de l'abîme, un portail magique se dresse, un vestige de l'ancien monde. Les spirales et les lignes gravées sur le sol semblent danser sous la faible lumière qui pénètre à travers les fissures du plafond. Les colonnes et les piliers, usés par le temps, portent des tentacules et des têtes de mort, témoins des rituels obscurs qui y ont été pratiqués. Les autels, délabrés, sont alignés le long des murs, leurs surfaces usées par les prières et les sacrifices. L'air est chargé d'une atmosphère étrange, mêlant mystère et angoisse. Les murs, déchirés par les tentacules et les têtes de mort, révèlent des structures organiques sombres et étranges. Les créatures étranges, venues de l'abîme, se cachent dans les recoins, prêtes à bondir. L'abîme est un lieu ancien et rituel, où les portails magiques et les tentacules se mêlent pour créer un environnement sinistre et mystérieux.",
     "tags": [
       "abîme",
+      "portail",
       "rituel",
-      "magie",
-      "ancien",
-      "salle"
+      "mystère",
+      "créatures"
     ],
     "sourceFeatures": {
       "roomSize": "large",

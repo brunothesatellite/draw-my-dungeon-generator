@@ -1,13 +1,13 @@
 {
   "59": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Sa petite taille et sa forme carrée donnent l'impression d'être enfermé. La lumière y est faible, filtrant à peine à travers des fissures minuscules dans le plafond. Les murs vieillis sont recouverts de cercles rituels et de glyphes runiques, des symboles mystérieux qui semblent avoir été gravés il y a des siècles. Des piliers et des colonnes robustes soutiennent le passage, ajoutant à son air ancien et sacré. Des traces de mobilier ancien sont encore visibles, témoignant de l'activité passée. L'atmosphère est mystérieuse et ancienne, comme si le passage avait gardé le secret des temps anciens. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'ambiance. L'eau stagnante au fond du passage est un danger à ne pas négliger. Le passage des Anciens est une salle de culte ou de rituel, un lieu où les anciens pratiquaient leurs rituels et sacrifiaient pour leur cause.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs de pierre vieillie semblent murmurer des secrets millénaires. Les cercles rituels et les glyphes runiques gravés dans le sol émettent une faible lumière, révélant des traces de vieilles cérémonies. Des piliers et des colonnes majestueuses soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'effrayante mystique. Le mobilier ancien, usé par le temps, semble avoir été laissé là par des cultistes oubliés. L'atmosphère est pesante, presque tangible, comme si le couloir était le passage vers un autre monde. Les rares rayons de lumière qui pénètrent à travers les fissures dans le plafond révèlent des eaux stagnantes qui se meuvent lentement, ajoutant une note de danger à l'air déjà oppressant. Le couloir est une voie sacrée, un passage vers des secrets profonds et des rituels anciens.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Mystère",
-      "Rituel",
-      "Tête de Mort"
+      "couloir",
+      "rituel",
+      "ancien",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

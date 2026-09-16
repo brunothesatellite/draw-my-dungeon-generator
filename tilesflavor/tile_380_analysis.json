@@ -1,13 +1,13 @@
 {
   "380": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La Chambre Sacrée des Anciens est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts de sculptures étranges et de tentacules qui semblent se mouvoir dans l'obscurité. La lumière tamisée émane des fenêtres hautes, révélant un sol marqué de spirales et de croix, symboles mystiques. Des colonnes et des piliers imposants soutiennent le plafond, tandis qu'un grand autel se dresse au centre de la pièce. Des runes enchantées brillent doucement, émettant une lumière bleutée qui éveille une atmosphère étrange et menaçante. Des traces de pas fantomatiques se dessinent sur le sol, et une présence ghostly flotte dans l'air, rendant l'endroit encore plus inquiétant. Les murs sont ornés de têtes sculptées, ajoutant à l'aura sacrée et mystique de la pièce. Les dangers潜伏在四周，陷阱和魔法符文随时可能触发，使这个神圣的殿堂充满了未知的危险。",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle est immense, presque carrée, avec des murs délabrés et des colonnes massives qui soutiennent un plafond voûté. La lumière pénètre à peine à travers des fenêtres brisées, créant une ambiance sombre et mystérieuse. Des motifs de spirales et de croix sont gravés sur le sol, semblant indiquer un ancien rituel. Un grand autel de pierre se dresse au centre, entouré de sculptures de têtes humaines et de tentacules qui semblent observer les visiteurs. Les murs sont ornés de sculptures de têtes humaines et de tentacules, ajoutant à l'atmosphère étrange de la pièce. Des runes enchantées sont disséminées un peu partout, prêtes à déclencher des pièges mortels. La présence d'une présence fantomatique flotte dans l'air, rendant l'atmosphère encore plus inquiétante. La salle semble avoir été un lieu de culte ancien, maintenant abandonné et en ruine.",
     "tags": [
       "salle sacrée",
       "anciens",
-      "rituels",
-      "mystère",
-      "sacré"
+      "rituel",
+      "sacré",
+      "ruines"
     ],
     "sourceFeatures": {
       "roomSize": "large",

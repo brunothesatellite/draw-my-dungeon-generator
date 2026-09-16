@@ -1,13 +1,12 @@
 {
   "259": {
     "title": "Égout des Barils Flottants",
-    "description": "Vous vous trouvez dans un égout immense, dont les parois irrégulières sont parsemées de barils flottants. La lumière est faible, émanant d'une source inconnue, et l'air est humide et chargé d'une odeur nauséabonde. Des spirales et des lignes dessinent des motifs étranges sur le sol, semblant indiquer un passage ou un rituel ancien. Des piliers et des arches majestueux soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de ce lieu. Un objet inconnu repose au centre, entouré de barils flottants, certains sur le sol et d'autres flottant au-dessus de l'eau. L'égout est silencieux, hormis le bruit de l'eau qui coule et le murmure des barils qui roulent. La présence d'un petit monstre, peut-être un rat ou un autre animal, vous observe depuis un coin sombre. Le lieu semble être un ancien sanctuaire ou un lieu de rituel, mais son exacte destination reste un mystère.",
+    "description": "L'égout est large et irrégulier, ses parois humides et froides sont recouvertes de traces de spirales et de lignes qui semblent avoir été gravées par des mains invisibles. La lumière est faible, filtrant à travers des éclairs de pluie qui tombent depuis un ciel obscur. Des barils flottent sur l'eau, certains se sont échoués sur le sol, leur bois usé et fendu. Un grand tonneau, plus ancien que les autres, repose au fond de l'égout, son bois usé et son ancre de fer rouillée. Des colonnes et des arches soutiennent le plafond, leurs pierres usées par le temps et les eaux. Un objet inconnu repose au milieu de l'égout, son contour obscur et mystérieux. L'atmosphère est mystérieuse et humide, comme si quelque chose de profond et de secret se cachait dans cet endroit. Les barils flottants et le grand tonneau au fond semblent être les seuls témoins de rituels anciens qui se sont déroulés ici.",
     "tags": [
-      "égout",
-      "rituel",
+      "égoût",
       "barils",
-      "mystère",
-      "sacrifice"
+      "rituels",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

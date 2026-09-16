@@ -1,13 +1,13 @@
 {
   "408": {
-    "title": "Crypte des Tombes Éternelles",
-    "description": "Dans l'obscurité qui règne dans cette crypte, les tombes en terre cuite se dressent comme des sentinelles silencieuses. La petite salle carrée est éclairée par une faible lumière qui filtre à travers des voiles de poussière. Les murs vieillis sont ornés de têtes de mort et de tentacules qui semblent sortir du néant, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues évoquent une ancienne civilisation perdue. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis des siècles. Une porte murée, fermée depuis longtemps, semble être le seul moyen d'échapper à cette crypte. L'eau stagnante qui s'est formée dans un coin de la pièce est un danger à ne pas négliger. Cette crypte, lieu de rituels anciens, semble avoir été abandonnée depuis des temps immémoriaux, mais les secrets qui y sont enfouis pourraient encore révéler leur pouvoir.",
+    "title": "Salle des Tombes en Terre Cuite",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand à peine à travers les voûtes. Les murs vieillis sont ornés de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers robustes soutiennent le plafond, et des statues étranges, probablement des anciens dieux ou des gardiens, gardent la pièce. Le sol est marqué de cercles rituels et de glyphes runiques, semblant indiquer un ancien rituel. Des cercles de terre cuite, vieillies et usées, sont alignés contre le mur, leurs formes arrondies et leurs couleurs ternes évoquant une ancienne tradition funéraire. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Une porte murée, fermée et ancienne, semble être l'unique sortie de cette salle. L'atmosphère est sinistre, et l'eau stagnante qui s'est formée dans un coin de la pièce ajoute à l'ambiance lugubre. Les tombes en terre cuite, bien que vieillies, semblent intactes, gardant probablement des secrets et des trésors enfouis depuis des siècles.",
     "tags": [
-      "Crypte",
-      "Tombes",
-      "Anciens Rituels",
-      "Poussière",
-      "Sinistre"
+      "tombes",
+      "terre",
+      "cuite",
+      "rituels",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,15 +1,13 @@
 {
   "90": {
-    "title": "Couloir des Sacrifices",
-    "description": "Le couloir étroit et sinistre semble avoir été creusé à la hâte, les pierres de taille se succédant sans ordre apparent. La lumière est faible, filtrant à peine à travers des fissures dans le plafond. Les murs, usés et rugueux, portent encore les stigmates de l'ancien rituel qui y a eu lieu. Des cercles rituels, usés par le temps, marquent le sol, comme si quelqu'un avait tenté de les effacer. Des piliers massifs, vieillis par les siècles, soutiennent le plafond, leurs surfaces lisses et lisses contrastant avec les pierres plus rugueuses du sol.\n\nAu centre du couloir, une table ancienne, recouverte d'un tissu usé, semble avoir été utilisée pour des sacrifices. Des têtes de mort, étranges et déformées, sont empilées sur le côté, comme si elles avaient été jetées là après avoir été utilisées. Des tentacules, noirs et gluants, s'étendent du plafond, se mêlant aux piliers et aux murs, créant une atmosphère sinistre et oppressante. L'eau stagnante, noire et putride, remplit une partie du couloir, créant un danger potentiel pour les explorateurs.\n\nLe couloir semble sans issue, mais une sensation de présence étrange flotte dans l'air, comme si quelque chose attendait au bout. Les murs murmurent des secrets anciens, et les ombres dansent sur le sol, ajoutant à l'atmosphère de mystère et de peur. Les explorateurs qui entrent dans ce couloir doivent être prêts à affronter ce qui les attend, car le danger n'est pas loin.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir semble sans issue, ses murs sont recouverts de petites pierres qui craquent sous vos pas. Les murs sont vieillis, des traces de vieilles peintures sont encore visibles, mais elles sont difficilement lisibles. Des cercles rituels sont gravés au sol, comme si quelqu'un avait tenté de les activer. Des piliers massifs soutiennent le plafond, leurs surfaces sont usées par le temps. Un autel, dépourvu de tout objet, se dresse au fond du couloir. Des têtes de mort et des tentacules peints sur les murs ajoutent une atmosphère sinistre à l'endroit. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir révèle une eau stagnante qui s'accumule au fond. La pièce est rectangulaire et petite, avec un sol marqué de cercles rituels. Les piliers sont visibles tout au long du couloir, et une table est placée au milieu de la pièce. L'endroit semble ancien et abandonné, mais les cercles rituels et les têtes de mort indiquent qu'il a probablement été utilisé pour des rituels obscurs.",
     "tags": [
-      "Couloir",
-      "Sacrifices",
-      "Tentacules",
-      "Têtes de Mort",
-      "Ancien Rituel",
-      "Atmosphère Sinistre",
-      "Eau Stagnante"
+      "couloir",
+      "rituel",
+      "ancien",
+      "abandonné",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "325": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Un pont de corde tordue, tendue entre deux falaises escarpées, vous permet de traverser ce gouffre infini. À vos pieds, un tonneau de bois, crevé par les années, semble attendre votre passage. Les murs de pierre ancienne sont marqués de cercles rituels, des symboles mystérieux qui semblent avoir été dessinés par des mains longtemps disparues. Des tentacules de couleur sombre, semblables à ceux d'un monstre marin, pendent des plafonds, ajoutant une touche d'effrayante réalité à l'atmosphère lugubre. Des têtes de mort, sculptées avec une précision saisissante, sont accrochées aux murs, rappelant l'horreur qui réside dans ce lieu. L'air est chargé d'une odeur de poussière et de mystère, et les échos de vos pas résonnent dans l'abîme. Le pont de corde est fragile, et vous devez faire preuve de prudence pour traverser sans tomber dans l'abîme infini.",
+    "title": "Abîme des Cordeaux",
+    "description": "Au cœur de l'abîme, un pont de corde étroit traverse un précipice infini. À chaque pas, le pont s'effondre sous vos pieds, vous poussant vers le vide. À votre droite, un tonneau de bois se dresse, son contenu inconnu. Le sol est marqué de cercles rituels anciens, et des colonnes massives soutiennent le pont. Des tentacules et des têtes de mort ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne. L'abîme est peuplé de créatures enchantées, prêtes à vous attaquer. Le pont est la seule issue pour sortir de ce lieu sacré et ancien.",
     "tags": [
       "abîme",
-      "pont de corde",
+      "pont",
+      "corde",
       "tonneau",
-      "rituels",
-      "têtes de mort"
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

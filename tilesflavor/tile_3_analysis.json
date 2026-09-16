@@ -1,13 +1,13 @@
 {
   "3": {
     "title": "Le Couloir des Anciens",
-    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, érodée par le temps et la pluie. Les murs, ornés de tentes suspendues, semblent murmurer des secrets millénaires. Des spirales mystérieuses gravées dans le sol indiquent un chemin ancien, peut-être un passage sacré. Les colonnes massives, sculptées de motifs complexes, soutiennent le plafond voûté. Un grand autel ou une plateforme centrale, ornée de symboles énigmatiques, domine le couloir. La lumière naturelle qui filtre à travers les fenêtres éclaire les murs humides et les tapisseries qui flottent doucement. À chaque pas, des apparitions fantomatiques flottent dans l'air, ajoutant une touche de mystère à l'atmosphère déjà ancienne et sacrée. Le couloir semble mener à un lieu plus profond, un sanctuaire ou un lieu de rituel, où les anciens pratiquaient leurs cérémonies et leurs sacrifices.",
+    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, érodée par le temps et la pluie. Les murs, ornés de tentes de toile suspendues, semblent garder des secrets millénaires. Des colonnes massives, sculptées de motifs complexes, se dressent de part et d'autre du passage, évoquant une ancienne civilisation. Le sol, recouvert de spirales mystérieuses, semble inviter à la découverte. La lumière naturelle filtrant à travers les fenêtres éclaire doucement le couloir, révélant des traces de mousse et de végétation qui s'insinuent entre les pierres. Un grand autel ou une plateforme centrale, ornée de symboles énigmatiques, domine le passage. À l'extrémité du couloir, une porte unique semble protégée par une force invisible. Les murs sont parsemés de tentes de toile, et les colonnes sont ornées de motifs sculptés. Le sol, marqué de spirales, est recouvert de mousse et de végétation. L'atmosphère est mystérieuse et ancienne, évoquant un lieu de culte ou de rituel. Les tentes de toile suspendues et les colonnes sculptées donnent une impression de grandeur et de mystère.",
     "tags": [
       "couloir",
       "ancien",
       "rituel",
-      "sacré",
-      "mystère"
+      "mystère",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

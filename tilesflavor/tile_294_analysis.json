@@ -1,13 +1,13 @@
 {
   "294": {
     "title": "L'Abîme des Tentacules",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Ses parois rugueuses et déformées semblent se déplacer, comme si elles étaient vivantes. Des tentacules sombres et ondulantes émergent de l'eau sombre qui remplit le fond de l'abîme, créant une atmosphère sinistre et menaçante. Des spirales mystérieuses gravées dans le sol vous guident vers le centre, où se dresse un autel sombre. Des colonnes majestueuses, ornées de tentacules, soutiennent le plafond, ajoutant à l'aura sacrée et étrange de ce lieu. L'air est humide et chargé d'une odeur de mort et de mystère. Des murmures lointains et des échos de pas lointains vous parviennent, comme si des esprits errants erraient dans ces profondeurs obscures. L'abîme est le cœur d'un ancien sanctuaire, où des rituels sacrés et des sacrifices mystiques étaient autrefois pratiqués.",
+    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre, ses parois noires et lisses semblant se fondre dans l'horizon. Des tentacules phosphorescents serpentent le long des murs, leurs points lumineux balayant l'air avec une lenteur hypnotique. Le sol est marqué d'un spiral complexe, gravé dans la pierre humide et glissante. Des colonnes majestueuses, sculptées de motifs énigmatiques, soutiennent le plafond, tandis qu'un autel sombre se dresse au centre de la pièce, son existence évoquant des rituels sacrés. L'atmosphère est oppressante, un mélange de mystère et d'étrangeté qui semble aspirer tout ce qui s'approche. Le dimanche qui pénètre ici est faible, rendant l'endroit encore plus sombre et humide. Un mystique bassin sombre, émanant une aura étrange, occupe le centre de la pièce, son eau trouble et trouble. Des fantômes de figures flottent parfois au-dessus de l'eau, leurs silhouettes translucides et floues ajoutant à l'atmosphère sinistre. Les tentacules phosphorescents semblent danser autour de l'autel, comme si une force malveillante les animait. L'abîme des Tentacules est un lieu de culte, un sanctuaire où les anciens pratiquaient des rituels obscurs, maintenant gardé par des créatures surnaturelles qui veillent sur ce lieu sacré.",
     "tags": [
       "abîme",
-      "sacrifice",
       "tentacules",
       "rituel",
-      "mystère"
+      "sacrifice",
+      "sombre"
     ],
     "sourceFeatures": {
       "roomSize": "large",

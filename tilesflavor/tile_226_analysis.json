@@ -1,13 +1,13 @@
 {
   "226": {
-    "title": "Salle des Trésors Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs sont couverts de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le sol est marqué de cercles rituels et de glyphes runiques, et des traces de mobilier ancien sont visibles, comme si quelqu'un avait essayé de fuir. À l'extrémité de la salle, une porte en fer est murée, avec des têtes de mort sculptées sur les battants. L'atmosphère est oppressante, et l'air est saturé d'une odeur de poussière et de mystère ancien. La salle est laissée à l'abandon, mais elle cache un trésor incroyablement grand et précieux, enfermé derrière la porte en fer murée.",
+    "title": "La Salle du Trésor",
+    "description": "Dans cette petite et rectangulaire salle, la lumière faible éclaire les murs vieillis, où des cercles rituels et des glyphes runiques sont gravés. Des piliers massifs soutiennent le plafond, et des statues étranges gardent le silence. Le sol est marqué de symboles mystérieux, et des meubles anciens sont disséminés un peu partout. La porte en fer, murée, semble être le seul accès à ce trésor inépuisable. L'atmosphère est pesante et menaçante, comme si la salle était gardée par des forces obscures. Les rares visiteurs qui ont osé pénétrer ici ont raconté des histoires de tentacules et de têtes de mort qui hantaient les murs. Le trésor, le plus grand jamais vu, est dissimulé derrière une dalle de pierre au centre de la salle, protégé par des pièges et des sorts puissants.",
     "tags": [
-      "Salle",
-      "Trésor",
-      "Rituels",
-      "Ancien",
-      "Mystère"
+      "trésor",
+      "porte",
+      "fer",
+      "rituels",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

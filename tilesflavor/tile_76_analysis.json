@@ -1,13 +1,13 @@
 {
   "76": {
     "title": "Salle du Soleil Magique",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand doucement à travers les piliers vieillis. Le sol est marqué de cercles rituels et de glyphes runiques, des symboles anciens qui semblent avoir été gravés il y a des siècles. Des statues majestueuses, probablement des divinités ou des anciens guerriers, gardent les coins de la pièce. Le mobilier ancien, usé par le temps, est disposé de manière à respecter les anciennes coutumes. Un autel central, orné d'un soleil magique dessiné, domine la pièce. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'effrayante réalité à l'atmosphère mystérieuse et ancienne de la salle. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger. Cette salle est dédiée à des rituels anciens, et les traces de créatures indiquent qu'elle n'est pas abandonnée depuis longtemps.",
+    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand doucement à travers les piliers vieillis. Le sol est marqué de cercles rituels et de glyphes runiques, qui semblent avoir été dessinés par des mains expertes. Au centre de la pièce, un autel est orné d'un soleil magique dessiné, symbole de puissance et de mystère. Quatre colonnes robustes soutiennent le plafond, et des statues de guerriers anciens sont disséminées autour de la pièce, ajoutant à l'atmosphère ancienne et mystérieuse. Des traces de créature sont visibles sur le sol, et une eau stagnante s'accumule près de la porte murée, qui semble être le seul moyen de quitter cette salle. Les murs sont recouverts de têtes de mort et de tentacules, rappelant l'ancienne vénération des forces obscures.",
     "tags": [
-      "Salle",
-      "Ancienne",
-      "Rituels",
-      "Soleil Magique",
-      "Têtes de Mort"
+      "salle",
+      "rituel",
+      "sacré",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

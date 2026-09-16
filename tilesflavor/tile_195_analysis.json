@@ -1,13 +1,13 @@
 {
   "195": {
     "title": "Escaliers Sacrés",
-    "description": "Les escaliers sacrés, vieillis par le temps, montent et descendent dans un espace rectangulaire, minuscule mais chargé d'histoire. La faible lumière qui filtre à travers les fissures des pierres éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des statues étranges, aux visages énigmatiques, gardent le passage. Le mobilier ancien, usé par les siècles, semble avoir été abandonné depuis longtemps. L'atmosphère est mystérieuse et ancienne, comme si les murs murmuraient des secrets millénaires. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ornent les murs. La porte murée au fond semble être le seul moyen de quitter cette salle de culte ou de rituel, mais l'eau stagnante qui s'est formée au fond du couloir en fait un piège mortel.",
+    "description": "Les escaliers sacrés, vieillis par le temps, montent et descendent dans une grotte mystérieuse. La lumière faible émane des pierres éraflées, révélant des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers robustes soutiennent le passage, tandis que des statues étranges gardent le chemin. Le mobilier ancien est disséminé autour, ajoutant à l'atmosphère ancienne et mystérieuse. À chaque étage, des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. Cette salle est destinée à des rituels sacrés, et les escaliers montant et descendant séparent deux espaces sacrés, chacun avec son propre mystère à découvrir.",
     "tags": [
       "escalier",
-      "salle de culte",
+      "grotte",
       "rituel",
-      "vieillie",
-      "mystérieuse"
+      "sacrifice",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

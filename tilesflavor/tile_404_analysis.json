@@ -1,13 +1,13 @@
 {
   "404": {
     "title": "Salle de labyrinthe des Anciens",
-    "description": "La salle de labyrinthe des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand lentement à travers les piliers. Les murs sont ornés de têtes de mort, symboles de la mort et de la réincarnation, tandis que des cercles rituels marquent le sol. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'accès difficile. L'atmosphère est mystérieuse et ancienne, comme si les murs avaient des yeux et des oreilles, écoutant les murmures des cultistes qui y pratiquaient leurs rituels.",
+    "description": "La salle de labyrinthe est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels qui semblent avoir été dessinés il y a des siècles. La faible lumière qui pénètre à travers les fissures dans les murs accentue l'atmosphère mystérieuse et ancienne de la pièce. Des piliers massifs soutiennent le plafond, et le mobilier ancien est réparti de manière étrange, comme si les anciens cultistes avaient laissé des traces de leur passage. Les têtes de mort sculptées dans les murs ajoutent une touche macabre à l'ambiance, tandis que les cercles rituels évoquent des secrets inexplorés. L'unique sortie mène à un escalier qui descend dans l'abîme, et l'eau stagnante qui s'accumule au fond de la salle est un danger à ne pas négliger. La salle de labyrinthe semble être un lieu de culte, où les anciens pratiquaient des rituels obscurs et sacrés.",
     "tags": [
-      "Salle de labyrinthe",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Culte"
+      "labyrinthe",
+      "salle de culte",
+      "rituels",
+      "têtes de mort",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de culte",
       "csvDescription": "salle de labyrinthe",
       "tileNumber": 404

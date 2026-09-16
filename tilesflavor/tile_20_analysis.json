@@ -1,13 +1,13 @@
 {
   "20": {
     "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures murales. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère menaçante à l'endroit. Des piliers robustes soutiennent le plafond, et des meubles anciens sont empilés dans un coin, recouverts de poussière. L'eau stagnante se forme dans un coin, créant un danger potentiel. La salle semble être un lieu de culte ou de rituels, avec une ambiance mystérieuse et menaçante.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les voûtes délavées révèle des piliers massifs qui soutiennent le plafond. Des cercles rituels et des glyphes runiques sont gravés dans le sol, tandis que des têtes de mort et des tentacules ornent les murs. Le mobilier ancien est dispersé autour de l'espace, ajoutant à l'atmosphère mystérieuse et menaçante. L'eau stagnante recouvre une partie du sol, rendant l'endroit dangereux. Cette salle semble être un lieu de rituels ou de culte, avec des traces de pièges dissimulés dans les coins sombres.",
     "tags": [
       "rituels",
       "culte",
+      "salle",
       "vieillie",
-      "mystérieuse",
-      "menaçante"
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

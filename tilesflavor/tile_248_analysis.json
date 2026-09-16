@@ -1,13 +1,13 @@
 {
   "248": {
-    "title": "Siphon Croisé avec 3 Ponts",
-    "description": "Au cœur de l'obscurité, un siphon complexe se déploie, ses trois ponts s'entrelaçant en un tissu de mystère. La lumière pénètre à peine, éclairant les murs vieillis par le temps. Des cercles rituels, usés par les siècles, marquent le sol, évoquant des pratiques anciennes. Les piliers et colonnes, robustes et usés, soutiennent cette structure étrange. Des traces de mobilier ancien sont encore visibles, témoignant de l'activité passée. L'atmosphère est pesante, chargée d'une tension inquiétante. Les murs sont ornés de têtes de mort et de tentacules, ajoutant à l'aura sinistre de ce lieu. L'eau stagnante, noire et trouble, s'accumule dans les recoins, formant des bassins morts. La seule issue semble se perdre dans l'obscurité, sans signe de sortie visible. Cette salle, lieu de rituels ou de culte, est un endroit où le passé et le présent se mêlent dans un équilibre instable.",
+    "title": "Siphon Croisé",
+    "description": "Au cœur de l'abîme, un siphon croisé se dresse, ses trois ponts en pierre s'entrelacent comme des tentacules. Les murs, vieillis par le temps, sont ornés de colonnes et de piliers qui semblent veiller sur les cercles rituels gravés au sol. La faible lumière qui filtre à travers les fissures éclaire les restes de mobilier ancien, jetant des ombres sur les murs. L'air est lourd, chargé d'une atmosphère mystérieuse et menaçante. Les eaux stagnantes dans le siphon créent un bruit sourd qui résonne dans l'abîme, ajoutant à l'ambiance lugubre. Les cercles rituels au sol semblent inviter à une danse initiatique, mais les ponts en pierre sont truffés de pièges anciens qui attendent les intrus. La seule issue semble être un mur de pierre, mais elle est fermée par une barrière invisible. Les tentacules qui semblent émerger des murs ajoutent une touche d'effrayante réalité à cette scène.",
     "tags": [
-      "Salle de Rituels",
-      "Ancien Culte",
-      "Siphon",
-      "Mystère",
-      "Têtes de Mort"
+      "abîme",
+      "rituels",
+      "siphon",
+      "ponts",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Siphon croisé avec 3 ponts",
       "tileNumber": 248

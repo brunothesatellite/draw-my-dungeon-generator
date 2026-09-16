@@ -1,13 +1,13 @@
 {
   "89": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant à une salle carrée aux murs vieillis. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les cercles rituels gravés au sol, qui semblent avoir été usés par le temps. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère oppressante. Une statue ancienne, probablement en pierre, se dresse au centre de la salle, son visage étrangement souriant. Les murs sont ornés de têtes de mort sculptées, ajoutant une touche macabre à l'ensemble. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin de la salle, reflétant les ombres qui dansent dans l'air. Cette salle semble avoir été utilisée pour des rituels obscurs, et les cercles rituels au sol indiquent qu'elle était certainement le cœur de ces cérémonies. Les piliers et les têtes de mort donnent l'impression que cette salle a été utilisée depuis des siècles, peut-être même depuis des millénaires.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir semble s'inscrire dans un mur de pierre vieillie, les murs sont ornés de têtes de mort et de cercles rituels gravés dans le sol. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir éclaire les piliers massifs qui soutiennent le plafond. La statue d'un dieu ancien, probablement un dieu de la mort, se dresse au milieu du couloir, son visage étrangement souriant. L'eau stagnante qui s'est formée au fond du couloir semble être un obstacle potentiel. Le couloir semble sans issue, mais une sensation de présence mystérieuse plane dans l'air, comme si quelque chose attendait au bout de ce passage.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Salle de Culte",
-      "Rituel Obscur",
-      "Atmosphère Sinistre"
+      "couloir",
+      "sacrifice",
+      "rituel",
+      "dieu",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

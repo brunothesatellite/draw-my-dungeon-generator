@@ -1,13 +1,13 @@
 {
   "377": {
-    "title": "Souterrain Sans Issue",
-    "description": "Vous vous trouvez dans un souterrain sans issue, un lieu mystérieux et vieilli. La petite pièce est irrégulière, avec des murs qui semblent avoir été sculptés à la main. La faible lumière qui pénètre à travers une fissure dans le plafond éclaire des lignes et des hachures gravées sur le sol, comme si quelqu'un avait tenté de marquer un passage. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère ancienne et étrange de la pièce. Des têtes de mort sont accrochées aux murs, des symboles énigmatiques qui semblent avoir été sculptés il y a des siècles. La porte murée au fond de la pièce est fermée, mais vous sentez une présence ancienne et malveillante derrière elle. Les anciens pièges qui se dissimulent dans les recoins de la pièce attendent toujours leur heure pour vous piéger. La pièce est un lieu de rituel ou de sacrifice, un endroit où les anciens pratiquaient des cérémonies sombres et mystérieuses.",
+    "title": "Souterrain sans Issue",
+    "description": "Vous vous trouvez dans un souterrain sans issue, un lieu obscur et mystérieux. Les murs, vieillis et usés, sont recouverts de têtes de mort sculptées dans la pierre, ajoutant une note macabre à l'atmosphère lugubre. Des lignes et des hachures marquent le sol, semblant indiquer un ancien rituel ou une ancienne voie. Des piliers robustes soutiennent le plafond, tandis que des arches irrégulières donnent l'impression d'avoir été construites à la hâte. La faible lumière qui pénètre à travers une petite ouverture au plafond éclaire les murs et les piliers, révélant des traces de vieilles peintures murales qui se sont effacées au fil du temps. La porte murée au fond semble être le seul moyen d'entrée ou de sortie, mais elle est fermée et verrouillée. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher à tout moment. La salle semble avoir été utilisée pour des rituels ou des sacrifices, comme en témoignent les objets mystérieux et les traces de sang séché sur le sol. L'atmosphère est pesante et chargée d'une histoire ancienne et sombre.",
     "tags": [
       "souterrain",
-      "rituel",
       "sacrifice",
-      "vieillie",
-      "mystérieux"
+      "rituel",
+      "macabre",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

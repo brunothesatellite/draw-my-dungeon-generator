@@ -1,13 +1,15 @@
 {
   "269": {
     "title": "Égout avec Baril Flottant",
-    "description": "Tu te retrouves dans un égout immense, rectangulaire et sombre. Les murs sont couverts de cercles rituels et de glyphes runiques, évoquant une ancienne magie. Des piliers et des colonnes majestueuses se dressent à l'intérieur, ajoutant une touche de mystère à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de glyphes runiques, indiquant que ce lieu a été utilisé pour des rituels obscurs. Des barils flottent sur l'eau stagnante qui recouvre le sol, créant un bruit sourd et inquiétant. Le tout est illuminé par une lumière diffuse, rendant l'endroit lugubre et effrayant. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche de terreur à l'atmosphère déjà oppressante. Les cercles rituels et les glyphes runiques indiquent que ce lieu a été utilisé pour des rituels obscurs, et les barils flottants et les tentacules ajoutent une touche de mystère et de danger à l'endroit.",
+    "description": "L'égout étroit et sinistre s'élargit soudainement, révélant un espace rectangulaire de taille considérable. Les murs, couverts de mousse et de lichen, sont ornés de cercles rituels et de glyphes runiques qui brillent faiblement dans la faible lumière qui pénètre par les fissures. Des piliers et des colonnes massives soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un baril flottant, rempli d'une eau stagnante, est suspendu au milieu de la pièce, son contenu sombre et opaque reflétant la pénombre environnante. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des colonnes majestueuses dominent l'espace. Le mobilier, ancien et usé, est disséminé un peu partout, ajoutant à l'ambiance de mystère et de danger. L'égout, bien qu'étroit, est un passage inattendu qui pourrait mener à des lieux encore plus sombres et mystérieux.",
     "tags": [
-      "égout",
-      "rituels",
-      "têtes de mort",
-      "tentacules",
-      "salle de rituels"
+      "épave",
+      "rituel",
+      "épave",
+      "épave",
+      "épave",
+      "épave",
+      "épave"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,14 @@
 {
   "100": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La faible lumière qui pénètre à travers les fissures dans les pierres donne une ambiance sinistre à l'endroit. Des cercles rituels sont gravés sur le sol, marquant les limites de l'espace. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère. Le mobilier est ancien et semble avoir été abandonné depuis longtemps. Des barils et des caisses empilées bloquent les sorties, et l'eau stagnante au fond de la salle rend l'endroit humide et glissant. Les pierres et les caisses semblent avoir été placées là pour empêcher l'accès à cette salle de rituels sacrés.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des voiles de poussière. Des cercles rituels sont gravés sur le sol, entourés de dessins étranges et de symboles mystiques. Des barils et des caisses empilées bloquent les sorties, et des pierres les ont été jetées par-dessus. Le mobilier est ancien et délabré, ajoutant à l'atmosphère sinistre de la pièce. L'eau stagnante au fond de la salle rend l'endroit humide et glissant. Les murs sont ornés de têtes de mort et de tentacules, rappelant les sacrifices passés. La salle semble être un lieu de rituels, mais les barils et les pierres bloquent toute issue.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Sacrifices",
-      "Macabre"
+      "rituel",
+      "sacrifice",
+      "salle",
+      "pierres",
+      "barils",
+      "caisses"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

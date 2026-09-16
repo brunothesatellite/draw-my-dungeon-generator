@@ -1,13 +1,13 @@
 {
   "216": {
     "title": "Salle Sacrée des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol légèrement délavé par le temps. La lumière tamisée pénètre à travers une fenêtre étroite au fond de la pièce, révélant une atmosphère mystérieuse et vieillie. Des cercles rituels sont gravés dans le sol, entourant un autel central qui semble avoir été délaissé depuis longtemps. Des piliers robustes soutiennent les murs, et des têtes de mort sont suspendues aux parois, ajoutant une touche macabre à l'ambiance. L'eau stagnante dans le bassin au centre de la pièce reflète les murs et les têtes de mort, créant un miroir lugubre. L'endroit semble avoir été un lieu de culte ancien, mais les rituels sont maintenant oubliés.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, émanant d'une petite fontaine au centre de la pièce, qui forme un petit bassin. Des piliers majestueux soutiennent le plafond, et un autel est placé au fond de la pièce. Des têtes de mort sont sculptées dans les murs, ajoutant une atmosphère mystérieuse à l'endroit. Un personnage important se tient au centre de la salle, prêt à interagir avec les aventuriers. La fenêtre au fond de la pièce permet une vue sur une eau stagnante qui semble s'étendre à l'infini. Cette salle est dédiée à un culte ancien, et les cercles rituels au sol indiquent les rituels sacrés qui y étaient pratiqués.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Culte",
-      "Têtes de Mort",
-      "Fontaine"
+      "culte",
+      "rituel",
+      "sacrifice",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

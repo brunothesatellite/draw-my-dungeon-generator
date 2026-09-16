@@ -1,13 +1,13 @@
 {
   "419": {
-    "title": "Les Sœurs Sacrées",
-    "description": "Dans ce couloir étroit et sinistre, deux salles rectangulaires se dressent face à face, séparées par un mur de pierre. Chaque côté de ce mur est orné d'une cheminée, émettant une faible lumière qui éclaire les salles. La petite taille de ces salles, avec leurs murs vieillis et leurs sols marqués de cercles rituels, évoque une ancienne salle de rituel. Un coffre en bois sombre repose dans l'une des salles, tandis qu'un petit baril en cuir est posé dans l'autre. Un tabouret en bois est également visible dans l'une des salles, ajoutant à l'atmosphère d'oubli et de mystère. La porte à l'extrémité du couloir semble être la seule issue, mais elle est bloquée par une eau stagnante qui s'est infiltrée dans le couloir. L'atmosphère sinistre de ce lieu est accentuée par les têtes de mort et les tentacules qui semblent émerger des murs, ajoutant une touche d'horreur à l'expérience.",
+    "title": "Les Salles Sacrées",
+    "description": "Dans ce couloir étroit et sinistre, deux salles rectangulaires se dressent de part et d'autre d'un mur de séparation. Chaque côté de ce mur est orné d'une cheminée, une source de lumière faible qui éclaire les salles. La première salle abrite un coffre en bois sombre, tandis que la seconde contient un petit baril de bois. Le sol des salles est marqué de cercles rituels, des symboles mystiques qui semblent avoir été usés par le temps. Des piliers robustes soutiennent les murs, ajoutant à l'atmosphère vieillie et sinistre de l'endroit. Un tabouret en bois est posé au milieu de la seconde salle, comme si quelqu'un avait récemment utilisé cet espace. La porte à l'extrémité du couloir semble fermée, mais une eau stagnante s'accumule près de l'entrée, rendant l'accès difficile. Cette salle semble avoir été utilisée pour des rituels, comme en témoignent les cercles rituels et les objets sacrés.",
     "tags": [
-      "Couloir",
-      "Salle de Rituel",
-      "Ancien",
-      "Mystère",
-      "Tentacules"
+      "rituel",
+      "salle sacrée",
+      "coffre",
+      "baril",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "2 salles séparées avec cheminée de chaque côté du mur de séparation. Un coffre dans une salle et un petit baril dans l'autre",
       "tileNumber": 419

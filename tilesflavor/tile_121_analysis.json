@@ -1,13 +1,13 @@
 {
   "121": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère sombre et ancienne. Une porte murée se trouve à l'extrémité de la salle, et une eau stagnante recouvre le sol à l'entrée, créant un danger potentiel. La salle est remplie d'une atmosphère mystérieuse et menaçante, comme si elle avait été abandonnée depuis des siècles. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'ensemble. Cette pièce est dédiée à des rituels ou des cultes anciens, et les anciens qui l'ont utilisée y ont laissé des traces indélébiles.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Des piliers massifs soutiennent les murs, et des statues étranges sont disséminées un peu partout, ajoutant une touche de mystère à l'ensemble. Le mobilier ancien est délabré, et des têtes de mort et des tentacules émergent des murs, rappelant l'ancien culte qui s'y tenait. Une porte murée bloque l'entrée, tandis que l'eau stagnante dans un coin de la pièce constitue un danger potentiel. La salle semble avoir été utilisée pour des rituels ou des cultes, et les marquages solaires et les statues évoquent des forces obscures et anciennes.",
     "tags": [
       "rituels",
-      "culte",
-      "salle ancienne",
-      "mystère",
-      "anciens"
+      "salle",
+      "vieillie",
+      "mystérieuse",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Salle ouverte",
       "tileNumber": 121

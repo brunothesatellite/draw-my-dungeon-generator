@@ -1,13 +1,13 @@
 {
   "231": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des colonnes massives qui soutiennent le plafond. La lumière est faible, filtrant à travers des fenêtres brisées, créant un halo de mystère et de menace. Au centre de la pièce se dresse un autel, recouvert de sang et de poussière, entouré de cercles rituels gravés dans le sol. Une statue de démon, noire et décrépite, domine la scène, regardant fixement les visiteurs. Des têtes de mort et des tentacules s'enroulent sur les murs, ajoutant une touche d'horreur à l'atmosphère. Des piliers majestueux soutiennent le plafond, et une table en bois est placée à l'entrée, sans doute pour les offrandes. La salle est silencieuse, mais on peut sentir une présence malveillante qui plane dans l'air. Les anciens pièges sont toujours là, prêts à s'activer à la moindre intrusion.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des colonnes massives qui soutiennent le plafond. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère mystérieuse et menaçante. Au centre de la pièce se dresse un autel, recouvert de sang qui a séché et qui tache le sol. Une statue de démon, noire et décrépite, domine la pièce, fixant les visiteurs avec ses yeux vides. Des cercles rituels sont gravés dans le sol, entourant l'autel. Des piliers robustes sont disséminés autour de la pièce, ajoutant à l'architecture ancienne et délabrée. Une table, usée par le temps, est placée près de l'autel, sans doute pour les rituels. Des pièges anciens sont dissimulés dans les coins, prêts à s'activer à la moindre intrusion. La salle semble avoir été utilisée pour des rituels ou des sacrifices, et les traces de sang et de démon sur l'autel en témoignent.",
     "tags": [
-      "Salle",
-      "Rituel",
-      "Démon",
-      "Sang",
-      "Tentacules"
+      "rituel",
+      "sacrifice",
+      "démon",
+      "sang",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "247": {
-    "title": "Siphon des Sacrifices",
-    "description": "Au cœur de la ville abandonnée, un siphon mystérieux s'élève dans un couloir rectangulaire, plongé dans une ambiance lugubre. Les murs, ornés de tentes et de masques étranges, semblent raconter des secrets anciens. Des motifs de spirales et de l'eau stagnante marquent le sol, ajoutant à l'atmosphère étrange de ce lieu. Les colonnes et les piliers, robustes et imposants, soutiennent le plafond voûté, mais la lumière tamisée révèle des traces de condensation qui donnent l'impression que le lieu est humide et froid. L'altar, placé au centre, semble attendre un rituel sacré, bien que personne ne sache à quoi il sert. Des fantômes flottent dans l'air, leurs silhouettes floues et fantomatiques, ajoutant une note d'effroi à l'atmosphère déjà sinistre. Les risques sont nombreux : le sol glissant et les pièges cachés attendent les explorateurs imprudents. Le siphon des Sacrifices est un lieu où l'histoire et le mystère se mêlent, et où les secrets les plus profonds de la ville sont peut-être encore enfouis.",
+    "title": "Siphon de l'Éternité",
+    "description": "Au cœur de l'abîme, un siphon immense domine la pièce. Sa surface est parsemée de motifs spiraux qui semblent danser sous la faible lumière qui pénètre à travers les épaisses ténèbres. Les murs, ornés de tentes et de masques étranges, semblent raconter des histoires oubliées. Des colonnes majestueuses soutiennent le plafond, tandis que des spirales d'eau glissent lentement le long du sol, formant des motifs qui évoquent l'infinité. L'atmosphère est oppressante, et un bruit sourd résonne dans les recoins, comme si des esprits errants cherchaient à se libérer. Les murs sont humides, et les traces de pas anciens sont visibles dans l'eau qui coule. Un autel, vide, se dresse au centre de la pièce, comme témoin de sacrifices passés. Les dangers sont nombreux : le sol glissant et des pièges cachés attendent les intrus. Le siphon de l'Éternité est un lieu de mystère et de terreur, où l'histoire se mêle à l'obscurité.",
     "tags": [
-      "couloir",
+      "abîme",
       "sacrifice",
-      "mystère",
-      "fantôme",
-      "siphon"
+      "éternité",
+      "siphon",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "343": {
-    "title": "Passages Sinueux de la Grotte Sacrée",
-    "description": "Les corridors de la grotte sinueuse vous guident lentement vers un espace vide au cœur de l'obscurité. Les murs, érodés par le temps et les eaux souterraines, sont parsemés de spirales et de croix gravées dans le roc. Des colonnes et des piliers, délabrés, se dressent ici et là, témoins silencieux de l'ancienne puissance qui régnait ici. La lumière diffuse, filtrée par les épaisses frondaisons qui s'ouvrent à l'entrée, éclaire vaguement les parois, révélant des tentacules et des têtes de mort sculptées dans le rocher. L'atmosphère est pesante, presque palpable, comme si l'âme des ancêtres observait les visiteurs depuis l'ombre. Les passages s'élargissent progressivement jusqu'à un espace central vide, où l'on peut imaginer que des rituels sacrés étaient autrefois pratiqués. Les marques de croix et de spirales semblent indiquer un passage vers un autre monde, mais les pièges et les tentacules qui se dressent ici et là font懂 que l'exploration est risquée.",
+    "title": "Corridors de la Grotte Sacrée",
+    "description": "Les corridors de la grotte sacrée s'enfoncent profondément dans les entrailles de la terre, formant un labyrinthe complexe et étrange. La lumière diffuse et faible émane des cristaux naturels qui se trouvent dans les parois, donnant une ambiance mystérieuse et étrange à l'endroit. Les parois sont recouvertes de tentacules et de tapisseries de tente, comme si des créatures étranges vivaient ici autrefois. Des spirales et des croix sont gravées sur le sol, marquant un chemin qui semble indiquer un passage vers un autre endroit. Les colonnes et les piliers, robustes et vieillis, soutiennent le plafond qui menace de s'effondrer à tout moment. Les corridors sont dilapidés, avec des traces de vieilles peintures et de symboles occultes qui se détachent lentement. L'atmosphère est pesante et étrange, comme si quelque chose de maléfique se cachait dans l'ombre. Les corridors de la grotte sacrée sont destinés à des rituels obscurs et sont gardés par des pièges et des sorts puissants.",
     "tags": [
+      "corridors",
       "grotte",
-      "rituel",
-      "ancien",
-      "sacrifice",
-      "tentes"
+      "ritual chamber",
+      "mystique",
+      "sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "large",

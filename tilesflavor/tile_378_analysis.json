@@ -1,13 +1,13 @@
 {
   "378": {
-    "title": "Souterrain Sans Issue",
-    "description": "Dans ce souterrain sans issue, l'air est lourd et chargé d'une atmosphère mystérieuse et ancienne. La petite salle rectangulaire est éclairée par une faible lumière qui se répand péniblement à travers les piliers vieillis. Les cercles rituels gravés au sol semblent attendre un rituel sacré, mais ils sont maintenant abandonnés. Des têtes de mort sont accrochées aux murs, ajoutant une note macabre à l'ambiance. La porte murée au fond semble être le seul moyen d'entrée ou de sortie, mais elle est fermée depuis des siècles. L'eau stagnante au sol est un danger potentiel, car elle pourrait contenir des créatures indésirables. Les murs sont recouverts de peintures anciennes et de symboles énigmatiques, rendant l'endroit encore plus mystérieux. Les piliers supportent une structure vieillissante, et les cercles rituels au sol semblent être le témoin d'un passé sombre et sacré.",
+    "title": "Souterrain sans issue",
+    "description": "Vous vous trouvez dans un souterrain sans issue, un espace rectangulaire et étroit, aux murs vieillis et aux piliers massifs qui semblent avoir été sculptés par les mains de l'oubli. La faible lumière qui pénètre à travers une petite ouverture au plafond éclaire les cercles rituels gravés au sol, des symboles mystérieux qui semblent avoir été dessinés il y a des siècles. Des têtes de mort, des restes de squelettes et des ossements jonchent le sol, témoignant de rituels passés. La porte murée au fond du souterrain semble être le seul moyen d'entrée, mais elle est fermée et verrouillée. L'atmosphère est pesante et mystérieuse, comme si le souterrain était le témoin silencieux de secrets longtemps gardés. L'eau stagnante au fond du souterrain est un danger potentiel, mais pour l'instant, elle semble dormir paisiblement. Les piliers et les cercles rituels donnent une impression de vieilles pierres qui racontent des histoires d'anciennes civilisations.",
     "tags": [
       "souterrain",
       "rituel",
-      "macabre",
-      "ancien",
-      "mystérieux"
+      "vieillie",
+      "mystérieux",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,12 @@
 {
   "111": {
     "title": "Couloir des Araignées",
-    "description": "Le couloir semble s'étirer indéfiniment, ses murs irréguliers et vieillis par le temps. Des fils d'araignées pendent de la voûte, tissant un réseau sombre qui semble s'agiter légèrement. À l'horizon, une araignée géante, dissimulée dans les ombres, scrute les environs avec ses yeux vides. Les sols sont marqués de cercles rituels et de glyphes runiques, évoquant des secrets anciens. Des piliers et des statues étranges ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne. Le mobilier ancien semble abandonné, ajoutant une touche de délabrement à l'ensemble. L'air est saturé d'une odeur de vieilles pierres et d'araignées, rendant l'atmosphère encore plus oppressante. Les murs sont parsemés de têtes de mort et de tentacules, rappelant l'ancien culte qui pourrait avoir régné ici.",
+    "description": "Le couloir est étroit et sinueux, ses murs sont recouverts de fils d'araignée qui semblent avoir été tissés avec une précision déconcertante. Une araignée géante, dissimulée dans l'ombre, scrute les environs avec ses yeux vides de toute émotion. Les murs sont parsemés de cercles rituels et de glyphes runiques, qui semblent avoir été gravés il y a des siècles. Des piliers et des statues anciennes se dressent de partout, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. Le sol est marqué de cercles rituels et de glyphes runiques, et des traces de mobilier ancien sont encore visibles. L'ambiance est pesante, et l'eau stagnante qui s'accumule dans les coins ajoute à la tension. Les murs sont vieillis et recouverts de mousse, et les fils d'araignée semblent être les seuls signes de vie dans ce lieu abandonné.",
     "tags": [
       "couloir",
-      "araignées",
-      "rituels",
-      "vieillissement",
-      "mystère"
+      "araignée géante",
+      "cercles rituels",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

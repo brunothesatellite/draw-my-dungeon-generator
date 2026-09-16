@@ -1,13 +1,13 @@
 {
   "441": {
     "title": "Couloir des Sacrifices",
-    "description": "Le couloir s'inscrit dans un mur de pierre délabrée, les murs sont ornés de tentacules et de crânes humains. Des cercles rituels et des glyphes gravés dans le sol évoquent des anciennes cérémonies. Des colonnes et des piliers soutiennent le plafond, tandis que des statues de pierre gardent le passage. L'atmosphère est oppressante et mystérieuse, comme si le couloir était le dernier vestige d'un culte ancien. Des nuages de gaz toxiques flottent dans l'air, et des pièges attendent ceux qui oseraient s'y aventurer. Les murs sont parsemés de squelettes, témoins de sacrifices passés. Le couloir est étroit et long, menant à un lieu sacré que seuls les initiés peuvent atteindre. Les créatures de l'ombre se cachent dans l'obscurité, prêtes à attaquer les intrus.",
+    "description": "Les couloirs étroits et sinueux s'enfoncent dans l'obscurité, leurs murs décrépits et recouverts de peintures sombres. Des cercles rituels et des glyphes mystérieux marquent le sol, évoquant des rituels anciens. Des colonnes et des piliers massifs, usés par le temps, soutiennent le plafond voûté. Des statues étranges, aux visages déformés, gardent le passage. La lumière naturelle filtre à travers des fissures dans le plafond, créant des ombres danseuses qui se projettent sur les murs. L'atmosphère est oppressante, et un bruit sourd de souffle se fait entendre, semblant provenir de quelque part à l'intérieur des murs. Des poisons gazeux et des pièges attendent ceux qui oseraient s'aventurer plus avant. Les couloirs se terminent par une porte massive, qui semble être le seul moyen de quitter ce lieu sinistre.",
     "tags": [
       "couloir",
-      "sacrifice",
-      "ancien",
-      "mystère",
-      "poison"
+      "rituels",
+      "poison",
+      "statues",
+      "sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "large",

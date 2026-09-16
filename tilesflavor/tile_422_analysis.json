@@ -1,13 +1,13 @@
 {
   "422": {
-    "title": "Toit de Forgeron Sacré",
-    "description": "Le toit de forgeron est une petite et rectangulaire salle, vieillie et éclairée par une faible lumière qui filtre à travers les fissures du plafond. Les murs sont recouverts de cercles rituels, symboles de puissance et de mystère. Des piliers robustes soutiennent le toit, leurs surfaces usées par le temps. Une statue massive, probablement de fer, domine le centre de la pièce, ajoutant une touche de gravité à l'atmosphère sinistre. Des têtes de mort et des tentacules émergent des murs, rappelant les anciens rituels qui se déroulaient ici. L'eau stagnante au sol indique que la porte murée qui donne accès à cette salle a été fermée depuis longtemps. Les traces de créature autour de la statue indiquent que cette salle n'est pas abandonnée depuis un certain temps.",
+    "title": "Toit de Forgeron",
+    "description": "Le toit de forgeron est un espace étroit et rectangulaire, aux murs vieillis et aux piliers massifs qui soutiennent le toit. La lumière est faible, filtrant à travers des fissures dans le plafond. Des cercles rituels sont gravés dans le sol, marquant l'ancienne utilisation de ce lieu pour des rituels. Une statue massive, probablement celle d'un dieu ou d'un ancien forgeron, domine le centre de la pièce. À l'entrée, une porte murée est fermée, empêchant l'accès à l'extérieur. L'eau stagnante, noire et trouble, remplit une partie du sol, ajoutant à l'atmosphère sinistre de la pièce. Des traces de créature, indiscernables mais visibles, sillonnent le sol, témoignant de l'activité récente dans ce lieu. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une touche macabre à l'ensemble. La pièce est un vestige du passé, un lieu de rituel et de mystère.",
     "tags": [
-      "Salle de Rituels",
-      "Mystère",
-      "Anciens",
-      "Forgeron",
-      "Sacrifice"
+      "toit",
+      "forgeron",
+      "rituel",
+      "sinistre",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

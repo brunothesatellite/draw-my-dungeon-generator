@@ -1,13 +1,13 @@
 {
   "63": {
     "title": "Chambre des Anciens",
-    "description": "La salle est immense, ses murs irréguliers et déchiquetés semblent avoir été façonnés par les mains de l'oubli. La lumière diffuse et diffuse, filtrée par les éclats de verre cassé, éclaire les spirales et les croix gravées sur le sol. Des colonnes brisées se dressent ici et là, leurs pierres usées par le temps. Des meubles éventrés et des objets mystérieux sont éparpillés partout, témoignant d'une ancienne puissance perdue. Un sentiment de mystère et d'étrangeté plane dans l'air, rendant l'atmosphère oppressante. Des traces de rituels anciens sont gravées sur les murs, et des ombres floues semblent se mouvoir dans les recoins. Les sorties sont inconnues, et les dangers potentiels sont nombreux, avec des pièges et de l'air empoisonné qui pourraient attendre à l'horizon.",
+    "description": "La chambre des Anciens est immense, ses murs irréguliers et délabrés témoignent de l'âge et de l'abandon qui l'entoure. La lumière pénètre à peine à travers les fissures et les éclats de verre, créant un éclairage dim et mystérieux. Des motifs de spirales et de croix gravés dans le sol semblent indiquer un ancien rituel. Les colonnes brisées et les murs effondrés racontent l'histoire d'une époque longtemps oubliée. Des meubles éventrés et des objets inconnus sont éparpillés un peu partout, ajoutant à l'atmosphère étrange de la pièce. Des traces de présence fantomatique flottent dans l'air, rendant l'endroit encore plus inquiétant. Les sorties semblent inconnues, et les dangers potentiels sont nombreux, avec des pièges et de l'air empoisonné qui pourraient attendre à l'angle le moins attendu. Cette chambre est le cœur d'un rituel ancien, et les secrets qui y sont cachés sont nombreux et dangereux.",
     "tags": [
-      "salle",
       "rituel",
       "ancien",
       "mystère",
-      "désolation"
+      "abandon",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "large",

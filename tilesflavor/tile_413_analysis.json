@@ -1,13 +1,14 @@
 {
   "413": {
-    "title": "Salle de Formation Ancienne",
-    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles usés, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des statues ajoutent une touche de mystère à l'architecture. Des barils et des étagères d'armes sont empilés contre le mur, et des cibles pour archers sont suspendues au plafond. Le mobilier ancien, usé par le temps, semble avoir été laissé là depuis des siècles. Une porte murée, fermée depuis longtemps, semble être l'unique sortie de cette salle, tandis que l'eau stagnante au fond de la pièce ajoute une touche de danger. L'atmosphère est pesante, presque oppressante, comme si les esprits des anciens cultes se réveillaient encore.",
+    "title": "Salle de Formation des Archers",
+    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles usés, semble avoir été utilisée pour la formation des archers. Les murs vieillis sont ornés de cercles rituels et de glyphes runiques, qui semblent avoir été gravés il y a des siècles. Des piliers robustes soutiennent le plafond, et des statues de guerriers anciens gardent la pièce. L'étagère d'armes, bien que vieillie, est toujours bien organisée, avec des barils en bois posés à côté pour le stockage. Des poupées en bois, utilisées probablement comme cibles, sont alignées contre le mur. Le mobilier ancien, usé par le temps, ajoute à l'atmosphère mystérieuse et ancienne de la salle. Toutefois, l'eau stagnante qui a envahi la pièce rend l'endroit dangereux à explorer. La porte murée au fond semble être le seul moyen de quitter cette salle de formation, mais elle est fermée depuis longtemps.",
     "tags": [
-      "Salle de Formation",
-      "Ancien Culte",
-      "Rituels",
-      "Mystère",
-      "Ancien"
+      "archers",
+      "salle de formation",
+      "cible",
+      "poupées en bois",
+      "étagère d'armes",
+      "barils"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +40,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Salle de formation (cible pour archers, poupées en bois, étagère d'armes, barils, ... )",
       "tileNumber": 413

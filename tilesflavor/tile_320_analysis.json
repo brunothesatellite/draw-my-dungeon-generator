@@ -1,13 +1,13 @@
 {
   "320": {
-    "title": "Passage des Abîmes",
-    "description": "Le passage s'inscrit entre deux abîmes, des gouffres profonds et sombres qui semblent avaler tout ce qui s'approche. Le sol est un tapis de spirales et de taches de sang, marqué par les traces de centaines d'araignées qui se sont échappées de ces abîmes. Des colonnes et des piliers de pierre, usés par le temps et les éternités, se dressent de partout, offrant un soutien instable à l'endroit. Des tentacules de créatures obscures, visibles à travers les fissures dans les parois, semblent surveiller les environs. Des tombes éternelles, sculptées dans la pierre, sont disséminées ici et là, rappelant l'ancienneté et la puissance des forces qui règnent dans ces abîmes. La lumière est faible, filtrant à travers des couches de poussière et de débris, créant un éclairage tamisé qui rend l'atmosphère encore plus étrange et menaçante. Les abîmes semblent aspirer tout ce qui s'approche, et le passage est un lieu de transition entre deux mondes, où le temps et l'espace se confondent.",
+    "title": "Chemin Énigmatique entre les Abysses",
+    "description": "Le chemin étroit et sinueux semble avoir été creusé par les forces obscures qui habitent les abysses. Les murs de pierre sont fissurés et recouverts de motifs spirales qui semblent danser sous la faible lumière qui pénètre à travers les fissures. Des araignées géantes, leurs pattes épineuses, tissent des toiles qui s'étendent sur le sol, formant des motifs qui ressemblent à des tentacules. Des tombes étranges, ornées de têtes de mort, sont disséminées ici et là, comme si elles étaient des autels à des forces maléfiques. Le chemin, large mais étroit, semble s'élargir vers les deux abîmes qui le bordent, offrant un aperçu de l'immensité de l'obscurité qui les habite. Les murs sont ornés de colonnes et de piliers, semblant soutenir un édifice ancien et délabré. L'atmosphère est pesante et étrange, comme si le chemin était le passage vers un monde inférieur, où les rituels et les sacrifices sont pratiqués dans l'obscurité.",
     "tags": [
-      "Passage",
-      "Abîme",
-      "Rituel",
-      "Tentacules",
-      "Spirales"
+      "chemin",
+      "abîmes",
+      "rituel",
+      "obscurité",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

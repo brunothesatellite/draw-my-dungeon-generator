@@ -1,13 +1,13 @@
 {
   "186": {
-    "title": "Chambre des Sacrifices",
-    "description": "La chambre est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté qui laisse filtrer une lumière naturelle provenant d'un trou au sommet. Les colonnes massives, ornées de motifs spirales et hachurés, soutiennent un sol de pierres étranges, marqué de spirales et de lignes hachurées qui semblent avoir été gravées par des forces obscures. Des tables et des chaises, usées par le temps, sont alignées contre les murs, comme si des rituels sacrés y avaient été effectués. Les tentacules et les têtes de mort, suspendus aux murs, ajoutent une atmosphère de terreur et de mystère à l'ensemble. L'escalier descendant, large et majestueux, semble mener à un lieu encore plus sombre et inconnu. Les murs sont décorés de tentacules et de têtes de mort, et l'air est saturé d'une odeur de poussière et de mystère ancien. La chambre est délabrée, mais les traces de rituels et de sacrifices sont encore visibles, rendant l'endroit terrifiant et imprévisible.",
+    "title": "Salle des Colonnes et des Pavés",
+    "description": "La salle est immense, ses murs sont ornés de colonnes massives et de pilastres sculptés. Le sol est recouvert de pavés étranges, marqués de spirales et de hachures, semblant indiquer un ancien rituel. Un grand escalier descendant se trouve au centre de la pièce, menant à un abîme sombre et mystérieux. La lumière naturelle filtre par une ouverture au plafond, éclairant la salle d'une lueur diffuse. Les murs sont décorés de tentacules et de têtes de mort, ajoutant à l'atmosphère étrange et menaçante. Des tables et des chaises sont dispersées un peu partout, comme si une réunion avait eu lieu ici il y a longtemps. Les pavés et les colonnes semblent ancrés dans un sol qui tremble légèrement, comme si la salle était toujours en activité. Les murs sont recouverts de peintures sombres et de symboles énigmatiques, et des objets étranges sont disséminés un peu partout, semblant être des artefacts sacrés ou des objets de culte. Les pavés et les colonnes semblent être les seuls éléments stables de cette salle, tout le reste semble prêt à s'effondrer à tout moment.",
     "tags": [
       "sacrifice",
       "rituel",
-      "mystère",
-      "terreur",
-      "colonne"
+      "colonnes",
+      "pavés",
+      "escalier"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "198": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des murs qui ont vu des siècles passer. La faible lumière qui pénètre à travers une fenêtre brisée éclaire les cercles rituels gravés au sol, qui semblent avoir été utilisés pour des cérémonies anciennes. Des piliers robustes soutiennent le plafond, et les têtes de mort et les tentacules qui ornent les murs ajoutent une touche macabre à l'atmosphère sinistre. L'air est chargé d'une odeur de poussière et de mystère, et les cercles rituels semblent prêts à être réactivés. La porte magique, située au fond de la salle, est fermée et semble protégée par des pièges anciens.",
+    "title": "Salle des Sacrifices",
+    "description": "La porte magique se trouve au fond de cette petite salle carrée, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. La salle est en effet dédiée à des rituels, et les anciens pièges anciens sont toujours prêts à se déclencher. La porte magique, bien que vieillie, semble encore fonctionner, mais elle est entourée de mystère et de malédiction.",
     "tags": [
-      "salle",
-      "rituels",
-      "macabre",
       "porte magique",
-      "vieillie"
+      "salle de rituels",
+      "salle carrée",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

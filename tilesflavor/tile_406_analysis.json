@@ -1,13 +1,13 @@
 {
   "406": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle de cuisine semble avoir été transformée en lieu de culte. Les murs, usés par le temps, sont ornés de têtes de mort et de tentacules, symboles de la puissance et de la corruption. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Un autel central, recouvert de tissus sombres, domine la pièce. La faible lumière qui pénètre à travers les fenêtres voilées accentue l'atmosphère mystérieuse et ancienne. Des traces de pas indiquent que quelqu'un a récemment visité ce lieu. L'eau stagnante dans un coin ajoute à l'ambiance lugubre. La porte ouverte laisse entrevoir un passage sombre qui semble mener à d'autres secrets enfouis.",
+    "title": "Salle de Cuisine des Anciens",
+    "description": "La salle de cuisine est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, créant une ambiance mystérieuse et ancienne. Des piliers robustes soutiennent les murs, et une table en bois est placée au centre de la pièce. Des traces de pas indiquent que quelqu'un a récemment visité ce lieu. La porte est ouverte, offrant un aperçu de l'abîme qui s'étend au-delà. L'eau stagnante dans l'abîme est un danger à ne pas négliger. Les murs sont ornés de têtes de mort et de tentacules, ajoutant à l'atmosphère sinistre de la pièce. Cette salle était utilisée pour des rituels anciens, et les cercles rituels au sol en témoignent.",
     "tags": [
-      "rituels",
-      "sacrifices",
-      "vieillie",
-      "mystérieuse",
-      "ancienne"
+      "salle de cuisine",
+      "rituels anciens",
+      "abîme",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

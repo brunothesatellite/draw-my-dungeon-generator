@@ -1,13 +1,13 @@
 {
   "188": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et basse, avec un escalier circulaire descendant au centre. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules étranges sont sculptés dans le mur, ajoutant une atmosphère sinistre à l'endroit. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne est posée au milieu de la pièce. La lumière faible pénètre à travers une petite fenêtre au fond, révélant une eau stagnante qui remonte lentement le long de l'escalier. La salle semble avoir été utilisée pour des rituels anciens, et les cercles rituels indiquent qu'elle était probablement un lieu de sacrifice. La porte à l'extrémité de la salle semble être la seule issue, mais elle est fermée par une barrière de pierre ancienne.",
+    "title": "Salle avec Escalier Circulaire Descendant",
+    "description": "La salle est petite et rectangulaire, avec un escalier circulaire descendant au centre. La lumière est faible, et la salle semble vieillie, avec des traces de vieilles peintures sur les murs. Des cercles rituels sont gravés au sol, et des piliers robustes soutiennent le plafond. Un autel est placé au fond de la salle, entouré de têtes de mort et de tentacules qui semblent avoir échoué à se décomposer. Un grand table est placé près de l'escalier, et une porte se trouve à l'extrémité de la salle. L'eau stagnante se forme dans un coin, ajoutant à l'atmosphère sinistre de la pièce. Cette salle semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu.",
     "tags": [
       "rituel",
       "sacrifice",
       "vieillie",
-      "sinistre",
-      "escalier circulaire"
+      "escalier circulaire",
+      "salle rectangulaire"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "451": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand à peine à travers les piliers vieillis. Le sol est marqué de cercles rituels, et les murs sont ornés de têtes de mort et de tentacules, rappelant l'ancienne puissance qui a régné ici. Un autel central, entouré de piliers, domine la pièce. Des meubles anciens sont disséminés un peu partout, ajoutant à l'atmosphère sinistre. Une porte murée est visible à l'extrémité de la salle, et l'eau stagnante qui s'est formée dans un coin ajoute à la menace潜伏. Cette salle est le cœur d'un rituel ancien, et les cercles rituels marquent les emplacements où les anciens pratiquaient leurs cérémonies.",
+    "title": "Salle avec une colonne géante",
+    "description": "Dans cette petite salle carrée, la lumière faible éclaire les murs vieillis et les piliers massifs qui soutiennent le plafond. Au centre de la pièce, une colonne géante domine le tout, sa surface lisse et lisse reflétant les ombres qui dansent sur le sol. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Le mobilier ancien, usé par le temps, est réparti autour de la pièce, ajoutant à l'atmosphère sinistre. Une porte murée, fermée depuis longtemps, se trouve à l'extrémité de la pièce, tandis qu'une eau stagnante menace de s'infiltrer à travers les fissures du sol. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituel",
-      "Têtes de Mort",
-      "Tentacules"
+      "colonne géante",
+      "salle de rituel",
+      "salle ancienne",
+      "rituel ancien",
+      "salle sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "Salle avec une colonne géante",
       "tileNumber": 451

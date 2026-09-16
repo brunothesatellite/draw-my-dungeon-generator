@@ -1,13 +1,12 @@
 {
   "72": {
-    "title": "Le Couloir des Anciens",
-    "description": "Le couloir s'élargit lentement, révélant une largeur impressionnante qui s'adapte à la taille imposante des colonnes croisées qui le bordent. La lumière naturelle qui filtre à travers les fenêtres éclaire les murs humides et couverts de mousse, créant un éclairage tamisé qui évoque l'ancienneté et la mystérieuse atmosphère qui plane dans l'air. Des tentes suspendues aux murs ajoutent une touche de mystère, tandis que des motifs de spirales gravés dans le sol attirent l'œil, semblant guider le voyageur vers un but inconnu. Le sol, recouvert de mousse, est glissant et peut être dangereux pour les aventuriers non préparés. À l'extrémité du couloir, une table avec le numéro 72 est posée, son existence ajoutant une note de mystère à l'ensemble. Un seul passage semble mener à l'avenir, mais la nature du couloir et de ses mystères reste à découvrir.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'élargit lentement, révélant une largeur de trente pieds. Sa forme rectangulaire est marquée par des murs lisses et humides, recouverts de mousse verte qui s'agrippe aux pierres. La lumière naturelle filtre à travers de petites fenêtres au plafond, éclairant les spirales mystérieuses gravées dans le sol. Des colonnes croisées soutiennent le plafond, leurs formes évoquant des symboles anciens. Un grand pilier central domine le couloir, orné de tentes suspendues aux murs, ajoutant une touche de mystère à l'atmosphère. Un tableau avec le numéro 72 repose sur une table en bois, son existence ajoutant une note de mystère. À l'horizon, une seule sortie semble visible, menant à l'inconnu. Le sol est glissant et recouvert de mousse, rendant le passage dangereux. Le couloir est un lieu ancien et mystérieux, où les rituels anciens sont peut-être encore pratiqués.",
     "tags": [
-      "couloir",
       "rituel",
       "mystère",
-      "ancienneté",
-      "mousse"
+      "ancien",
+      "couloir"
     ],
     "sourceFeatures": {
       "roomSize": "large",

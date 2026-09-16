@@ -1,13 +1,13 @@
 {
   "352": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et marqué de cercles rituels et de glyphes runiques. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers robustes soutiennent le plafond, et des têtes de mort et des tentacules sont sculptés dans les murs, ajoutant une touche macabre à l'ambiance. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers majestueux dominent l'espace. Des objets anciens et mystérieux sont disséminés un peu partout, ajoutant à l'air de mystère de la pièce. La salle semble être un lieu de rituels sacrés, mais les traces de pièges et de l'eau stagnante indiquent qu'elle a été abandonnée depuis longtemps. Les deux petits tonneaux et la petite coffre sont les seuls objets pratiques, mais leur présence ajoute à l'énigme de la pièce.",
+    "title": "Salle des Anciens",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers massifs soutiennent les murs, et le mobilier ancien est disséminé autour de la pièce, ajoutant à l'ambiance d'ancienneté. À l'entrée, se trouve une petite coffre et deux petits tonneaux, probablement utilisés pour des rituels ou des cérémonies. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger. La salle semble être le cœur des anciens rituels, et chaque détail raconte une histoire de mystère et de puissance ancienne.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "macabre",
+      "rituels",
+      "salle des anciens",
       "salle de donjon",
-      "vieillie"
+      "mystère",
+      "rituels anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "salle de donjon avec une petite coffre et 2 petits tonneaux",
       "tileNumber": 352

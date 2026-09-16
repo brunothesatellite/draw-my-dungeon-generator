@@ -1,20 +1,19 @@
 {
   "316": {
-    "title": "Abîme des Anciens",
-    "description": "Au cœur de l'abîme, une arche majestueuse s'élève, son sommet orné d'or qui scintille dans la faible lumière qui pénètre par les fissures du sol. Le sol, fissuré et instable, révèle des cercles rituels anciens gravés dans le rocher. Des piliers et des statues évoquent des dieux oubliés, leurs visages étranges et menaçants. Des têtes de mort et des tentacules s'enroulent autour des murs, ajoutant à l'atmosphère sinistre. Le mobilier, vieilli et usé, semble avoir été abandonné depuis des siècles. L'air est chargé d'une odeur de mystère et de danger, et l'eau stagnante au fond de l'abîme murmure des secrets obscurs. Cette salle, ancienne et sacrée, est le cœur d'un culte oublié, où les anciens pratiquaient des rituels sombres.",
+    "title": "Abîme Fissuré",
+    "description": "Dans cet abîme minuscule et irrégulier, la lumière est si faible que les ombres dansent sur le sol fissuré. Des cercles rituels sont gravés dans le sol, marquant un passage ancien. Des piliers et des statues vieillies se dressent comme des gardiens silencieux. Devant l'entrée, une arche majestueuse s'élève, protégeant un coffre rempli d'or qui brille sous la faible lumière. L'air est chargé d'une atmosphère mystérieuse et menaçante, comme si l'abîme était le témoin de secrets millénaires. Des traces de vieilles pierres humides indiquent l'existence d'eau stagnante, un danger potentiel pour les explorateurs. Cette salle, bien qu'insolite, semble être le cœur d'un culte ancien, où les anciens pratiquaient des rituels sombres.",
     "tags": [
       "abîme",
-      "culte ancien",
-      "rituels sombres",
-      "têtes de mort",
-      "tentacules"
+      "rituel",
+      "or",
+      "salle de culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "irrégulière",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "coffre",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

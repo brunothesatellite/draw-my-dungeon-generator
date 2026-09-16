@@ -1,13 +1,13 @@
 {
   "292": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Au cœur de l'abîme, un pont de corde tordu semble suspendu dans l'obscurité. Les spirales et les croix gravées dans le sol semblent danser sous la lueur de la lune, évoquant des rituels anciens. Les colonnes et les piliers, ornés de tentacules et de têtes de mort, créent une atmosphère sinistre et mystérieuse. Un tableau, posé sur une table au milieu de la pièce, semble attendre un mystérieux spectateur. Les runes anciennes gravées sur les murs et les tentacules suspendus dans l'air ajoutent une touche de danger à cet endroit sacré. Les traces d'anciens sorts magiques flottent dans l'air, rendant l'endroit encore plus inquiétant. L'abîme est un lieu de culte, où les ancêtres sont honorés et où les rituels les plus sombres sont célébrés. Seul le pont de corde permet de traverser cette pièce, mais il est imprudent de s'y aventurer sans précautions.",
+    "title": "Passage suspendu au-dessus de l'abîme",
+    "description": "Le passage est étroit et sinueux, taillé dans le roc dur. Un pont de corde tordu traverse l'abîme, son fil tendu comme un arc. Les spirales et les croix gravées dans le sol semblent indiquer un ancien rituel. Les colonnes et les piliers soutiennent le passage, leurs surfaces lisses et usées par le temps. Des tentacules et des têtes de mort ornent les murs, rappelant l'ancienne puissance qui a créé ce lieu. La lumière naturelle filtre à travers les fissures du plafond, éclairant les runes anciennes gravées sur les parois. L'atmosphère est pesante, chargée d'une énergie mystérieuse et menaçante. Le passage semble sans issue, mais un sentier de spirales semble mener vers le bas, vers l'abîme.",
     "tags": [
       "abîme",
-      "rituel",
-      "tentes",
-      "sacrifice",
-      "magie"
+      "pont de corde",
+      "rituel ancien",
+      "tentacules",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

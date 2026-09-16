@@ -1,13 +1,13 @@
 {
   "54": {
-    "title": "Passage des Anciens",
-    "description": "Le couloir s'élargit peu à peu, révélant une largeur de dix mètres. Sa forme rectangulaire est marquée par des colonnes massives qui soutiennent un plafond voûté. La lumière naturelle filtre à travers deux fenêtres étroites, éclairant les murs humides et recouverts de mousse. Des spirales et des croix gravées dans le sol attirent l'œil, tandis que des colonnes et des piliers ornent les murs. Un autel sombre, orné de tentacules et de têtes de mort, se dresse au fond du couloir, entouré d'un mystérieux objet qui semble émettre une légère émanation. Les murs sont décorés de tentacules et de têtes de mort, ajoutant à l'atmosphère ancienne et mystérieuse. Le sol, couvert de mousse, est marqué de spirales et de croix, et des enchantements potentiels pourraient se cacher dans l'air. À l'extrémité du couloir, deux fenêtres permettent de voir à l'extérieur, mais le passage semble se terminer en un mur de pierre. Les murs sont humides et recouverts de mousse, et les tentacules et têtes de mort ajoutent une touche d'horreur à l'atmosphère sacrée et ancienne.",
+    "title": "Le Couloir des Tentacules",
+    "description": "Le couloir s'élargit lentement, dévoilant une largeur de dix mètres et une hauteur de six mètres. Ses parois rectangulaires sont recouvertes d'une couche de mousse verte qui s'agrippe aux pierres humides. Des spirales et des croix sont gravées dans le sol, marquant un chemin qui semble indiquer une direction précise. Des colonnes et des piliers massifs, ornés de motifs complexes, soutiennent le plafond. À l'extrémité du couloir, un autel sombre est érigé, entouré de tentacules et de têtes de mort qui semblent observer les visiteurs. La lumière naturelle filtrant à travers deux fenêtres à l'extrémité du couloir éclaire la pièce, révélant des objets mystérieux posés sur l'autel. Les murs sont décorés de tentacules et de têtes de mort, ajoutant à l'atmosphère sinistre et ancienne du lieu. Les marquages solaires et les croix indiquent un rituel ancien, et les tentacules et têtes de mort suggèrent une présence ancienne et maléfique. Les murs sont humides et recouverts de mousse, et les tentacules semblent vivants, prêts à s'agripper aux visiteurs. Les fenêtres à l'extrémité du couloir offrent une vue sur un paysage lointain, mais les tentacules et les têtes de mort gardent le couloir en éveil, prêts à attaquer.",
     "tags": [
       "couloir",
-      "ancien",
       "rituel",
-      "mystère",
-      "mystérieux"
+      "tentes",
+      "ancien",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

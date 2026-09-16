@@ -1,20 +1,20 @@
 {
   "329": {
-    "title": "Portail Magique Entre Deux Abîmes",
-    "description": "Tu te trouves dans une petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels. La faible lumière qui pénètre à travers les fissures dans les pierres te donne l'impression que tu es dans un endroit abandonné depuis des siècles. Les piliers massifs qui soutiennent le plafond ajoutent à l'atmosphère sinistre de la pièce. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. Le mobilier ancien, usé et délabré, semble avoir été oublié depuis longtemps. L'eau stagnante qui s'accumule dans un coin de la pièce est un danger à ne pas négliger. Le portail magique qui te sépare de l'autre abîme est un point central, mais il est fermé par une barrière invisible, rendant l'accès difficile. Les cercles rituels marqués au sol indiquent que cette pièce a été utilisée pour des rituels obscurs. L'atmosphère sinistre et l'ancienne magie qui plane dans l'air te donnent l'impression que tu es au cœur d'une puissance ancienne et malveillante.",
+    "title": "Portail Magique entre deux abîmes",
+    "description": "Le portail magique entre deux abîmes se trouve dans un couloir étroit et sinistre. La lumière y est faible, révélant des murs vieillis et des piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant le passage entre les deux mondes. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps. L'atmosphère est oppressante, et l'eau stagnante au fond du couloir ajoute à l'ambiance sinistre. Les deux abîmes, visibles à travers le portail, semblent s'opposer l'un à l'autre, créant une tension palpable. Les piliers et les cercles rituels semblent être les seuls points de contact entre ces deux mondes, gardant un secret ancien et mystérieux.",
     "tags": [
-      "portail magique",
       "abîme",
+      "portail",
       "rituel",
-      "tête de mort",
-      "tentacules"
+      "sinistre",
+      "couloir"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "portail magique",
+      "centralFeature": "autel",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

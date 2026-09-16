@@ -1,13 +1,13 @@
 {
   "23": {
     "title": "Salle Sacrée des Anciens",
-    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux, marqué de croix au sol. La lumière tamisée émane des colonnes massives qui soutiennent le plafond voûté. L'humidité qui plane dans l'air rend l'atmosphère oppressante. Au centre de la pièce, un carré sombre attire votre regard, semblant être le point focal de cette sanctuaire. Des tentacules noirs, visibles sur les murs, semblent veiller sur le sanctuaire. Un autel, orné de symboles énigmatiques, occupe un coin de la pièce. Des spirales mystérieuses marquent le sol, ajoutant à l'ambiance étrange de la salle. À l'entrée, une porte massive semble protéger ce lieu sacré. Les murs sont ornés de tentacules noirs, et des spirales mystérieuses marquent le sol. La salle est un lieu de culte ancien, où les anciens pratiquaient des rituels sacrés.",
+    "description": "La salle est immense, de forme rectangulaire, et éclairée par une faible lumière qui se répand doucement à travers les colonnes massives. La moiteur de l'air y est perceptible, et des croix sont gravées sur le sol, marquant un chemin qui semble conduire à un point central sombre. Des tentacules noirs, minces et sinistres, semblent émerger des murs, ajoutant une atmosphère de mystère et de malaise. Un autel, simple mais solennel, occupe le centre de la pièce, entouré de colonnes robustes. Des spirales mystérieuses sont gravées sur le sol, indiquant un passage à prendre avec prudence. La salle est un sanctuaire ancien, où les anciens pratiquaient des rituels sacrés.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Tentacules",
-      "Spirales",
-      "Sacrifice"
+      "salle sacrée",
+      "anciens",
+      "tentacules",
+      "rituels",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "large",

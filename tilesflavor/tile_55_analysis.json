@@ -1,13 +1,13 @@
 {
   "55": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant à un endroit que les vivants n'ont pas le droit de connaître. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et le sol est marqué de cercles rituels. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. L'atmosphère est oppressante, et l'eau stagnante qui s'accumule dans le conduit à l'extrémité du passage ajoute à l'ambiance sinistre. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'expérience. Les cercles rituels évoquent des forces obscures, et les piliers semblent garder des secrets millénaires. Les cercles rituels marquent l'entrée d'une salle de rituels, où les Anciens se réunissaient pour invoquer des forces maléfiques.",
+    "title": "Couloir du Conduit",
+    "description": "Le couloir est étroit et sinueux, avec un conduit minuscule qui semble être le seul moyen de passage. Les murs sont recouverts d'un enduit vieilli, et des cercles rituels sont gravés au sol, indiquant une ancienne utilisation pour des cérémonies. La faible lumière qui filtre à travers une petite ouverture au bout du couloir éclaire les piliers massifs qui soutiennent le plafond. Le mobilier ancien, usé et délabré, est empilé contre les murs, ajoutant à l'atmosphère sinistre. L'eau stagnante, noire et trouble, remplit le conduit, créant un obstacle potentiel. Les murs sont ornés de têtes de mort et de tentacules, rappelant une ancienne civilisation qui a peut-être pratiqué des rituels sombres. La présence de squelettes disséminés ici et là indique que des sacrifices ont peut-être eu lieu dans ce lieu. L'endroit est tellement vieillit et abandonné qu'il semble avoir été oublié depuis longtemps.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Salle de Rituels",
-      "Atmosphère Sinistre",
-      "Cercles Rituels"
+      "couloir",
+      "rituels",
+      "sacrifices",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

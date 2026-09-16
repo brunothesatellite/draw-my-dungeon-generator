@@ -1,13 +1,13 @@
 {
   "278": {
-    "title": "Égout des Barils",
-    "description": "Dans ce couloir étroit et humide, les barils de vin s'amoncellent, leurs bouchons légèrement ébouriffés par le temps. Les murs, recouverts de têtes de mort, semblent témoigner d'une histoire ancienne et sombre. Des cercles rituels sont gravés au sol, marquant un passage sacré. Les piliers massifs, sculptés de motifs énigmatiques, soutiennent le plafond qui s'effondre peu à peu. La faible lumière qui filtre à travers les éclats de verre cassé éclaire les barils et les têtes de mort, créant un étrange jeu de lumière et d'ombre. L'humidité est palpable, et l'air est chargé d'une odeur nauséabonde. À l'horizon, une eau stagnante s'étend, prête à engloutir tout ce qui s'approche. Cette salle, destinée à des rituels obscurs, est un lieu de terreur et de mystère.",
+    "title": "Égout aux Barils",
+    "description": "L'égout est étroit et sinueux, ses parois rugueuses et humides reflètent faiblement la lumière qui pénètre à peine à travers les épaisses barres de fer. Les barils, empilés haphazardement, semblent avoir été jetés ici sans ordre, leurs tonneaux usés et rouillés ajoutant à l'atmosphère sinistre. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été oublié depuis longtemps. Les piliers massifs, sculptés de têtes de mort, semblent garder un secret ancien. Le mobilier, délabré, est disséminé un peu partout, ajoutant à la désolation. L'air est saturé d'une odeur nauséabonde, et l'eau stagnante au fond du canal révèle des tentacules qui glissent lentement. La seule lumière vient d'un petit trou au plafond, éclairant à peine le passage. Les murs sont décorés de têtes de mort, et les cercles rituels marquent un chemin qui semble avoir été oublié depuis longtemps. Les piliers massifs, sculptés de têtes de mort, semblent garder un secret ancien. Le mobilier, délabré, est disséminé un peu partout, ajoutant à la désolation. L'air est saturé d'une odeur nauséabonde, et l'eau stagnante au fond du canal révèle des tentacules qui glissent lentement. La seule lumière vient d'un petit trou au plafond, éclairant à peine le passage.",
     "tags": [
       "égoïsme",
-      "rituel",
       "sombre",
-      "ancien",
-      "éclat"
+      "rituel",
+      "tentacules",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "égout avec barils",
       "tileNumber": 278

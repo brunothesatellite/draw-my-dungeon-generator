@@ -1,13 +1,13 @@
 {
   "22": {
-    "title": "Salle des Anciens",
-    "description": "La salle est immense, ses murs rectangulaires s'étendent à l'infini sous un plafond voûté qui semble s'effondrer peu à peu. La lumière naturelle filtre à travers des fissures dans le plafond, éclairant les spirales gravées dans le sol. Des colonnes massives, ornées de motifs complexes, soutiennent le toit. Un coffre en bois sombre repose au centre de la pièce, ses charnières rouillées indiquant son âge. Des tentacules émergent des murs, semblant attendre l'arrivée d'un intrus. Des apparitions fantomatiques flottent dans l'air, ajoutant une atmosphère de mystère et de peur. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets aux courageux explorateurs. Les murs sont ornés de tentacules, rappelant l'ancienne divinité qui réside ici. Les spirales gravées dans le sol semblent indiquer un passage ancien, peut-être un rituel sacré. Les colonnes massives et les tentacules émergents donnent à la salle une ambiance de lieu sacré et de mystère profond.",
+    "title": "Salle des Flashs",
+    "description": "La salle est immense et rectangulaire, avec un sol marqué de spirales mystérieuses. La lumière naturelle filtre à travers les fenêtres hautes, révélant des colonnes massives qui soutiennent le plafond voûté. Des tentacules étranges sont peints sur les murs, ajoutant une touche d'horreur à l'atmosphère déjà sombre. Un coffre en bois sombre repose au centre de la pièce, et des flashs dessinés sont gravés sur les murs, évoquant des symboles anciens et sacrés. Un autel est dissimulé derrière un rideau de toile, et une porte secrète est cachée dans un coin, prête à révéler des secrets obscurs. Des pièges sont dissimulés dans les murs et le sol, prêts à s'activer à la moindre intrusion. La salle semble être un sanctuaire ancien, mais les flashs dessinés laissent entrevoir des forces malveillantes qui pourraient se manifester à tout moment.",
     "tags": [
       "salle",
-      "ancien",
-      "rituel",
+      "ancienne",
+      "sacrée",
       "tentacules",
-      "mystère"
+      "flashs"
     ],
     "sourceFeatures": {
       "roomSize": "large",

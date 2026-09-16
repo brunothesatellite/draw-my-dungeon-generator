@@ -1,13 +1,13 @@
 {
   "179": {
-    "title": "Couloir de la Grotte des Anciens",
-    "description": "Le couloir de la grotte est étroit et sinueux, éclairé par la faible lumière filtrant à travers les épaisses feuilles de la végétation extérieure. Les murs, recouverts de champignons étranges, semblent vivants et ondulent sous vos pas. À l'entrée, un carré est gravé dans le sol, entouré de deux autres carrés enfouis dans les murs, semblant marquer un passage sacré. Des cercles rituels sont gravés au sol, évoquant des forces obscures. Des piliers majestueux se dressent à intervalles réguliers, ajoutant à l'atmosphère mystérieuse et menaçante de ce lieu. L'air est chargé d'une odeur de terre humide et d'herbe, mêlée à une note de mystère ancien. Les murs sont vieillissants, avec des traces de vieilles peintures et des éclats de pierre qui évoquent des temps lointains. À l'extrémité du couloir, une eau stagnante s'accumule, formant un miroir sombre qui reflète les ombres des murs. Cette grotte semble être un lieu de culte ou de rituels, où les anciens pratiquaient des cérémonies sombres.",
+    "title": "Couloir de la Grotte des Champignons",
+    "description": "Le couloir de la grotte est étroit et humide, les murs sont recouverts de champignons verdâtres qui créent une atmosphère mystérieuse. À l'entrée, un carré est gravé dans le sol, et deux carrés sont enfouis dans les murs latéraux, semblant dissimuler quelque chose. La lumière est faible, filtrant à travers des fentes minuscules dans le plafond, ce qui rend l'endroit encore plus menaçant. Les murs vieillis présentent des traces de vieilles peintures murales, maintenant délavées et effacées. Des piliers robustes soutiennent le plafond, ajoutant à l'ancienneté du lieu. L'endroit semble avoir été un temps un sanctuaire ou un lieu de culte, comme le suggèrent les cercles rituels gravés au sol. L'eau stagnante dans le couloir ajoute à l'ambiance lugubre, et les ombres dansent sur les murs, créant une atmosphère menaçante et mystérieuse.",
     "tags": [
-      "Couloir",
-      "Grotte",
-      "Salle de Rituels",
-      "Anciens",
-      "Mystère"
+      "grotte",
+      "champignons",
+      "carré",
+      "murs",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

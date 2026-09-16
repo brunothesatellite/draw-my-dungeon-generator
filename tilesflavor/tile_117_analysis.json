@@ -1,13 +1,13 @@
 {
   "117": {
     "title": "Salle de Repos Sacrée",
-    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Au centre de la pièce, un autel est entouré de cercles rituels, marquant l'ancienne importance de ce lieu. Des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne. Trois tables rondes et des chaises sont disposées autour de l'autel, prêtes pour les rituels. Une porte ouverte permet d'entrer et d'en sortir, tandis que l'eau stagnante dans un coin de la pièce constitue un danger potentiel. La salle, bien que modeste, semble avoir été le cœur d'une ancienne cérémonie sacrée.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens cultes. Au centre de la pièce, un autel est entouré de cercles rituels, marquant l'ancienne importance de ce lieu. Des piliers majestueux soutiennent le plafond, tandis que des tables rondes et des chaises sont disposées autour de l'autel, prêtes pour les participants. L'atmosphère mystérieuse et ancienne est accentuée par l'eau stagnante qui s'est formée dans un coin de la pièce. Une porte ouverte permet d'entrer et d'en sortir, mais le passage est dangereux, car un souffle froid et humide s'échappe de l'ouverture. Cette salle de repos sacrée, bien qu'apparemment simple, cache des secrets profonds et des dangers potentiels.",
     "tags": [
-      "Salle de Culte",
-      "Ancien Culte",
-      "Rituels Sacrés",
-      "Salle de Repos",
-      "Salle Sacrée"
+      "salle de culte",
+      "rituels anciens",
+      "souffle froid",
+      "eau stagnante",
+      "salle de repos"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de culte",
       "csvDescription": "Salle de repos (3 tables et chaises)",
       "tileNumber": 117

@@ -1,13 +1,13 @@
 {
   "280": {
-    "title": "Passage des Ténèbres Aquatiques",
-    "description": "Le passage étroit et sombre s'inscrit dans un mur de pierre lisse, éclairé par une faible lueur qui se réfléchit sur l'eau calme qui coule au centre. Des spirales gravées dans le sol marquent un chemin qui semble indiquer la direction à suivre. Des colonnes massives, ornées de motifs sculptés, soutiennent le plafond, ajoutant une touche de mystère à l'atmosphère déjà lugubre. Un baril, abandonné, repose contre le mur, son contenu inconnu. À l'horizon, un pont de corde tordu semble suspendu au-dessus de l'eau, offrant un passage vers une autre partie du donjon. Les tentacules, visibles sur les murs, semblent attendre l'arrivée de quelqu'un pour se saisir de lui. L'air humide et froid pénètre dans le passage, accentuant la sensation de mystère et d'isolement. Les eaux calmes reflètent les ombres qui dansent sur les murs, créant un spectacle étrange et inquiétant. Les tentacules, visibles sur les murs, semblent attendre l'arrivée de quelqu'un pour se saisir de lui.",
+    "title": "Passage sous l'Égout",
+    "description": "Le passage sous l'égout est large et rectangulaire, avec un plafond bas et humide. La lumière est faible, émanant d'une source lointaine, ce qui donne une ambiance mystérieuse à l'endroit. Les murs sont couverts de spirales gravées, et des colonnes robustes soutiennent le plafond. Un baril de bois est posé au milieu du passage, probablement pour contenir de l'eau ou des déchets. Des tentacules émergent des murs, ajoutant une touche d'effrayante réalité à l'atmosphère. Le sol est marqué de spirales, peut-être pour guider les rituels aquatiques. Un pont de corde permet de traverser l'égout, mais il est humide et glissant. L'eau qui coule au fond du passage est froide et trouble, et des créatures aquatiques peuvent être entendues nager à proximité. La porte à l'extrémité du passage semble fermée, mais une clé spéciale pourrait l'ouvrir.",
     "tags": [
-      "Passage",
-      "Aquatique",
-      "Mystérieux",
-      "Tentacules",
-      "Égout"
+      "épave",
+      "rituel",
+      "aquatique",
+      "épouvantail",
+      "passage"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,20 +1,20 @@
 {
   "456": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un plafond bas qui semble avoir été érodé par le temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Un ancien sarcophage trone au milieu de la pièce, ses paroies sont couvertes de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers et des colonnes soutiennent le plafond, leurs surfaces vieillies par l'humidité et le temps. Le sol est marqué de cercles rituels et de glyphes runiques, semblant indiquer un ancien rituel. Des cercles de lumière se dessinent sur le sol, probablement la trace de l'ancien autel qui se trouvait ici. Des traces de mobilier ancien sont encore visibles, mais la plupart des meubles ont disparu, laissant place à une atmosphère de mystère et d'ancienneté. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la salle rend l'accès difficile. L'air est chargé d'une odeur ancienne et mystérieuse, et des murmures lointains semblent provenir de l'endroit. La salle est une salle de culte, un lieu où les anciens pratiquaient des rituels obscurs et sacrés.",
+    "title": "Salle du Sarcophage",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les piliers vieillis. Le sol est marqué de cercles rituels et de glyphes runiques, qui semblent avoir été gravés il y a des siècles. Des colonnes robustes soutiennent le plafond, et des piliers anciens sont disséminés à travers la pièce, ajoutant à l'atmosphère mystérieuse et ancienne. Le mobilier ancien est délabré, et un sarcophage de pierre se dresse au centre de la pièce, entouré de cercles rituels. L'eau stagnante se répand lentement sur le sol, créant une ambiance sinistre. La seule issue de la pièce est un couloir étroit qui semble mener à l'inconnu. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une touche macabre à l'ensemble. La salle semble être un lieu de culte, où des rituels anciens sont peut-être encore pratiqués.",
     "tags": [
       "salle",
-      "culte",
+      "sarcophage",
       "rituels",
-      "vieillie",
-      "mystérieuse"
+      "macabre",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "sarcophage",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "mystérieuse et ancienne",
+      "atmosphere": "mystérieuse et ancienne",
       "roomPurpose": "salle de culte",
       "csvDescription": "Salle avec un sarcophage",
       "tileNumber": 456

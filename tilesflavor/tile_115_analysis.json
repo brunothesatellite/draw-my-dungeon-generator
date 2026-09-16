@@ -1,13 +1,13 @@
 {
   "115": {
     "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages au sol qui semblent anciens. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers et des colonnes soutiennent les murs, donnant une impression de vieilles pierres sculptées. Des cercles rituels et des glyphes runiques sont gravés dans le sol, indiquant que cette pièce a probablement été utilisée pour des rituels. Un autel est visible au centre de la pièce, entouré de têtes de mort et de tentacules, ajoutant une touche macabre à l'ensemble. Des squelettes sont disséminés autour de l'autel, témoignant de sacrifices passés. Une table est placée près de l'autel, peut-être pour les offrandes. Une porte ouverte permet d'entrer et d'en sortir, mais l'eau stagnante au fond de la pièce constitue un danger potentiel. La salle est utilisée pour des rituels anciens, et les marquages au sol semblent être des symboles sacrés. Les têtes de mort et les tentacules ajoutent une touche d'horreur à l'atmosphère sinistre de la pièce.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et usé. Les dessins au sol sont des cercles rituels et des glyphes runiques, qui semblent avoir été dessinés avec une énergie ancienne. Les murs sont recouverts de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à la pièce. Des piliers et des colonnes soutiennent le plafond, et une table est placée au centre de la salle. La lumière est faible, ce qui rend l'endroit encore plus mystérieux. Des eaux stagnantes se trouvent dans un coin de la pièce, ajoutant une menace supplémentaire. La porte ouverte au fond laisse entrevoir un passage sombre. Cette salle semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu.",
     "tags": [
       "rituel",
-      "macabre",
-      "ancien",
       "sacrifice",
-      "salle de rituel"
+      "têtes de mort",
+      "tentacules",
+      "salle des anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

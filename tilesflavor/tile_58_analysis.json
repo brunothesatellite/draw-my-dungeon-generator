@@ -1,12 +1,12 @@
 {
   "58": {
     "title": "Salle des Anciens",
-    "description": "La salle est petite et rectangulaire, avec un plancher en bois vieilli qui craque sous vos pas. La faible lumière qui filtre à travers les voiles déchirés donne une ambiance mystérieuse et ancienne. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, et des statues de pierre évoquent des figures anciennes. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère de mystère. L'eau stagnante dans un coin de la salle rend l'endroit humide et glissant. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici.",
+    "description": "La salle est petite et rectangulaire, avec un plancher en bois vieilli qui craque sous vos pas. La faible lumière qui filtre à travers les voiles déchirés éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers massifs soutiennent les murs, ornés de statues étranges qui semblent garder un secret. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère mystérieuse et ancienne. L'eau stagnante dans un coin de la salle rend l'atmosphère encore plus oppressante. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'étrange à cette salle de culte ou de rituel.",
     "tags": [
       "salle",
       "rituel",
-      "mystère",
       "ancien",
+      "mystère",
       "eau stagnante"
     ],
     "sourceFeatures": {

@@ -1,13 +1,13 @@
 {
   "79": {
-    "title": "Salle des Barils Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui ont vu le mieux de leur temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Des barils de bois, usés par le temps, sont empilés contre le mur, leur contenu inconnu. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Une table, recouverte d'un tissu usé, est placée devant l'autel. L'eau stagnante, noire et trouble, remplit une partie du sol, rendant la pièce dangereuse. À l'entrée, une porte ancienne semble fermée par une serrure ancienne. L'air de la salle est chargé d'une odeur de mystère et de vieilles cérémonies. Les cercles rituels et les barils semblent être les témoins d'anciennes pratiques sacrées.",
+    "title": "Salle des Barils",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des barils empilés au centre. Des cercles rituels sont gravés dans le sol, et des piliers soutiennent les murs. La lumière est faible, créant une ambiance mystérieuse. Des têtes de mort et des tentacules sont peints sur les murs, ajoutant une touche d'étrange à l'atmosphère. Un autel est visible dans un coin, et une table est placée près de la porte. L'eau stagnante se trouve dans un coin, rendant l'endroit dangereux. La salle semble être utilisée pour des rituels, et un oiseau solitaire plane dans l'air, ajoutant une note de sérénité à la tension générale.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Mystère",
-      "Barils"
+      "rituel",
+      "salle",
+      "barils",
+      "mystérieuse",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

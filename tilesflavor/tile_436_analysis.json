@@ -1,13 +1,13 @@
 {
   "436": {
-    "title": "La Salle des Anciens",
-    "description": "La grande vasque se dresse au centre d'une salle circulaire, éclairée par une lumière diffuse qui semble provenir d'endroits inconnus. Les murs, ornés de tentacules et de têtes de mort, racontent des secrets millénaires. Des cercles rituels et des symboles anciens marquent le sol, tandis que des colonnes et des piliers soutiennent le plafond. Un autel, placé au milieu de la salle, semble être le point focal de cette ancienne sanctuaire. L'atmosphère est pesante et mystérieuse, comme si quelque chose d'ancien et d'interdit se cachait dans les recoins de cette salle. Des runes anciennes et un spiral enchanté sont les seules sorties de cette chambre sacrée.",
+    "title": "Salle Sacrée des Tentacules",
+    "description": "La grande vasque, creusée dans le sol de la salle circulaire, émet une lumière faible et diffuse. Les murs, ornés de colonnes massives et de tentacules sculptés, semblent avoir été sculptés par des mains anciennes. Des cercles rituels et des glyphes mystérieux marquent le sol, évoquant des rituels passés. Un immense spiral, émanant d'une énergie trouble, se dresse au centre de la salle, entouré d'anciens runes qui brillent d'une lueur étrange. Un autel, posé au milieu, semble attendre un sacrifice. L'atmosphère est pesante et étrange, comme si la salle était le cœur d'un abîme des ténèbres.",
     "tags": [
-      "salle",
-      "ancien",
-      "rituel",
-      "sacrifice",
-      "mystère"
+      "salle sacrée",
+      "tentacules",
+      "rituels anciens",
+      "salle circulaire",
+      "spiral"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "65": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et triangulaire, avec des murs vieillis et des traces de vieilles peintures qui se détachent. La lumière est faible, filtrant à travers une fenêtre étroite au fond de la pièce. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des piliers robustes soutiennent le plafond, et une tenture ancienne pend sur une des parois, ornée de têtes de mort et de tentacules qui semblent sortir du mur. L'atmosphère est sinistre, accentuée par l'eau stagnante qui s'est formée dans un coin de la pièce. Les murs sont recouverts de champignons qui poussent entre les pierres, ajoutant une touche de mystère à l'endroit.",
+    "title": "Salle des Rituels",
+    "description": "La salle est petite et triangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. Les murs sont recouverts de tentures sombres, et des piliers massifs soutiennent le plafond. Des petites pierres et des champignons poussent sur le sol, ajoutant une touche d'authenticité à l'atmosphère sinistre. La lumière est faible, filtrant à travers des fenêtres étroites, ce qui rend l'endroit encore plus mystérieux. Des têtes de mort et des tentacules sont suspendus aux murs, rappelant les anciens rituels qui se déroulaient ici. L'endroit est vieilli, avec des traces de vieilles pierres et de champignons qui ont poussé au fil du temps. L'eau stagnante dans un coin ajoute une touche de danger à ce lieu de rituel ancien.",
     "tags": [
-      "Salle",
-      "Rituel",
-      "Ancien",
-      "Mystère",
-      "Champignon"
+      "rituel",
+      "salle",
+      "vieillie",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

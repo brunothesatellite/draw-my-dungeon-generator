@@ -1,13 +1,13 @@
 {
   "389": {
-    "title": "Chambre des Rituels Sacrés",
-    "description": "La chambre des Rituels Sacrés est une salle ouverte complète, immense et rectangulaire, dont les murs sont recouverts d'un tissu sombre et lisse. La lumière y est faible, filtrant à travers des fenêtres étroites, créant une ambiance mystérieuse et oppressante. La pièce est humide, et des gouttes de condensation perlent sur le sol et les murs. Au centre de la pièce se dresse un autel circulaire, orné de motifs de spirales et de cercles rayonnants, qui semblent être gravés dans le sol. Des piliers robustes et des poutres en bois soutiennent le plafond, ajoutant à l'atmosphère ancienne et sacrée de la pièce. Des tentacules noirs, longs et sinistres, sont suspendus aux murs, ajoutant une touche d'horreur à l'atmosphère. Un tombeau ancien, avec une pierre tombale érodée, se trouve dans un coin de la pièce, évoquant des secrets inexplorés. L'eau stagnante, visible dans un coin de la pièce, est un danger potentiel pour les explorateurs. La chambre des Rituels Sacrés semble être le cœur d'un ancien sanctuaire, où des rituels sombres et sacrés étaient peut-être pratiqués.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est immense, presque carrée, avec un sol humide et des murs qui reflètent une lueur faible. Des colonnes massives en bois soutiennent le plafond, tandis que des poutres de bois croisent en diagonale, créant un réseau complexe. Au centre de la pièce se dresse un autel circulaire, orné de lignes de couleur qui semblent vibrer sous l'effet d'une force inconnue. Des tentacules noirs, longs et sinistres, sont gravés sur les murs, ajoutant une atmosphère de mystère et de malédiction. Des cercles de pierre, marqués de motifs spiraux et de cercles rayonnants, sont gravés dans le sol, formant un motif complexe qui semble guider le regard vers le centre de la pièce. L'air est saturé d'une odeur de poussière et de mystère ancien. À l'entrée, une petite créature, probablement un animal sauvage, semble hésiter, comme s'il avait été attiré par quelque chose d'indéfinissable. L'eau qui s'accumule au sol indique que la pièce est inondée, ajoutant une menace supplémentaire à l'atmosphère déjà sombre et mystérieuse.",
     "tags": [
       "rituel",
       "sacrifice",
-      "ancien",
+      "tentacules",
       "mystère",
-      "salle des rituels"
+      "salle des anciens"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "424": {
-    "title": "Passage des Passerelles",
-    "description": "Le passage est étroit et humide, éclairé par une faible lumière qui se réfléchit sur les murs verdâtres. Des spirales et des glyphes gravés dans le sol indiquent un ancien rituel. Des colonnes massives soutiennent le plafond, tandis que des piliers ornés de tentacules et de têtes de mort se dressent de chaque côté. La passerelle en corde, tendue au-dessus d'un petit cours d'eau, semble instable et craint la moindre secousse. Des traces de pas récents sont visibles sur le sol, mais les créatures qui les ont laissées sont restées mystérieuses. L'atmosphère est lourde et chargée d'une énergie ancienne, presque palpable. Les murs sont recouverts de tapisseries représentant des scènes de sacrifices, ajoutant à l'ambiance sacrée et sinistre du lieu.",
+    "title": "Passage de la Passerelle Cordeuse",
+    "description": "Le passage de la Passerelle Cordeuse est un couloir étroit et humide, éclairé par une faible lumière qui filtre à travers les épaisses ténèbres. Les murs, couverts de spirales et de glyphes mystérieux, semblent avoir été sculptés par des mains invisibles. Des colonnes et des piliers majestueux, ornés de tentacules et de têtes de mort, soutiennent le plafond. Le sol est marqué de spirales et de symboles énigmatiques, semblant guider le voyageur vers un but inconnu. Une passerelle en corde, tendue entre deux points de soutien, permet de traverser le cours d'eau qui jaillit d'un mur, créant un bruit de chute d'eau qui résonne dans l'air humide. L'atmosphère est pesante et mystérieuse, comme si le passage était gardé par des forces obscures. Les murs sont ornés de tentacules et de têtes de mort, ajoutant à l'ambiance sacrée et sinistre du lieu.",
     "tags": [
       "Passage",
-      "Ancien",
-      "Sacrifice",
-      "Tentacules",
-      "Mystère"
+      "Mystère",
+      "Cours d'Eau",
+      "Passe-Partout",
+      "Tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

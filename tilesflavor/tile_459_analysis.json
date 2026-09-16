@@ -1,13 +1,13 @@
 {
   "459": {
     "title": "Salle des Cercueils",
-    "description": "La salle est étroite et mal éclairée, ses murs irréguliers semblent avoir été façonnés par la main de l'oubli. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, tandis que des cercles de lumière faible éclairent vaguement l'atmosphère sinistre. Le sol est couvert de cercles rituels, et des cercueils anciens sont empilés contre le mur, leurs couvercles fissurés et rouillés. Des traces de vieilles pierres et de mobilier ancien sont visibles, ajoutant à l'ambiance vieillie et mystérieuse de la pièce. L'eau stagnante se répand lentement dans un coin, créant un danger potentiel. Les murs sont ornés de têtes de mort et de tentacules, rappelant l'ancien culte qui a régné ici. La salle semble être un lieu de rituels, mais son passé obscur et son état dégradé la rendent dangereuse pour les explorateurs non initiés.",
+    "description": "La salle est petite et irrégulière, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant l'ancien culte qui régnait ici. Des cercles rituels marquent le sol, et des piliers soutiennent le plafond. Des cercueils, remplis de mystères, sont alignés le long des murs, tandis que du mobilier ancien est disséminé un peu partout. L'eau stagnante au fond de la pièce ajoute à l'ambiance lugubre. Les cercueils semblent être les témoins de rituels passés, et les tentacules qui ornent les murs racontent des histoires d'horreur. Les piliers et les cercles rituels donnent une impression de vieilles traditions occultes. La salle est un lieu de rituels, mais aussi un endroit où les morts dorment encore.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Ancien Culte",
-      "Cercueils",
-      "Têtes de Mort"
+      "rituels",
+      "cercueils",
+      "salle",
+      "sinistre",
+      "ancien culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

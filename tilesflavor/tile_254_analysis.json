@@ -1,12 +1,11 @@
 {
   "254": {
-    "title": "Égout aux Grilles",
-    "description": "L'égout, étroit et rectangulaire, est recouvert de grilles métalliques qui trahissent son ancien usage. La lumière y est faible, émanant d'une source lointaine, et l'air est saturé d'une odeur nauséabonde. Les parois humides sont marquées de cercles rituels, des symboles mystiques qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces lisses et usées par le temps. Le sol est recouvert de grilles de métal, formant un réseau régulier qui guide le flux de l'eau stagnante. Des traces de mobilier sont visibles, laissées par des créatures qui ont peut-être cherché refuge ici. L'atmosphère est sinistre, pesante, comme si l'égout était le témoin d'horreurs passées. Les cercles rituels évoquent des sacrifices, et les piliers semblent avoir été utilisés pour maintenir en place des autels ou des objets sacrés. Les grilles au sol sont usées, mais intactes, comme si elles avaient été laissées là depuis des siècles.",
+    "title": "Égout avec Grille au Sol",
+    "description": "Tu te trouves dans un égout étroit et humide, où la lumière faible pénètre à travers les barreaux de la grille au sol. Les murs rectangulaires sont recouverts de piliers massifs qui soutiennent le plafond. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'entrée d'une salle plus grande. Le mobilier est minimal, juste quelques barils et tonneaux pour y stocker les déchets. L'humidité est palpable, et l'air est chargé d'une odeur nauséabonde. Des eaux stagnantes se forment dans les coins, créant des zones de danger. L'atmosphère est sinistre, et tu sens une présence malveillante qui plane dans l'air. Cette salle semble être utilisée pour des rituels, mais tu ne sais pas quel genre de culte se pratique ici.",
     "tags": [
       "égoïsme",
       "rituels",
-      "sacrifices",
-      "égoïsme",
+      "sombre",
       "égoïsme"
     ],
     "sourceFeatures": {

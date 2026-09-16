@@ -1,13 +1,12 @@
 {
   "154": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui pénètre par une ouverture étroite au fond. Les murs vieillis sont marqués de cercles rituels et de glyphes runiques, des symboles qui semblent anciens et mystérieux. Des piliers et des statues étranges ornent les coins, ajoutant à l'atmosphère sinistre de la grotte. Le sol est couvert de mobilier ancien, des objets qui semblent avoir été abandonnés depuis des siècles. L'air est saturé d'une odeur de champignons et de mystère, rendant l'endroit encore plus menaçant. Des eaux stagnantes se trouvent au fond de la grotte, formant un mur de glace qui semble vivre. Les champignons semblent vivants et peuvent émettre des sorts de sorts de protection. Les murs sont parsemés de têtes de mort et de tentacules qui semblent sortir du sol, ajoutant à l'atmosphère de la grotte.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et tortueuse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former des passages étroits. Les lumières naturelles sont faibles, filtrant à travers des couches de sédiments et de végétation. Des champignons de toutes les couleurs poussent sur les parois, leurs têtes émergeant parfois des crevasses. Des cercles rituels et des glyphes runiques sont gravés dans le sol, semblant ancrés dans la roche. Des piliers et des statues anciennes sont disséminés un peu partout, leurs visages érodés par le temps. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. L'air est humide et chargé d'une odeur de terre et de champignons. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel. La grotte est mystérieuse et menaçante, comme si elle gardait un secret ancien et puissant.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Mystère",
-      "Anciens",
-      "Sacrés"
+      "grotte",
+      "champignons",
+      "rituels",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

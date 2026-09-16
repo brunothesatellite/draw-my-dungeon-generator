@@ -1,13 +1,13 @@
 {
   "85": {
     "title": "Chambre des Sacrifices",
-    "description": "La salle est immense, son plafond voûté s'élève à plusieurs mètres au-dessus de vous. Les murs, recouverts de textures de pierre brute, sont ornés de tentacules et de têtes de mort, rappelant les créatures qui ont précédé les sacrifices. Des cercles rituels et des glyphes mystiques sont gravés au sol, marquant l'ancienne importance de ce lieu. Des colonnes et des piliers robustes soutiennent la structure, tandis que des poutres en bois ajoutent une touche de rusticité à l'ensemble. La lumière est faible, filtrant à travers des fenêtres étroites, créant un éclairage tamisé qui accentue l'atmosphère étrange et menaçante de la pièce. Les murs sont recouverts de peintures sombres et de symboles énigmatiques, tandis que des têtes de mort et des tentacules dépassent de la pierre, ajoutant une touche macabre à l'ambiance. Les anciens traps et les sorts enchantés sont dissimulés dans les recoins, prêts à se déclencher à tout moment. La chambre des sacrifices est un lieu de culte ancien, où les sacrifices étaient pratiqués pour honorer les dieux obscurs.",
+    "description": "La salle est immense, rectangulaire et délabrée, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et étrange. Les murs sont recouverts de tentacules et de têtes de mort, symboles d'une ancienne et sombre tradition. Des cercles rituels et des glyphes anciens marquent le sol, tandis que des colonnes et des piliers robustes soutiennent le plafond. Des barres de bois et des textures de pierre ornent les murs, ajoutant à l'ambiance ancienne et décrépite. Aucune issue visible, la chambre semble être un abîme de secrets et de mystères. Des pièges anciens et des enchantements subtils sont présents, prêts à se déclencher sur les intrus imprudents. La chambre des sacrifices est un lieu où les sacrifices étaient autrefois pratiqués, et où les esprits des ancêtres se réveillent encore de temps en temps.",
     "tags": [
       "sacrifice",
-      "ancien",
-      "macabre",
       "rituel",
-      "mystère"
+      "ancien",
+      "mystère",
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

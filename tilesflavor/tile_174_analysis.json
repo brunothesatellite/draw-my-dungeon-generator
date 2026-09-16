@@ -1,13 +1,12 @@
 {
   "174": {
-    "title": "La Grotte des Champignons Sacrés",
-    "description": "La grotte étendue sous vos pieds semble s'écarter en spirale, comme si elle était faite de pierres vivantes. La lumière diffuse et diffuse, filtrée par les mycètes qui poussent sur les parois, donne une ambiance étrange et mystérieuse. L'humidité qui plane dans l'air rend l'atmosphère encore plus oppressante. Des colonnes majestueuses, sculptées de manière ancienne, se dressent à l'intérieur, soutenant un plafond qui semble suspendu. Un autel, orné de tentes et de champignons, se dresse au centre de la grotte, comme si il était destiné à des rituels sacrés. Des traces de fourmis sillonnent le sol, indiquant que la grotte n'est pas complètement déserte. La grotte est remplie d'eau stagnante, un danger potentiel pour ceux qui s'y aventurent. Les mycètes qui poussent sur les parois semblent vivants, leurs filaments s'étirant et se contractant comme des tentacules. La grotte est un lieu de mystère et de puissance, où les anciens rituels sont peut-être encore pratiqués.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte des Champignons est immense, son espace rectangulaire s'étend sous vos pieds, éclairé par une faible lumière qui se répand doucement à travers les stalactites. L'humidité qui y règne est perceptible, rendant le sol glissant et marqué d'un spiral de poussière qui semble s'inscrire dans le sol. Des colonnes majestueuses, sculptées par le temps, se dressent à l'intérieur, offrant un soutien naturel à la structure de la grotte. Un autel, orné de tentes suspendues, se dresse au centre de la pièce, évoquant une ancienne cérémonie sacrée. Des champignons de toutes les couleurs poussent sur les parois, leur croissance rapide et luxuriante ajoutant une touche de mystère à l'atmosphère déjà étrange. Des eaux stagnantes, stagnantes, se forment dans les coins, un danger potentiel pour les explorateurs. La grotte est si vaste qu'elle semble ne pas avoir de fin, chaque coin révélant de nouvelles surprises et dangers.",
     "tags": [
-      "grotte",
+      "mystérieuse",
       "sacrifice",
-      "mycètes",
-      "rituel",
-      "humidité"
+      "champignons",
+      "grotte"
     ],
     "sourceFeatures": {
       "roomSize": "large",

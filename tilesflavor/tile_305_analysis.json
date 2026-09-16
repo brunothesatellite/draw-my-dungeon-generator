@@ -1,13 +1,13 @@
 {
   "305": {
-    "title": "L'Abîme des Anciens",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. La lumière y est si faible que vous ne pouvez distinguer que les contours de la pièce. L'air est saturé d'une humidité malsaine, et des spirales et des croix gravées dans le sol vous guident vers le centre. Des colonnes majestueuses, ornées de pilastres, se dressent à vos côtés, évoquant une ancienne architecture sacrée. Des symboles mystérieux, gravés dans le sol et les murs, semblent murmurer des secrets millénaires. Des tentacules et des têtes de mort flottent dans l'air, ajoutant à l'atmosphère étrange et menaçante. L'abîme est un lieu de culte ancien, où les anciens pratiquaient des rituels sombres. Les runes enchantées et les anciennes enchantements qui flottent dans l'air vous avertissent de la présence de forces maléfiques. Les ossements et les crânes éparpillés au sol racontent l'histoire de sacrifices passés. L'abîme est un lieu de ténèbres, où les morts reviennent pour enseigner les secrets de l'au-delà.",
+    "title": "L'Abîme des Tentacules",
+    "description": "L'abîme s'ouvre comme une bouche immense, dévoilant un espace immense et rectangulaire, plongé dans une obscurité profonde. La lumière diffuse et faible émane des murs humides, reflétant les spirales et les croix gravées au sol. Des colonnes et des piliers massifs, sculptés de motifs énigmatiques, se dressent à l'intérieur, créant un écho lugubre. Des symboles mystérieux sont disséminés un peu partout, ajoutant à l'atmosphère étrange de l'endroit. Des tentacules noirs, semblables à ceux d'une créature marine, émergent de l'ombre, se balançant lentement. Des crânes humains, éparpillés ici et là, racontent des secrets obscurs. L'abîme est un lieu sacré, mais aussi un lieu de ténèbres, où les runes enchantées et les anciens enchantements gardent des secrets insondables. Les murs sont ornés de tentes de mort, rappelant l'horreur qui réside ici. L'atmosphère est mystérieuse et effrayante, chaque coin cache un danger potentiel.",
     "tags": [
       "abîme",
-      "rituels sombres",
-      "ténèbres",
+      "tentacules",
+      "crânes",
       "sacrifices",
-      "forces maléfiques"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "135": {
-    "title": "La Fontaine Sacrée",
-    "description": "Dans cette vaste salle rectangulaire, la lumière diffuse et faible éclaire les murs décrépits et les colonnes massives qui soutiennent le plafond. Des spirales et des croix gravées dans le sol semblent indiquer un ancien rituel. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'horreur à l'atmosphère mystérieuse. Au centre de la pièce, une fontaine, bien que délabrée, semble toujours fonctionner, émettant une lueur bleutée qui éclaire la salle. Des traces d'anciennes enchantements flottent dans l'air, rendant l'endroit encore plus sinistre. La salle est dépourvue d'issues, mais un pitfall menace ceux qui s'aventurent trop près de la fontaine. Cette pièce est destinée à des sacrifices, et les murs racontent des histoires d'êtres anciens et de rituels obscurs.",
+    "title": "Salle Sacrificielle aux Fontaines",
+    "description": "La salle est immense et rectangulaire, avec un plafond voûté qui semble avoir été érodé par le temps. La lumière tamisée émane des fenêtres étroites, révélant une ambiance mystérieuse et étrange. Le sol est couvert de spirales et de croix gravées, qui semblent avoir été dessinées par un ancien culte. Des colonnes et des piliers massifs soutiennent le toit, ajoutant à l'atmosphère sombre de la pièce. Au centre de la salle, une fontaine en pierre est installée, son eau cristalline reflétant les ombres qui dansent sur les murs. Des tentacules et des têtes de mort sont suspendues aux murs, rappelant les sacrifices passés. Un autel, orné de symboles anciens, occupe un coin de la pièce, et un pitfall attend au fond, prête à engloutir les intrus. La salle est délabrée, mais les traces d'anciens enchantements sont encore visibles, rendant l'endroit encore plus menaçant.",
     "tags": [
       "sacrifice",
       "fontaine",
-      "mystère",
-      "ancien",
-      "horreur"
+      "tentacules",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

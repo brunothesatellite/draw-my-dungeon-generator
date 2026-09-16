@@ -1,13 +1,13 @@
 {
   "301": {
     "title": "Abîme des Champignons",
-    "description": "Dans l'obscurité qui règne, un abîme étroit et rectangulaire s'offre à vos yeux. La lumière est si faible que vous devez vous fier à vos sens pour vous déplacer. Les murs vieillis sont marqués de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés il y a des siècles. Des piliers robustes soutiennent le plafond, et des statues étranges, dont les visages sont déformés, gardent le silence. Le sol est recouvert de mobilier ancien, des meubles usés qui semblent avoir été oubliés depuis longtemps. L'atmosphère est mystérieuse et ancienne, comme si le temps avait presque cessé d'exister ici. Des champignons étranges poussent sur les murs, leurs tiges délicates semblant danser dans l'air. L'eau stagnante, noire et trouble, se trouve au fond de l'abîme, prête à vous engloutir. Les traces de créatures étranges sont visibles sur le sol, comme si des êtres maléfiques avaient récemment parcouru ce lieu. La salle semble être un sanctuaire ou un lieu de culte, où des rituels sombres étaient peut-être pratiqués. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'atmosphère déjà sinistre.",
+    "description": "L'abîme est étroit et sombre, ses parois rugueuses et déchiquetées semblent avoir été façonnées par les eaux tumultueuses qui l'ont sculpté au fil des siècles. Des champignons étranges poussent ici et là, leurs tiges minces et leurs chapeaux étranges évoquant des formes de vie étranges. Le sol est recouvert de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été gravés par des mains anciennes. Des piliers et des statues, vieilles et érodées, se dressent ici et là, témoins silencieux de l'histoire qui s'est déroulée ici. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. L'atmosphère est mystérieuse et ancienne, chaque coin révélant un secret potentiel. Les eaux stagnantes au fond de l'abîme sont un danger à ne pas sous-estimer. Les traces de créatures étranges sont visibles sur les parois, comme si des créatures de l'ombre avaient parcouru ces lieux il y a longtemps.",
     "tags": [
       "abîme",
       "champignons",
-      "rituels sombres",
-      "salle de culte",
-      "atmosphère mystérieuse"
+      "rituels",
+      "ancien",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

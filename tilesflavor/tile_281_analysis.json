@@ -1,24 +1,19 @@
 {
   "281": {
-    "title": "Égout aux Cercles Rituels",
-    "description": "Tu te trouves dans un étroit couloir étroit, recouvert d'une grille métallique qui tient lieu de plafond. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. La faible lumière qui filtre à travers les fentes de la grille éclaire vaguement les piliers massifs qui soutiennent le passage. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche macabre à l'atmosphère sinistre. Un cercle de pierre au sol indique l'emplacement d'un ancien autel, désormais abandonné. Une table, usée par l'usure, est posée au centre du couloir, mais elle semble vide. L'eau stagnante au fond du couloir est un danger à ne pas négliger. Les cercles rituels et les têtes de mort évoquent un passé sanguinaire et mystérieux.",
+    "title": "Égout aux Grilles",
+    "description": "L'égout, étroit et rectangulaire, est recouvert de grilles métalliques qui trahissent son âge. Le sol est couvert d'une fine couche de boue grise, marquée de cercles rituels anciens qui brillent faiblement sous la faible lumière qui pénètre par les fentes des grilles. Les piliers massifs, vieillis par le temps, soutiennent le plafond qui semble prêt à s'effondrer. Un vieux tableau, délavé, repose contre un mur, son cadre en bois usé. À l'entrée, une grille métallique protège l'égout, tandis qu'une eau stagnante, noire et trouble, s'écoule lentement. L'atmosphère sinistre est accentuée par les murmures lointains qui parviennent jusqu'aux oreilles des explorateurs. Cette salle, bien qu'apparemment insignifiante, est en réalité un lieu de rituel ancien, où des cercles mystiques sont gravés dans le sol.",
     "tags": [
-      "égoût",
+      "égoïsme",
       "rituel",
-      "macabre",
-      "ancien",
-      "salle de rituel"
+      "sombre",
+      "vieillissement",
+      "égoïsme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
-      "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
-      ],
       "floorMarkings": [
         "cercles rituels"
       ],
@@ -27,9 +22,6 @@
       ],
       "objectsOrFurniture": [
         "table"
-      ],
-      "creaturesOrTraces": [
-        "squelette"
       ],
       "exits": [],
       "hazards": [

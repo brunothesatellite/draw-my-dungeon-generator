@@ -1,13 +1,13 @@
 {
   "417": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et carrée, avec un sol marqué de cercles rituels. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, comme si un grand cercle invisible les enveloppait. La faible lumière qui pénètre à travers les fissures des piliers éclairant les cercles rituels donne une ambiance mystérieuse et ancienne. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère. Le mobilier ancien est délabré, mais les piliers majestueux soutiennent toujours la structure. Un coffre, fermé et mystérieux, repose au centre de la pièce, entouré de cercles rituels. L'eau stagnante dans un coin de la salle rend l'endroit encore plus dangereux. Cette salle est dédiée à des rituels obscurs et sacrés, où les anciens pratiquaient des cérémonies sombres.",
+    "title": "Salle Circulaire avec Coffre",
+    "description": "Tu te trouves dans une petite salle carrée, éclairée par une faible lumière qui semble venir de partout. Les murs, vieillis et usés, semblent avoir un mouvement circulaire, comme si un grand cercle invisible les traversait. Au centre de la pièce, un coffre circulaire est fermé, son bois usé et usé. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, et des traces de vieillissement sont visibles sur les murs et le sol. Le mobilier ancien, usé et poussiéreux, semble avoir été oublié depuis longtemps. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été utilisée pour des rituels sacrés. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre. Les murs semblent avoir un mouvement circulaire, comme si un grand cercle invisible les traversait.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "vieillissement",
-      "tête de mort"
+      "salle circulaire",
+      "coffre",
+      "murs",
+      "mouvement",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -16,8 +16,7 @@
       "condition": "vieillie",
       "centralFeature": "coffre",
       "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
+        "cercles rituels"
       ],
       "floorMarkings": [
         "cercles rituels"

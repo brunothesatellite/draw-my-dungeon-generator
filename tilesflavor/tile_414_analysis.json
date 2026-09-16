@@ -1,13 +1,13 @@
 {
   "414": {
-    "title": "Salle d'Échecs Sacrée",
-    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des voiles de poussière, semble avoir été utilisée pour des rituels ou des cultes. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère menaçante à l'endroit. Au centre de la pièce, un autel est entouré de cercles rituels et de glyphes runiques, indiquant une ancienne tradition de culte. Des piliers et des statues majestueuses dominent l'espace, tandis que des mobilier ancien est disséminé autour de la pièce. L'eau stagnante dans un coin de la salle ajoute une touche de danger à l'atmosphère mystérieuse et menaçante. Cette salle, bien que petite, semble avoir été le cœur d'une ancienne cérémonie ou d'un rituel important.",
+    "title": "Salle d'échecs des Anciens",
+    "description": "La salle d'échecs des Anciens est une petite pièce rectangulaire, aux murs vieillis et aux sols marqués de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les fenêtres usées éclaire les pièces d'échecs anciennes, posées sur un mobilier ancien. Des statues et des piliers ornent les murs, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Les têtes de mort et les tentacules peints sur les murs semblent veiller sur les échecs. L'eau stagnante dans un coin de la pièce est un danger potentiel. Cette salle, bien que petite, est un lieu de culte ou de rituels, où les Anciens se réunissaient pour discuter de leurs plans et de leurs stratégies.",
     "tags": [
-      "rituel",
-      "culte",
       "échecs",
-      "salle sacrée",
-      "poussière"
+      "pièces",
+      "rituels",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

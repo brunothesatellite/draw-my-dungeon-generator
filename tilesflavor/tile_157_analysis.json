@@ -1,13 +1,16 @@
 {
   "157": {
     "title": "Grotte des Champignons",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons de toutes les couleurs. La lumière y est faible, filtrant à travers des couches de sédiments et de végétation. Les murs vieillis montrent des cercles rituels et des glyphes runiques, des traces de piliers et de statues qui semblent avoir été détruites par le temps. Des cercles de lumière émergent parfois, révélant des têtes de mort et des tentacules qui semblent sortir du sol. Le mobilier ancien est disséminé un peu partout, ajoutant à l'atmosphère mystérieuse et menaçante de la grotte. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La grotte est une salle de rituels ou de culte, où les anciens pratiquaient des cérémonies sombres.",
+    "description": "La grotte est étroite et tortueuse, avec des parois irrégulières et des formations rocheuses qui semblent s'effondrer à tout moment. La lumière y est faible, filtrant à travers des couches de sédiments et de poussière. Des champignons de toutes les couleurs et de toutes les formes poussent sur les parois et le sol, créant un tapis de vie coloré qui contraste avec l'atmosphère sombre. Des cercles rituels et des glyphes runiques sont gravés dans le sol, semblant anciens et mystérieux. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant à l'ambiance de mystère. Le mobilier ancien, usé et délabré, est posé ici et là, comme si des explorateurs ou des cultistes avaient laissé leurs traces. Les murs sont parsemés de têtes de mort et de tentacules, ajoutant une touche de menace à l'atmosphère déjà menaçante. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à tout moment. La grotte est une salle de rituels ou de culte, où des cultistes anciens ont peut-être pratiqué leurs cérémonies. Les parois sont parsemées de cercles rituels et de glyphes runiques, indiquant que cette grotte a probablement été utilisée pour des rituels sacrés. Les têtes de mort et les tentacules ajoutent une touche de mystère et de menace à l'atmosphère déjà sombre et menaçante.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituels",
-      "Anciens",
-      "Mystérieuse"
+      "grotte",
+      "champignons",
+      "champignon",
+      "rituels",
+      "culte",
+      "mystère",
+      "menace",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

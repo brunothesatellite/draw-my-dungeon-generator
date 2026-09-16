@@ -1,13 +1,12 @@
 {
   "166": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et sinueuse, ses parois irrégulières sont recouvertes de champignons étranges qui semblent vibrer sous la lumière faible qui filtre à travers les fissures. Les murs vieillis sont marqués de cercles rituels et de glyphes runiques, des symboles qui semblent anciens et mystérieux. Des piliers et des colonnes robustes soutiennent le plafond, tandis que des restes de mobilier ancien sont disséminés un peu partout, témoignant d'une présence ancienne. L'atmosphère est pesante, presque oppressante, et les ombres dansent sur les parois, créant des silhouettes étranges. L'eau stagnante au fond de la grotte semble bouillonnante, prête à engloutir tout ce qui s'approche. Les champignons, de couleur verte vif, semblent vivants et pulsent de vie, émettant une odeur étrange qui se mêle à l'air humide de la grotte. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche de menace à l'atmosphère déjà menaçante. Cette grotte est un lieu de culte, un sanctuaire où les anciens pratiquaient des rituels sombres et sacrés.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et sombre, avec des parois irrégulières et des formations rocheuses qui semblent s'écarter pour former un passage étroit. Les lumières naturelles sont rares, et la seule source de lumière est une petite ouverture au sommet de la grotte, qui laisse filtrer une faible clarté. Des champignons de toutes les couleurs et de toutes les formes poussent sur les parois et le sol, créant un tapis de couleurs vives qui contraste avec la pénombre. Des cercles rituels et des glyphes runiques sont gravés dans le sol et les parois, semblant ancrés dans le rocher. Des piliers et des colonnes de pierre sont disséminés à travers la grotte, ajoutant à son mystère. Le mobilier ancien, usé et délabré, est disséminé un peu partout, semblant avoir été abandonné depuis longtemps. L'air est humide et lourd, et une eau stagnante s'accumule dans les coins, créant un environnement menaçant. La grotte est une salle de rituels ou de culte, et l'atmosphère est mystérieuse et menaçante. Les champignons semblent vivants et pourraient être utilisés pour des potions ou des rituels.",
     "tags": [
-      "Grotte",
-      "Champignons Sacrés",
-      "Rituels Anciens",
-      "Atmosphère Menacante",
-      "Salle de Culte"
+      "grotte",
+      "champignons",
+      "rituels",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

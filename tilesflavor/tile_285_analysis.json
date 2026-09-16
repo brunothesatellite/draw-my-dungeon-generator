@@ -1,13 +1,15 @@
 {
   "285": {
-    "title": "Passage des Égouts",
-    "description": "Le passage est étroit et bas, avec un plafond en tuiles qui semble avoir été endommagé par l'humidité. Des cercles rituels sont gravés dans le sol, marquant un chemin ancien. Des piliers et des statues de pierre sont disséminés à travers le passage, ajoutant une touche de mystère à l'atmosphère sinistre. À l'extrémité du passage, une passerelle en bois permet de traverser un égout mort, où des barils et une épée sont abandonnés. L'eau stagnante au fond de l'égout réfléchit les ombres qui dansent dans la faible lumière qui pénètre par une petite ouverture au plafond. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à ce lieu oublié.",
+    "title": "Passerelle Mortelle",
+    "description": "Au bas de la tuile, un égout mortel s'écoule lentement, ses eaux stagnantes reflétant les ombres qui dansent sur les murs. Une passerelle en bois, mince et instable, traverse l'égout, menant à une porte étroite. À l'extrémité de la passerelle, un baril de bois, crevé et rouillé, repose sur le sol, tandis qu'une épée, son manche usé, est plantée dans le sol à côté. Les murs de pierre sont vieillis, leurs surfaces érodées par le temps et les eaux stagnantes. Des cercles rituels sont gravés dans le sol, leur magie ancienne semblant avoir été oubliée. Des piliers et des statues, délabrés, ornent les murs, leurs visages déformés par le temps. La pièce est sombre, éclairée seulement par la faible lumière qui pénètre à travers une petite ouverture au plafond. L'atmosphère est sinistre, presque palpable, comme si l'égout était le passage d'une autre dimension.",
     "tags": [
-      "Passage",
-      "Égout",
-      "Salle de Rituels",
-      "Mystère",
-      "Mystique"
+      "épée",
+      "passerelle",
+      "égout",
+      "mort",
+      "porte",
+      "baril",
+      "cercles rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

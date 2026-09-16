@@ -1,13 +1,12 @@
 {
   "218": {
     "title": "Salle des Serpents",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des fenêtres brisées, créant un halo de mystère. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche d'horreur à l'atmosphère déjà menaçante. Le dessin d'un serpent, ancien et complexe, orne le mur de fond, rappelant l'ancien culte qui réside ici. Des meubles usés sont empilés dans un coin, témoignant de l'occupation ancienne de ce lieu. Les piliers sont ornés de motifs sculptés, ajoutant une touche de sophistication à l'architecture délabrée. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La salle est vide, mais l'air y flotte une odeur de mystère et de danger.",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des colonnes massives qui semblent avoir été sculptées par les mains d'anciens maîtres. Le sol est couvert de cercles rituels, des symboles mystérieux qui brillent faiblement dans la faible lumière qui pénètre à travers les fenêtres brisées. Des dessins de serpents serpentent sur les murs, leurs yeux vides semblant vous regarder. Le mobilier est minimal, juste quelques bancs et des autels sombres qui semblent avoir été utilisés pour des rituels obscurs. L'atmosphère est oppressante, et les murmures lointains semblent provenir de l'abîme qui semble se trouver à l'autre bout de la salle. Les pièges anciens sont nombreux, prêts à s'activer à la moindre intrusion.",
     "tags": [
-      "Salle",
-      "Serpent",
-      "Rituel",
-      "Ancien Culte",
-      "Mystère"
+      "rituel",
+      "serpent",
+      "salle",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

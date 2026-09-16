@@ -1,13 +1,13 @@
 {
   "324": {
-    "title": "Abîme des Anciens",
-    "description": "Au cœur de l'abîme, une moitié de pont de corde semble suspendue dans le vide, un pont qui semble avoir été abandonné depuis des siècles. Les cordes sont usées, et les nœuds sont défaits, comme si un vent invisible les avait déchirées. Le pont est entouré de cercles rituels et de glyphes runiques, gravés dans le sol de pierre grise. Des piliers et des colonnes, vieillies par le temps, soutiennent le pont, mais aussi les secrets qui y sont cachés. Le sol est marqué de cercles rituels et de glyphes runiques, des symboles qui semblent avoir été utilisés pour des rituels obscurs. Le mobilier ancien, usé et délabré, semble avoir été laissé là par des explorateurs ou des cultistes. L'atmosphère est mystérieuse et menaçante, comme si l'abîme lui-même respirait une malédiction. Les eaux stagnantes au fond de l'abîme ajoutent à l'ambiance lugubre, et les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'expérience. Les pièges anciens sont nombreux, prêts à se déclencher à tout moment.",
+    "title": "Pont de Corde au Fond de l'Abîme",
+    "description": "Au cœur de l'abîme, une moitié de pont de corde s'étire dans le vide, suspendue au-dessus d'un abîme profond. Les cordes, usées par le temps et les éléments, craquent sous le poids du visiteur. Des cercles rituels et des glyphes runiques gravés dans le sol émettent une faible lumière, éclairant partiellement le passage. Les piliers et colonnes, vieillies et recouvertes de mousse, semblent témoigner d'une ancienne civilisation. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère mystérieuse et menaçante du lieu. L'eau stagnante, noire et trouble, remue doucement, révélant des traces de mouvement sous la surface. Les cercles rituels et les glyphes runiques, bien que faiblement lumineux, semblent inviter à une exploration plus approfondie, mais les dangers qui les entourent sont inconnus.",
     "tags": [
       "abîme",
+      "pont",
+      "corde",
       "rituels",
-      "têtes de mort",
-      "tentacules",
-      "salle de culte"
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

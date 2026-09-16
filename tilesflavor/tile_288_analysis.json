@@ -1,13 +1,13 @@
 {
   "288": {
-    "title": "L'Abîme des Anciens",
-    "description": "Dans cette petite pièce rectangulaire, l'air est lourd et humide, évoquant une atmosphère sinistre. La faible lumière qui filtre à travers les voiles de toile semble venir d'une source inconnue, éclairant vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent les murs, et le mobilier ancien semble avoir été abandonné depuis des siècles. Les têtes de mort, suspendues aux murs, ajoutent une touche macabre à l'ensemble. L'abîme, visible au centre de la pièce, est rempli d'eau stagnante, et des tentacules sombres émergent de temps en temps, ajoutant une note d'effroi à l'atmosphère. Les cercles rituels au sol semblent être le point focal de cette pièce, et les piliers majestueux donnent une impression de puissance ancienne. Les têtes de mort et les tentacules ajoutent une touche de mystère et de danger à ce lieu de rituel ancien.",
+    "title": "Abîme des Cercles Rituels",
+    "description": "Dans cette petite pièce rectangulaire, l'humidité pèse lourdement, créant une ambiance sinistre. Les murs, couverts de têtes de mort, sont ornés de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs soutiennent le plafond, et le mobilier ancien semble avoir été abandonné depuis longtemps. L'eau stagnante recouvre le sol, formant de petits miroirs qui reflètent les ombres des tentacules qui se balancent dans l'air. L'abîme semble attendre patiemment, prête à avaler tout ce qui s'approche.",
     "tags": [
-      "rituel",
-      "macabre",
       "abîme",
+      "rituel",
       "têtes de mort",
-      "tentacules"
+      "tentacules",
+      "salle de rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -34,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "abîme dans une pièce",
       "tileNumber": 288

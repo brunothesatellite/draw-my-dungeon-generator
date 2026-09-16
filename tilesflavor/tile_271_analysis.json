@@ -1,19 +1,24 @@
 {
   "271": {
     "title": "Escalier d'Escalade dans l'Égout",
-    "description": "Tu te retrouves dans un égout sombre et dilapidé, où les murs sont recouverts de spirales énigmatiques. Des colonnes et des piliers anciens se dressent à intervalles réguliers, évoquant un passé oublié. Un tuyau étrange sort du mur, semblant émettre un bruit métallique. L'air est chargé d'une odeur nauséabonde, et des ombres flottent dans l'obscurité, te faisant frissonner. À ton pied, un escalier d'escalade grimpe vers le haut, taissant une pente raide. À l'extrémité de l'égout, un archway te permet de sortir de ce lieu lugubre.",
+    "description": "L'escalier d'escalade s'enfonce dans l'obscurité de l'égout, ses marches en pierre usées par le temps et les années d'usure. Des tuyaux métalliques serpentent le long des murs, émettant des échos de l'eau qui coule en dessous. Les spirales gravées dans le sol semblent indiquer un passage ancien, peut-être un rituel perdu. Les colonnes et les piliers de pierre, usés par les années, portent des tâches de verdure et de mousse, témoignant de l'humidité persistante. Des tentacules et des têtes de mort sont sculptées dans les murs, ajoutant une note macabre à l'atmosphère étrange. Le mur à droite est percé d'un archway qui semble mener à un autre espace, mais les portes sont fermées par des barres de fer rouillées. Les échos de pas lointains et les murmures de l'eau sous le sol rendent l'endroit encore plus mystérieux et effrayant. Les trappes sont bien connues dans ce lieu, prêtes à s'activer à la moindre intrusion. Les spirales et les têtes de mort ajoutent une touche de surnaturel à l'endroit, rendant l'exploration de ce passage d'escalade dans l'égout une expérience à la fois fascinante et effrayante.",
     "tags": [
-      "égoût",
-      "escalier",
-      "tuyau",
-      "spirales",
-      "colonne"
+      "épouvantail",
+      "épave",
+      "épave",
+      "épave",
+      "épave"
     ],
     "sourceFeatures": {
       "roomSize": "large",
       "roomShape": "rectangular",
       "lighting": "dim",
       "condition": "dilapidated",
+      "centralFeature": "altar",
+      "wallDecorations": [
+        "tentsacles",
+        "heads of death"
+      ],
       "floorMarkings": [
         "spirals"
       ],
@@ -23,6 +28,9 @@
       ],
       "objectsOrFurniture": [
         "chest"
+      ],
+      "creaturesOrTraces": [
+        "ghostly apparitions"
       ],
       "exits": [
         "archway"

@@ -1,13 +1,13 @@
 {
   "431": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, éclairé par une faible lumière qui se répand à peine dans l'air. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent jaillir du plafond. Des cercles rituels sont gravés au sol, marquant le passage d'une ancienne voie sacrée. Des piliers robustes soutiennent le passage, ajoutant à son mystère. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. À l'extrémité du passage, une porte murée cache un mystère inconnu. L'eau stagnante, noire et trouble, s'accumule au fond du passage, ajoutant une touche de danger à l'atmosphère sinistre. Cette ancienne salle de rituels est un lieu de culte ancien, où les anciens pratiquaient des cérémonies sombres et sacrées.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir est étroit et sinistre, éclairé par une faible lumière qui se répand à peine. Les murs, vieillis et usés, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels sont gravés au sol, marquant le passage de rituels anciens. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Le mobilier ancien, usé et délabré, est disséminé le long du couloir. À l'extrémité, une porte murée semble bloquer le passage, mais une eau stagnante s'accumule au sol, rendant l'accès difficile. La sinistre ambiance de la salle de rituels est palpable, chaque détail racontant une histoire de sacrifices et de mystères enfouis.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Salle de Rituels",
-      "Mystère",
-      "Tentacules"
+      "couloir",
+      "rituels",
+      "anciens",
+      "sinistre",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

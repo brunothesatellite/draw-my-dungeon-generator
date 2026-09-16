@@ -1,13 +1,13 @@
 {
   "241": {
     "title": "Siphon Murier",
-    "description": "Dans cette petite et rectangulaire salle, la lumière faible et diffuse éclaire les murs vieillis, recouverts de traces de peintures anciennes. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Une table, simple et ancienne, est placée à l'entrée, prête à être utilisée pour les rituels. L'eau stagnante, noire et trouble, remplit une partie du sol, créant un danger potentiel. À l'extrémité de la pièce, une porte menant à un autre espace est visible. L'air de la salle est chargé d'une odeur de mystère et d'ancienneté, rendant chaque mouvement et chaque son plus sonores et plus résonnants.",
+    "description": "Dans cette petite et rectangulaire salle, la lumière faible et la vieillie éclaire un siphon qui semble jaillir directement du mur. Des cercles rituels gravés au sol indiquent l'ancienneté de ce lieu. Des piliers robustes soutiennent le plafond, et une table ancienne y est placée, sans doute pour des rituels. Des têtes de mort et des tentacules étranges ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. L'eau stagnante dans le siphon semble être un danger potentiel. La porte à l'extrémité de la pièce semble être la seule issue, menant à un autre mystère.",
     "tags": [
-      "Salle de Rituel",
-      "Ancien",
-      "Mystère",
-      "Siphon",
-      "Tentacules"
+      "salle de rituel",
+      "siphon",
+      "vieillie",
+      "ancienne",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

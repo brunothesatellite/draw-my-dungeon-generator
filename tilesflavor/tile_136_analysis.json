@@ -1,13 +1,13 @@
 {
   "136": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de cercles rituels énigmatiques. Des barils et des caisses, usés par le temps, sont empilés sur un côté, comme si un voyageur pressé avait laissé son bagage. La faible lumière qui filtre à travers les fissures dans le plafond éclaire vaguement les piliers massifs qui soutiennent le passage. Des têtes de mort et des tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici. Des squelettes, probablement des gardiens de l'ancien rituel, sont disséminés le long du passage, leurs os craquelés racontant des histoires de sacrifice et de mystère. À l'extrémité du passage, une porte ouverte laisse entrevoir une eau stagnante, un piège mortel pour les intrus imprudents. La sinistre ambiance de la salle de rituel ancien est palpable, chaque coin révélant un secret ancien et terrifiant.",
+    "title": "Couloir des Barils",
+    "description": "Les couloirs étroits et tortueux sont parsemés de barils et de caisses, empilés haphazardement sur un côté. Les murs, usés et fissurés, révèlent des traces de vieilles peintures murales qui se sont effacées au fil du temps. Des piliers massifs, comme des colonnes de pierre, se dressent à intervalles réguliers, offrant un soutien aux plafonds qui semblent menaçants. La lumière pénètre à peine à travers les fenêtres étroites, créant un éclairage faible et mystérieux. Des cercles rituels sont gravés dans le sol, indiquant que ce couloir a été utilisé pour des rituels anciens. Des objets divers sont posés sur une table au fond du couloir, mais leur nature exacte reste un mystère. À l'extrémité du couloir, une porte ouverte laisse entrevoir une eau stagnante, un danger potentiel pour les explorateurs. L'atmosphère sinistre et vieillie donne l'impression que ce lieu a été abandonné depuis longtemps, mais que des forces malveillantes pourraient encore y demeurer.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Sacrifice",
-      "Tentacules"
+      "couloir",
+      "barils",
+      "caisses",
+      "rituels anciens",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "Couloirs avec des barils et des caisses sur un côté",
       "tileNumber": 136

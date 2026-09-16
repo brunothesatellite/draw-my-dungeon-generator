@@ -1,13 +1,13 @@
 {
   "300": {
-    "title": "L'Abîme des Anciens",
-    "description": "Vous vous trouvez au cœur d'un abîme profond et sombre, une cavité immense qui semble s'ouvrir sur un autre monde. Les murs de pierre sont fissurés et recouverts de spirales mystérieuses qui semblent gravées dans le rocher. Des colonnes de pierre émergeant de nulle part ajoutent une touche de majesté à cette atmosphère étrange. Le sol est marqué de ces mêmes spirales, qui semblent se perdre dans le noir profond de l'abîme. Un objet étrange, inconnu, repose au milieu de cette cavité, émettant une faible lumière bleutée qui éclaire partiellement l'endroit. L'air est lourd et chargé d'une tension palpable, comme si quelque chose de terrible se cachait dans les profondeurs de cet abîme. Les murs sont parsemés de tentacules noirs qui semblent se mouvoir lentement, ajoutant une note d'horreur à l'atmosphère déjà sinistre. L'abîme est un lieu rituelique ou ancien, où les anciens pratiquaient des sacrifices ou des rituels obscurs.",
+    "title": "L'Abîme des Tentacules",
+    "description": "Au cœur de l'abîme, un espace immense et délabré vous accueille. Les murs, fissurés et recouverts de spirales mystérieuses, semblent vibrer sous vos pas. Des tentacules sombres, comme issus d'un autre monde, se baladent librement dans l'air, ajoutant une atmosphère sinistre à l'endroit. Des colonnes robustes, érodées par le temps, soutiennent le plafond qui menace de s'effondrer. Un objet étrange, inconnu, repose au milieu de la pièce, émettant une lueur étrange qui semble se concentrer sur un point central sombre. Les tentacules semblent attirés par cette lumière, se déplaçant lentement vers elle. La pièce est si grande qu'elle semble ne pas avoir de fin, et les spirales sur le sol semblent indiquer un chemin qui ne mène nulle part. L'air est chargé d'une odeur de brûlé et de mort, rendant l'endroit encore plus effrayant.",
     "tags": [
       "abîme",
-      "rituel",
-      "sacrifice",
       "tentacules",
-      "mystère"
+      "spirales",
+      "mystère",
+      "délabrement"
     ],
     "sourceFeatures": {
       "roomSize": "large",

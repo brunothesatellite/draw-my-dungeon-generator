@@ -1,13 +1,13 @@
 {
   "77": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures qui se sont effacées au fil du temps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés au sol, marquant un espace sacré au centre de la pièce. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sinistre de la salle. Un autel, orné de têtes de mort et de tentacules, domine le centre de la pièce. Une table, ancienne et usée, est placée à côté de l'autel, prête à recevoir les offrandes. La porte à l'extrémité de la salle semble fermée, mais une odeur de pourriture flotte dans l'air, indiquant que l'eau stagnante peut être trouvée derrière. La salle est un lieu de rituel, où des sacrifices ont probablement eu lieu dans le passé.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Des piliers massifs soutiennent le plafond, et une table sombre est placée au centre de la pièce. L'ambiance est oppressante, accentuée par les têtes de mort et les tentacules qui semblent émerger des murs. L'endroit semble avoir été un lieu de rituel ancien, et l'eau stagnante au sol indique qu'il a été abandonné depuis longtemps. La porte à l'extrémité de la pièce semble être la seule issue, mais elle est fermée et verrouillée.",
     "tags": [
       "rituel",
       "sacrifice",
       "vieillie",
       "sinistre",
-      "salle"
+      "abandonnée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

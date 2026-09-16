@@ -1,13 +1,13 @@
 {
   "161": {
-    "title": "Grotte des Anciens",
-    "description": "Cette grotte, minuscule et ronde, est éclairée par une faible lumière qui filtre à travers des fentes dans le plafond. Les murs vieillis sont recouverts de cercles rituels, des symboles anciens qui semblent avoir été dessinés il y a des siècles. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels. Des traces de créatures se dessinent sur le sol, indiquant que des êtres ont récemment visité ce lieu. Le mobilier, délabré, semble avoir été abandonné depuis longtemps. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin de la grotte, reflétant les ombres des cercles rituels. Des champignons et des champignons géants poussent sur les murs et le sol, ajoutant une touche de mystère à cet endroit. Les têtes de mort et les tentacules qui ornent les murs semblent être des vestiges d'un culte ancien.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. La lumière pénètre à peine, éclairant les champignons qui poussent en abondance sur les parois et le sol. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des piliers massifs soutiennent le plafond, et des traces de créatures se dessinent sur le sol. Le mobilier est ancien et délabré, ajoutant à l'atmosphère sinistre de la grotte. L'eau stagnante se forme dans un coin, rendant l'endroit humide et glissant. La grotte semble être un lieu de rituels, avec des objets mystérieux disséminés un peu partout.",
     "tags": [
-      "Grotte",
-      "Anciens",
-      "Cercles Rituels",
-      "Champignons",
-      "Têtes de Mort"
+      "grotte",
+      "champignons",
+      "rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

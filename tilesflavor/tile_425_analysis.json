@@ -1,13 +1,13 @@
 {
   "425": {
     "title": "Rivière Sacrée",
-    "description": "La rivière sacrée coule lentement, ses eaux stagnantes reflétant les murs vieillis de la salle. Les cercles rituels et les glyphes runiques gravés dans le sol semblent avoir été oubliés depuis des siècles. Des piliers massifs soutiennent le plafond, tandis que des statues étranges gardent le passage. Le mobilier ancien, usé par le temps, ajoute une touche de mystère à l'atmosphère sinistre qui plane dans cette salle de rituels. Les têtes de mort et les tentacules qui ornent les murs ajoutent une note macabre à l'ensemble. La faible lumière qui filtre à travers les fissures du plafond révèle des traces de pièges anciens, prouvant que cette rivière sacrée n'est pas seulement un passage, mais un lieu de culte et de sacrifice.",
+    "description": "La rivière sacrée coule lentement dans un étroit canal rectangulaire, ses eaux stagnantes reflétant les ombres des piliers et statues qui bordent ses berges. Les cercles rituels et les glyphes runiques gravés dans le sol semblent murmurer des secrets millénaires. Le mobilier ancien, usé par le temps, est disséminé ici et là, ajoutant à l'atmosphère sinistre de la salle. Les piliers et statues, sculptés avec une précision délicate, racontent des histoires d'anciens cultes. La faible lumière qui filtre à travers les voûtes éclairant faiblement la rivière, révélant des têtes de mort et des tentacules qui semblent sortir des eaux stagnantes. La porte murée au fond de la rivière semble être le seul moyen de quitter ce lieu, mais elle est fermée et verrouillée. Les risques de tombes et de pièges sont omniprésents, et l'eau stagnante est un danger à ne pas sous-estimer.",
     "tags": [
-      "Rivière Sacrée",
+      "Rivière",
       "Salle de Rituels",
-      "Mystère",
-      "Macabre",
-      "Ancien Culte"
+      "Anciens",
+      "Sacrifices",
+      "Têtes de Mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +39,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Rivière",
       "tileNumber": 425

@@ -1,13 +1,13 @@
 {
   "222": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels sont gravés dans le sol, entourant un autel central. Des têtes de mort et des tentacules s'enroulent autour des murs, ajoutant une atmosphère sinistre à l'endroit. Un grand table se trouve au centre de la pièce, et une porte à l'extrémité de la salle permet d'accéder à d'autres parties du donjon. L'eau stagnante recouvre le sol à certains endroits, créant des dangers supplémentaires. Cette salle semble avoir été utilisée pour des rituels anciens et mystiques.",
+    "title": "Salle des Cercles",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. Les colonnes massives, vieillies et usées, soutiennent le plafond voûté. La faible lumière qui pénètre à travers les fissures dans les murs ajoute à l'atmosphère sinistre de la pièce. Des têtes de mort et des tentacules sont suspendus aux murs, rappelant les anciens rituels qui se déroulaient ici. Un autel central, orné de cercles rituels, domine la pièce. Une table, usée par le temps, est placée devant l'autel, prête à être utilisée pour les cérémonies. La porte à l'extrémité de la salle semble être la seule issue, mais l'eau stagnante qui s'est formée au sol rend l'accès difficile. Les piliers massifs et les marquages de cercles rituels donnent à cette salle un air de mystère et de danger.",
     "tags": [
       "rituel",
-      "vieillie",
-      "sinistre",
       "salle",
-      "ancien"
+      "vieillie",
+      "cercles rituels",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,13 @@
 {
   "104": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière naturelle filtre à travers deux fenêtres étroites, éclairant les murs décrépits et les colonnes qui soutiennent le plafond. Des spirales et des croix gravées dans le sol semblent indiquer un ancien rituel. Des statues et un autel central, ornés de tentacules et de têtes sculptées, dominent la pièce. Les murs sont parsemés de tentacules et de têtes de mort, ajoutant une atmosphère de mystère et d'ancienneté. Les spirales sur le sol pourraient être des pièges, prouvant que cette salle est bien plus qu'un simple espace de culte. Deux fenêtres permettent de voir à l'extérieur, mais la salle semble être isolée, comme si elle avait été abandonnée depuis des siècles.",
+    "title": "Salle des Anciens",
+    "description": "La salle est immense, de forme rectangulaire, avec des murs décrépits et des colonnes massives qui soutiennent le plafond voûté. La lumière naturelle filtre à travers deux fenêtres étroites, éclairant les spirales et les croix gravées sur le sol. Des tentacules sculptés et des têtes de mort ornent les murs, ajoutant une atmosphère sinistre à l'ancienne ambiance sacrée. Un autel central, orné de statues mystérieuses, domine la pièce. Les spirales sur le sol pourraient être des pièges, et les colonnes majestueuses semblent prêtes à s'effondrer. Les deux fenêtres offrent une vue sur un paysage lointain, mais la salle est isolée, comme si elle avait été abandonnée depuis des siècles.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Rituels",
-      "Tentacules",
-      "Mystère"
+      "salle",
+      "anciens",
+      "rituels",
+      "sacrifices",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

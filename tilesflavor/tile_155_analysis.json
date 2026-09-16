@@ -1,13 +1,12 @@
 {
   "155": {
-    "title": "La Grotte des Champignons Sacrés",
-    "description": "Au cœur de la forêt sombre, une grotte majestueuse se dresse, éclairée par une lueur diffuse qui semble provenir des mycètes qui poussent sur ses parois. La grotte est immense, ses murs irréguliers ornés de tentes et de masques suspendus, comme si elle avait été utilisée par des peuples oubliés. Des motifs de spirales gravés dans le sol attirent l'œil, semblant former un chemin qui guide le visiteur vers le centre. Des colonnes élancées, sculptées de motifs complexes, se dressent à l'intérieur, ajoutant à l'atmosphère mystérieuse de la grotte. Statues étranges, aux formes étranges, gardent les passages, leurs visages délavés par le temps. La grotte est si ancienne qu'elle semble avoir été sacrée depuis des millénaires, et les champignons qui poussent sur ses parois semblent vivre en symbiose avec elle. Les esprits des anciens, visibles sous forme de figures fantomatiques, errent parfois dans les recoins, ajoutant une touche d'effroi à l'atmosphère déjà sombre. Les enchanteurs qui se risquent à entrer doivent être prêts à affronter les pièges magiques qui guettent à chaque coin.",
+    "title": "Grotte des Champignons Sacrés",
+    "description": "La grotte des Champignons Sacrés est immense, son espace irrégulier et sa forme ondulante semblent avoir été façonnés par les millénaires. La lumière y est faible, émanant d'une source obscure au fond de la grotte, ce qui accentue l'atmosphère mystérieuse qui règne dans cette ancienne sanctuaire. Les murs, couverts de tapisseries et de masques anciens, sont ornés de motifs de spirales qui semblent danser sous la faible lumière. Des colonnes majestueuses soutiennent le plafond, et des statues de pierre gardent le sanctuaire. Les champignons, de toutes les couleurs, poussent en abondance sur les parois et les sols, leur présence ajoutant une touche de vie à cet espace étrange. Les traces de pas anciens sont gravées dans le sol, formant des spirales qui semblent indiquer un chemin sacré. Les enchanteurs de la grotte sont prêts à se déclencher à la moindre intrusion, rendant la grotte un lieu à la fois fascinant et dangereux. Les esprits des anciens se manifestent parfois, des figures fantomatiques qui flottent dans l'air, ajoutant une note de terreur à l'atmosphère déjà sombre de cette grotte sacrée.",
     "tags": [
-      "grotte",
       "sacré",
-      "mystère",
-      "enchanteurs",
-      "champignons"
+      "mystérieux",
+      "ancien",
+      "enchanteur"
     ],
     "sourceFeatures": {
       "roomSize": "large",

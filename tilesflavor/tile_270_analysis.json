@@ -1,12 +1,12 @@
 {
   "270": {
     "title": "Égout des Sacrifices",
-    "description": "Dans ce couloir étroit et sombre, les murs sont recouverts d'une couche de mousse grise, témoignant de l'abandon et de l'humidité. Deux tuyaux déversent une eau stagnante qui s'écoule lentement le long du sol, formant des flaques glissantes. Les cercles rituels gravés au sol semblent avoir été oubliés depuis longtemps, leur magie dorée ternie par le temps. Des piliers massifs, usés par le temps, soutiennent le plafond voûté. Le mobilier, délabré, semble avoir été laissé là depuis des siècles, ajoutant à l'atmosphère lugubre. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les têtes de mort et les tentacules qui pendent des murs, rappelant l'ancien culte qui a régné ici. La présence de pièges et de l'eau stagnante rend ce lieu dangereux et inexploré.",
+    "description": "L'égout est étroit et sombre, avec deux tuyaux déversant de l'eau stagnante. Les murs sont recouverts de cercles rituels, et des piliers massifs soutiennent le plafond vieilli. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules sont visibles sur les parois. Le mobilier est ancien et délabré, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. L'eau stagnante dans les tuyaux dégage une odeur nauséabonde. Les cercles rituels et les têtes de mort évoquent une ancienne tradition de sacrifice. Les piliers et les marquages au sol indiquent que cette pièce a probablement été utilisée pour des rituels ou des sacrifices. Les tuyaux déversant de l'eau sont les seuls points d'éclairage, créant une ambiance sombre et menaçante. Les cercles rituels et les têtes de mort sont les seuls objets notables, et les piliers et le mobilier ancien complètent l'atmosphère de mystère.",
     "tags": [
       "égoût",
       "rituel",
       "sacrifice",
-      "tête de mort",
+      "têtes de mort",
       "tentacules"
     ],
     "sourceFeatures": {
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "mystérieuse et menaçante",
+      "atmosphere": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituel ou de sacrifice",
       "csvDescription": "égout avec 2 tuyaux déversant de l'eau",
       "tileNumber": 270

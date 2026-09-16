@@ -1,13 +1,13 @@
 {
   "141": {
     "title": "Les Couloirs Étranges",
-    "description": "Au cœur de l'obscurité, deux couloirs s'entrecroisent, l'un passant sous l'autre. Au centre du haut, une pierre étrange émerge du sol, évoquant l'ancien et le mystère. Les murs rectangulaires sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. Un tableau, posé au fond, semble attendre un mystérieux culte. La lumière naturelle pénètre à peine, laissant l'atmosphère mystique et menaçante. L'eau stagnante au fond du couloir est un danger à ne pas sous-estimer. À l'extrémité, une porte se ferme sur un homme qui semble avoir été piégé.",
+    "description": "Au cœur de l'abîme, deux couloirs s'entrecroisent, l'un passant sous l'autre. Au centre du haut, une pierre étrange sort du sol, émettant une lumière étrange. Les murs sont ornés de piliers massifs et de cercles rituels gravés dans le sol. Des cercles de lumière naturelle éclairent la pièce, révélant une table au centre. L'air est chargé d'une atmosphère mystique, et l'eau stagnante dans un bassin proche ajoute à l'ambiance lugubre. Les couloirs sont étroits et sombres, mais la pierre étrange semble être un point de passage vers un autre monde.",
     "tags": [
       "couloir",
-      "rituel",
-      "tête de mort",
-      "tentacules",
-      "mystique"
+      "pierres étranges",
+      "rituels",
+      "éclairage naturel",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

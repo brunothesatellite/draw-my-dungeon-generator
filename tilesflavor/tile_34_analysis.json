@@ -1,13 +1,13 @@
 {
   "34": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est un couloir large et rectangulaire, éclairé par la lumière naturelle qui filtre à travers les fissures dans le plafond. La moiteur de l'air y est perceptible, et des gouttes d'eau tombent parfois du plafond, ajoutant à l'atmosphère mystérieuse. Les marquages de pierre, des symboles anciens et énigmatiques, sont gravés sur le sol, semblant guider le voyageur vers un but inconnu. Des colonnes massives, sculptées de motifs complexes, soutiennent le plafond, ajoutant une touche de majesté à l'endroit. Un autel, orné de tentacules étranges, se dresse au fond du couloir, évoquant une ancienne cérémonie sacrée. Un simple meuble en bois, une table, semble y avoir été abandonné, laissant un sentiment de solitude et d'abandon. Le passage est silencieux, mais on peut entendre le murmure de l'eau qui coule à l'extérieur, ajoutant une note de mystère à l'atmosphère déjà chargée. Les Anciens qui ont créé ce lieu semblent avoir laissé un message, mais il est perdu dans le temps et les eaux qui coulent sans cesse.",
+    "title": "Le Couloir des Anciens",
+    "description": "Le couloir s'inscrit dans un mur de pierre brute, éclairé par la faible lumière du jour qui filtre à travers une ouverture étroite au bout du couloir. Les murs sont ornés de tentacules sculptés, rappelant les créatures marines les plus sombres. Des glyphes anciens gravés dans le sol indiquent un chemin à suivre, mais leur signification reste un mystère. Des colonnes massives soutiennent le plafond, ajoutant à l'ambiance sinistre. Un grand autel, orné de tentacules, se dresse au bout du couloir, semblant être le point d'arrivée de ce passage. La humidité qui imprègne l'air rend l'atmosphère oppressante, et l'eau qui coule au sol indique que le couloir est en fait un passage souterrain. Les murs sont recouverts de tapisseries représentant des créatures marines, ajoutant à l'atmosphère mystérieuse et sacrée de ce lieu. Les tentacules sculptés et les glyphes anciens indiquent que ce couloir est lié à des forces anciennes et potentiellement dangereuses.",
     "tags": [
-      "Anciens",
-      "Mystère",
-      "Sacré",
-      "Passage",
-      "Tentacules"
+      "couloir",
+      "anciens",
+      "tentaclés",
+      "sacré",
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

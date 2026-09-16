@@ -1,13 +1,13 @@
 {
   "244": {
-    "title": "Siphon de la Connaissance",
-    "description": "Au cœur de la grotte, un siphon immense domine le paysage. Sa forme rectangulaire et large offre un espace sombre et humide, éclairé par une faible lumière qui se répand en spirales et lignes sur le sol. Les murs, ornés de tentacules et de têtes de mort, semblent témoigner d'une ancienne et mystérieuse tradition. Des colonnes et des piliers soutiennent le plafond, ajoutant à l'atmosphère sacrée et étrange de ce lieu. Un grand autel, orné de runes enchantées, se dresse au centre, invitant les explorateurs à se pencher sur les secrets de l'ancien. Des figures étranges, comme des silhouettes de créatures inconnues, semblent se tenir en retrait, prêtes à interrompre les rituels. Le siphon, bien qu'apparemment inerte, semble vivre d'une énergie ancienne et mystérieuse, prête à révéler ses secrets à ceux qui oseront s'y aventurer.",
+    "title": "Siphon du Temple Sacré",
+    "description": "Au cœur du mystère, se trouve le siphon du Temple Sacré, un lieu immense et rectangulaire, dont les murs humides et froids sont ornés de tentacules et de têtes de mort, rappelant l'ancienne puissance qui y réside. La lumière tamisée émane des colonnes et des piliers qui soutiennent le plafond, éclairant les spirales et les lignes gravées sur le sol. Un grand autel, entouré de figures sculptées, domine le centre de la pièce, et un grand table se trouve à l'entrée, prêt à accueillir les offrandes. Les runes enchantées, suspendues dans l'air, ajoutent une touche de danger à ce sanctuaire. L'atmosphère est pesante et mystérieuse, comme si le lieu gardait un secret ancien et puissant.",
     "tags": [
-      "Salle Sacrée",
-      "Ancien",
-      "Mystère",
-      "Tentacules",
-      "Rituels"
+      "siphon",
+      "temple sacré",
+      "mystère",
+      "ancien",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

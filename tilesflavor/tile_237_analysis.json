@@ -1,13 +1,13 @@
 {
   "237": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "La salle est immense, ses murs de pierre ancienne sont ornés de tentacules et de têtes de mort, symboles de la puissance et de la mort. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le centre de la pièce. Quatre imposantes colonnes soutiennent le plafond, formant un carré parfait au milieu de la salle. Le dessin de diamant gravé au sol attire l'œil, semblant inciter à l'exploration. La lumière naturelle pénètre à travers des ouvertures non visibles, créant un éclairage tamisé qui rend l'atmosphère encore plus énigmatique. Cette salle, ancienne et sacrée, semble avoir été utilisée pour des rituels importants, mais son exacte destination reste un mystère. Les spirales enchantées qui entourent le diamant central sont particulièrement dangereuses, car elles peuvent attirer les créatures malveillantes. Aucune sortie visible n'existe, mais les murs et le plafond sont parsemés de traces de passages secrets, prouvant que cette salle n'est pas isolée.",
+    "title": "Salle Sacrée des Colonnes",
+    "description": "La salle est immense, ses murs de pierre ancienne sont ornés de tentacules et de têtes de mort, symboles de la puissance et de la mort qui règnent ici. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le centre de la pièce. Là, au cœur de la salle, se dresse un dessin de diamant, gravé avec une précision qui défie l'âge. Les quatre colonnes massives, sculptées de motifs complexes, soutiennent fièrement le plafond voûté. Un tableau, posé sur une table en bois, semble attendre l'attention du visiteur. L'atmosphère est pesante, chargée d'une énergie ancienne et sacrée. Les spirales lumineuses qui émanent du dessin de diamant semblent inviter à l'exploration, mais aussi à la prudence. Les tentacules et les têtes de mort, suspendus aux murs, ajoutent une touche de terreur à l'ambiance. La salle est sans issue, mais un enchantement tisse autour du dessin de diamant, rendant la spirale lumineuse dangereuse pour ceux qui la suivent.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Tentacules",
-      "Mystère",
-      "Rituels"
+      "sacré",
+      "ancien",
+      "mystère",
+      "colonne",
+      "diamant"
     ],
     "sourceFeatures": {
       "roomSize": "large",

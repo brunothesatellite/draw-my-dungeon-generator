@@ -1,13 +1,13 @@
 {
   "220": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs qui semblent avoir vu des siècles d'usure. La faible lumière qui pénètre à travers une trappe au sol éclaire vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des têtes de mort sont suspendues aux murs, ajoutant une atmosphère de mystère et de malédiction. Un simple table est posée au centre de la pièce, sans doute pour des rituels. La porte, la seule issue visible, semble ancienne et solide, mais elle est fermée à l'intérieur. Les cercles rituels au sol sont un rappel constant de l'ancienne puissance qui réside ici. La salle est un lieu de rituel, mais aussi d'anciennes secrets et de mystères inexplorés.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des piliers massifs qui soutiennent le plafond. La faible lumière qui pénètre à travers les fissures dans les murs accentue l'atmosphère mystérieuse de la pièce. Des cercles rituels sont gravés dans le sol, et des têtes de mort sont suspendues aux murs, ajoutant une touche macabre à l'ambiance. Un grand cercle rituel est visible au centre de la pièce, entouré d'une table où des offrandes sont peut-être encore placées. Une trappe se trouve au sol, dissimulée par une couche de poussière et de poussière. La porte, qui est la seule issue de la salle, semble ancienne et est légèrement érodée, comme si elle avait été utilisée depuis des siècles. Les cercles rituels sur le sol sont un danger potentiel, et la présence de têtes de mort et de la table suggère que cette pièce a été utilisée pour des rituels sacrés.",
     "tags": [
-      "Salle",
-      "Rituel",
-      "Ancien",
-      "Mystère",
-      "Cercles"
+      "rituel",
+      "macabre",
+      "sacrifice",
+      "salle",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

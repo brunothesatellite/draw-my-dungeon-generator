@@ -1,13 +1,13 @@
 {
   "12": {
-    "title": "Le Couloir des Sphères",
-    "description": "Le couloir étendu s'inscrit dans un mur de pierre ancienne, ses murs ornés de tentacules et de têtes de mort qui semblent observer les voyageurs. Le sol, large et rectangulaire, est marqué de spirales et d'un croix au centre, comme si un ancien rituel avait été célébré ici. Des colonnes majestueuses, sculptées de motifs complexes, soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et sacrée du lieu. Un grand table se trouve au fond du couloir, son dessus orné de symboles énigmatiques. Le couloir est éclairé par la lumière naturelle qui pénètre par une ouverture au bout, révélant un espace plus large et éclairé. Les tentacules et têtes de mort sur les murs semblent vivants, leurs regards fixés sur les visiteurs. Le couloir est enchanteur, mais aussi dangereux, car les tentacules peuvent s'agripper aux voyageurs et les entraîner dans un autre monde.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir étend son chemin rectiligne, ses murs anciens et usés par le temps. Des colonnes massives, sculptées de motifs spirales et croisés, soutiennent le plafond. Le sol, parsemé de dessins magiques, semble vivre d'une vie propre, émettant des éclairs de lumière naturelle qui éclairent le passage. Des tentacules et des têtes de mort, suspendus aux murs, ajoutent une touche d'horreur à l'atmosphère mystérieuse. À chaque pas, le sol murmure des secrets anciens, et les échos résonnent de voix lointaines. Les spirales et croix dessinées au sol semblent inviter à la découverte, mais aussi à la prudence. Les colonnes et les tentacules donnent l'impression d'avoir été sculptés par des mains d'anciens maîtres de la magie. Le couloir est sacré, mais aussi dangereux, car les dessins magiques sont enchantés et peuvent avoir des effets imprévus sur ceux qui les traversent.",
     "tags": [
       "couloir",
-      "rituel",
-      "sphères",
-      "tentes",
-      "mystère"
+      "dessin magique",
+      "tentacules",
+      "têtes de mort",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",

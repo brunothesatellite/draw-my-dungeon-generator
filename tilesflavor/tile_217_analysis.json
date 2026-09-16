@@ -1,13 +1,13 @@
 {
   "217": {
-    "title": "La Salle des Miroirs",
-    "description": "La salle est immense, presque carrée, avec des murs décrépits et des colonnes de pierre qui se dressent comme des gardiens silencieux. La lumière pénètre à peine à travers les fenêtres brisées, créant un éclairage tamisé qui rend l'atmosphère encore plus mystérieuse. Des spirales et des croix sont gravées sur le sol, formant un motif complexe qui semble avoir été oublié depuis des siècles. Les murs sont ornés de tentacules et de têtes de mort, ajoutant une touche d'horreur à l'ambiance déjà étrange. La salle semble avoir été utilisée pour des rituels obscurs, mais son exacte destination reste un mystère. Les colonnes et les murs sont recouverts de peintures anciennes, dont certaines sont difficiles à distinguer. Les miroirs anciens, posés sur les murs, reflètent des images étranges et déformées, rendant la salle encore plus inquiétante. Les miroirs sont les seuls objets visibles, et leur surface est parsemée de taches noires, comme si des forces maléfiques les avaient marqués.",
+    "title": "Salle des Spirales",
+    "description": "La salle est immense, presque carrée, avec des murs décrépits et des colonnes de pierre qui se dressent comme des gardiens silencieux. La lumière pénètre à peine à travers les fenêtres brisées, créant un éclairage tamisé qui souligne les spirales et les croix gravées sur le sol. Des tentacules et des têtes de mort sont suspendues aux murs, ajoutant une atmosphère de mystère et d'étrangeté. Les colonnes sont ornées de motifs complexes, et les spirales sur le sol semblent indiquer un passage ou une direction. Les murs sont recouverts de peintures énigmatiques, et les objets de la salle restent inconnus. Les sorties semblent se perdre dans l'obscurité, et les dangers potentiels sont inconnus. Cette salle ouverte est un lieu étrange et inquiétant, où l'histoire et les secrets se mêlent dans un mélange de mystère et de peur.",
     "tags": [
-      "Salle ouverte",
-      "Mystérieuse",
-      "Horrible",
-      "Ancienne",
-      "Rituel"
+      "salle",
+      "spirales",
+      "tentacules",
+      "mystère",
+      "colonne"
     ],
     "sourceFeatures": {
       "roomSize": "large",

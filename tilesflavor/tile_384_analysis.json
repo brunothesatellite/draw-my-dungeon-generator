@@ -1,13 +1,13 @@
 {
   "384": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "La salle est immense, presque carrée, avec des murs décrépits et des piliers massifs qui soutiennent une voûte sombre. La lumière diffuse pénètre à travers des fenêtres brisées, créant un éclairage tamisé qui souligne les spirales gravées dans le sol. Des tapisseries déchirées sont accrochées aux murs, ornées de tentes et de crânes humains, rappelant l'ancienne vénération des anciens. Un autel central, délabré, semble avoir été le point focal de cérémonies passées. Un vieux tableau, encadré de bois usé, est posé contre un mur, mais son contenu est difficile à distinguer dans l'obscurité. Des ombres flottantes, visibles à peine, semblent errer dans l'air, ajoutant à l'atmosphère mystérieuse de la pièce. Les murs sont parsemés de symboles énigmatiques, et des pièges sont dissimulés dans les recoins, prêts à se déclencher à tout moment.",
+    "title": "Salle Sacrée des Ancêtres",
+    "description": "La salle est immense, presque carrée, avec des murs décrépits et des colonnes massives qui soutiennent le plafond voûté. La lumière tamisée pénètre à travers de minces fentes dans les pierres, créant un éclairage diffuse et mystérieux. Des tapisseries aux motifs ténébroses sont accrochées aux murs, tandis que des crânes humains sont suspendus de manière macabre. Au centre de la pièce, un autel circulaire est gravé de symboles anciens, entouré d'un tapis de soie. Des spirales gravées dans le sol indiquent un passage secret. Un vieux tableau, encadré de tentes, est posé contre un mur, mais il est difficile de distinguer son contenu. La salle est silencieuse, mais une ombre floue et fantomatique plane au-dessus de l'autel, comme si un esprit ancien veillait sur ce lieu sacré. Les portes sont fermées, et toute tentative de s'échapper serait vaine, car les pièges sont nombreux et bien conçus.",
     "tags": [
       "salle sacrée",
-      "anciens",
+      "ancêtres",
       "rituels",
-      "mystère",
-      "sacré"
+      "sacré",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

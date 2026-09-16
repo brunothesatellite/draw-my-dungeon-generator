@@ -1,13 +1,13 @@
 {
   "10": {
-    "title": "Passage Sacratoire",
-    "description": "Le passage sacratoire est large et rectangulaire, éclairé par une faible lumière qui se répand dans l'air humide. Des motifs de spirales et de lignes croisées marquent le sol, semblant guider le regard vers le centre. Les murs, couverts d'un tissu de tentacules, semblent vivants et ondulent légèrement. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère mystérieuse. Un coffre en bois, fermé et ancien, repose contre un mur, tandis que des ossements dispersés témoignent de sacrifices passés. Un passage secret, dissimulé par un rideau de toile, se trouve à l'extrémité du couloir, menant à une salle plus sombre. Le sol est glissant, rendant chaque pas un défi. Cette chambre sacrée est le cœur d'un rituel ancien, où les morts sont sacrifiés pour l'ascension des vivants.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir étroit et sombre s'enfonce dans l'obscurité, ses murs rugueux et humides reflétant faiblement la lumière de la torche que vous tenez. À votre droite, un mur de pierre lisse est orné de tentacules écarlates qui semblent se mouvoir légèrement, comme si elles étaient vivantes. Le sol est marqué de spirales et de croix, des symboles que vous ne pouvez pas identifier. Des colonnes massives soutiennent le plafond, leurs surfaces lisses et lisses. À l'extrémité du couloir, une porte dissimulée semble se refermer lentement, révélant une salle rectangulaire aux murs humides et aux sols marqués de motifs étranges. La salle est éclairée par une lumière diffuse, provenant d'un autel central, et semble être un lieu de sacrifice. Des ossements dispersés par terre indiquent que des sacrifices ont eu lieu ici. Le sol est glissant, ce qui rend la progression difficile. L'atmosphère est oppressante et mystérieuse, comme si le lieu était gardé par des forces obscures.",
     "tags": [
-      "sacrifice",
-      "rituel",
       "couloir",
-      "mystère",
-      "tentacules"
+      "sacrifice",
+      "tentacules",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "183": {
-    "title": "Escalier Ancien",
-    "description": "L'escalier ancien semble avoir été construit il y a des siècles, ses pierres usées racontent des millénaires d'histoire. Les marches, creusées par le temps et les pas des passants, montent lentement vers un sommet inconnu. Des cercles rituels gravés dans le sol indiquent que ce lieu a été utilisé pour des cérémonies mystiques. Les piliers massifs qui soutiennent l'escalier ajoutent une touche de majesté à l'ensemble. La lumière pénètre à peine à travers les fissures du plafond, créant un halo de mystère. Les murs sont recouverts de têtes de mort et de tentacules, rappelant les créatures qui ont peut-être habité ce lieu autrefois. L'eau stagnante au bas de l'escalier est un danger à ne pas négliger. La salle au sommet semble être un autel, mais son état de décrépitude laisse supposer qu'il n'a pas été utilisé depuis longtemps. L'atmosphère sinistre qui plane ici est à la fois fascinante et effrayante.",
+    "title": "Escalier menant à l'Abîme",
+    "description": "Le grand escalier, usé par le temps et les années, monte lentement vers l'obscurité. Les marches, crevassées et recouvertes de mousse, semblent raconter des milliers d'histoires. À chaque pas, un murmure sinistre remplit l'air, comme si les morts veillaient encore. Les murs, recouverts de peintures anciennes et de symboles mystiques, semblent vibrer sous vos pas. Des cercles rituels sont gravés dans le sol, marquant l'endroit où les anciens pratiquaient leurs rituels. Des piliers massifs, usés par le temps, soutiennent le poids du passage. Le mobilier ancien, délabré, est disséminé ici et là, témoignant de l'ancienne importance de ce lieu. À l'extrémité de l'escalier, une porte murée, fermée depuis des siècles, semble garder un secret terrible. L'air est saturé d'une odeur de moisi et d'eau stagnante, qui remonte du fond de l'abîme. La lumière est faible, filtrant à travers des fissures dans le plafond, éclairant les murs et les piliers de manière intermittente. L'atmosphère est sinistre, pesante, comme si le lieu était hanté par les esprits des morts.",
     "tags": [
       "escalier",
-      "rituel",
-      "vieillie",
-      "sinistre",
-      "ancien"
+      "abîme",
+      "rituels anciens",
+      "salle de rituel",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

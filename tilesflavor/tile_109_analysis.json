@@ -1,13 +1,13 @@
 {
   "109": {
-    "title": "Passage des Filles d'Araignée",
-    "description": "Le passage est étroit et sinueux, recouvert de fils d'araignée qui semblent tisser un réseau complexe. Les murs, irréguliers et vieillis, sont parsemés de cercles rituels et de glyphes runiques, comme si un culte ancien avait une présence active ici. Des piliers et des statues, décomposées, sont disséminées à travers le passage, ajoutant à l'atmosphère sinistre. Le sol est marqué de cercles rituels et de glyphes runiques, et des traces de mobilier ancien sont encore visibles, malgré l'abandon. L'ambiance est faiblement éclairée, rendant le passage encore plus mystérieux et menaçant. L'eau stagnante au fond du passage est un danger à ne pas négliger. Cette voie semble être réservée à des rituels obscurs, et les tentacules qui se balancent dans l'air ajoutent une touche d'horreur à l'expérience.",
+    "title": "Couloir des Filles d'Araignée",
+    "description": "Vous vous trouvez dans un couloir étroit et sinueux, où les murs sont recouverts de fils d'araignée qui semblent avoir été tissés avec une précision déconcertante. La lumière est faible, filtrant à travers des ténèbres qui semblent vouloir avaler tout ce qui se trouve à l'intérieur. Les parois sont vieillies, marquées de cercles rituels et de glyphes runiques qui semblent avoir été gravés il y a des siècles. Des piliers et des statues étranges ornent les murs, ajoutant à l'atmosphère sinistre de l'endroit. Le mobilier ancien est disséminé ici et là, semblant avoir été abandonné depuis longtemps. L'eau stagnante se forme dans les coins, créant un miroir sombre qui reflète les ombres qui hantent ce lieu. Les couloirs s'élargissent et s'effilochent, offrant de rares passages vers d'autres parties du donjon. Les tentacules et les têtes de mort sont parfois visibles, ajoutant une touche d'horreur à l'atmosphère déjà oppressante.",
     "tags": [
-      "Passage",
-      "Rituels",
-      "Anciens",
-      "Tentacules",
-      "Mystère"
+      "couloir",
+      "fil d'araignée",
+      "rituel",
+      "vieillie",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

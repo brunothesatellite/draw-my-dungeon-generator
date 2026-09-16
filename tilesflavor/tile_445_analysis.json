@@ -1,13 +1,13 @@
 {
   "445": {
-    "title": "Prison des Anciens",
-    "description": "Tu te trouves dans une petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels. La faible lumière qui pénètre à travers les fissures dans les pierres te donne l'impression que tu es enfermé depuis des siècles. Les piliers et colonnes, usés par le temps, semblent témoigner d'une histoire ancienne et sombre. Un autel, orné de têtes de mort et de tentacules, domine la pièce. Une table, laissée à l'abandon, semble avoir été utilisée pour des rituels. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin de la pièce. La porte, la seule issue visible, semble résister à tes efforts pour l'ouvrir. Tu sens l'odeur de la mort et de l'ancienneté qui flotte dans l'air, te rappelant que tu es prisonnier d'un passé obscur.",
+    "title": "Prison ouverte des Anciens",
+    "description": "Vous pénétrez dans une prison ouverte, un espace carré de taille modeste, aux murs vieillis et aux piliers massifs. La lumière est faible, émanant d'une source inconnue, révélant des cercles rituels gravés au sol. Des têtes de mort et des tentacules sont suspendus aux murs, ajoutant une atmosphère sinistre à l'endroit. Un autel central, orné de sang séché, semble être le point focal de cette prison. Des tableaux de pierre sont disposés ici et là, probablement des objets sacrés. La porte à l'extrémité de la salle semble être le seul moyen de sortir, mais l'eau stagnante au sol pourrait être un obstacle à franchir. Cette prison ouverte semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu.",
     "tags": [
-      "Prison",
-      "Anciens",
-      "Rituels",
-      "Sombre",
-      "Vieillie"
+      "prison",
+      "rituel",
+      "têtes de mort",
+      "tentacules",
+      "salle carrée"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

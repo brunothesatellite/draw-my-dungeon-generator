@@ -1,13 +1,13 @@
 {
   "110": {
-    "title": "Passage des Anciens",
-    "description": "Le couloir étrange s'enfonce dans l'obscurité, ses murs irréguliers et vieillis semblant témoigner d'une époque longtemps oubliée. La faible lumière qui filtre à travers les fissures révèle des cercles rituels gravés dans le sol, des piliers massifs qui soutiennent le plafond et des têtes de mort sculptées dans les pierres. Le mobilier ancien, usé par le temps, semble avoir été abandonné à l'abandon. L'atmosphère est mystérieuse et menaçante, chaque pas résonne dans le silence de cette ancienne salle de rituels. L'eau stagnante au fond du couloir semble prête à se lever, prête à engloutir tout ce qui s'approche. Les tentacules qui émergent de l'eau ajoutent une touche d'horreur à l'atmosphère déjà sinistre.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir semble s'étirer indéfiniment, ses murs irréguliers et vieillis par le temps. La faible lumière qui filtre à travers les fissures dans le plafond éclaire des cercles rituels gravés au sol, qui semblent avoir été usés par le passage du temps. Des piliers massifs soutiennent le passage, leurs surfaces couvertes de motifs anciens. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Des têtes de mort, sculptées avec une finesse surprenante, sont suspendues aux murs, ajoutant une note macabre à l'atmosphère déjà menaçante. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. Des tentacules sombres, visibles dans l'eau stagnante qui remplit une partie du couloir, semblent attendre l'arrivée de quelqu'un. La présence de l'eau stagnante et des têtes de mort rend le lieu particulièrement dangereux. Les rituels anciens qui ont eu lieu ici semblent avoir été sacrés, mais aussi terrifiants.",
     "tags": [
       "couloir",
       "rituels anciens",
       "têtes de mort",
-      "eau stagnante",
-      "tentacules"
+      "tentacules",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

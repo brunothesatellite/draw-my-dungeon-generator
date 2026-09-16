@@ -1,24 +1,23 @@
 {
   "113": {
-    "title": "Salle des Rituels",
-    "description": "Tu te trouves dans une petite salle carrée, aux murs vieillis et aux sols marqués de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les fissures dans les voûtes te donne une atmosphère sinistre. Des piliers robustes soutiennent les voûtes, et les murs sont ornés de têtes de mort et de tentacules qui semblent avoir été sculptés par des mains malveillantes. Une toile d'araignée pend au plafond, ajoutant à l'atmosphère lugubre. L'eau stagnante dans un coin de la salle pourrait être dangereuse. Cette salle est dédiée à des rituels obscurs et est probablement utilisée pour des sacrifices ou des cérémonies initiatiques.",
+    "title": "Salle des Toiles",
+    "description": "La salle est petite et carrée, avec un plafond bas qui semble avoir été peint de motifs de toile d'araignée. La lumière est faible, filtrant à travers des ténèbres qui semblent s'écouler de partout. Les murs vieillis sont recouverts de cercles rituels et de glyphes runiques, qui semblent avoir été gravés par des mains expertes. Des piliers robustes soutiennent le plafond, leurs surfaces lisses et usées par le temps. L'atmosphère est sinistre, accentuée par l'odeur de vieilles toiles et de poussière. Des cercles rituels et des glyphes runiques marquent le sol, indiquant que cette pièce a été utilisée pour des rituels obscurs. L'eau stagnante au fond de la pièce est un danger potentiel, car elle pourrait contenir des créatures indésirables. La toile d'araignée qui recouvre le plafond est dense et semble être un élément central de la pièce, peut-être même un symbole ou un objet de pouvoir.",
     "tags": [
-      "rituels",
-      "sacrifices",
-      "têtes de mort",
-      "tentacules",
-      "salle carrée",
-      "atmosphère sinistre"
+      "rituel",
+      "toile d'araignée",
+      "salle des rituels",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "toile d'araignée",
       "wallDecorations": [
-        "têtes de mort",
-        "tentacules"
+        "cercles rituels",
+        "glyphes runiques"
       ],
       "floorMarkings": [
         "cercles rituels",

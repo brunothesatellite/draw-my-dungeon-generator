@@ -1,13 +1,13 @@
 {
   "41": {
     "title": "Passage Sacré",
-    "description": "Le couloir s'élargit peu à peu, révélant une large galerie rectangulaire aux murs anciens et usés. La lumière naturelle filtre à travers des ouvertures étroites, éclairant les spirales et les marques d'anciennes haches gravées dans le sol. Les colonnes massives et les piliers sculptés de motifs complexes se dressent de partout, créant une atmosphère mystérieuse et sacrée. Un grand autel de pierre occupe le fond, orné de tentes et de crânes suspendus aux murs. Un simple table en bois est placée près de l'autel, sans objet apparent. Les couloirs latéraux sont étroits et menacent de s'effondrer, mais aucun passage n'est visible à l'horizon. Les pièges sont nombreux, prêts à s'abattre sur les intrus imprudents. La galerie semble être un lieu de culte ancien, dédié à une divinité inconnue.",
+    "description": "Le passage sacré s'inscrit dans un mur de pierre ancienne, érodée par le temps et les éons. Sa largeur impressionnante et sa forme rectangulaire invitent à l'exploration. La lumière naturelle filtre à travers des fissures minuscules, créant un éclairage tamisé qui souligne les motifs de spirales et de croix gravés sur le sol. Des colonnes massives, sculptées de motifs complexes, soutiennent le plafond, ajoutant à l'atmosphère mystérieuse. Un grand autel, orné de tentes et de crânes, occupe le centre du passage, symbolisant un espace de culte ancien. Des hatch marks marquent le sol, peut-être des traces d'anciens rituels. Le passage est silencieux, mais on peut sentir une présence ancienne qui plane dans l'air. Les murs sont parsemés de tapisseries et de peintures murales représentant des figures énigmatiques. Les dangers potentiels sont nombreux, avec des pièges dissimulés dans les ombres et des sortes de tentacules qui pourraient surgir de nulle part. Le passage sacré est un lieu de culte, mais aussi un piège mortel.",
     "tags": [
-      "couloir",
-      "sacré",
-      "ancien",
-      "mystère",
-      "rituel"
+      "Passage",
+      "Ancien",
+      "Sacré",
+      "Mystère",
+      "Pièges"
     ],
     "sourceFeatures": {
       "roomSize": "large",

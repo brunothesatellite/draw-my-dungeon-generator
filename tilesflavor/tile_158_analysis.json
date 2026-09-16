@@ -1,13 +1,11 @@
 {
   "158": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine, éclairant de faibles cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, et des cercles de pierre semblent avoir été utilisés pour des rituels anciens. Le sol est marqué de cercles rituels, et des têtes de mort et des tentacules sculptés ornent les murs, ajoutant une atmosphère de mystère et de danger. Des champignons émergent de la roche, leur couleur changeant selon les lueurs qui filtrent à travers les fissures. Le mobilier, vieilli, semble avoir été abandonné depuis longtemps, ajoutant à l'ambiance de décrépitude. À l'entrée, une porte ancienne semble protéger l'accès à cette grotte sacrée. L'eau stagnante au fond de la grotte est un danger à ne pas négliger.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. Les lumières tamisées émanent des champignons qui poussent sur les parois, éclairant la voie avec une lueur diffuse. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'intérieur de la grotte. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. Des bancs de pierre sont disposés le long des murs, probablement pour les pèlerins ou les fidèles. À l'entrée, une porte ancienne, légèrement érodée, semble être le seul moyen d'accès à l'intérieur. L'air est humide et chargé d'une odeur de terre et de champignons. Des traces d'eau stagnante sont visibles sur le sol, rendant la marche difficile. L'atmosphère est mystérieuse et presque sacrée, comme si la grotte était un lieu de culte ancien.",
     "tags": [
-      "Grotte",
-      "Salle de Culte",
-      "Champignons",
-      "Anciens Rituels",
-      "Mystère"
+      "grotte",
+      "champignons",
+      "salle de culte"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

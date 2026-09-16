@@ -1,13 +1,13 @@
 {
   "143": {
-    "title": "Couloir des Anciens",
-    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'eau stagnante qui s'accumule au fond. Des cercles rituels dessinent des motifs mystérieux sur le sol, tandis que des piliers imposants soutiennent le plafond. Le mobilier ancien, usé par le temps, semble avoir été abandonné depuis longtemps, ajoutant à l'atmosphère lugubre et ancienne de l'endroit. Les têtes de mort et les tentacules qui flottent dans l'air créent une ambiance sinistre, rappelant les anciens rituels qui se déroulaient ici. Le couloir semble se terminer dans un trou sombre, laissant entrevoir un mystère encore plus profond.",
+    "title": "Couloir avec un Trou",
+    "description": "Le couloir étroit et rectangulaire semble avoir été creusé à la hâte, les murs sont usés et recouverts de traces de vieilles peintures. Le sol, couvert de cercles rituels, semble avoir été usé par le temps et les pas de nombreux passants. Des piliers massifs, usés par l'humidité, soutiennent le plafond qui menace de s'effondrer. Des traces de vieilles pierres et de mobilier ancien sont encore visibles, témoignant de l'ancienneté de ce lieu. À la fin du couloir, un trou noir et profond attire l'œil, semblant mener à un autre monde. L'atmosphère est mystérieuse et ancienne, comme si le couloir avait gardé des secrets depuis des siècles.",
     "tags": [
       "couloir",
+      "trou",
       "rituels",
-      "têtes de mort",
-      "tentacules",
-      "ancien"
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

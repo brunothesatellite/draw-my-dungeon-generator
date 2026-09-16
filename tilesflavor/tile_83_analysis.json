@@ -1,13 +1,13 @@
 {
   "83": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et carrée, avec des murs usés et des piliers massifs qui soutiennent le plafond voûté. La lumière pénètre à travers une fenêtre étroite, éclairant les cercles rituels gravés au sol. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre et ancienne à la pièce. Un autel central, orné de symboles mystiques, domine la pièce. Une table en bois est placée à l'entrée, prête à être utilisée pour les rituels. L'eau stagnante dans un coin de la salle rend l'endroit dangereux. La seule issue est une fenêtre qui semble être la seule voie pour quitter cette salle sans issue.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et carrée, avec des murs vieillis et usés. Des cercles rituels marquent le sol, et des piliers soutiennent le plafond. Un autel central, orné de tentacules et de têtes de mort, domine la pièce. Une table est placée près de l'autel, et une fenêtre permet une faible lumière. L'atmosphère est sinistre et ancienne, évoquant des sacrifices passés. L'eau stagnante dans un coin ajoute à l'ambiance lugubre. La seule issue est une fenêtre qui semble être la seule voie pour quitter cette salle sans issue.",
     "tags": [
       "rituel",
       "sacrifice",
-      "ancien",
-      "sinistre",
-      "salle"
+      "tête de mort",
+      "tentacules",
+      "salle sans issue"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

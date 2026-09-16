@@ -1,13 +1,13 @@
 {
   "26": {
-    "title": "Canal Sacré des Anciens",
-    "description": "Au cœur de la ville souterraine, un canal d'eau sombre et étroit s'inscrit entre deux murs de pierre ancienne. Le pont en bois, usé par le temps, semble être la seule voie pour traverser ce passage étroit. Les murs, ornés de tentacules et de têtes de mort, racontent des histoires d'anciennes puissances. Des spirales et des lignes gravées dans le sol indiquent un ancien rituel, peut-être sacré. La lumière tamisée émane des colonnes et des piliers, créant une ambiance mystérieuse et presque sacrée. Les murs sont recouverts de peintures sombres représentant des créatures mythiques, ajoutant à l'atmosphère étrange de ce lieu. Les vestiges d'anciennes pierres sculptées et de meubles indiquent que ce canal était autrefois un lieu de culte, peut-être même un sanctuaire. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les créatures qui habitent les profondeurs obscures de la ville.",
+    "title": "Canal d'Eau Sacré",
+    "description": "Le canal d'eau sacré s'inscrit dans un rectangle ancien, ses murs de pierre lisses et usés par le temps. La lumière tamisée émane des torches anciennes plantées ici et là, éclairant les spirales et les lignes gravées sur le sol. Des colonnes et des piliers massifs soutiennent le pont au-dessus du canal, dont les pierres sont usées par l'humidité et le temps. Des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère mystérieuse et ancienne à l'endroit. Des meubles anciens sont disséminés ici et là, laissant entrevoir des secrets enfouis. Le canal, rempli d'eau trouble, semble vivre d'une vie propre, et des créatures énigmatiques peuvent parfois être aperçues dans son eau. Les murs sont parsemés de cercles rituels, et l'air est chargé d'une odeur ancienne et sacrée. Le canal d'eau sacré est un lieu de passage, mais aussi un lieu de pouvoir et de mystère.",
     "tags": [
       "canal",
-      "sacré",
-      "ancien",
-      "rituel",
-      "mystère"
+      "eau",
+      "murs",
+      "pont",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",
@@ -41,7 +41,7 @@
         "ancient"
       ],
       "atmosphere": "mysterious",
-      "roomPurpose": "sacred",
+      "roomPurpose": "sacré",
       "csvDescription": "Canal d'eau entre 2 murs avec pont",
       "tileNumber": 26
     }

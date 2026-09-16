@@ -1,13 +1,13 @@
 {
   "287": {
-    "title": "Grotte des Spirales",
-    "description": "La grotte des Spirales vous accueille dans un espace immense et rectangulaire, dont les murs délabrés et fissurés semblent témoigner d'une époque longtemps oubliée. La faible lumière qui filtre à travers les fissures éclaire les spirales gravées au sol, formant un motif complexe qui semble vouloir vous guider vers un but inconnu. Des colonnes robustes, érodées par le temps, se dressent à l'intérieur, ajoutant à l'atmosphère mystérieuse et étrange de la grotte. Un mystérieux objet, semblant ancien et de valeur, repose au centre de la pièce, entouré de tentacules qui semblent sortir du sol et de l'air, ajoutant une touche de surnaturel à l'ensemble. Les spirales gravées au sol vous attirent inconsciemment vers un abîme profond et sombre qui se trouve au fond de la grotte. L'air est chargé d'une odeur étrange, et l'atmosphère est pesante, comme si la grotte était le témoin d'anciennes cérémonies rituelles.",
+    "title": "Grotte de l'Abîme",
+    "description": "La grotte de l'Abîme est immense, son plafond s'effondre en spirales mystérieuses qui semblent danser sous la faible lumière qui pénètre à travers les fissures. Les murs, délabrés et recouverts de tentacules noirs, semblent vivants, se contractant et se dilatant au gré des battements de vos propres cœurs. Des colonnes robustes, comme des piliers de pierre, se dressent au centre de la grotte, soutenant une structure étrange et ancienne qui semble avoir été utilisée pour des rituels obscurs. Des spirales gravées dans le sol indiquent un passage ancien, peut-être un chemin sacré. L'atmosphère est oppressante, et l'air est chargé d'une odeur de mort et de mystère. Les tentacules noirs, qui semblent attendre, ajoutent une note d'effroi à l'ambiance déjà étrange. La grotte de l'Abîme est un lieu de culte ancien, peut-être un sanctuaire des forces obscures.",
     "tags": [
       "grotte",
+      "abîme",
       "rituel",
-      "spirales",
       "tentacules",
-      "abîme"
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "57": {
-    "title": "Le Couloir des Anciens",
-    "description": "Le couloir s'élargit lentement, révélant une colonne centrale étrange qui semble avoir été sculptée par les mains de l'oubli. Les murs, recouverts de reliefs sculptés et de tentacules, semblent murmurer des secrets millénaires. Des spirales et des croix gravées dans le sol émettent une lumière diffuse, créant une ambiance étrange et menaçante. Les colonnes et les piliers, délabrés par le temps, semblent garder des secrets de l'ancien monde. Les mystérieux symboles et runes gravés sur les murs et le sol ajoutent une touche de mystère à l'atmosphère déjà étrange. Les tentacules qui semblent sortir des murs ajoutent une touche de terreur à l'endroit. Le couloir, bien qu'immense, semble se terminer en un point indéfini, laissant les explorateurs se demander ce qui se trouve au-delà.",
+    "title": "Couloir des Anciennes Colonnes",
+    "description": "Le couloir s'élargit lentement, révélant une colonne ancienne étrange au centre. Les murs, délabrés et recouverts de sculptures énigmatiques, semblent avoir été sculptés par des mains d'âge lointain. Des motifs de spirales et de croix se dessinent sur le sol, formant un tapis de mystère qui guide le regard vers le centre. Les colonnes et les piliers, robustes et imposants, semblent avoir été érigés pour soutenir un poids immense. Des runes anciennes et des symboles mystérieux sont gravés sur les murs, évoquant des secrets millénaires. L'atmosphère est pesante et étrange, comme si le couloir était le passage d'une ancienne civilisation perdue. Les tentacules, visibles ici et là, ajoutent une touche de surnaturel à l'ambiance. Les spirales et les symboles mystérieux sont à la fois fascinants et effrayants, incitant à la curiosité et à la peur.",
     "tags": [
       "couloir",
-      "ancien",
+      "anciennes colonnes",
       "mystère",
-      "tentacules",
-      "rituel"
+      "rituel",
+      "surnaturel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

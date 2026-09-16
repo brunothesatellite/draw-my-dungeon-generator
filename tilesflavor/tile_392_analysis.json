@@ -1,13 +1,13 @@
 {
   "392": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis par le temps. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire des cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. Des cercles rituels sont gravés au sol, et des traces de créatures indiquent que la salle a été utilisée récemment. Le mobilier est ancien et délabré, mais des pièges anciens sont dissimulés dans les recoins. La salle semble avoir été utilisée pour des rituels sombres, et les anciens qui l'ont habitée ont laissé derrière eux des traces indélébiles.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'endroit. Des piliers massifs soutiennent le plafond, et des traces de créatures étranges sont visibles sur le sol. Un autel central, orné de symboles mystiques, domine la pièce. Des pièges anciens sont dissimulés dans les recoins, prêts à s'activer à tout moment. La salle semble avoir été utilisée pour des rituels sacrés, mais son passé obscur laisse entrevoir des secrets inexplorés.",
     "tags": [
       "rituels",
-      "macabre",
-      "vieillie",
-      "salle",
-      "anciens"
+      "sacrés",
+      "têtes de mort",
+      "tentacules",
+      "salle de rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

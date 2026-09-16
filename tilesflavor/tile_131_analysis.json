@@ -1,13 +1,13 @@
 {
   "131": {
-    "title": "Salle des Anciens",
-    "description": "La salle est immense, son plafond voûté s'élève à plusieurs mètres au-dessus de vous. La lumière tamisée filtre à travers des fenêtres brisées, éclairant les murs couverts de peintures sombres et de symboles énigmatiques. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des colonnes imposantes soutiennent la structure. Des cercles de lumière se dessinent sur le sol, indiquant des passages secrets ou des points de pouvoir. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère sinistre. Un squelette, probablement celui d'un ancien maître de la salle, repose au fond de la pièce, son crâne décharné émergeant de l'eau stagnante qui recouvre le sol. La porte murée au fond de la pièce semble être le seul moyen de quitter cette salle, mais elle est fermée et verrouillée. Les têtes de mort et les tentacules peints sur les murs ajoutent une touche macabre à l'ensemble. La salle semble être un lieu de rituel ancien, mais son passé obscur et son état délabré la rendent dangereuse.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "Cette salle ouverte, de taille imposante et de forme rectangulaire, est plongée dans une ambiance sinistre. La lumière tamisée émane des fenêtres brisées, révélant un intérieur délabré et recouvert de traces de vieilles peintures murales. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant l'ancien emplacement d'un autel. Les piliers et colonnes, ornés de motifs complexes, soutiennent une voûte qui semble avoir subi les ravages du temps. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche macabre à l'atmosphère. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Un squelette, probablement celui d'un ancien maître de cérémonie, repose au fond de la pièce, son crâne dégarni et ses os fragiles. Une porte murée, fermée depuis des siècles, semble être le seul moyen d'échapper à cette salle de rituel sacrée. L'eau stagnante, qui a envahi une partie de la pièce, ajoute une touche de danger à l'ensemble. Les murs sont parsemés de têtes de mort et de tentacules, rappelant les anciennes cérémonies qui y ont eu lieu. La salle, bien qu'abandonnée, semble encore garder un lien avec le passé, où des rituels sombres et sacrés ont eu lieu.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituel",
-      "Macabre",
-      "Délavée"
+      "rituel",
+      "macabre",
+      "ancien",
+      "salle ouverte",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

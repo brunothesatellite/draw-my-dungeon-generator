@@ -1,13 +1,13 @@
 {
   "261": {
     "title": "Égout des Sacrifices",
-    "description": "L'égout est étroit et sinueux, avec des courbes imprévisibles qui vous font perdre l'orientation. La lumière est si faible que vous devez vous fier à votre lampe pour avancer. Les murs sont recouverts de cercles rituels, des symboles énigmatiques qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. À l'extrémité de ce passage, une porte massive semble protéger un secret. L'air est saturé d'une odeur nauséabonde, et l'eau stagnante au fond de l'égout vous rappelle que vous n'êtes pas seul. Des têtes de mort et des tentacules émergent parfois du mur, des traces de sacrifices passés. La salle de rituel semble être le but de ce passage, mais la porte est fermée et semble être gardée par une force indéfinissable.",
+    "description": "L'égout est étroit et sinueux, avec des parois rugueuses et des plafonds bas. La lumière est faible, filtrant à travers des éclairs de pluie qui tombent de la voûte. Les murs sont recouverts de cercles rituels anciens, des symboles de puissance et de mystère. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. À l'entrée, une table en bois usée est posée, avec des cercles de sang séché dessus. À droite, une porte en bois sombre est fermée par une serrure rouillée. L'égout est rempli d'eau stagnante, où flottent des débris et des restes de sacrifices anciens. L'atmosphère est sinistre, avec un bruit sourd et régulier de l'eau qui coule et des échos de pas lointains.",
     "tags": [
-      "épouvantable",
+      "égoïsme",
       "rituel",
       "sacrifice",
-      "épave",
-      "épouvante"
+      "égoïsme",
+      "égoïsme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

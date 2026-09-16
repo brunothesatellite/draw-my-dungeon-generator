@@ -1,13 +1,13 @@
 {
   "344": {
-    "title": "Passages Souterrains Sacrés",
-    "description": "Les corridors de grotte s'enfoncent dans l'obscurité, leurs parois rugueuses et couvertes de spirales et de croix gravées. La lumière diffuse et diffuse donne une ambiance étrange à l'endroit, rendant chaque pas un défi à l'exploration. Les colonnes et les piliers anciens, sculptés de motifs complexes, semblent veiller sur les visiteurs. Des objets mystérieux, dont la nature est inconnue, sont disséminés ici et là, ajoutant à l'atmosphère énigmatique. Les tentacules et les têtes de mort, suspendus aux murs, rappellent l'ancienneté et la puissance de ce lieu. Des créatures fantomatiques, visibles à peine, glissent parfois le long des parois, ajoutant une note de peur à l'exploration. Les sorties semblent inconnues, et les pièges enchantés risquent de se déclencher à tout moment. Cette grotte sacrée, ancienne et mystérieuse, semble garder des secrets profonds et des pouvoirs inexplorés.",
+    "title": "Passages Sinueux de la Grotte Sacrée",
+    "description": "Les corridors de la grotte sinueuse s'entrelacent comme des tentacules, évoquant l'ancienne puissance qui les habite. La lumière diffuse et diffuse, filtrant à travers les épaisses parois rocheuses, crée une ambiance étrange et mystérieuse. Les sols sont marqués de spirales et de croix, des symboles anciens qui semblent avoir été gravés il y a des milliers d'années. Les colonnes et les piliers, robustes et massifs, soutiennent le plafond de la grotte, tandis que des objets mystérieux sont disséminés un peu partout, leur nature et leur origine restant un mystère. Des apparitions fantomatiques, des ombres floues, semblent errer dans les couloirs, ajoutant une touche d'effroi à l'atmosphère déjà étrange. Les passages s'ouvrent sur des sorties inconnues, des entrées qui semblent mener à des endroits inexplorés. Des pièges enchantés sont dissimulés dans les recoins, prêts à se déclencher sur les explorateurs imprudents. La grotte sacrée est un lieu de culte ancien, où les anciens pratiquaient des rituels et des sacrifices, et où les forces obscures sont toujours présentes. Les tentacules et les têtes de mort, sculptés dans les parois, racontent l'histoire de cette ancienne puissance qui continue de se manifester dans les couloirs sinueux de la grotte.",
     "tags": [
-      "Ancien",
-      "Sacré",
-      "Mystère",
-      "Grotte",
-      "Passage"
+      "corridors",
+      "grotte",
+      "sacrée",
+      "ancien",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

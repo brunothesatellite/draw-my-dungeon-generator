@@ -1,13 +1,13 @@
 {
   "262": {
     "title": "L'Égout Sacré",
-    "description": "Dans l'ombre de l'ancienne cité, un égout se creuse lentement vers le bas, son mur irrégulier et sa lumière sombre révélant des traces de l'âge ancien. Des colonnes majestueuses, sculptées de motifs complexes, se dressent à intervalles réguliers, guidant le regard vers un altar central, éclairé par une faible lueur. Des tapisseries, tissées de fils sombres, sont suspendues aux murs, ornées de tentes et de crânes, rappelant les anciens rituels. Le sol, marqué d'un spirale mystérieuse, semble inviter à la découverte. À chaque pas, le silence est rompu par le grincement des pierres et le murmure des eaux qui coulent en bas. L'atmosphère est pesante, chargée d'une énigme ancienne, et chaque coin cache un secret potentiel. Les murs, usés par le temps, semblent murmurer des secrets secrets, et le coffre, posé au fond de l'égout, semble attendre son ouverture.",
+    "description": "Dans l'obscurité étouffante de l'égout sacré, les murs anciens sont parsemés de têtes de mort et de tentes, témoignant de l'ancienne vénération qui régnait ici. Le sol, marqué d'un spiral complexe, semble guider le regard vers un coffre encastré dans le mur, protégé par une barrière de pierre. Les colonnes massives, sculptées de motifs mystérieux, ajoutent à l'atmosphère énigmatique de ce lieu. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies, et la lumière tamisée émane des torches éteintes qui dorment dans les coins. L'égout sacré est un passage ancien, rempli de mystères et de secrets, où les anciens pratiquaient des rituels sacrés. Les spirales gravées dans le sol semblent indiquer un passage vers un autre monde, mais les dangers qui y attendent sont nombreux. Les murs sont parsemés de têtes de mort et de tentes, rappelant les sacrifices anciens. Le coffre, bien que fermé, semble garder des secrets précieux, peut-être même des objets sacrés. Les colonnes massives et les motifs mystérieux ajoutent à l'atmosphère énigmatique de ce lieu. Les têtes de mort et les tentes rappellent les sacrifices anciens, tandis que les spirales gravées dans le sol indiquent un passage vers un autre monde. Les dangers qui y attendent sont nombreux, mais les secrets qui y sont cachés sont nombreux aussi.",
     "tags": [
-      "égaré",
-      "sacré",
-      "ancien",
-      "épouvantable",
-      "mystère"
+      "épave",
+      "sacrifice",
+      "rituel",
+      "sépulture",
+      "épave sacrée"
     ],
     "sourceFeatures": {
       "roomSize": "large",

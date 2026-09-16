@@ -1,13 +1,13 @@
 {
   "107": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, une voie étroite qui semble avoir été creusée par les mains des dieux eux-mêmes. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Des têtes de mort et des tentacules émergent des ombres, ajoutant une touche d'effrayante réalité à l'atmosphère sinistre. Des piliers massifs soutiennent le plafond, tandis qu'une table ancienne, usée par le temps, se trouve au centre du passage. L'eau stagnante, noire et trouble, s'accumule au fond du passage, formant un mur de glace qui semble vivre. À chaque pas, le sol résonne sous vos pieds, et vous pouvez sentir l'ancienne magie qui plane dans l'air. À l'extrémité du passage, une porte massive semble attendre, menant à un mystère encore plus profond.",
+    "title": "Couloir des Sacrifices",
+    "description": "Le couloir est étroit et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, émanant d'une source lointaine, ce qui ajoute à l'atmosphère sinistre. Des cercles rituels sont gravés au sol, marquant le passage. Des piliers massifs soutiennent le plafond, et une table ancienne est posée au milieu du couloir. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre. À l'extrémité du couloir, une porte menant à une autre pièce est visible. L'eau stagnante au sol rend le passage dangereux. Cette ancienne salle de rituel semble avoir été utilisée pour des sacrifices, et les traces de vieilles cérémonies sont encore visibles.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Rituels",
-      "Tentacules",
-      "Squelette"
+      "rituel",
+      "macabre",
+      "sacrifice",
+      "vieillie",
+      "couloir"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

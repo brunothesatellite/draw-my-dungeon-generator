@@ -1,13 +1,13 @@
 {
   "433": {
     "title": "Salle de Formation Sacrée des Archers",
-    "description": "Cette vaste salle rectangulaire, éclairée par une faible lumière tamisée, révèle un sol humide et marqué de spirales et de croix. Les colonnes massives et les piliers sculptés donnent une impression de solennité à l'endroit. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'effrayante mystique. Des pièges et du mobilier ancien sont disséminés dans la salle, prêts à accueillir les archers qui s'y entraînent. Le silence est presque total, rompu seulement par le murmure des archers qui s'entraînent à l'ombre de l'altare sacré, où des anciennes runes brillent sous la faible lumière. La salle est un lieu de formation sacrée, où les archers apprennent à maîtriser leur art sous la surveillance attentive des dieux de la chasse.",
+    "description": "Cette vaste salle rectangulaire, éclairée par une faible lumière tamisée, semble avoir été conçue pour la formation des archers. Les murs, humides et couverts de tâches de verdure, sont ornés de tentacules et de têtes de mort, rappelant une ancienne cérémonie sacrée. Des spirales et des croix sont gravées sur le sol, marquant des emplacements stratégiques pour les archers. Des colonnes et des piliers majestueux soutiennent le plafond, ajoutant à l'atmosphère mystérieuse de la pièce. Des pièges et des pièces de mobilier sont disséminés à travers la salle, prêts à accueillir les archers qui s'y entraînent. Un pit dangereux se trouve au centre de la pièce, ajoutant une touche de danger à l'entraînement. La salle, bien que sacrée, semble être un lieu de formation pour archers, où les anciens secrets de la cérémonie sont maintenus en vie.",
     "tags": [
-      "Salle de Formation",
-      "Archers",
-      "Sacrée",
-      "Mystique",
-      "Anciens"
+      "formation",
+      "archers",
+      "salle sacrée",
+      "tentacules",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

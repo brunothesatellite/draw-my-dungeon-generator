@@ -1,13 +1,13 @@
 {
   "151": {
-    "title": "Grotte des Anciens",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol. Des piliers majestueux se dressent au centre, soutenant une structure ancienne qui semble avoir été utilisée pour des rituels. Des têtes de mort et des tentacules étranges sont gravés sur les murs, ajoutant une atmosphère sinistre à l'endroit. Des cercles rituels sont gravés dans le sol, marquant l'ancien espace de culte. Le mobilier ancien est disséminé autour de la grotte, témoignant de l'ancienne civilisation qui l'habitait. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. La grotte est un lieu de culte, où les anciens pratiquaient des rituels sombres et mystiques.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. Les lumières naturelles sont faibles, filtrant à travers des fentes minuscules dans le plafond. Des champignons de toutes les couleurs poussent sur les parois, leurs têtes émergeant des crevasses et des fissures. Des cercles rituels sont gravés dans le sol, entourés de motifs de spirales et de cercles concentriques. Des piliers de pierre soutiennent le plafond, leurs surfaces usées par le temps. Des traces de pas anciens sont visibles sur le sol, indiquant que des créatures ont déjà exploré ce lieu. Les murs sont recouverts de vieilles peintures et de dessins, certains effacés par le temps, d'autres encore bien préservés. Des objets anciens, tels que des tonneaux et des ustensiles de cuisine, sont disséminés un peu partout, témoignant de l'occupation ancienne de ce lieu. Les pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. L'atmosphère est sinistre, avec un bruit sourd et lointain qui semble provenir de l'intérieur de la grotte. La grotte est destinée à des rituels, et les cercles gravés dans le sol sont probablement utilisés pour ces cérémonies. Les champignons, bien que pittoresques, sont également des indices potentiels de la présence de sorts ou de magie ancienne.",
     "tags": [
-      "Grotte",
-      "Anciens",
-      "Rituels",
-      "Champignons",
-      "Têtes de Mort"
+      "grotte",
+      "champignons",
+      "rituels",
+      "anciens",
+      "salle de rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

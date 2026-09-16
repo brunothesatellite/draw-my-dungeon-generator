@@ -1,13 +1,13 @@
 {
   "99": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, une voie étroite qui semble avoir été creusée par les mains des dieux eux-mêmes. Ses murs, couverts de têtes de mort et de tentacules, racontent des histoires d'horreur et de mystère. Le sol, marqué de cercles rituels, semble inviter les explorateurs à se perdre dans un cycle infernal. Les piliers majestueux, sculptés de motifs complexes, semblent garder des secrets millénaires. Le passage est faiblement éclairé, la lumière tamisée accentuant l'atmosphère sinistre. L'eau stagnante au fond du couloir est un danger à ne pas sous-estimer. À chaque pas, les murs murmurent des histoires de sacrifices et de rituels obscurs. Les explorateurs doivent être prudents, car le passage est parsemé de pièges et de créatures malveillantes. À la fin du couloir, une porte murée semble être le seul moyen de continuer, mais elle est fermée et verrouillée. Que cache-t-elle derrière ?",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels émaillent le sol, marquant le passage d'anciennes cérémonies. Les piliers massifs, usés par le temps, soutiennent le plafond voûté qui semble menacer de s'effondrer à tout moment. Le mobilier ancien, délabré, est disséminé le long du couloir, ajoutant à l'atmosphère lugubre. La faible lumière qui filtre à travers les fissures du plafond éclaire les murs et les objets, révélant des traces de sang séché qui semblent avoir été récemment nettoyées. À l'horizon, une porte murée semble être le seul moyen de sortir de ce lieu sinistre. L'eau stagnante qui s'accumule au fond du couloir est un danger à ne pas sous-estimer.",
     "tags": [
       "couloir",
       "rituel",
-      "sacrifice",
-      "tête de mort",
-      "tentacules"
+      "ancien",
+      "sinistre",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

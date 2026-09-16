@@ -1,13 +1,13 @@
 {
   "73": {
     "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. La faible lumière qui pénètre à travers les voiles déchirés ajoute à l'atmosphère mystérieuse et ancienne de la pièce. Les piliers massifs soutiennent les murs, et les têtes de mort et les tentacules peints sur les murs racontent des histoires d'horreur et de sacrifice. Un coffre et un baril sont visibles dans un coin, mais aucun objet ne semble y être placé. L'eau stagnante au sol est un danger à ne pas négliger. Cette salle est dédiée à des rituels anciens et mystiques.",
+    "description": "Dans cette petite salle carrée, la lumière faible et la poussière qui danse dans l'air donnent une ambiance mystérieuse et ancienne. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un coffre en bois sombre et un baril de cuir sont posés au centre de la pièce, semblant attendre leur ouverture. L'eau stagnante dans un coin de la salle ajoute à l'atmosphère lugubre. Cette salle était autrefois un lieu de rituels, mais aujourd'hui, elle semble abandonnée et mystérieuse.",
     "tags": [
-      "Salle",
-      "Rituels",
-      "Anciens",
-      "Mystère",
-      "Horreur"
+      "rituels",
+      "anciens",
+      "salle",
+      "coffre",
+      "baril"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

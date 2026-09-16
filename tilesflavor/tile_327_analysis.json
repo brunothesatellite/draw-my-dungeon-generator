@@ -1,12 +1,12 @@
 {
   "327": {
-    "title": "L'Abîme Éclaboussé",
-    "description": "Vous vous trouvez dans un espace étroit et déformé, où les murs se courbent et les sols s'effondrent parfois sous vos pieds. La lumière est si faible que vous ne pouvez distinguer que les contours des objets qui vous entourent. Le sol est marqué de cercles rituels et de glyphes runiques, comme si quelqu'un avait tenté de communiquer avec les forces obscures qui règnent ici. Des piliers et des statues anciennes se dressent ici et là, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Le mobilier ancien semble avoir été abandonné depuis longtemps, et des pièges anciens sont dissimulés dans les recoins les plus sombres. L'air est chargé d'une odeur de poussière et de mystère, et vous pouvez sentir l'écho de pas lointains qui résonne dans les profondeurs de cet abîme.",
+    "title": "Abîme Éclaboussé",
+    "description": "L'abîme étend ses flots tumultueux au cœur de cette petite grotte irrégulière. Les murs, usés par le temps, sont parsemés de cercles rituels et de glyphes runiques, évoquant une ancienne cérémonie. Des piliers et des statues, vieillies, se dressent comme des gardiens silencieux. Le sol, marqué de cercles rituels et de glyphes, semble avoir été témoin de rituels anciens. Le faible éclairage naturel, filtré par les éclaboussures d'eau, ajoute à l'atmosphère mystérieuse et ancienne de ce lieu. Mobilier ancien et objets de culte sont disséminés ici et là, témoignant d'une utilisation ancienne pour des rituels ou des stockages. Les pièges anciens, bien que invisibles, sont toujours prêts à se déclencher. L'abîme, avec ses éclaboussures, semble toujours prêt à avaler tout ce qui s'aventure trop près.",
     "tags": [
       "abîme",
-      "éclaboussé",
+      "éclaboussure",
+      "rituels anciens",
       "salle de culte",
-      "vieillie",
       "mystérieuse"
     ],
     "sourceFeatures": {

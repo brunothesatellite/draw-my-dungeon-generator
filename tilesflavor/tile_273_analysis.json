@@ -1,13 +1,13 @@
 {
   "273": {
-    "title": "Égout des Anciens",
-    "description": "Vous vous trouvez dans un égout ancien, étroit et sombre, avec quatre grilles métalliques au bout de chaque passage. La lumière est faible, révélant des murs vieillis et des plafonds bas. Des cercles rituels sont gravés au sol, marquant un chemin ancien. Des piliers et des statues de pierre ornent les murs, ajoutant à l'atmosphère mystérieuse et ancienne. Des têtes de mort et des tentacules sont suspendus aux murs, rappelant l'ancienne puissance qui réside ici. La tenture et le mobilier, usés par le temps, ajoutent une touche de vie à ce lieu oublié. L'eau stagnante au fond de l'égout vous rappelle que vous n'êtes pas seul, et que des pièges peuvent vous attendre. Cette salle carrée, petite et vieillie, est un lieu de culte ou de rituel, où les anciens pratiquaient leurs cérémonies. Les grilles au bout de chaque passage vous invitent à explorer, mais avec prudence.",
+    "title": "Égout aux Grilles",
+    "description": "L'égout, étroit et tortueux, est recouvert de quatre grilles métalliques rouillées. Les murs, usés par le temps, sont recouverts de têtes de mort et de tentacules qui semblent avoir échoué ici. Des cercles rituels sont gravés dans le sol, marquant un passage ancien. Des piliers et des statues de pierre émergent de l'ombre, ajoutant à l'atmosphère mystérieuse et ancienne. Des tentures et du mobilier ancien sont disséminés un peu partout, témoignant d'une utilisation ancienne. L'eau stagnante au fond de l'égout est un danger à ne pas négliger. La salle est petite et carrée, avec un plafond bas qui accentue l'effet de confinement. Les murs sont vieillis, et les grilles, rouillées, ajoutent une touche de délabrement à l'ensemble. Les cercles rituels et les tentacules évoquent une histoire ancienne et mystérieuse, rendant l'égout un lieu à la fois fascinant et dangereux.",
     "tags": [
       "épave",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancien"
+      "ancien",
+      "épave",
+      "épave"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

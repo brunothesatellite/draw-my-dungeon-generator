@@ -1,13 +1,13 @@
 {
   "437": {
-    "title": "La Rivière Sacrée",
-    "description": "La rivière, large et tortueuse, coule lentement entre les murs de pierre qui l'entourent. Les eaux sombres et stagnantes reflètent les ombres des colonnes et des piliers qui se dressent à intervalles irréguliers. Des spirales et des lignes dessinent des motifs mystérieux sur le sol, semblant guider le regard vers un grand cercle au centre de la pièce. L'air est humide et chargé d'une atmosphère étrange, presque palpable. Des tentacules et des têtes de mort sont gravées dans les murs, ajoutant à l'aura sacrée et sinistre de l'endroit. Un autel, étrangement intact malgré l'humidité, semble être le point focal de cette pièce, destinée à des rituels obscurs. Les eaux de la rivière sont dangereuses, et les runes gravées sur les murs indiquent que les eaux sont chargées de pouvoirs secrets. Les spirales et les lignes sur le sol semblent être des guides pour ceux qui osent approcher de l'autel central.",
+    "title": "Rivière Sacrée",
+    "description": "La rivière sacrée coule lentement, ses eaux sombres reflétant les colonnes et les piliers qui la bordent. Des spirales et des lignes dessinent des motifs mystérieux sur le sol, tandis que des tentacules et des tapisseries ornées de tentacules flottent dans l'air. L'atmosphère est dense et humide, accentuée par les échos de l'eau qui frappe contre les parois. Un autel, orné de runes et de glyphs, se dresse au centre de la rivière, comme si il était destiné à recevoir des offrandes. Les colonnes et les piliers, robustes et imposants, semblent avoir été sculptés par les mains des anciens, leurs formes évoquant des créatures mythiques. La rivière sacrée est un lieu de culte, un sanctuaire où les rituels sont célébrés et où les secrets les plus profonds de l'univers sont gardés.",
     "tags": [
-      "Rivière",
-      "Salle des Rituels",
-      "Mystère",
-      "Sacrifices",
-      "Pouvoirs Secrets"
+      "rituel",
+      "sacrifice",
+      "mythique",
+      "sombre",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

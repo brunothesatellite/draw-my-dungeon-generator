@@ -1,12 +1,12 @@
 {
   "307": {
-    "title": "Abîme Murmurant",
-    "description": "Devant toi s'ouvre un abîme sombre, une fissure étroite dans le mur de la grotte. L'air humide et froid pénètre dans ton esprit, te donnant l'impression que tu es en présence d'une puissance ancienne et malveillante. Les spirales gravées dans le sol te guident vers le centre de l'abîme, où un bassin sombre et étroit semble t'attendre. Les colonnes massives qui soutiennent le plafond semblent vieillies par le temps, leurs pierres ébréchées et usées. Un objet mystérieux repose au fond de l'abîme, son contour indistinct et son pouvoir inconnu. L'atmosphère est étrangement calme, mais l'air est chargé d'une tension inquiétante. Tu sens que quelque chose t'observe, un fantôme ou un esprit ancien, prêt à te révéler son secret s'il te le permet. Les eaux de l'abîme sont dangereuses, et un simple mouvement peut les faire bouillir et te piéger dans leur tourbillon.",
+    "title": "Abîme Mur de Grotte",
+    "description": "Devant vous s'ouvre un abîme sombre, creusé dans le mur d'une grotte. Les parois rugueuses de la grotte sont parsemées de tentacules noirs qui semblent se mouvoir lentement, comme s'ils cherchaient à vous attirer. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le fond de l'abîme. Des colonnes majestueuses, sculptées de motifs énigmatiques, soutiennent le plafond de la grotte. Un objet mystérieux, émanant d'une étrange lueur, repose au fond de l'abîme, son naturel inconnu. L'atmosphère est oppressante et étrangement calme, comme si le lieu était gardé par une force invisible. Les murs humides et froids résonnent d'échos lointains, et l'air est chargé d'une odeur de terre et d'humidité. Le seul espoir de quitter ce lieu est de trouver un moyen de traverser l'abîme, mais les tentacules et les spirales indiquent que cela pourrait être plus facile à dire qu'à faire.",
     "tags": [
       "abîme",
       "grotte",
       "rituel",
-      "mystère"
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

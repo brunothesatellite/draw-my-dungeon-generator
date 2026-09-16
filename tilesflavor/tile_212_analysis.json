@@ -1,13 +1,12 @@
 {
   "212": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec deux colonnes massives qui semblent avoir été sculptées par les mains de l'oubli. La lumière pénètre à peine à travers les fenêtres brisées, créant un halo de mystère autour de la pièce. Les murs vieillis montrent des traces de peintures anciennes, maintenant indéchiffrables. Des cercles rituels sont gravés dans le sol, entourant une table en marbre qui semble avoir été utilisée pour des cérémonies passées. La porte en bois, légèrement ouverte, laisse filtrer un souffle de fraîcheur froide. L'atmosphère est pesante, comme si la salle gardait le secret des temps anciens. Des traces de pas sont visibles sur le sol, indiquant que quelqu'un a récemment visité ce lieu. L'eau stagnante dans un coin ajoute à l'ambiance lugubre de la pièce.",
+    "title": "Salle des Cercles",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les colonnes vieillies. Les piliers et les colonnes, robustes et usées, semblent avoir été sculptés à la main, leurs surfaces lisses et lisses. Sur le sol, des cercles rituels sont gravés, marquant un espace sacré. Un autel, ancien et usé, se dresse au centre de la pièce, entouré de têtes de mort et de tentacules qui semblent avoir été sculptés dans le marbre. Un table, simple et ancienne, est placée près de l'autel, sans doute pour les rituels. La porte ouverte au fond laisse entrevoir une eau stagnante qui semble avoir envahi la pièce, créant un danger potentiel. L'atmosphère est mystérieuse et ancienne, comme si la salle avait été utilisée pour des rituels sacrés il y a des siècles.",
     "tags": [
       "rituel",
       "ancien",
-      "secretaire",
-      "salle",
-      "colonne"
+      "sacrifice",
+      "salle des cercles"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "mystérieuse et ancienne",
+      "atmosphere": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Salle ouverte avec 2 colonnes",
       "tileNumber": 212

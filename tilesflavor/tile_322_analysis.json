@@ -1,13 +1,13 @@
 {
   "322": {
-    "title": "L'Abîme des Champignons",
-    "description": "Dans l'obscurité qui règne dans l'abîme, les ombres se mêlent aux formes étranges qui se profilent sur les parois. Des champignons géants, étranges et lumineux, poussent sur les murs et les sols, émettant une lueur faible qui éclaire partiellement le lieu. Des spirales mystérieuses gravées dans le sol semblent indiquer un chemin à suivre, mais leur destination reste un mystère. Des colonnes majestueuses, ornées de tentacules, se dressent à l'intérieur, ajoutant à l'atmosphère sinistre de l'endroit. Les parois sont recouvertes de tentacules qui semblent vivants, se balançant doucement dans l'air. L'humidité qui imprègne l'air rend l'endroit humide et froid. Les exits semblent inconnus, et les dangers potentiels sont nombreux. L'abîme est un lieu de mystère, où chaque coin cache un secret qui pourrait être fatal.",
+    "title": "Abîme des Champignons",
+    "description": "Vous vous trouvez au cœur d'un abîme sombre et mystérieux, où les parois sont recouvertes de champignons étranges et lumineux. Le sol, marqué d'un spiral complexe, semble glissant et humide, reflétant la faible lumière qui pénètre à travers les ténèbres. Des colonnes majestueuses, comme des piliers de pierre, se dressent à intervalles réguliers, ajoutant une touche de majesté à cette atmosphère lugubre. Les tentacules de mystère, visibles sur les parois, semblent attendre quelque chose, ou quelqu'un. L'abîme est immense, et vous ne savez pas où il se termine, mais vous sentez une présence indéfinissable qui plane dans l'air. Les champignons émettent une lueur faible, créant un étrange équilibre entre la lumière et l'obscurité. Les exits semblent inconnus, et les dangers potentiels sont nombreux. L'abîme des Champignons est un lieu de mystère et de peur, où chaque pas peut vous mener à une destinée inconnue.",
     "tags": [
       "abîme",
       "champignons",
-      "tentacules",
       "mystère",
-      "humidité"
+      "obscurité",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

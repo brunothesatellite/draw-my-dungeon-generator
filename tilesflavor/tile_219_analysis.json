@@ -1,13 +1,13 @@
 {
   "219": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "Vous pénétrez dans une salle immense, aux murs couverts de spirales et de croix gravées. La lumière tamisée émane des colonnes massives qui soutiennent le plafond voûté. Des tâches de couleur sombre ornent le sol, formant des motifs complexes. Des objets mystérieux sont disséminés un peu partout, leur nature indéchiffrable. Des tentacules et des têtes de mort sont suspendues aux murs, ajoutant une atmosphère sinistre à l'endroit. La salle semble avoir été utilisée pour des rituels anciens, et des traces de présence fantomatique flottent dans l'air. Les coffres en bois sombre sont fermés, mais leur contenu reste un mystère. Des pièges enchantés sont dissimulés dans les recoins, prêts à vous piéger.",
+    "title": "Salle aux Coffres",
+    "description": "La salle est immense et rectangulaire, avec un sol marqué de spirales et de croix anciennes. La lumière y est faible, créant une ambiance mystérieuse et étrange. Les murs sont ornés de colonnes et de pilastres, et des tentacules et des têtes de mort sont suspendues aux murs, ajoutant une touche macabre à l'atmosphère. Au centre de la pièce, quatre petites coffres sont visibles, fermées et mystérieuses. Des objets étranges et inconnus sont disséminés un peu partout, rendant la pièce encore plus intrigante. Des traces de créatures éphémères flottent dans l'air, et des pièges enchantés sont dissimulés dans les coins les plus sombres. La salle semble être un lieu sacré, mais son ancien usage est inconnu.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Mystère",
-      "Rituels",
-      "Tentacules"
+      "salle",
+      "coffres",
+      "ancien",
+      "mystère",
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

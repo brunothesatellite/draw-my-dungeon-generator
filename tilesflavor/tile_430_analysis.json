@@ -1,13 +1,13 @@
 {
   "430": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La chambre sacrée des Anciens est une salle longue, dont les portes doubles sont ouvertes, révélant un espace rectangulaire aux murs décrépits. Le sol est marqué de spirales et de lignes, et des colonnes majestueuses se dressent à l'intérieur, soutenant un plafond voûté. Des statues étranges, dont les visages sont masqués par des masques mystérieux, sont alignées le long des murs. Les murs sont ornés de tentacules et de têtes de mort, ajoutant une atmosphère sinistre à l'ensemble. Au centre de la pièce, un tapis est étendu, et des symboles énigmatiques y sont gravés. La lumière tamisée émane des fenêtres hautes, créant un éclairage diffuse qui rend l'endroit encore plus mystérieux. Des figures fantomatiques flottent dans l'air, ajoutant une touche d'effroi à l'atmosphère. Les runes enchantées disséminées sur le sol et les murs sont des dangers potentiels à ne pas négliger. Cette chambre sacrée est le cœur du donjon, un lieu où les rituels anciens sont célébrés et où les secrets les plus profonds de l'univers sont gardés.",
+    "title": "Salle Sacrée des Ancêtres",
+    "description": "La salle est longue et rectangulaire, avec une porte double ouverte au centre. Le tapis au centre est délavé, mais les motifs de spirales et de lignes dessinent encore des formes énigmatiques. Les colonnes et les statues, bien que délabrées, gardent une aura de mystère. La lumière est faible, créant une ambiance étrange et presque sacrée. Des tentacules et des têtes de mort ornent les murs, ajoutant une touche macabre à l'atmosphère. Des runes mystérieuses sont gravées sur le sol, et des figures fantomatiques flottent dans l'air, rendant l'endroit encore plus inquiétant. Les colonnes et les statues, bien que vieilles, semblent garder des secrets anciens. Les runes enchantées et les pièges dissimulés dans les murs et le sol rendent cette salle un lieu à éviter à tout prix.",
     "tags": [
       "salle sacrée",
-      "rituels anciens",
-      "têtes de mort",
+      "ancêtres",
+      "mystère",
       "tentacules",
-      "statues mystérieuses"
+      "sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "large",

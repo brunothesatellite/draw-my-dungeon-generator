@@ -1,13 +1,12 @@
 {
   "152": {
-    "title": "Grotte des Anciens",
-    "description": "Dans l'obscurité de cette grotte, les ombres des anciens se profilent sur les parois. Les champignons émergent de la terre, leurs têtes émergentes semblant observer les visiteurs. Un aventurier pauvre, épuisé par ses aventures, repose contre un pilier, son souffle léger et son regard vide. La grotte est petite et irrégulière, avec des murs vieillis et des traces de vieilles cérémonies. Des cercles rituels marquent le sol, et des piliers et colonnes anciennes se dressent comme des gardiens silencieux. Le mobilier ancien est disséminé autour, ajoutant à l'atmosphère mystérieuse et menaçante de ce lieu. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à cette ancienne salle de culte.",
+    "title": "Grotte des Champignons et de l'Aventurier Pauvre",
+    "description": "La grotte est étroite et sinueuse, avec des parois irrégulières et des formations rocheuses qui semblent avoir été façonnées par l'érosion. La lumière pénètre à peine à travers des fentes minuscules, créant un halo de faible éclat qui éclaire les champignons qui poussent en abondance sur les murs et le sol. Un pauvre aventurier, vêtu de vêtements usés et couvert de poussière, semble avoir trouvé refuge ici, son visage marqué par l'effort et la fatigue. Les piliers et les colonnes de la grotte sont vieillies, leurs surfaces recouvertes de mousse et de lichens. Des cercles rituels sont gravés dans le sol, semblant avoir été utilisés pour des rituels ou des cultes. Le mobilier ancien, usé et délabré, est disséminé un peu partout, ajoutant à l'atmosphère mystérieuse et menaçante de la grotte. L'eau stagnante, noire et trouble, remplit une partie de la grotte, créant un danger potentiel pour les explorateurs. L'ambiance est pesante, comme si la grotte était gardée par des forces obscures.",
     "tags": [
       "grotte",
-      "rituels",
-      "anciens",
-      "mystère",
-      "aventurier"
+      "champignons",
+      "aventurier",
+      "pauvre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -36,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "mystérieuse et menaçante",
+      "atmosphere": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Grotte avec champignons et aventurier pauvre",
       "tileNumber": 152

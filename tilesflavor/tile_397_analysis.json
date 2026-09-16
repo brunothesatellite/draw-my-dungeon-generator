@@ -1,13 +1,13 @@
 {
   "397": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est une structure circulaire, vieillie et délabrée, dont les murs sont recouverts de cercles rituels. Le sol est marqué de ces mêmes symboles, formant un cercle parfait au centre. Des piliers massifs soutiennent la voûte, et le mobilier ancien est réparti autour de la pièce, ajoutant à l'atmosphère mystérieuse. La lumière est faible, filtrant à travers des fenêtres brisées, créant un éclairage tamisé qui met en valeur les têtes de mort et les tentacules suspendus aux murs. Un système mécanique complexe est intégré au plafond, permettant de tourner le couloir qui s'ouvre au centre de la salle. L'eau stagnante recouvre le sol, ajoutant une touche de danger à l'atmosphère menaçante de la pièce. Cette salle est destinée à des rituels ou des cultes, et les traces de pièges dissimulés dans les murs et le sol indiquent que ceux qui y pénètrent doivent être prudents.",
+    "title": "Salle Circulaire à Système Mécanique",
+    "description": "La salle circulaire est étroite et irrégulière, éclairée par une faible lumière qui se répand dans l'air poussiéreux. Les murs vieillis sont ornés de piliers robustes, et au centre de la pièce, un autel circulaire est entouré de cercles rituels. Des cercles de lumière émergent des murs, semblant indiquer un ancien rituel. Le sol est marqué de symboles anciens, et des objets anciens sont disséminés un peu partout, ajoutant à l'atmosphère mystérieuse et menaçante. Un système mécanique complexe est intégré dans le sol, permettant à un couloir secret de tourner lentement. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre. La salle semble être un lieu de rituels ou de culte, et le système mécanique pourrait être utilisé pour activer des sorts ou des mécanismes secrets.",
     "tags": [
       "rituel",
-      "culte",
-      "salle circulaire",
       "système mécanique",
-      "eau stagnante"
+      "salle circulaire",
+      "mystérieuse",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

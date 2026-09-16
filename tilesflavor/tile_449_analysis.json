@@ -1,13 +1,13 @@
 {
   "449": {
-    "title": "Couloir des Anciens",
-    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, érodée par le temps et les éons. Les murs, ornés de tentacules et de têtes de mort, semblent veiller sur les cercueils qui reposent dans des alcôves aux parois lisses et lisses. Des spirales gravées dans le sol évoquent un ancien rituel, tandis que des colonnes et des piliers majestueux ajoutent à l'atmosphère mystérieuse et étrange. Les tables et chaises, dépourvues de tout usage, semblent témoigner d'une époque longtemps passée. Le couloir est sombre, éclairé seulement par une lueur diffuse qui semble provenir d'un point indéterminé, rendant l'endroit encore plus inquiétant. Les cercueils, bien que vides, semblent garder des secrets bien gardés, et les tentacules et têtes de mort ajoutent une touche d'horreur à l'atmosphère. Les esprits des anciens, visibles sous forme de figures fantomatiques, errant dans l'ombre, ajoutent une touche de mystère à l'endroit. Les enchanteurs de pièges sont prêts à se déclencher à tout moment, rendant le passage dangereux pour les explorateurs non avertis.",
+    "title": "Couloir des Cercueils",
+    "description": "Le couloir s'étend devant vous, large et rectangulaire, ses murs anciens et usés par le temps. La lumière tamisée émane des alcôves latérales, où des cercueils de bois sombres sont suspendus, leurs couvercles légèrement ouverts. Des spirales gravées dans le sol vous guident vers l'entrée de la crypte. Les colonnes massives et les piliers sculptés de motifs complexes vous entourent, ajoutant à l'atmosphère mystérieuse et étrange du lieu. Des tables et des chaises sont placées ici et là, comme si des rituels sacrés y avaient eu lieu il y a longtemps. Des tentacules et des têtes de mort ornent les murs, rappelant l'ancienne puissance qui réside ici. Des esprits fantômes flottent dans l'air, leurs silhouettes floues et translucides, ajoutant une touche d'effroi à l'ambiance. Des pièges enchantés sont dissimulés dans les alcôves, prêts à se déclencher sur les intrus imprudents.",
     "tags": [
       "couloir",
-      "ancien",
+      "cercueils",
+      "alcôves",
       "sacré",
-      "mystère",
-      "tentes"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

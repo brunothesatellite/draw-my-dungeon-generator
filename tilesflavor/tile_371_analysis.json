@@ -1,13 +1,13 @@
 {
   "371": {
-    "title": "Passage Rituel",
-    "description": "Le passage Rituel est étroit et rectangulaire, avec des murs vieillis et des traces de vieilles peintures murales. La faible lumière qui pénètre à travers une petite fenêtre au bout du couloir éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers et des colonnes soutiennent le plafond, ajoutant à l'atmosphère mystérieuse et ancienne du lieu. Des cercles rituels et des glyphes runiques marquent le sol, indiquant que ce passage était utilisé pour des rituels sacrés. Des traces de vieilles pierres et de mobilier ancien sont encore visibles, témoignant de l'ancienneté du lieu. Deux portes à l'extrémité du couloir menent à d'autres salles, mais l'eau stagnante au sol rend l'accès difficile. L'atmosphère est pesante et chargée d'une aura ancienne et sacrée.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir étroit et rectangulaire semble avoir été creusé à la hâte, les murs vieillis et recouverts de traces de peinture écaillée. La faible lumière qui filtre à travers une petite ouverture au bout du couloir éclaire les cercles rituels et les glyphes runiques gravés dans le sol. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des colonnes ornent les murs. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. Deux portes, l'une à chaque extrémité du couloir, sont fermées par des barres de fer rouillées. L'eau stagnante, noire et trouble, remplit une partie du couloir, créant un danger potentiel. L'atmosphère est mystérieuse et ancienne, comme si le couloir avait été oublié depuis des siècles. Les deux salles aux extrémités sont ouvertes, révélant des traces de rituels anciens et des objets de culte mystérieux.",
     "tags": [
-      "Passage",
-      "Rituel",
-      "Ancien",
-      "Sacré",
-      "Mystérieux"
+      "couloir",
+      "rituels",
+      "anciens",
+      "mystère",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

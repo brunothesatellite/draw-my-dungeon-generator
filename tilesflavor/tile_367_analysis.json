@@ -1,14 +1,13 @@
 {
   "367": {
-    "title": "Salle de Torture Sinistre",
-    "description": "Dans cette petite et sombre salle rectangulaire, les murs vieillis et usés sont marqués de cercles rituels. Des piliers et des colonnes robustes soutiennent le plafond, tandis que le sol est recouvert de mobilier usé et délabré. Un rack métallique, rouillé et usé, est suspendu au mur, tandis qu'une table en bois sombre, recouverte de taches de sang séché, est garnie d'outils de torture divers et variés. Un brasier en pierre brûle faiblement, émettant une lumière vacillante qui éclaire partiellement la pièce. Un tonneau en bois, rempli d'eau stagnante, est placé au centre de la pièce, ajoutant à l'atmosphère sinistre. Des têtes de mort et des tentacules émergent des murs, rappelant les horreurs qui se sont déroulées ici. La porte, en bois usé, semble être la seule issue de cette salle, mais elle est bloquée par un squelette, rendant l'évasion difficile.",
+    "title": "Salle de Torture Ancienne",
+    "description": "Cette petite salle rectangulaire, aux murs vieillis et aux piliers massifs, émane d'une atmosphère sinistre. La faible lumière qui filtre à travers les fenêtres fêlées révèle un autel au centre, orné de tentacules et de têtes de mort. Des cercles rituels marquent le sol, tandis que des outils horribles sont empilés sur une table au cœur de la pièce. Un rack, un brasier et un tonneau sont également visibles, témoignant de l'horreur qui régnait ici autrefois. La porte à l'extrémité de la salle semble fermée, mais l'eau stagnante qui s'est formée au sol indique que l'entrée est bloquée. Cette salle, destinée à des rituels sombres, est un lieu de tortures et de cruauté, où les souffrances étaient infligées avec une cruauté sans égale.",
     "tags": [
-      "salle de torture",
-      "rituel",
       "torture",
-      "squelette",
-      "têtes de mort",
-      "tentacules"
+      "rituel",
+      "salle",
+      "ancienne",
+      "horrible"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -39,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "salle de torture avec un rack, une table avec des outils, un brasier, un tonneau et d'autres choses horribles",
       "tileNumber": 367

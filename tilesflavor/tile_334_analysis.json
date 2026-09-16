@@ -1,13 +1,13 @@
 {
   "334": {
-    "title": "Passage des Ténèbres",
-    "description": "Le passage des Ténèbres est un couloir de grotte étroit et tortueux, dont les parois rugueuses sont recouvertes de spirales et de croix gravées. La lumière diffuse et diffuse, filtrée par les stalactites et stalagmites, éclaire vaguement le chemin. Les murs, délabrés et recouverts de mousse, sont ornés de colonnes et de piliers qui semblent avoir été sculptés par des mains anciennes. Des tentacules et des têtes de mort, étranges et déchiquetées, sont suspendues aux murs, ajoutant une atmosphère de mystère et d'étrangeté. Les marquages au sol, des spirales et des croix, semblent indiquer un ancien passage sacré ou un rituel ancien. Le passage est large mais irrégulier, avec des arches naturelles qui se referment parfois, créant des passages étroits et des angles soudains. Les murs sont parsemés de mystérieux symboles et de motifs qui semblent avoir été gravés par des forces obscures. Les créatures ou traces de vie sont rares, mais les murmures et les échos de pas lointains indiquent que ce passage est toujours habité par des créatures inconnues. Les exits semblent aléatoires, avec des passages qui s'ouvrent sur d'autres couloirs ou qui se terminent en impasses. Les dangers potentiels sont nombreux, avec des stalactites qui pourraient tomber et des créatures mystérieuses qui pourraient se cacher dans les ombres.",
+    "title": "Passage Sinueux de la Grotte",
+    "description": "Le passage sinueux de la grotte se déroule dans un espace large et irrégulier, éclairé par une faible lumière qui se répand dans l'air, créant une ambiance mystérieuse et étrange. Les murs, couverts de tentacules et de têtes de mort, semblent témoigner d'une ancienne et sombre histoire. Des spirales et des croix gravées dans le sol indiquent un ancien rituel ou une ancienne voie sacrée. Les colonnes et les piliers, délabrés, ajoutent à l'atmosphère d'abandon et de mystère. Les objets et meubles sont inconnus, mais les traces de pas et les éclats de lumière indiquent que ce passage a été parcouru récemment. Les sorties et les dangers sont inconnus, mais l'air humide et l'odeur de la terre humide suggèrent des dangers cachés. Les tentacules et les têtes de mort, présents sur les murs, ajoutent une touche d'horreur à l'atmosphère déjà étrange.",
     "tags": [
-      "couloir",
       "grotte",
+      "passage",
       "mystère",
-      "créatures inconnues",
-      "rituels anciens"
+      "tentacules",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "large",

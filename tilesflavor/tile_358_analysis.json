@@ -1,13 +1,14 @@
 {
   "358": {
-    "title": "Salle des Sacrifices",
-    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des murs usés par le temps. La faible lumière qui pénètre à travers une petite ouverture au plafond éclaire les cercles rituels gravés au sol, qui semblent avoir été utilisés pour des cérémonies anciennes. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sinistre de la pièce. Un autel central, orné de têtes de mort et de tentacules, domine la pièce, rappelant les sacrifices et les rituels qui y ont eu lieu. Un grand cercle de pierre, gravé de symboles mystiques, est posé sur une table au centre de la salle. L'eau stagnante, noire et trouble, remplit une partie de la pièce, ajoutant une touche de danger à l'atmosphère déjà oppressante. Les murs sont décorés de têtes de mort et de tentacules, rappelant les créatures qui ont pu se cacher dans ces lieux lointains. La salle semble avoir été utilisée pour des rituels sombres, et les cercles rituels au sol indiquent que des sacrifices ont eu lieu ici. Les piliers massifs et l'autel central donnent une impression de puissance et de mystère à la pièce.",
+    "title": "Salle de Rituels avec Trou Carré",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis, recouverts de cercles rituels. Un trou carré, usé par le temps, se trouve au centre du sol, entouré de piliers massifs. Un autel sombre, orné de têtes de mort et de tentacules, domine la pièce. Une table, usée par les années, repose contre un mur. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans le trou. Cette salle, destinée à des rituels obscurs, semble avoir été abandonnée depuis longtemps.",
     "tags": [
-      "Salle des Sacrifices",
-      "Salle de Rituels",
-      "Salle Vieillie",
-      "Atmosphère Sinistre",
-      "Cercles Rituels"
+      "rituel",
+      "salle",
+      "trou",
+      "carré",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

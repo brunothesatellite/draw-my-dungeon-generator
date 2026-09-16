@@ -1,13 +1,13 @@
 {
   "452": {
-    "title": "Salle des Rituels Noirs",
-    "description": "La salle est immense, de forme rectangulaire, avec un plafond voûté qui semble s'effondrer peu à peu. La lumière est faible, filtrant à travers des tentes suspendues aux murs, créant un éclairage tamisé et mystérieux. Le sol est marqué de spirales sombres, comme si quelqu'un avait dessiné ces motifs avec un liquide noir. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère sinistre de la pièce. Au centre de la salle se dresse une structure massive en pierre, dont la surface est lisse et lisse, comme si elle avait été sculptée par des mains invisibles. Le liquide noir qui remplit le bassin au fond de la pièce semble vivant, ondulant doucement sous la surface, révélant parfois des reflets de lumières étranges. L'humidité qui imprègne l'air rend la pièce froide et humide, accentuant la sensation de mystère et de danger qui plane dans l'air. Les traces de pas, visibles sur le sol, indiquent que quelqu'un a récemment visité cette salle, peut-être à la recherche d'un rituel ancien.",
+    "title": "Salle du Bassin Noir",
+    "description": "La salle est immense, de forme rectangulaire, et éclairée par une faible lumière qui se répand dans l'atmosphère humide. Le sol est marqué de spirales sombres qui semblent danser sous vos pieds. Des colonnes robustes soutiennent le plafond, et des tentes de toile sont suspendues aux murs, comme si une ancienne cérémonie avait eu lieu ici. Au centre de la pièce, un bassin immense est rempli d'un liquide noir, opaque et trouble, qui reflète faiblement la lumière. Des empreintes de pas, profondes et mystérieuses, sont visibles sur le sol, comme si quelqu'un avait récemment foulé le lieu. L'air est saturé d'une odeur de moisi, et la salle semble être un lieu de rituels anciens, peut-être même un sanctuaire des ténèbres.",
     "tags": [
-      "rituel",
-      "salle",
-      "liquide noir",
-      "mystère",
-      "humidité"
+      "ritual chamber",
+      "black pool",
+      "ancient ritual",
+      "mysterious",
+      "dark pool"
     ],
     "sourceFeatures": {
       "roomSize": "large",

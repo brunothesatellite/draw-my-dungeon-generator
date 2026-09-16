@@ -1,13 +1,12 @@
 {
   "177": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc de la grotte. Les murs, couverts de champignons étranges, semblent vivants sous la lumière faible qui filtre à travers les fissures. Un trou étrange est enfoui dans les parois, comme s'il avait été creusé par des forces obscures. Des cercles rituels sont gravés au sol, marquant le passage d'un ancien rituel. Les piliers massifs, usés par le temps, soutiennent le passage, tandis que des traces de vieilles pierres et de mobilier ancien sont disséminés ici et là. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'accumule dans les coins, créant un miroir lugubre qui reflète les ombres qui hantent ce lieu. Les têtes de mort et les tentacules qui pendent des murs ajoutent une touche d'horreur à l'ambiance déjà oppressante. Les Anciens qui ont créé ce passage semblent avoir laissé derrière eux des traces de leur passage, des pièges et des secrets inexplorés.",
+    "title": "Couloir des Champignons",
+    "description": "Le couloir de la grotte est étroit et sinueux, éclairé par la faible lumière qui filtre à travers les épaisses feuillages qui l'entourent. Les murs, vieillis et rugueux, sont parsemés de champignons de toutes les couleurs, semblant pousser spontanément. Un trou, semblant abandonné, est enfoui dans les murs, comme s'il avait été creusé par quelque chose de vivant. Les cercles rituels gravés au sol émettent une lueur faible, évoquant une ancienne magie perdue. Les piliers massifs, usés par le temps, soutiennent le plafond qui semble prêt à s'effondrer. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère sinistre de l'endroit. L'eau stagnante, noire et trouble, se répand lentement le long du sol, créant un miroir sombre qui reflète les ombres qui hantent ce lieu. Les cercles rituels et les champignons évoquent une ancienne cérémonie, maintenant abandonnée et envahie par la nature.",
     "tags": [
       "grotte",
-      "rituel",
-      "ancien",
-      "sinistre",
-      "passage"
+      "champignons",
+      "trou",
+      "murs"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

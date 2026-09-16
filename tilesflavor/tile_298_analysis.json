@@ -1,13 +1,12 @@
 {
   "298": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Dans l'obscurité, un abîme s'ouvre devant vous. Les parois de pierre noircies sont irrégulières, comme si elles avaient été façonnées par des forces obscures. Des spirales mystérieuses marquent le sol, semblant indiquer un chemin perdu. Des colonnes de pierre majestueuses se dressent ici et là, comme des gardiens silencieux. Un objet étrange, inconnu, repose au fond de l'abîme, émettant une lueur intermittente. L'atmosphère est oppressante, et un bruit sourd résonne dans les profondeurs, comme si quelque chose se préparait à se manifester. Les ténèbres semblent vivantes, et l'air est saturé d'une humidité froide. L'abîme est un lieu de rituel, un sanctuaire pour les forces les plus sombres.",
+    "title": "L'Abîme des Tentacules",
+    "description": "L'abîme s'ouvre comme une bouche immense, dévoilant un bassin sombre et étroit. Des tentacules noirs, longs et sinistres, se balancent dans l'air, semblant attendre l'arrivée de quelque chose. Les murs, irréguliers et couverts de spirales mystérieuses, semblent vibrer sous l'effet d'une force inconnue. Des colonnes robustes soutiennent le plafond, mais leur architecture semble ancienne et délabrée. Un objet étrange, inconnu, repose au fond de l'abîme, émettant une lueur étrange. L'atmosphère est oppressante, et l'humidité qui plane dans l'air rend l'endroit glacial. Les tentacules, toujours présents, semblent attendre l'occasion de s'attaquer à tout intrus. L'abîme est un lieu de rituels obscurs, où les anciens pratiquaient des sacrifices rituels.",
     "tags": [
       "abîme",
+      "tentacules",
       "rituel",
-      "ténèbres",
-      "spirales",
-      "colonne"
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

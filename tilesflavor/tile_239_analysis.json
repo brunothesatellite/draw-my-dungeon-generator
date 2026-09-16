@@ -1,13 +1,12 @@
 {
   "239": {
-    "title": "Crypte du Dragon",
-    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des traces de vieilles peintures qui se détachent. La faible lumière qui pénètre à travers une petite fenêtre au fond éclaire vaguement les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, et le mobilier ancien, usé, semble avoir été abandonné depuis longtemps. Le dessin de tête de dragon, peint en noir sur le mur, semble avoir été peint avec une énergie malveillante. Des têtes de mort et des tentacules peints flottent dans l'air, ajoutant à l'atmosphère sinistre de la pièce. L'eau stagnante, noire et trouble, remplit une partie du sol, rendant la pièce encore plus dangereuse.",
+    "title": "Salle des Dragons",
+    "description": "La salle est étroite et irrégulière, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. Le sol est marqué de cercles rituels, et des têtes de mort sont sculptées dans les pierres. Un dessin de tête de dragon, ancien et délavé, est gravé au centre de la pièce. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère sinistre. La lumière est faible, et l'air est chargé d'une odeur de moisi. L'eau stagnante se forme dans un coin, rendant la pièce dangereuse. Cette salle semble être utilisée pour des rituels, et les cercles rituels indiquent qu'elle a été utilisée pour des sacrifices.",
     "tags": [
-      "Crypte",
-      "Dragon",
-      "Salle de Rituels",
-      "Atmosphère Sinistre",
-      "Têtes de Mort"
+      "salle",
+      "rituel",
+      "tête de dragon",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +34,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "Salle ouverte avec dessin de tête de dragon",
       "tileNumber": 239

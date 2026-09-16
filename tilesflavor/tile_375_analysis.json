@@ -1,13 +1,12 @@
 {
   "375": {
     "title": "Bibliothèque des Anciens",
-    "description": "Dans ce coin sombre et étroit, vous vous retrouvez face à une bibliothèque aux murs recouverts de livres anciens et poussiéreux. Les étagères, hautes et étroites, sont remplies de manuscrits et de tomes de toutes tailles, certains avec des pages jaunies par le temps. Un fauteuil, usé par l'âge, est placé devant une table où repose un livre étrange, ses pages déchirées et ses caractères noirs flous. La pièce est éclairée par une lumière faible, filtrée à travers une fenêtre voilée, créant un halo de mystère autour de la table. Les murs sont ornés de statues et de piliers, ajoutant à l'atmosphère sinistre de la pièce. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. La bibliothèque semble être un lieu de rituels, où des objets étranges et des livres anciens sont conservés. La pièce est vieillie, avec des traces de vieilles livres et de poussière recouvrant les étagères. L'eau stagnante se forme dans un coin, ajoutant une touche de danger à cette bibliothèque des anciens.",
+    "description": "Dans ce coin sombre et étroit, une bibliothèque ancienne se dresse fièrement. Les étagères, hautes et étroites, sont remplies de livres anciens et mystérieux. Un fauteuil, usé par le temps, se trouve au milieu de la pièce, tandis qu'une table basse, sur laquelle repose un livre étrange, invite à la réflexion. La pièce est faiblement éclairée par une lampe à huile, ajoutant à l'atmosphère sinistre qui règne ici. Les murs sont ornés de statues et de piliers, tandis que des cercles rituels marquent le sol. La bibliothèque semble être un lieu de rituels, et les cercles rituels indiquent qu'elle a été utilisée pour des cérémonies importantes. L'eau stagnante dans un coin de la pièce ajoute à l'ambiance lugubre. Les étagères sont vieillies, et le mobilier est usé, témoignant de l'âge et de l'abandon de ce lieu. La porte à l'extrémité de la pièce semble être la seule issue, et elle est fermée par une serrure ancienne.",
     "tags": [
-      "Bibliothèque",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Salle"
+      "bibliothèque",
+      "ancien",
+      "rituel",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "bibliothèque avec des étagères, un fauteuil et une table avec un livre étrange",
       "tileNumber": 375

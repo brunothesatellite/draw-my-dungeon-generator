@@ -1,20 +1,20 @@
 {
   "395": {
     "title": "Salle Sacrée des Anciens",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand lentement à travers les piliers vieillis. Des cercles rituels marquent le sol, entourant un bassin de sang qui reflète les ombres des statues qui gardent le lieu. Des insectes volent autour, leurs ailes brisées par l'ancienneté de l'endroit. Des têtes de mort et des tentacules s'enroulent sur les murs, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. Le mobilier ancien est dispersé autour de l'espace, semblant avoir été oublié depuis des siècles. L'arche au fond de la salle semble être le seul moyen de quitter ce lieu, mais l'eau stagnante qui s'accumule autour de l'entrée pourrait être un obstacle à franchir.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au centre. La lumière est faible, émanant d'une source inconnue, ajoutant à l'atmosphère mystérieuse et ancienne. Des piliers massifs soutiennent les murs, et des têtes de mort et des tentacules sont sculptés dans le mur, rappelant l'ancienne puissance qui réside ici. Des statues de pierre, aux visages étranges, gardent le secret de la salle. Le mobilier ancien est délabré, mais les objets sont posés avec soin, comme si la salle avait été abandonnée depuis des siècles. Un bassin de sang, rempli de petits insectes, est au centre de la pièce, et des moustiques et des mouches volent autour, ajoutant une touche de vie à l'atmosphère lugubre. L'eau stagnante dans le bassin est un danger potentiel, et l'arche au fond de la pièce semble être le seul moyen de quitter cette salle sacrée.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Rituels",
-      "Sang",
-      "Statues"
+      "salle sacrée",
+      "rituel",
+      "anciens",
+      "sang",
+      "insectes"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "carrée",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "bassin de sang",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

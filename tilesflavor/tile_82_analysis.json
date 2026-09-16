@@ -1,13 +1,13 @@
 {
   "82": {
-    "title": "Le Couloir des Boîtes",
-    "description": "Le couloir s'enfonce dans l'obscurité, ses murs irréguliers et décrépits témoignant de l'âge et de l'abandon. La lumière tamisée émane des torches anciennes qui se balancent au bout de cordes, créant des ombres danseuses sur les parois. Des spirales mystérieuses gravées dans le sol semblent guider le chemin, mais leur signification reste un mystère. Un grand cercle, étrangement intact malgré le désordre général, attire l'œil, semblant être le point focal de ce passage. Des tentes de toile sont accrochées aux murs, comme si quelqu'un avait cherché refuge ici. Les croix sculptées dans le plafond ajoutent une touche de mystère à l'atmosphère déjà étrange. Les boîtes, de toutes tailles et formes, sont empilées ici et là, certaines ouvertes révélant des objets étranges et mystérieux. Le couloir semble se perdre dans l'inconnu, chaque pas menant à de nouvelles découvertes et dangers potentiels.",
+    "title": "Couloir des Boîtes",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs irréguliers et délabrés témoignant d'années d'abandon. La lumière faible émane des torches anciennes qui se balancent au bout de cordes, éclairant de manière intermittente les boîtes de toutes formes et tailles qui jonchent le sol. Des spirales mystérieuses gravées dans le sol semblent former un chemin qui guide le regard vers un large cercle au bout du couloir. Des tentes de toile sont accrochées aux murs, comme si quelqu'un avait tenté de se protéger de l'obscurité. Le couloir est étroit, avec des piliers croisés qui semblent avoir été sculptés pour soutenir un ancien plafond qui n'existe plus. Les boîtes, certaines en bois, d'autres en métal, sont empilées de manière haphazard, certaines ouvertes révélant des objets mystérieux. L'atmosphère est pesante, presque oppressante, comme si le couloir était le témoin d'anciennes cérémonies et rituels. Les spirales sur le sol semblent être un guide pour ceux qui cherchent à avancer, mais aussi un piège pour ceux qui s'y perdent. Les boîtes, certaines vides, d'autres pleines de mystère, semblent être le but de cette aventure. Les tentes de toile ajoutent une touche de vie à ce lieu abandonné, comme si quelqu'un avait tenté de s'y installer, mais avait finalement abandonné face à l'obscurité qui l'entoure.",
     "tags": [
-      "Couloir",
-      "Mystère",
-      "Anciennes Boîtes",
-      "Rituels",
-      "Désordre"
+      "couloir",
+      "boîtes",
+      "spirales",
+      "tentes",
+      "rituels"
     ],
     "sourceFeatures": {
       "roomSize": "large",

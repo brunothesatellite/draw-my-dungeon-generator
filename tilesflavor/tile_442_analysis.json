@@ -1,13 +1,13 @@
 {
   "442": {
-    "title": "La Rivière des Alligators",
-    "description": "Vous vous trouvez au cœur d'une rivière sombre et sinistre, où deux alligators enragés vous regardent avec des yeux de feu. Les eaux de la rivière sont troubles et miroitent sous une lumière diffuse, révélant des spirales et des croix gravées dans le sol. Des colonnes et des piliers anciens, érodés par le temps, se dressent de partout, ajoutant à l'atmosphère mystérieuse et menaçante. Un autel sombre, orné de tentacules et de crânes, se dresse au centre de la rivière, comme si il avait été abandonné depuis des siècles. Des runes enchantées et des anciennes incantations flottent dans l'air, rendant l'endroit encore plus dangereux. Les alligators, prêts à bondir, attendent patiemment leur proie, prêts à attaquer sans avertissement.",
+    "title": "Rivière des Alligators",
+    "description": "La rivière sinueuse se déroule devant vous, ses eaux sombres et agitées reflétant les silhouettes des deux alligators qui se disputent un combat acharné. Les rives sont recouvertes de spirales et de croix gravées dans le sol, qui semblent avoir été dessinées par des mains expertes. Des colonnes et des piliers massifs, usés par le temps, se dressent à intervalles réguliers, formant un mur naturel qui encadre la rivière. Un autel, délabré mais encore visible, se dresse au milieu du cours d'eau, comme témoin des anciennes cérémonies qui y ont eu lieu. Les alligators, de taille imposante, se déplacent avec une lenteur presque hypnotique, leurs nageoires battant l'eau avec une régularité qui semble presque musicale. Leur combat est silencieux, mais la tension est palpable. Des runes enchantées brillent doucement dans l'air, émettant une lumière faible et mystérieuse. L'atmosphère est lourde et mystérieuse, comme si la rivière était le dernier vestige d'un passé ancien et sacré.",
     "tags": [
-      "Rivière",
-      "Alligators",
-      "Mystère",
-      "Anciennes Enchantements",
-      "Sacrifice"
+      "rivière",
+      "alligators",
+      "combat",
+      "sacré",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

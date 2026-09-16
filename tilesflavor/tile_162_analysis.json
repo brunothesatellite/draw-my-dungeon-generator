@@ -1,13 +1,13 @@
 {
   "162": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers des fentes minuscules, créant un halo de faible éclat qui éclaire les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien et sacré. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant à son mystère. Le mobilier ancien semble avoir été abandonné depuis longtemps, recouvert de mousse et de champignons. L'atmosphère est pesante et ancienne, comme si la grotte avait gardé des secrets depuis des millénaires. Des eaux stagnantes se trouvent au fond de la grotte, formant un bassin sombre qui reflète la faible lumière qui pénètre à l'intérieur. Les champignons, de toutes les couleurs, semblent vivants et prêts à pousser, ajoutant une touche de vie à ce lieu si ancien et si mystérieux.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter vers le plafond. Des champignons de toutes les couleurs et de toutes les tailles poussent sur les murs et les sols, formant un tapis naturel qui semble vivant. Des cercles rituels et des glyphes runiques sont gravés dans le sol, indiquant un ancien culte. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant à l'atmosphère mystérieuse et ancienne. Le sol est couvert de mobilier ancien, et une eau stagnante s'accumule dans un coin, créant un danger potentiel. La grotte est petite et rectangulaire, avec une faible lumière qui pénètre à travers une ouverture étroite au fond. Les murs sont vieillis, et les parois sont parsemées de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'atmosphère déjà sombre. La grotte semble être un lieu de culte ou de rituel, avec des objets sacrés disséminés un peu partout. Les champignons semblent être une source de nourriture ou de médicament pour les créatures qui habitent ici.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Sacrés",
-      "Ancien",
-      "Mystérieux"
+      "grotte",
+      "champignons",
+      "ancien culte",
+      "rituel",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

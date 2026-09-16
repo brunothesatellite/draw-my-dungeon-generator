@@ -1,13 +1,13 @@
 {
   "458": {
-    "title": "Salle des Rituels Anciens",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand dans l'atmosphère sinistre. Les murs vieillis sont ornés de têtes de mort et de cercles rituels gravés au sol. Des piliers robustes soutiennent le plafond, ajoutant à l'ancienneté de la pièce. Un mécanisme de roue dentée géante repose au centre, avec un levier sur le mur à sa droite. L'eau stagnante recouvre le sol, ajoutant une touche de danger à l'ambiance déjà oppressante. Les cercles rituels au sol semblent prêts à être activés, et les têtes de mort ajoutent une note macabre à l'ensemble.",
+    "title": "Mécanisme de Roue Dentée",
+    "description": "Dans cette petite salle carrée, la lumière faible éclaire les murs vieillis. Des cercles rituels marquent le sol, et des piliers robustes soutiennent le plafond. Un mécanisme de roue dentée géante repose au centre de la pièce, son levier étincelant sur le mur. Des têtes de mort sont accrochées aux murs, ajoutant une atmosphère sinistre à l'endroit. L'eau stagnante dans un coin de la pièce rend l'atmosphère encore plus oppressante. Cette salle semble être un lieu de rituel ancien, mais son utilisation actuelle est un mystère.",
     "tags": [
       "rituel",
-      "macabre",
-      "vieillie",
-      "sinistre",
-      "salle"
+      "salle",
+      "mécanisme",
+      "têtes de mort",
+      "abîme"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

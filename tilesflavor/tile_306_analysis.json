@@ -1,13 +1,13 @@
 {
   "306": {
     "title": "L'Abîme des Spirales",
-    "description": "Vous vous trouvez au cœur d'un abîme immense, dont les parois sombres et humides semblent s'écarter pour vous offrir un panorama infini. Les spirales gravées dans le sol vous guident lentement vers le centre, où une lumière diffuse et floue semble émaner d'un point indéfini. Les colonnes majestueuses, ornées de tentacules, semblent veiller sur ce lieu mystérieux. L'air est saturé d'une odeur de terre humide et d'humidité, et les murs sont couverts de mousse et de lichens. Les spirales sur le sol vous attirent inexorablement vers le centre, où vous espérez trouver une révélation ou un danger inconnu.",
+    "description": "L'abîme s'ouvre comme une bouche immense, dévoilant un espace immense et rectangulaire. La lumière y est faible, émanant d'une source inconnue au fond de l'abîme, ce qui donne une ambiance mystérieuse et oppressante. Les murs sont humides et recouverts de spirales énigmatiques gravées dans le roc. Des colonnes robustes soutiennent le plafond, ajoutant à l'atmosphère sombre et étrange. L'abîme semble sans fin, et les spirales gravées semblent indiquer un chemin ou une destination inconnue. Les murs sont parsemés de mystérieux barils, dont le contenu reste un secret. Les sorties semblent inaccessibles, et les dangers potentiels sont nombreux. L'abîme est un lieu de mystère et de peur, où les aventuriers doivent être prudents.",
     "tags": [
       "abîme",
       "spirales",
       "colonne",
-      "tentacules",
-      "mystère"
+      "mystère",
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "large",

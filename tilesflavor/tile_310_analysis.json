@@ -1,13 +1,13 @@
 {
   "310": {
-    "title": "L'Abîme du Portail Magique",
-    "description": "Au cœur de l'abîme, un portail magique se dresse, émanant une aura mystérieuse et sinistre. La lumière naturelle filtre à travers les éclairs de l'abîme, illuminant les parois humides et les spirales mystiques gravées au sol. Des colonnes majestueuses soutiennent le plafond, tandis qu'un œil étrange, semblant observer tout, domine le centre de la pièce. Des tentacules sinueux semblent danser dans l'air, ajoutant à l'atmosphère étrange. Un fantôme flou, peut-être un ancien maître du lieu, se déplace lentement dans l'ombre, ajoutant une touche de peur à l'exploration. Le portail magique, bien que fascinant, est un lieu de danger, car il émane une énergie mystique qui peut avoir des effets indésirables sur ceux qui s'approchent trop près.",
+    "title": "Le Portail de l'Abîme",
+    "description": "Au cœur de l'abîme, un portail magique se dresse, émanant une aura mystérieuse et sinistre. La lumière naturelle filtre à travers les éclairs de l'abîme, illuminant les parois humides et les spirales gravées au sol. Des colonnes majestueuses soutiennent le plafond, tandis qu'un œil étrange, semblant observer tout, domine la pièce. Des tentacules s'enroulent autour des murs, ajoutant une touche d'effrayante réalité à l'atmosphère étrange. Le portail, bien que fermé, semble prêt à s'ouvrir à tout moment, révélant les secrets les plus profonds de l'abîme. Les spirales sur le sol semblent indiquer un chemin, mais qui pourrait les suivre sans être englouti par l'abîme ?",
     "tags": [
       "abîme",
-      "portail magique",
+      "portail",
       "rituel",
-      "fantôme",
-      "tentacules"
+      "mystique",
+      "épouvantable"
     ],
     "sourceFeatures": {
       "roomSize": "large",

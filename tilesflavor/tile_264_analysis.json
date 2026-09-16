@@ -1,13 +1,13 @@
 {
   "264": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est un égout étroit, recouvert de planches de bois qui servent de pont. Les murs, humides et froids, sont ornés de tentacules qui semblent vivre d'une vie propre. Des glyphes anciens gravés dans le sol émettent une faible lumière, guidant les voyageurs vers l'entrée de la chambre sacrée. Les colonnes massives, sculptées de motifs complexes, soutiennent le plafond qui semble se refermer lentement. L'atmosphère est oppressante, et l'humidité pénètre à travers les planches, créant une brume dense qui flotte au-dessus du sol. L'endroit est silencieux, hormis le bruit de l'eau qui coule sous le pont et les murmures des tentacules qui se déplacent lentement. La chambre sacrée, située à l'extrémité du passage, est inaccessible, mais on peut deviner sa présence à travers les portes fermées et les symboles mystiques qui l'entourent.",
+    "title": "Passage des Planches",
+    "description": "Le passage des Planches est un égout étroit et sombre, où des planches de bois sont disposées de manière à former un pont instable. Les murs, recouverts de tâches de verdure et de mousse, sont ornés de tentacules qui semblent sortir du sol. Des glyphes anciens gravés dans le sol indiquent un chemin à suivre, mais leur signification reste mystérieuse. Les colonnes massives, érodées par l'humidité, ajoutent à l'atmosphère lugubre de ce lieu. L'air est saturé d'une odeur nauséabonde, et l'eau stagnante au fond du passage menace de vous engloutir. L'endroit semble avoir été un lieu de sacrifice, comme l'indique l'autel central, malgré son état délabré. Les tentacules qui prolifèrent dans l'air semblent vivants et prêts à attaquer.",
     "tags": [
-      "Passage",
-      "Anciens",
-      "Sacrifice",
-      "Tentacules",
-      "Humidité"
+      "égoût",
+      "planches",
+      "bois",
+      "pont",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "91": {
-    "title": "Couloir des Rituels Sacrés",
-    "description": "Le couloir est étroit et sinistre, ses murs irréguliers et vieillis par le temps. La faible lumière qui pénètre à travers les fissures révèle des cercles rituels gravés dans le sol, qui semblent avoir été utilisés pour des cérémonies obscures. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Une table, usée par le temps, est posée au fond du couloir, sans doute utilisée pour les rituels. Une créature étrange, aux formes indéfinies et aux tentacules qui semblent sortir des murs, se dresse dans l'ombre, observant les visiteurs avec un regard perçant. L'eau stagnante qui s'accumule au fond du couloir est un danger à ne pas négliger. La porte à l'extrémité semble être la seule issue, mais elle est fermée et verrouillée.",
+    "title": "Couloir des Ténèbres",
+    "description": "Le couloir semble sans issue, mais une créature étrange se dresse dans les murs, son corps ondulant comme s'il était fait de nuages de fumée. Les murs, vieillis et usés, sont parsemés de cercles rituels qui brillent faiblement dans la pénombre. Des piliers massifs, usés par le temps, soutiennent le plafond qui semble prêt à s'effondrer. Un tableau de pierre, usé et recouvert de poussière, repose contre un mur, son dessin indéchiffrable. L'atmosphère est sinistre, et l'eau stagnante qui s'accumule au fond du couloir semble prête à se lever en une vague menaçante. Les murs sont ornés de têtes de mort et de tentacules qui semblent sortir du néant, ajoutant à l'effet d'horreur. La seule issue semble être une porte qui semble avoir été fermée depuis longtemps, mais qui pourrait être ouverte par une clé spéciale.",
     "tags": [
       "couloir",
-      "rituel",
       "créature étrange",
-      "eau stagnante",
-      "atmosphère sinistre"
+      "rituel",
+      "ténèbres",
+      "piliers"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

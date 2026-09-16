@@ -1,14 +1,13 @@
 {
   "95": {
-    "title": "Salle des Anciens",
-    "description": "Vous pénétrez dans une salle carrée, minuscule et vieillie, éclairée par une faible lumière qui se répand à peine. Les murs sont recouverts de têtes de mort et de tentacules, des symboles étranges qui semblent avoir été gravés il y a des siècles. Des cercles rituels sont dessinés au sol, marquant un espace sacré. Des piliers robustes soutiennent le plafond, tandis qu'une table ancienne se trouve au centre de la pièce. À l'extrémité de la salle, une fenêtre laisse entrer une eau stagnante qui remue lentement, créant un bruit sourd et sinistre. La salle semble être un lieu de rituel ancien, mais elle est désertée depuis longtemps, laissant place à une atmosphère sinistre et oppressante.",
+    "title": "Couloirs Sans Issue",
+    "description": "Vous vous trouvez dans un réseau de couloirs étroits et sinistres, sans issue visible. Les murs sont couverts de peintures sombres et de symboles énigmatiques. Des cercles rituels sont gravés au sol, évoquant une ancienne cérémonie. Des piliers massifs soutiennent le plafond, tandis qu'une table ancienne est posée au centre de la salle. La lumière est faible, émanant d'une source inconnue, et l'atmosphère est oppressante. Des têtes de mort et des tentacules peints sur les murs ajoutent à l'ambiance sinistre. À l'extrémité du couloir, une fenêtre laisse passer une eau stagnante, indiquant un danger potentiel. Les couloirs semblent sans issue, mais une intuition vous pousse à explorer plus avant.",
     "tags": [
-      "rituel",
-      "ancien",
-      "salle",
+      "couloir",
+      "salle carrée",
       "vieillie",
-      "têtes de mort",
-      "tentacules"
+      "rituel ancien",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "3 couloirs sans issue",
       "tileNumber": 95

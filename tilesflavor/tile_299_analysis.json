@@ -1,13 +1,13 @@
 {
   "299": {
-    "title": "L'Abîme des Anciens",
-    "description": "Dans l'obscurité étouffante de l'abîme, les murs rectangulaires et humides sont marqués de cercles rituels et de glyphes runiques. La faible lumière qui pénètre à travers les fissures éclaire les piliers et les colonnes qui soutiennent cette salle de rituels. Le sol est marqué de cercles rituels et de glyphes runiques, et des têtes de mort et des tentacules sont suspendus aux murs, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien est délabré, et l'eau stagnante coule lentement dans un coin de la pièce, créant un miroir lugubre. Les rares rayons de lumière révèlent des traces de pièges et de créatures disparues, témoignant de l'ancienne puissance qui réside ici. Les rituels sont célébrés dans cette salle, et les anciens magiciens qui l'ont construite espéraient y trouver la clé du pouvoir infini.",
+    "title": "Abîme des Cercles Rituels",
+    "description": "Dans l'abîme, un espace rectangulaire et humide, les cercles rituels et les glyphes runiques dessinent des motifs mystérieux sur le sol. Les piliers et colonnes, vieilles et usées, soutiennent une atmosphère sinistre. Le faible éclairage révèle des traces de mobilier ancien, abandonné et délabré. L'humidité pèse sur l'air, et l'eau stagnante menace de vous engloutir. Les cercles rituels semblent attendre un rituel ancien, mais l'abîme est un lieu de ténèbres, où les tentacules et les têtes de mort gardent un secret ancien.",
     "tags": [
-      "rituel",
       "abîme",
-      "salle de rituels",
-      "têtes de mort",
-      "tentacules"
+      "rituels",
+      "ténèbres",
+      "mystère",
+      "humidité"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "abîme",
       "tileNumber": 299

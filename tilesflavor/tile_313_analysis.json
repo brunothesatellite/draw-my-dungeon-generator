@@ -1,13 +1,13 @@
 {
   "313": {
-    "title": "L'Abîme des Ténèbres",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre devant vous. Ses parois sombres et humides sont ornées de tentacules et de têtes de mort, rappelant l'horreur qui y règne. Des spirales et des glyphes mystérieux gravés dans le sol semblent indiquer un passage ancien, peut-être un rituel ancien. Les colonnes et les piliers massifs, éclairés par une lumière diffuse, donnent une impression de grandeur et de mystère. L'atmosphère est oppressante, et chaque bruit semble amplifié dans cet espace étendu. Les murs sont recouverts de peintures sombres et de symboles énigmatiques, et les tentacules qui pendent du plafond semblent prêts à s'enrouler autour de vous. L'abîme est un lieu de rituels obscurs, et les traces de sacrifices anciens sont encore visibles dans les coins les plus reculés. Les sorties semblent inconnues, et les dangers potentiels sont nombreux. L'abîme des Ténèbres est un lieu de terreur et de mystère, où les secrets les plus profonds de l'univers sont peut-être dissimulés.",
+    "title": "Abîme des Tentacules",
+    "description": "L'abîme s'ouvre devant vous, une fissure immense et sombre qui semble s'engouffrer dans l'infini. Les parois de pierre noire sont parsemées de tentacules qui semblent vivants, se balançant et se frappant contre les murs. Des têtes de mort, étranges et déformées, sont suspendues aux piliers et aux colonnes, émettant un murmure sinistre. Des spirales et des glyphes mystérieux gravés dans le sol semblent indiquer un chemin, mais il est impraticable. La lumière est si faible que vous ne pouvez distinguer que les contours des tentacules et des têtes de mort. L'humidité est épaissie, et l'air est chargé d'une odeur nauséabonde. Les tentacules semblent attendre, prêts à s'attaquer à tout être qui ose approcher. L'abîme est un lieu rituel, un sanctuaire pour des forces obscures et maléfiques.",
     "tags": [
       "abîme",
+      "tentacules",
+      "têtes de mort",
       "rituel",
-      "ténèbres",
-      "sacrifice",
-      "obscurité"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

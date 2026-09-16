@@ -1,13 +1,13 @@
 {
   "182": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été abandonné depuis des siècles. Les murs, recouverts de mousse et de lierre, sont ornés de têtes de mort et de tentacules qui semblent avoir échoué ici. Des cercles rituels sont gravés dans le sol, marquant l'ancien emplacement d'un autel. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un vieux tableau, encadré de tentacules, est posé contre le mur, comme si quelqu'un avait tenté de le cacher. L'eau stagnante, noire et trouble, remplit une partie du passage, rendant l'air humide et irrespirable. À l'extrémité du couloir, une porte ancienne semble avoir été oubliée, menant à un mystère inconnu. Les murs sont parsemés de traces de vieilles peintures et de symboles énigmatiques, rendant l'endroit encore plus effrayant.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été oublié depuis des siècles. Les murs, couverts de mousse et de végétation, sont ornés de têtes de mort et de tentacules qui semblent avoir été sculptés par des forces obscures. Des cercles rituels sont gravés au sol, marquant le passage d'un rituel ancien. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère lugubre. Un autel, couvert de poussière et de mystère, se dresse au fond du couloir, entouré de statues étranges et décomposées. La lumière est faible, filtrant à travers des fenêtres brisées, créant des ombres danseuses qui se projettent sur les murs. L'eau stagnante, noire et trouble, s'accumule dans un coin, ajoutant une touche de danger à l'air sinistre. À chaque pas, le couloir semble murmurer des secrets anciens, et les créatures qui y vivent sont prêtes à bondir à tout moment.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Sombre"
+      "couloir",
+      "rituel",
+      "ancien",
+      "sinistre",
+      "escalier"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

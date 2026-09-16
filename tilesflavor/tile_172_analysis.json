@@ -1,13 +1,12 @@
 {
   "172": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte étend ses vastes murs irréguliers, éclairée par une faible lumière qui filtre à travers les épaisses feuilles mortes. Les ruines de colonnes et de murs délabrés témoignent de l'ancienneté de ce lieu. Des spirales et des croix gravées dans le sol semblent indiquer un ancien rituel. Des champignons de couleur étrange poussent sur les parois, leur présence ajoutant une note étrange à l'atmosphère déjà mystérieuse. Des statues brisées et des runes anciennes sont disséminées un peu partout, racontant l'histoire oubliée de ce sanctuaire. Un immense araignée, ses tentacules étendus, semble veiller sur le lieu, ajoutant une touche de danger à l'exploration. Les araignées et les enchantements anciens font de cette grotte un endroit à la fois fascinant et dangereux.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte étend ses vastes murs irréguliers, éclairée par une faible lumière qui filtre à travers les épaisses feuilles d'arbres. Les sols sont marqués de spirales et de croix, des symboles anciens qui semblent avoir été gravés il y a des milliers d'années. Les ruines de colonnes et de murs délabrés témoignent de l'ancienneté de ce lieu. Des champignons de toutes les couleurs poussent sur les parois, leur croissance rapide et luxuriante ajoutant une touche de vie à l'atmosphère mystérieuse. Des statues brisées et des runes anciennes sont disséminées un peu partout, racontant des histoires de cultes et de rituels obscurs. Un immense araignée, dont les pattes semblent toucher le plafond, se dresse au centre de la grotte, sa présence ajoutant une note d'effroi à l'ambiance. Les araignées tissent des toiles partout, et des enchantements anciens semblent flotter dans l'air, rendant l'endroit dangereux et imprévisible. La grotte est un lieu d'anciens rituels, où les cultistes de jadis se réunissaient pour invoquer des forces obscures.",
     "tags": [
       "grotte",
-      "rituel",
       "champignons",
-      "araignée",
-      "ancien"
+      "rituel",
+      "araignée"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "443": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, éclairée par une faible lumière qui se répand lentement à travers les voûtes. Le sol est couvert de cercles rituels, des symboles anciens qui semblent avoir été dessinés il y a des siècles. Au centre de la pièce, un pilier massif domine le tout, semblant soutenir le poids de l'histoire qui y réside. Les murs sont vieillis, marqués par des stries et des éraflures qui racontent des siècles d'abandon. Des têtes de mort, sculptées avec une finesse qui évoque l'art des anciens, sont accrochées aux murs, ajoutant une note macabre à l'atmosphère sinistre de la pièce. Les portes, nombreuses et bien alignées, semblent inviter à l'exploration, mais chacune d'elles est un mystère à elle seule. Les cercles rituels au sol indiquent que cette pièce a été utilisée pour des rituels anciens, peut-être même pour des sacrifices. Les anciens pièges anciens sont toujours prêts à se déclencher, prouvant que cette salle n'a jamais été abandonnée depuis des temps immémoriaux.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est petite et carrée, avec un pilier central qui semble avoir été sculpté de manière ancienne. La lumière est faible, émanant d'une source inconnue, ce qui ajoute à l'atmosphère sinistre de la pièce. Les murs sont vieillis, et des cercles rituels sont gravés au sol, marquant un espace sacré. Des têtes de mort sont suspendues aux murs, ajoutant une touche macabre à l'ambiance. L'endroit semble avoir été utilisé pour des rituels anciens, et des pièges anciens sont dissimulés dans les recoins. Les portes, nombreuses et bien alignées, semblent menacer de s'ouvrir à tout moment, révélant des secrets obscurs.",
     "tags": [
-      "salle",
       "rituel",
-      "ancien",
       "macabre",
-      "vieillie"
+      "sacrifice",
+      "ancien",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

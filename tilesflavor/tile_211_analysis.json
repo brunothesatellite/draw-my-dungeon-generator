@@ -1,14 +1,13 @@
 {
   "211": {
-    "title": "Chambre des Rituels Sacrés",
-    "description": "La chambre des Rituels Sacrés est une salle rectangulaire, immense et sombre, éclairée par une faible lueur qui pénètre à travers une grille de fer rouillée. L'humidité y règne, et les murs sont couverts de taches de moisissure. Au centre de la pièce, un cercle de pierre est gravé de spirales et de croix, symboles de puissance et de mystère. Des colonnes massives soutiennent le plafond, et des tentacules et des têtes de mort ornent les murs, ajoutant une touche d'effrayante sérénité à l'atmosphère. Un autel, sombre et ancien, se dresse au fond de la pièce, invitant les initiés à des cérémonies obscures. Les marques de sol, spirales et croix, semblent indiquer un passage rituel. Tout autour, l'air est saturé d'une odeur de mystère et de puissance ancienne. Les murs sont décorés de tentacules et de têtes de mort, rappelant les forces obscures qui se cachent dans cette pièce. Les arches et les colonnes majestueuses donnent une impression de grandeur et de mystère, tandis que les tentacules et les têtes de mort ajoutent une note d'effrayante sérénité. Les spirales et les croix gravées au sol semblent indiquer un passage rituel, et l'humidité et la poussière ajoutent une touche de mystère à l'atmosphère. Les murs sont couverts de taches de moisissure, et l'air est saturé d'une odeur de mystère et de puissance ancienne.",
+    "title": "Salle des Sacrifices",
+    "description": "La salle est immense, rectangulaire et dépourvue de fenêtres, plongée dans une obscurité qui ne se dissipe jamais, même sous la lumière la plus vive. La grille métallique au centre de la pièce semble suspendue dans l'air, comme si elle était ancrée à un point invisible. Des spirales et des croix sont gravées sur le sol, formant un mystérieux motif qui semble suivre le mouvement des ombres. Les colonnes massives, ornées de tentacules et de têtes de mort, soutiennent le plafond qui semble pencher dangereusement. Un autel, sombre et ancien, se dresse au centre de la pièce, entouré de flammes intermittentes qui éclairent les détails de la décoration. Les murs sont recouverts de peintures représentant des créatures à plusieurs têtes, semblant observer les visiteurs avec un regard menaçant. La salle est silencieuse, mais on peut entendre le murmure des eaux qui coulent sous le sol, formant un ruisseau souterrain. Les murs sont humides et recouverts d'une fine couche de mousse, ajoutant à l'atmosphère lugubre. Les tentacules et les têtes de mort sur les colonnes semblent vivants, se déplaçant lentement, prêts à bondir sur les intrus. La salle est un lieu de rituel, mais son usage exact reste un mystère. Les créatures qui y vivent sont inconnues, mais leur présence est palpable. La grille au centre de la pièce semble être le point de passage vers un autre monde, mais personne n'a réussi à la traverser. La salle est un lieu de peur et de mystère, où les rituels et les sacrifices sont pratiqués depuis des temps immémoriaux.",
     "tags": [
       "rituel",
       "sacrifice",
-      "mystère",
-      "tentes",
-      "sérénité",
-      "ancien"
+      "tentacules",
+      "salle des anciens",
+      "salle des sacrifices"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "347": {
     "title": "Grotte Sacrée des Anciens",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers une ouverture étroite au sommet, créant un halo de faible éclat qui éclaire vaguement le sol. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été suivi par de nombreux passants. Des piliers robustes soutiennent le plafond, leurs surfaces usées par le temps. Au centre de la grotte, une table ancienne et usée est entourée de chaises de bois, toutes deux couvertes d'un vieil éclat. Des têtes de mort sculptées sont suspendues aux murs, ajoutant une atmosphère de mystère et de danger. La grotte semble avoir été utilisée pour des rituels ou des cérémonies, comme en témoignent les cercles rituels et les objets anciens. Un seul passage mène à l'extérieur, mais des pièges anciens sont dissimulés dans les recoins, prêts à accueillir les intrus imprudents.",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. La lumière pénètre à peine à travers des fissures minuscules, créant un halo de faible éclat qui éclaire vaguement les pierres vieillies. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été perdu au fil du temps. Des piliers robustes soutiennent le plafond, leurs surfaces usées par le temps. Au centre de la grotte, une table ancienne et usée est entourée de chaises de bois, toutes deux recouvertes d'un vieil éclat. Des têtes de mort sont suspendues aux murs, ajoutant une atmosphère de mystère et de danger. L'endroit semble avoir été un lieu de culte ou de rituel, et les pièges anciens dissimulés dans les recoins prouvent que les anciens qui l'ont habité ont été des maîtres de la subtilité et de la mort. L'unique sortie semble menacer un abîme profond, mais la grotte est si étroite qu'il est difficile de voir au-delà.",
     "tags": [
       "grotte",
       "rituel",
-      "ancien",
-      "mystère",
-      "sacrifice"
+      "sacrifice",
+      "anciens",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

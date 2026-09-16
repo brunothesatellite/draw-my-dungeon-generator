@@ -1,13 +1,14 @@
 {
   "127": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des dessins floraux dessinés au sol. La faible lumière qui pénètre à travers la fenêtre à l'extrémité de la pièce éclaire les cercles rituels gravés au sol. Des piliers robustes soutiennent les murs, et une table ancienne est placée au centre de la pièce. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère sinistre à l'ensemble. La salle semble avoir été utilisée pour des rituels anciens, et l'eau stagnante au fond de la pièce est un danger à ne pas négliger.",
+    "title": "Salle des Dessins Floraux",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des dessins floraux dessinés au sol. La lumière est faible, ce qui ajoute à l'atmosphère sinistre de la pièce. Des cercles rituels sont gravés dans le sol, et des piliers robustes soutiennent les murs. Un autel est placé au centre de la pièce, entouré de têtes de mort et de tentacules qui semblent avoir été sculptés dans le mur. Un table est posée près de l'autel, mais elle semble abandonnée. À l'arrière de la pièce, une fenêtre permet de voir l'extérieur, où l'eau stagnante s'étend lentement. La salle semble être utilisée pour des rituels, mais les dessins floraux au sol sont un mystère.",
     "tags": [
-      "rituel",
-      "ancien",
-      "sinistre",
       "salle",
-      "dessins floraux"
+      "rituel",
+      "dessins",
+      "floraux",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +36,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Salle ouverte avec des dessins floraux au sol",
       "tileNumber": 127

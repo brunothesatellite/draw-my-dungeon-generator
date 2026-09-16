@@ -1,13 +1,13 @@
 {
   "74": {
-    "title": "Les Voies Sacrées",
-    "description": "Les Voies Sacrées sont deux couloirs séparés, étroits et sinuieux, qui s'enfoncent profondément dans les entrailles de la montagne. Les murs, couverts de spirales mystérieuses, semblent murmurer des secrets anciens. La lumière naturelle filtre à travers des fissures minuscules, éclairant les colonnes et les piliers qui soutiennent les voûtes. Les sols sont marqués de spirales, comme si des forces invisibles les avaient gravées. À l'extrémité de ces couloirs, se dresse un autel ancien, orné de tentacules et de têtes de mort, symboles de la puissance et de la crainte qui réside ici. Les Voies Sacrées sont gardées par des créatures énigmatiques, dont les traces laissent deviner leur présence ancienne. L'atmosphère est pesante, presque oppressante, comme si le lieu était chargé d'une énergie surnaturelle. Les Voies Sacrées sont le cœur sacré d'un ancien culte, et ceux qui osent y pénétrer doivent être prêts à affronter les ténèbres qui les attendent.",
+    "title": "Les Couloirs Sacrés",
+    "description": "Les deux couloirs séparés s'ouvrent dans un espace immense et ancien, éclairé par la lumière naturelle qui filtre à travers les fissures du plafond. Les parois sont ornées de colonnes massives et de pilastres sculptés, témoignant de l'âge et de la grandeur de ce lieu. Des spirales mystérieuses marquent le sol, guidant les explorateurs vers l'avenir. Des tentacules et des têtes de mort, symboles de la mort et de la vie, sont suspendus aux murs, ajoutant une atmosphère étrange et menaçante à l'endroit. Les couloirs sont dépourvus d'issues, mais un enchantement tisse un spiral enchanté au centre de l'un d'eux, prête à engloutir ceux qui s'y aventurent. Les murs sont recouverts de peintures anciennes, et des meubles étranges sont disséminés dans les coins, laissant entrevoir des secrets millénaires. L'endroit est un sanctuaire, un lieu de culte ancien, où les anciens pratiquaient des rituels sacrés.",
     "tags": [
       "couloir",
+      "ancien",
       "sacré",
       "mystère",
-      "ancien",
-      "creatures mystiques"
+      "rituel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

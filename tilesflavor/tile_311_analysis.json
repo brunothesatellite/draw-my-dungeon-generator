@@ -1,13 +1,13 @@
 {
   "311": {
-    "title": "L'Abîme des Tentacules",
-    "description": "Au cœur de l'obscurité, un abîme s'ouvre, sa profondeur inconnue. Un seul tentacule émerge de la noirceur, sa peau luisante et ses nageoires frémissantes. Les murs de cette grotte sont irréguliers, marqués de spirales mystérieuses qui semblent danser sous la faible lumière qui pénètre par une fente au plafond. Les piliers délabrés, tordus par le temps, ajoutent à l'atmosphère étrange de l'endroit. Des objets étranges, inconnus, sont disséminés un peu partout, leur nature seules connues par les murmures des anciens. Des figures fantomatiques, floues et translucides, se déplacent lentement, ajoutant une note de terreur à l'air sinistre. Les tentacules qui sortent de l'abîme semblent toujours en mouvement, comme s'ils cherchaient à s'agripper à tout ce qui se trouve à leur portée. Les murs sont ornés de tentacules sculptés, rappelant la nature des créatures qui habitent ce lieu. Les spirales sur le sol semblent indiquer un passage, mais aucun passage n'est visible. Les trappes sont omniprésentes, prêtes à s'activer à la moindre intrusion. L'endroit est si ancien et si sacré que même les plus audacieux des explorateurs se demandent ce qui se cache vraiment dans l'abîme.",
+    "title": "Abîme des Tentacules",
+    "description": "Dans l'obscurité profonde de l'abîme, un seul tentacule émerge de la noirceur, semblant tisser un lien entre les mondes. Les murs, délabrés et recouverts de spirales mystérieuses, semblent vibrer sous l'effet d'une force inconnue. Des colonnes majestueuses, comme des gardiens silencieux, se dressent au centre de la pièce, tandis que des objets énigmatiques sont disséminés un peu partout, évoquant des secrets longtemps enfouis. L'atmosphère est pesante et étrange, comme si l'abîme lui-même respirait. Les tentacules qui sortent de la noirceur semblent attendre, prêts à s'enrouler autour de ceux qui oseraient approcher. Les spirales sur le sol semblent indiquer un chemin, mais qui pourrait les suivre sans être avalé par l'abîme ? Les colonnes, les objets énigmatiques et les tentacules sortant de la noirceur font de ce lieu un endroit sacré, mais aussi dangereux.",
     "tags": [
       "abîme",
-      "tentacules",
+      "tentacule",
+      "noirceur",
       "sacré",
-      "obscurité",
-      "trappes"
+      "désert"
     ],
     "sourceFeatures": {
       "roomSize": "large",

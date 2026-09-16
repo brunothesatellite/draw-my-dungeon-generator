@@ -1,13 +1,13 @@
 {
   "88": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinueux, taillé dans le roc par des milliers d'années de lave et de sédiments. Ses murs, une fois blancs, sont aujourd'hui usés et grisonnants, témoignant de l'âge et de l'abandon. La lumière y est faible, filtrant à peine à travers des fissures minuscules, créant un jeu de lumières et d'ombres qui évoque une atmosphère mystérieuse et ancienne. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été suivi par des cultistes de longue date. Des piliers massifs, usés par le temps, soutiennent le plafond, ajoutant à l'ambiance de vieillissement et de mystère. Des traces de mobilier ancien sont encore visibles, laissées par des explorateurs ou des pratiquants de cultes. L'eau stagnante, noire et trouble, s'accumule dans les coins, ajoutant une note de danger à l'atmosphère déjà sombre. Le passage semble être un vestige d'un ancien temple ou d'un sanctuaire, où des rituels et des sacrifices étaient peut-être pratiqués. Les têtes de mort et les tentacules, bien que non mentionnés dans la description de l'auteur, sont des éléments qui pourraient bien se trouver dans ce lieu, ajoutant une touche d'horreur et de mystère supplémentaire.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens est étroit et sinistre, ses murs de pierre vieillie sont parsemés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels émaillent le sol, marquant le passage d'anciennes cérémonies. Les piliers massifs, usés par le temps, soutiennent le plafond voûté qui semble s'effondrer peu à peu. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère lugubre. La faible lumière qui filtre à travers les fissures du plafond éclaire les murs et les objets, révélant des traces de vieilles peintures et de symboles mystiques. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un miroir lugubre qui reflète les ténèbres qui règnent dans ce lieu. Les murs sont parsemés de têtes de mort et de tentacules qui semblent sortir du mur. Des cercles rituels émaillent le sol, marquant le passage d'anciennes cérémonies. Les piliers massifs, usés par le temps, soutiennent le plafond voûté qui semble s'effondrer peu à peu. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère lugubre. La faible lumière qui filtre à travers les fissures du plafond éclaire les murs et les objets, révélant des traces de vieilles peintures et de symboles mystiques. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant un miroir lugubre qui reflète les ténèbres qui règnent dans ce lieu.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Mystère",
-      "Rituel",
-      "Tête de Mort"
+      "couloir",
+      "anciens",
+      "rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

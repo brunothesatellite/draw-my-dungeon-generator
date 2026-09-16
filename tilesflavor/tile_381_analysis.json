@@ -1,13 +1,13 @@
 {
   "381": {
-    "title": "Salle Sacrée des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est délabré, ajoutant à l'atmosphère ancienne et mystérieuse de la pièce. Une porte murée se trouve à l'extrémité de la salle, et une eau stagnante s'accumule au sol, créant un danger potentiel. La salle semble avoir été utilisée pour des rituels anciens, et les traces de créatures indiquent qu'elle n'est pas abandonnée depuis longtemps.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés sur le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un regard inquisiteur. Le mobilier ancien est dispersé autour de la pièce, ajoutant à l'atmosphère mystérieuse et ancienne. Une porte murée se trouve au fond, et une eau stagnante recouvre le sol, créant un danger potentiel. La salle semble être un lieu de culte, avec des têtes de mort et des tentacules peints sur les murs, ajoutant une touche d'horreur à l'atmosphère déjà sombre. Les cercles rituels et les glyphes runiques indiquent que cette pièce a probablement été utilisée pour des rituels anciens et sacrés.",
     "tags": [
-      "salle sacrée",
-      "rituels anciens",
-      "vieillie",
-      "mystérieuse",
-      "eau stagnante"
+      "salle",
+      "culte",
+      "rituels",
+      "ancien",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

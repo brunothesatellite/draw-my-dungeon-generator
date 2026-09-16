@@ -1,13 +1,13 @@
 {
   "165": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent avoir vieilli au fil des siècles. La lumière pénètre à peine à travers une ouverture étroite au sommet, créant un halo de faible éclat qui éclaire les champignons qui poussent en abondance sur les murs et le sol. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un passage ancien. Des piliers robustes soutiennent le plafond, tandis que des traces de créatures mystérieuses sillonnent le sol. Le mobilier ancien, usé par le temps, semble avoir été abandonné ici. L'atmosphère sinistre est accentuée par l'eau stagnante qui s'est formée dans un coin, reflétant les ombres des parois. La seule issue semble être un passage étroit qui mène à l'inconnu.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte des Champignons est étroite et sombre, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. Les lichens et les champignons de toutes sortes poussent sur les murs, donnant une impression de vie malgré l'obscurité. Le sol est recouvert de feuilles mortes et de débris, avec des cercles rituels et des glyphes runiques gravés dans le sol, semblant indiquer un ancien rituel. Des piliers massifs soutiennent le plafond, et le mobilier ancien est disséminé un peu partout, ajoutant à l'atmosphère sinistre de la grotte. L'eau stagnante s'accumule dans un coin, rendant le passage dangereux. La seule issue semble être un escalier étroit qui descend dans l'obscurité, menant à un autre mystère. Les champignons de toutes les couleurs, de la verdure à la rougeâtre, poussent en abondance, créant un contraste saisissant avec l'atmosphère lugubre de la grotte.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituels",
-      "Ancien",
-      "Sacrés"
+      "grotte",
+      "champignons",
+      "rituel",
+      "obscurité",
+      "ancien"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Grotte avec champignons",
       "tileNumber": 165

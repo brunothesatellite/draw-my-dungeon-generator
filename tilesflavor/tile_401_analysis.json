@@ -1,13 +1,12 @@
 {
   "401": {
     "title": "Salle de labyrinthe des Anciens",
-    "description": "La salle de labyrinthe des Anciens est une pièce rectangulaire, minuscule et vieillie, éclairée par une faible lumière qui se répand lentement à travers les piliers décrépits. Les cercles rituels gravés au sol semblent avoir été dessinés par des mains expertes, maintenant des motifs complexes qui évoquent des forces obscures. Des têtes de mort, sculptées avec une finesse surréaliste, sont suspendues aux murs, ajoutant une atmosphère de mystère et de malédiction. Le mobilier ancien, usé et usé, semble avoir été abandonné depuis des siècles, laissant place à un sentiment de délabrement et d'abandon. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'entrée difficile. La salle de labyrinthe des Anciens est un lieu de culte, où les anciens pratiquaient des rituels sombres et sacrés, et où les secrets les plus profonds de l'univers sont gardés dans l'ombre.",
+    "description": "La salle de labyrinthe est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La faible lumière qui pénètre à travers les piliers décrépits éclaire les têtes de mort sculptées dans les murs. Le mobilier ancien est dispersé autour de l'unique sortie, qui semble être la seule issue de cette salle de culte. L'atmosphère est mystérieuse et ancienne, avec un sentiment de vieillesse et d'oubli. L'eau stagnante dans un coin de la salle ajoute à l'ambiance lugubre. Les cercles rituels et les têtes de mort donnent à cette salle un air de mystère et de danger.",
     "tags": [
-      "Salle de labyrinthe",
-      "Salle de culte",
-      "Anciens",
-      "Rituels sombres",
-      "Mystère"
+      "labyrinthe",
+      "salle de culte",
+      "anciens",
+      "rituels"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

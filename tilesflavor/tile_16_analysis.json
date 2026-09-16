@@ -1,13 +1,13 @@
 {
   "16": {
-    "title": "Chambre des Rituels",
-    "description": "La salle est immense, rectangulaire et sombre, éclairée par une faible lueur qui se répand doucement à travers les colonnes massives. L'humidité y règne, et les murs sont recouverts de sculptures de têtes humaines et de tentacules, comme si la salle avait été utilisée pour des rituels obscurs. Des tapisseries aux motifs énigmatiques ornent les murs, et des autels mystérieux sont disséminés à travers la pièce. Des symboles énigmatiques sont gravés sur le sol, formant des spirales et des croix, qui semblent avoir une signification sacrée. Les colonnes sont sculptées de statues de personnages énigmatiques, et des statues de tentacules se dressent à l'entrée de la pièce. La chambre est silencieuse, mais l'atmosphère est pesante et étrange, comme si quelque chose de maléfique se cachait dans les ombres. Les runes anciennes et les symboles enchantés sont disséminés à travers la pièce, prêts à révéler leurs secrets à ceux qui savent les déchiffrer.",
+    "title": "Salle des Colonnes Mystérieuses",
+    "description": "La salle est immense, rectangulaire et éclairée par une lumière diffuse qui semble provenir de sources inconnues. Les murs sont recouverts de sculptures de têtes humaines et de tentacules, comme si une ancienne civilisation avait laissé derrière elle des vestiges de cultes obscurs. Des tapisseries aux motifs énigmatiques ornent les parois, ajoutant à l'atmosphère étrange de la pièce. Au centre de la salle, un mystérieux symbole éclaire faiblement la pièce, évoquant des rituels anciens. Des colonnes majestueuses, sculptées de statues de personnages inconnus, dominent l'espace, tandis que des autels et des symboles énigmatiques sont disséminés un peu partout. La salle est humide, et des spirales et des croix gravées dans le sol semblent indiquer un passage ou une destination. Les murs sont parsemés de runes anciennes et de symboles enchantés, rendant la pièce dangereuse pour les explorateurs non initiés. L'ambiance est oppressante et étrangement fascinante, comme si la salle était le cœur d'un culte ancien qui continue de surveiller les environs.",
     "tags": [
-      "rituel",
-      "salle",
-      "mystère",
-      "colonne",
-      "tête humaine"
+      "ritual chamber",
+      "ancient symbols",
+      "mysterious symbols",
+      "colonnade",
+      "ritual space"
     ],
     "sourceFeatures": {
       "roomSize": "large",

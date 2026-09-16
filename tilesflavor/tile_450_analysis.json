@@ -1,13 +1,13 @@
 {
   "450": {
     "title": "Couloir des Anciens",
-    "description": "Le couloir s'enfonce dans l'obscurité, ses murs rectangulaires et vieillis par le temps se reflétant faiblement dans l'eau stagnante qui s'accumule au fond. Des cercles rituels dessinent des motifs mystérieux sur le sol, tandis que des piliers robustes soutiennent le plafond. À chaque angle, des alcôves abritent des cercueils, leurs couvercles légèrement ouverts révélant des têtes de mort qui semblent observer les passants. Un autel, orné de tentacules et de têtes de mort, se dresse au fond du couloir, émettant une lumière étrange qui éclaire partiellement le passage. Un vieux tableau, encadré de tentacules, est posé contre le mur, ajoutant à l'atmosphère menaçante. La porte à l'extrémité semble fermée, mais une odeur de putréfaction flotte dans l'air, indiquant que quelque chose de maléfique pourrait se cacher derrière.",
+    "description": "Le couloir est étroit et sinueux, ses murs sont recouverts de cercueils en bois sombre, alignés dans des alcôves sculptées. Les alcôves sont séparées par de solides piliers de pierre qui supportent le plafond voûté. La lumière pénètre à peine à travers des fenêtres étroites, créant une ambiance mystérieuse et menaçante. Le sol est marqué de cercles rituels anciens, et une table en bois est posée au milieu du couloir, sans doute utilisée pour des rituels. L'endroit semble vieillir, avec des traces de poussière et de moisissure qui s'accumulent sur les murs et les cercueils. L'eau stagnante s'accumule dans les coins, ajoutant à l'atmosphère lugubre. À l'extrémité du couloir, une porte ancienne semble être la seule issue, menant à un autre mystère.",
     "tags": [
       "couloir",
-      "rituel",
-      "têtes de mort",
-      "tentacules",
-      "obscurité"
+      "anciens",
+      "rituels",
+      "cercueils",
+      "piliers"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,12 +1,13 @@
 {
   "62": {
     "title": "Salle des Anciens",
-    "description": "Cette petite salle rectangulaire, éclairée par une faible lumière filtrant à travers des rideaux usés, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de tentacules et de têtes de mort, rappelant les anciens cultes. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et des tentures ajoutent une touche de mystère à l'atmosphère. Le mobilier ancien, usé et poussiéreux, semble avoir été laissé là depuis des siècles. Une porte murée, fermée depuis longtemps, semble être l'unique sortie de cette salle, mais l'eau stagnante au fond de la pièce pourrait être un obstacle à franchir. La salle, bien que petite, est chargée d'histoire et de secrets, prête à révéler ses secrets à ceux qui oseront s'y aventurer.",
+    "description": "Cette petite salle rectangulaire, faiblement éclairée, semble avoir été utilisée pour des rituels anciens. Les murs vieillis sont ornés de tentures sombres et de têtes de mort, tandis que des cercles rituels et des glyphes runiques marquent le sol. Des piliers robustes soutiennent le plafond, et des tentures flottent doucement, ajoutant à l'atmosphère mystérieuse et ancienne de la pièce. Le mobilier ancien, usé par le temps, semble avoir été laissé là depuis des siècles. Une porte murée, fermée depuis longtemps, semble être l'unique sortie de cette salle. L'eau stagnante au fond de la pièce est un danger à ne pas négliger. Cette salle, bien que petite, est chargée d'histoire et de secrets, prête à révéler ou à cacher des trésors inestimables.",
     "tags": [
       "rituels",
-      "histoire ancienne",
       "salle",
-      "mystère"
+      "vieillie",
+      "ancien",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

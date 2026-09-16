@@ -1,13 +1,13 @@
 {
   "291": {
     "title": "L'Abîme des Spirales",
-    "description": "Vous vous trouvez au cœur d'un abîme immense, dont les parois sombres et humides semblent s'écarter pour vous offrir un panorama infini. Les spirales gravées dans le sol vous guident lentement vers le centre, où une lumière diffuse et floue semble émaner d'une source inconnue. Les colonnes massives, ornées de tentacules, semblent veiller sur ce lieu mystérieux. L'air est saturé d'une odeur nauséabonde, et les murs sont couverts de condensation. À chaque pas, vous sentez le sol trembler sous vos pieds, comme si l'abîme était toujours en mouvement. Les spirales vous attirent vers le centre, mais vous ne savez pas où elles vous mèneront. L'atmosphère est oppressante, et vous vous demandez ce que cache cet abîme si profond.",
+    "description": "Vous vous trouvez au cœur d'un abîme immense, dont les parois sombres et humides sont parsemées de tentacules qui semblent se mouvoir lentement. Des spirales mystérieuses marquent le sol, formant un motif complexe qui semble vous guider vers un point inconnu. Les colonnes massives, ornées de tentacules, émergent de l'obscurité, ajoutant à l'atmosphère lugubre de l'endroit. L'air est saturé d'une odeur nauséabonde, et la lumière diffuse qui pénètre à travers les fissures dans le plafond éclaire à peine la moitié de la pièce. Les murs sont couverts de croûtes de salpêtre, et les échos de vos pas résonnent dans l'abîme, amplifiant votre sentiment d'isolement et de mystère. Les tentacules semblent attendre, prêts à s'agripper à n'importe quel mouvement imprudent. L'abîme est un lieu d'incertitude, où chaque pas peut vous mener à une destinée inconnue.",
     "tags": [
       "abîme",
-      "spirales",
       "tentacules",
-      "colonne",
-      "mystère"
+      "spirales",
+      "mystère",
+      "isolement"
     ],
     "sourceFeatures": {
       "roomSize": "large",

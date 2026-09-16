@@ -1,13 +1,13 @@
 {
   "312": {
-    "title": "L'Abîme Sacrée",
-    "description": "Au cœur de l'obscurité, un abîme immense s'ouvre, ses parois rugueuses et déchiquetées semblant avoir été façonnées par les eaux tumultueuses. La lumière pénètre à peine, éclairant de façon intermittente les spirales et les croix gravées dans le sol, qui semblent avoir été dessinés par des mains anciennes. Des colonnes brisées se dressent ici et là, leurs pierres usées par le temps et les éléments. Un autel, dépourvu de tout objet, se dresse au centre de la pièce, son existence évoquant des rituels passés. Des nuages de gaz toxiques flottent dans l'air, rendant l'atmosphère irrespirable. Des pièges invisibles attendent, prêts à s'abattre sur l'intrus le moins averti. Le silence est troublé par le murmure des eaux qui s'engouffrent dans l'abîme, et parfois, un fantôme flou et indistinct se dessine dans l'air, comme s'il cherchait encore à se libérer de son sort. L'abîme sacrée est un lieu de ténèbres et de mystères, où les rituels anciens et les secrets les plus profonds se mêlent.",
+    "title": "L'Abîme Sacrifique",
+    "description": "L'abîme se présente comme un crevasse profond et sombre, ses parois rugueuses et déchiquetées semblent avoir été façonnées par les forces de l'obscurité. Des spirales et des croix gravées dans le sol indiquent un ancien rituel, désormais abandonné. Des colonnes brisées et des murs effondrés témoignent de l'ancienneté et de l'abandon de ce lieu. Un squelette, probablement celui d'un ancien prêtre, repose au fond de l'abîme, son crâne décapité et ses os fragiles. Un autel, dépourvu de tout objet, semble avoir été le point focal de ces rituels. L'atmosphère est pesante et étrange, comme si l'abîme respirait une malédiction ancienne. Des nuages de gaz toxiques flottent dans l'air, rendant l'air irrespirable. Des pièges cachés attendent les intrus, prêts à les piéger dans l'obscurité. Les murs sont parsemés de tentacules et de crânes, rappelant les anciens sacrifices qui ont eu lieu ici.",
     "tags": [
       "abîme",
       "rituel",
       "sacrifice",
-      "obscurité",
-      "mystère"
+      "squelette",
+      "gaz toxiques"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "250": {
     "title": "Siphon avec Pont en Bois",
-    "description": "Au cœur de l'obscurité, un siphon étroit et sinistre se dresse, son eau stagnante reflétant les ombres qui l'entourent. Un pont en bois, usé par le temps, traverse le siphon, offrant un passage à ceux qui osent s'aventurer dans ce lieu lugubre. Les murs, recouverts de têtes de mort et de tentacules, semblent témoigner d'une ancienne cérémonie macabre. Des cercles rituels gravés au sol indiquent l'ancien emplacement d'un autel, désormais abandonné. Les piliers massifs, sculptés de motifs énigmatiques, soutiennent le pont et ajoutent à l'atmosphère sinistre de la salle. Le mobilier, délabré, semble avoir été la proie des eaux stagnantes. La porte ouverte au fond laisse entrevoir un passage sombre, mais le danger qui y réside est inconnu. Les traces de pas indiquent que quelqu'un a récemment exploré ce lieu, peut-être à la recherche de secrets enfouis dans les ténèbres.",
+    "description": "Le siphon avec pont en bois semble avoir été construit il y a des siècles. Les piliers massifs soutiennent un pont en bois qui traverse un siphon étroit. Le pont est usé, avec des planches qui craquent sous le poids. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble avoir été oublié depuis longtemps. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Les murs sont couverts de vieilles peintures qui se sont dégradées, laissant des traces de couleurs vives qui se sont effacées au fil du temps. Des traces de pas sont visibles sur le pont, comme si quelqu'un avait traversé récemment. À l'extrémité du siphon, une porte ouverte laisse entrevoir une eau stagnante qui semble avoir été là depuis des années. L'atmosphère est sinistre, accentuée par les ombres qui dansent sur les murs et les piliers. Cette salle semble avoir été utilisée pour des rituels, comme en témoignent les cercles rituels et les piliers massifs qui soutiennent le pont.",
     "tags": [
-      "Salle de Rituels",
-      "Siphon",
-      "Pont en Bois",
-      "Ancien Autel",
-      "Têtes de Mort"
+      "siphon",
+      "pont en bois",
+      "rituel",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "Siphon avec pont en bois",
       "tileNumber": 250

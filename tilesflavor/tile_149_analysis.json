@@ -1,13 +1,13 @@
 {
   "149": {
-    "title": "Passage des Spirales",
-    "description": "Le passage des Spirales est un couloir large et rectangulaire, éclairé par la lumière naturelle qui filtre à travers les fissures dans le plafond. La moiteur de l'air y est perceptible, donnant une sensation de fraîcheur à l'air. Les marquages de spirales gravés dans le sol semblent indiquer un chemin ancien et sacré. Les colonnes massives, ornées de motifs sculptés, soutiennent le plafond et ajoutent à l'atmosphère mystérieuse et ancienne du lieu. Des tentacules et des têtes de mort sont suspendus aux murs, rappelant l'ancienne puissance qui a régné ici. Le mobilier, malgré son état délabré, semble avoir été une fois un lieu de culte ou de rituel. Les spirales enchantées qui entourent le couloir sont un danger à ne pas négliger, car elles peuvent attirer les créatures malveillantes. Le passage des Spirales est un lieu sacré, mais aussi dangereux, où les anciens secrets sont toujours prêts à être révélés.",
+    "title": "Couloir des Tentacules",
+    "description": "Les couloirs étroits et sinueux s'enfoncent dans l'obscurité, leurs murs couverts de tentacules et de têtes de mort qui semblent regarder les explorateurs. Des spirales mystérieuses marquent le sol, guidant les voyageurs vers un but inconnu. Les colonnes massives, ornées de tentacules, soutiennent le plafond, tandis que des bancs de pierre sont disséminés le long des murs, probablement pour les pèlerins. L'air humide et froid pénètre dans les narines, et la lumière naturelle filtre à travers des fissures minuscules, créant un éclairage tamisé qui révèle les détails sombres de ce lieu sacré. Les explorateurs doivent être prudents, car un spiral enchanté peut les attirer vers un abîme infini. Les couloirs semblent sans issue, mais une sensation de présence ancienne plane dans l'air, rendant l'atmosphère mystérieuse et ancienne.",
     "tags": [
       "couloir",
-      "sacré",
-      "ancien",
+      "tentacules",
       "spirales",
-      "têtes de mort"
+      "têtes de mort",
+      "sacré"
     ],
     "sourceFeatures": {
       "roomSize": "large",

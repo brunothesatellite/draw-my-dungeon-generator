@@ -1,12 +1,12 @@
 {
   "102": {
-    "title": "Salle des Rituels Anciens",
-    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis, où des cercles rituels sont gravés. Des piliers massifs soutiennent le plafond, et le sol est marqué de cercles rituels. Des meubles anciens sont empilés contre le mur, et une créature mystérieuse, probablement un oiseau, plane au-dessus du sol. L'atmosphère est mystérieuse et ancienne, rendant l'endroit propice à des rituels obscurs.",
+    "title": "Salle des Cercles Rituels",
+    "description": "Dans cette petite salle rectangulaire, la lumière faible éclaire les murs vieillis. Des cercles rituels sont gravés au sol, marquant l'ancienneté de ce lieu. Des piliers massifs soutiennent le plafond, et des poutres de bois ancien reposent sur des colonnes de pierre. Le mobilier, usé et délabré, semble avoir été oublié depuis des siècles. À un mur, une créature mystérieuse, probablement un oiseau, semble observer les visiteurs avec un regard perçant. L'atmosphère est mystérieuse et ancienne, comme si les murs avaient des yeux et des oreilles. Les cercles rituels au sol indiquent que cette salle a probablement été utilisée pour des rituels ou des cérémonies. L'eau stagnante au sol est un danger potentiel, mais il n'y a pas de sortie visible depuis cette salle.",
     "tags": [
       "rituel",
       "salle",
       "mystère",
-      "ancien",
+      "vieillie",
       "créature"
     ],
     "sourceFeatures": {

@@ -1,13 +1,13 @@
 {
   "223": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des piliers massifs qui soutiennent le plafond. La faible lumière qui pénètre à travers les fissures dans les murs donne une ambiance mystérieuse et menaçante. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant les limites de la pièce. Des piliers et des colonnes majestueuses ornent les murs, ajoutant à l'atmosphère sacrée de la salle. Des cercles de lumière se dessinent sur le sol, indiquant les emplacements des anciens autels. Des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère. Le mobilier ancien est délabré, mais les objets sont encore visibles, témoignant de l'importance de cette pièce. La porte murée au fond de la salle est fermée, mais on peut deviner qu'elle cache un passage secret. L'eau stagnante au centre de la pièce est un danger à ne pas négliger. La salle est dédiée à des rituels sacrés, mais elle est aussi un lieu de peur et de mystère.",
+    "title": "Salle des Anciens",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. Les murs sont ornés de piliers et de colonnes, et le mobilier ancien est disséminé un peu partout. La lumière est faible, ce qui ajoute à l'atmosphère mystérieuse et menaçante de la pièce. Un autel central est visible, entouré de têtes de mort et de tentacules. L'eau stagnante dans le coin est un danger potentiel. La porte murée à l'extrémité de la salle semble être le seul moyen de sortir.",
     "tags": [
-      "rituel",
-      "sacrifice",
-      "mystère",
-      "ancien",
-      "horreur"
+      "rituels",
+      "salle",
+      "anciens",
+      "mystérieuse",
+      "menaçante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

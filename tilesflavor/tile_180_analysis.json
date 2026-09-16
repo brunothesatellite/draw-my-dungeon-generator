@@ -1,12 +1,12 @@
 {
   "180": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est un couloir étroit et tortueux qui semble avoir été creusé par des mains inconnues. Les murs irréguliers sont recouverts de champignons étranges qui semblent vivre et pousser dans l'obscurité. La lumière pénètre à peine, révélant des traces de vieilles peintures murales qui sont devenues floues avec le temps. Des cercles rituels sont gravés au sol, marquant le passage de ce qui semble être un ancien rituel. Les piliers de pierre sont usés et recouverts de mousse, ajoutant à l'atmosphère mystérieuse et menaçante du lieu. Des objets anciens, probablement des ustensiles de culte, sont disséminés un peu partout, témoignant de l'ancienne activité qui s'y déroulait. L'eau stagnante au fond du couloir est un danger à ne pas sous-estimer, car elle peut être toxique ou contenir des créatures indésirables. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche d'horreur à l'expérience. Les murs sont ornés de têtes de mort et de tentacules, rappelant les créatures qui pourraient se cacher dans l'obscurité. La présence de ces éléments suggère que ce passage est le lieu d'un culte ancien, peut-être même un abîme des tentacules.",
+    "title": "Couloir des Champignons",
+    "description": "Le couloir de grotte est étroit et sinueux, éclairé par la faible lumière qui filtre à travers les épaisses parois rocheuses. Les murs sont parsemés de champignons de toutes les couleurs, qui semblent vibrer sous l'effet de l'humidité. Des cercles rituels sont gravés dans le sol, marquant le passage de rituels anciens. Les piliers massifs, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Des traces de vieillissement sont partout, avec des taches de moisissure et des éclats de pierre. Le mobilier ancien, délabré, est disséminé le long du couloir, ajoutant à l'atmosphère mystérieuse et menaçante. L'eau stagnante, noire et trouble, s'accumule dans les coins, créant des zones de danger. Les champignons, de toutes les tailles, semblent vivants et observent les passants avec un regard curieux. Les cercles rituels, bien que dégradés, semblent encore avoir une certaine puissance, émettant des éclairs de lumière bleue lorsqu'on les touche.",
     "tags": [
       "couloir",
       "grotte",
-      "rituel",
-      "mystère",
+      "champignons",
+      "rituels",
       "ancien"
     ],
     "sourceFeatures": {

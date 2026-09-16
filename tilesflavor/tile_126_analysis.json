@@ -1,13 +1,13 @@
 {
   "126": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La Chambre Sacrée des Anciens est une salle ouverte immense, de forme rectangulaire, dont les murs sont recouverts de tentacules et de têtes de mort. La lumière y est si faible que les ombres dansent sur le sol, où des cercles rituels et des runes mystérieuses sont gravés. Des colonnes et des piliers imposants soutiennent le plafond, qui semble prêt à s'effondrer à tout moment. Des objets étranges et inconnus sont disséminés un peu partout, ajoutant à l'atmosphère étrange de la pièce. Un murmure constant et un bruit de pas lointains indiquent la présence d'une force invisible. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets les plus sombres. Les tentacules et les têtes de mort, symboles de la mort et de la corruption, sont suspendus aux murs, rappelant l'ancienne puissance qui réside ici. La pièce est si ancienne et si sacrée que même les plus audacieux des explorateurs se demandent ce qui se cache derrière les portes cachées et les pièges qui guettent les intrus.",
+    "title": "Salle Sacrée des Anciens",
+    "description": "La salle ouverte est immense, son plan rectangulaire s'étend sous vos yeux. La lumière tamisée émane des fenêtres hautes, révélant un intérieur délabré mais majestueux. Des colonnes massives soutiennent le plafond voûté, orné de tentacules et de têtes de mort qui semblent veiller sur le lieu. Des cercles rituels et des runes mystiques marquent le sol, tandis que des objets énigmatiques sont disséminés un peu partout. Un mur est orné de tentacules et de têtes de mort, ajoutant à l'atmosphère étrange et menaçante. Un secret se cache derrière une porte dissimulée, et des pièges et du gaz toxique risquent de vous accueillir si vous vous approchez trop près. Cette salle ouverte est le cœur sacré d'un ancien culte, et chaque détail semble raconter une histoire de terreur et de mystère.",
     "tags": [
-      "sacred chamber",
-      "ancient secrets",
-      "rituals",
-      "mysteries",
-      "corruption"
+      "salle sacrée",
+      "rituels",
+      "têtes de mort",
+      "tentacules",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "93": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens s'inscrit dans un mur de pierre délabré, ses murs recouverts de tentes de toile qui semblent avoir été abandonnées depuis des siècles. Des motifs de spirales gravés dans le sol indiquent un ancien rituel, et les croix sculptées sur les piliers centraux évoquent une époque où les dieux étaient encore vénérés. La lumière naturelle qui filtre à travers les deux fenêtres éclaire les restes de boiseries et de poutres qui s'effondrent lentement. L'humidité qui s'accumule au sol laisse des traces de l'eau qui s'écoule, ajoutant à l'atmosphère mystérieuse et ancienne de ce lieu. À chaque pas, les tentacules qui se glissent entre les pierres semblent chercher à se dégager, rappelant l'ancienne puissance qui réside encore dans ce passage.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir des Anciens s'inscrit dans un mur de pierre délabré, ses murs recouverts de tentes de toile qui semblent avoir été abandonnées depuis des siècles. Des motifs de spirales gravés dans le sol indiquent un passage ancien, peut-être un rituel. Des colonnes croisées soutiennent le plafond, ajoutant une touche de mystère à l'atmosphère déjà étrange. Les barils en bois, empilés ici et là, semblent avoir été oubliés depuis longtemps. Deux fenêtres permettent une faible lumière naturelle qui éclaire la pièce, révélant des traces de vieilles peintures murales. Le sol est glissant d'eau, un danger potentiel pour les explorateurs. À l'extrémité du couloir, un pilier central domine la scène, semblant être le point focal de l'ancien rituel. Les tentacules qui émergent des murs ajoutent une touche de surnaturel à l'atmosphère déjà ancienne et mystérieuse.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Mystère"
+      "couloir",
+      "ancien",
+      "rituel",
+      "tentacules",
+      "abandonné"
     ],
     "sourceFeatures": {
       "roomSize": "large",

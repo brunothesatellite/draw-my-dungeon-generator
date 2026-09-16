@@ -1,13 +1,15 @@
 {
   "112": {
-    "title": "Passage des Filles d'Araignée",
-    "description": "Vous vous trouvez dans un couloir étroit et sinueux, dont les murs sont recouverts de fils d'araignée qui semblent s'étirer indéfiniment. La lumière est faible, filtrant à travers des ténèbres qui semblent s'approcher de vous. Le sol est marqué de spirales sombres qui semblent danser sous vos pieds. Des colonnes majestueuses, usées par le temps, soutiennent le plafond, ajoutant à l'atmosphère étrange de ce lieu. Des tentacules et des tombes étranges ornent les murs, racontant des histoires d'anciennes puissances. Un autel, délabré, se dresse au fond du couloir, semblant attendre un rituel sacré. Des apparitions fantomatiques flottent dans l'air, ajoutant une note de mystère à l'ambiance déjà étrange. Les filtres d'araignée semblent tisser un lien entre les mondes, prouvant que ce couloir est bien plus qu'il n'y paraît.",
+    "title": "Couloir des Filles d'Araignée",
+    "description": "Les couloirs étranges s'enfoncent dans l'obscurité, leurs murs recouverts de fils d'araignée qui semblent tisser un réseau sombre. Des spirales mystérieuses marquent le sol, guidant les explorateurs vers l'inconnu. Les colonnes majestueuses, usées par le temps, portent des tentacules qui semblent se mouvoir d'eux-mêmes. Des tombes étranges, sculptées de têtes de mort, sont disséminées le long du couloir, rappelant l'ancien culte qui régnait ici. L'air est chargé d'une atmosphère étrange, comme si les esprits des morts erraient encore. Un autel, délabré, se dresse au fond du couloir, son altar vide, mais ses pierres semblent murmurer des secrets anciens. Les couloirs sont parsemés de pièges, prêts à s'abattre sur les intrus. Les explorateurs doivent être prudents, car les esprits des morts peuvent encore se manifester ici, rendant le passage dangereux.",
     "tags": [
       "couloir",
-      "mystère",
-      "rituel",
-      "tentacules",
-      "sacrifice"
+      "araignée",
+      "spirales",
+      "tombes",
+      "esprits",
+      "autel",
+      "pièges"
     ],
     "sourceFeatures": {
       "roomSize": "large",

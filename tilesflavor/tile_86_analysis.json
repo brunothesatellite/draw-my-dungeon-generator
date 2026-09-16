@@ -1,13 +1,13 @@
 {
   "86": {
-    "title": "Salle des Rituels des Tentacules",
-    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels gravés dans le sol. La faible lumière qui pénètre à travers une porte étroite éclaire les piliers massifs qui soutiennent le plafond. Des têtes de mort et des tentacules émergent des caisses empilées au centre de la pièce, ajoutant une atmosphère sinistre à l'endroit. Une table est placée contre un mur, et des traces de pas indiquent que quelqu'un a récemment visité cette salle. L'eau stagnante dans un coin de la pièce est un danger à ne pas négliger.",
+    "title": "Salle des Tentacules",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, émanant d'une source inconnue, ce qui ajoute une atmosphère sinistre à l'endroit. Des piliers massifs soutiennent les murs, et une table ancienne est placée au centre de la pièce. Des caisses en bois sont empilées contre le mur, et un tentacule étrange semble sortir du plafond, se balançant lentement. Des traces de pas indiquent que quelqu'un a récemment visité cette salle. À l'entrée, une porte ancienne semble fermée, mais une eau stagnante s'accumule près de l'entrée, rendant l'accès difficile. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici.",
     "tags": [
       "rituel",
-      "tentacules",
+      "tentacule",
+      "caisses",
       "salle",
-      "vieillie",
-      "sinistre"
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

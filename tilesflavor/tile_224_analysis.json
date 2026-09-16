@@ -1,13 +1,13 @@
 {
   "224": {
-    "title": "Chambre Sacrée Viking",
-    "description": "La chambre sacrée viking est une salle ouverte de taille imposante, rectangulaire et éclairée par la lumière naturelle qui filtre à travers les fenêtres. Les murs sont recouverts d'une couche de mousse et de végétation, donnant à la pièce une ambiance humide et ancienne. Au centre de la pièce se dresse un large autel en pierre, orné d'un dessin de dragon viking qui semble veiller sur le sanctuaire. Des spirales mystérieuses marquent le sol, ajoutant à l'atmosphère énigmatique de la pièce. Les colonnes massives et l'arche majestueuse au fond de la pièce renforcent l'impression de grandeur et de mystère. L'atmosphère est pesante et chargée d'une aura sacrée, comme si la pièce avait été utilisée pour des rituels anciens et sacrés.",
+    "title": "Salle Sacrificielle Viking",
+    "description": "La salle est immense, rectangulaire et ouverte, avec quatre imposantes colonnes en pierre qui soutiennent un plafond voûté. Le sol est recouvert d'un tapis de mousse verte, et des spirales mystérieuses gravées dans le sol attirent l'œil. Un grand autel de pierre se dresse au centre de la pièce, orné d'un dessin de dragon viking qui semble vivant, ses yeux scintillant d'une lueur étrange. Les murs sont recouverts de peintures anciennes, et des tentacules peints semblent sortir des pierres. L'air est humide et chargé d'une atmosphère ancienne et mystérieuse. Des arches majestueuses permettent d'accéder à d'autres parties du donjon. Les spirales sur le sol sont un piège, et il est préférable de les éviter. La salle est destinée à des sacrifices, et l'atmosphère y est lourde de secrets anciens.",
     "tags": [
-      "Salle Sacrée",
-      "Dragon Viking",
-      "Mystère",
-      "Ancien",
-      "Rituel"
+      "sacrifice",
+      "dragon",
+      "viking",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

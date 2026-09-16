@@ -1,13 +1,13 @@
 {
   "246": {
-    "title": "Siphon de la Connaissance Sacrée",
-    "description": "Au cœur de l'obscurité, se dresse le siphon de la Connaissance Sacrée, un lieu de mystère et d'étrangeté. La pièce est immense, de forme rectangulaire, et évoque une atmosphère de vieilles pierres et d'humidité. La lumière y est faible, filtrant à travers des voiles de poussière qui flottent dans l'air, créant un éclairage tamisé et étrange. Les murs sont couverts de sculptures étranges, des tentacules et des têtes de mort qui semblent observer les visiteurs avec un regard froid et distrait. Des spirales et des lignes dessinent des motifs complexes sur le sol, semblant indiquer un chemin ou une destination. Des colonnes et des piliers majestueux soutiennent le plafond, ajoutant à l'aura de mystère. Des objets mystérieux sont disséminés un peu partout, leur nature et leur origine restant un mystère. Les esprits fantômes de ceux qui ont pénétré dans ce lieu semblent errer, leurs silhouettes floues et flottantes, ajoutant une touche d'effroi à l'atmosphère. Les tentacules et les têtes de mort sont les seuls signes de vie dans cette pièce, rappelant que la connaissance ici est acquise au prix d'un sacrifice. Les enchanteurs de pièges sont dissimulés partout, prêts à se déclencher sur les intrus imprudents. La pièce est un sanctuaire, un lieu de culte, où les anciens s'assemblaient pour pratiquer des rituels et chercher la vérité cachée dans les profondeurs de l'univers.",
+    "title": "Siphon du Temple Sacré",
+    "description": "Le siphon du Temple Sacré est un lieu immense et rectangulaire, dont les murs humides et froids sont ornés de tentacules et de têtes de mort. La lumière tamisée émane des colonnes et des piliers qui soutiennent le plafond, où des spirales et des lignes dessinent des motifs mystérieux. Des objets énigmatiques sont disséminés un peu partout, ajoutant à l'ambiance étrange et étrange. Les tentacules et les têtes de mort, suspendus aux murs, semblent garder un secret ancien. Les spirales et les lignes dessinées au sol semblent indiquer un passage ou une voie sacrée. Les colonnes et les piliers, robustes et imposants, sont les témoins silencieux de milliers d'années de mystères et de rituels. Les objets énigmatiques, à la fois anciens et mystérieux, semblent attendre d'être explorés. Les tentacules et les têtes de mort, suspendus aux murs, semblent garder un secret ancien. Les spirales et les lignes dessinées au sol semblent indiquer un passage ou une voie sacrée. Les colonnes et les piliers, robustes et imposants, sont les témoins silencieux de milliers d'années de mystères et de rituels. Les objets énigmatiques, à la fois anciens et mystérieux, semblent attendre d'être explorés.",
     "tags": [
-      "salle sacrée",
-      "mystère",
-      "rituels",
+      "siphon",
+      "temple sacré",
+      "tentacules",
       "têtes de mort",
-      "tentacules"
+      "rituels sacrés"
     ],
     "sourceFeatures": {
       "roomSize": "large",

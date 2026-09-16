@@ -1,13 +1,13 @@
 {
   "361": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au sol. La lumière est faible, émanant d'un feu central qui brûle sur un autel. Des piliers robustes soutiennent les murs, et des têtes de mort sont suspendues aux parois, ajoutant une atmosphère sinistre à l'ensemble. Les étagères sont vides, mais les murs sont décorés de têtes de mort, rappelant l'ancienne vénération des sacrifices. L'air est lourd, et l'eau stagnante se forme dans un coin, créant un danger potentiel pour les explorateurs. Cette salle est dédiée à des rituels sombres et sacrifiels, et elle semble avoir été abandonnée depuis longtemps.",
+    "description": "La salle est petite et carrée, avec un sol vieilli et des marquages de cercles rituels au sol. Les murs sont ornés de têtes de mort, ajoutant une atmosphère sinistre à l'endroit. Un autel central, entouré de piliers, domine la pièce. Un feu brûle au centre, projetant des ombres dans les recoins. Des étagères remplies de divers objets mystérieux s'étendent le long des murs. L'endroit semble avoir été utilisé pour des rituels sombres, et l'eau stagnante dans un coin ajoute à l'ambiance lugubre. Les piliers et les têtes de mort donnent l'impression que cette salle a été utilisée pour des sacrifices ou des cérémonies rituelles.",
     "tags": [
       "rituel",
       "sacrifice",
       "salle",
-      "vieillie",
-      "sinistre"
+      "étagères",
+      "feu"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

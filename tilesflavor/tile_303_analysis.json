@@ -1,12 +1,11 @@
 {
   "303": {
-    "title": "Abîme des Anciens",
-    "description": "Dans l'obscurité qui règne, un abîme s'ouvre devant vous. Des pierres de différentes tailles sont disposées en un cercle parfait, au centre de ce qui semble être un bassin d'eau trouble. Une épée, luisante et ancienne, repose au milieu de ce cercle, son manche en bois usé et son acier ébréché. Un pont de corde, noué avec précision, traverse l'abîme, offrant un passage vers l'autre côté. Les murs de cette salle sont vieillis, leurs pierres érodées par le temps et les éléments. Des cercles rituels sont gravés au sol, marquant un espace sacré. Des tentacules, noirs et sinistres, semblent sortir des murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre. Un autel, dépourvu de tout objet, se dresse au fond de la salle, comme témoin des rituels passés. L'air est chargé d'une odeur de mort et de mystère, et les ombres dansent sur les murs, créant des silhouettes étranges. Les tentacules semblent toujours prêts à se déplacer, ajoutant une menace constante à l'endroit.",
+    "title": "Abîme des Tentacules",
+    "description": "Dans l'abîme, les petites pierres forment un cercle au centre, où repose une épée acérée. Un pont de corde tordu traverse l'abîme, menant à une autre partie de ce lieu sinistre. Les murs sont vieillis, et des tentacules émergent de l'obscurité, ajoutant une touche d'effrayante réalité à l'atmosphère. Des cercles rituels marquent le sol, et un autel se dresse au fond de la pièce, témoignant d'anciennes cérémonies. Les piliers massifs soutiennent le plafond, et des têtes de mort sont suspendues aux murs, rappelant l'horreur qui réside ici. La lumière est faible, et l'air est chargé d'une odeur de mort et de mystère.",
     "tags": [
       "abîme",
-      "rituel",
       "tentacules",
-      "épée",
+      "rituels",
       "salle de rituel"
     ],
     "sourceFeatures": {
@@ -14,7 +13,7 @@
       "roomShape": "irrégulière",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "piliers",
+      "centralFeature": "pilier",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

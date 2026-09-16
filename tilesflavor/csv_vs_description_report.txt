@@ -1,0 +1,754 @@
+RESULTS SUMMARY - csvDescription vs description
+======================================================================
+  OK:       207 tiles
+  PARTIAL:  111 tiles
+  MISSING:   99 tiles
+  NO CSV:    43 tiles
+  TOTAL:    460 tiles
+
+COMPLETELY MISSING (99 tiles)
+----------------------------------------------------------------------
+  Tile 4: Couloir avec petite salle
+    Missing: petite
+
+  Tile 12: Couloir avec dessin magique au sol
+    Missing: dessin magique sol
+
+  Tile 13: Salle avec pierres étranges... peut-être un piège
+    Missing: pierres étranges peutêtre piège
+
+  Tile 17: Salle avec 2 trous (fermés par grille)
+    Missing: trous
+
+  Tile 19: Salle avec dessin étrange
+    Missing: dessin étrange
+
+  Tile 22: Salle avec 2 flashs dessinés
+    Missing: flashs dessinés
+
+  Tile 27: Salle avec statue
+    Missing: statue
+
+  Tile 29: Salle avec vortex magique
+    Missing: vortex magique
+
+  Tile 32: Salle avec cheminée
+    Missing: cheminée
+
+  Tile 35: Salle avec œil dessiné au sol
+    Missing: œil dessiné sol
+
+  Tile 37: Salle avec trou
+    Missing: trou
+
+  Tile 38: Salle avec soleil magique et tonneaux
+    Missing: soleil magique, tonneaux
+
+  Tile 39: Salle avec lit
+    Missing: lit
+
+  Tile 47: Salle avec 4 trous et 1 grille ouverte
+    Missing: trous, grille ouverte
+
+  Tile 50: Salle avec tonneaux
+    Missing: tonneaux
+
+  Tile 52: couloirs
+    Missing: couloirs
+
+  Tile 55: Couloir avec un petit conduit (pas d'eau)
+    Missing: petit conduit
+
+  Tile 64: Salle avec des petites pierres ou champignon
+    Missing: petites pierres champignon
+
+  Tile 80: Salle avec des caisses
+    Missing: caisses
+
+  Tile 81: Salle avec un dessin étrange
+    Missing: dessin étrange
+
+  Tile 89: Couloir sans issue
+    Missing: issue
+
+  Tile 95: 3 couloirs sans issue
+    Missing: couloirs, issue
+
+  Tile 96: couloirs
+    Missing: couloirs
+
+  Tile 106: Salle avec un grille et 6 pierres étranges alignées
+    Missing: grille, pierres étranges alignées
+
+  Tile 109: Couloirs étranges avec des fils d'araignée
+    Missing: couloirs étranges, fils daraignée
+
+  Tile 112: Couloirs étranges avec des fils d'araignée
+    Missing: couloirs étranges, fils daraignée
+
+  Tile 113: Salle avec une toile d'araignée
+    Missing: toile daraignée
+
+  Tile 115: Salle avec des dessins au sol
+    Missing: dessins sol
+
+  Tile 116: Salle avec une toile d'araignée
+    Missing: toile daraignée
+
+  Tile 117: Salle de repos (3 tables et chaises)
+    Missing: repos
+
+  Tile 119: Salle avec petite table/chaises et couloir
+    Missing: petite tablechaises
+
+  Tile 121: Salle ouverte
+    Missing: ouverte
+
+  Tile 123: Salle ouverte avec une grille
+    Missing: ouverte, grille
+
+  Tile 129: Salle ouverte avec dragon infini
+    Missing: ouverte, dragon infini
+
+  Tile 131: Salle ouverte
+    Missing: ouverte
+
+  Tile 133: Salle ouverte avec un sarcophage / tombe
+    Missing: ouverte, sarcophage tombe
+
+  Tile 134: Salle ouverte
+    Missing: ouverte
+
+  Tile 137: Couloir avec quelque chose comme un piège (9 trous sur le sol comme des pointes ou des lances pourraient sortir)
+    Missing: piège
+
+  Tile 144: Couloirs séparés (je me suis trompé de nombre)
+    Missing: couloirs séparés
+
+  Tile 145: Couloirs séparés (je me suis trompé de nombre)
+    Missing: couloirs séparés
+
+  Tile 147: Couloir avec un petit coffre
+    Missing: petit coffre
+
+  Tile 149: Couloirs
+    Missing: couloirs
+
+  Tile 181: Couloir avec escalier descendant
+    Missing: escalier descendant
+
+  Tile 183: Salle avec grand escalier montant
+    Missing: grand escalier montant
+
+  Tile 191: Couloir avec escalier montant
+    Missing: escalier montant
+
+  Tile 194: Couloir avec escalier descendant
+    Missing: escalier descendant
+
+  Tile 195: Séparées avec escalier montant et descendant
+    Missing: séparées, escalier montant, descendant
+
+  Tile 196: Salle avec porte magique
+    Missing: porte magique
+
+  Tile 199: Salle avec porte magique
+    Missing: porte magique
+
+  Tile 200: Salle avec porte magique
+    Missing: porte magique
+
+  Tile 201: Couloir avec escaliers d'escalade
+    Missing: escaliers descalade
+
+  Tile 202: Couloir avec escaliers de descente
+    Missing: escaliers descente
+
+  Tile 203: Couloir avec escaliers d'escalade
+    Missing: escaliers descalade
+
+  Tile 204: Couloir avec escaliers de descente
+    Missing: escaliers descente
+
+  Tile 205: Couloir avec escaliers d'escalade
+    Missing: escaliers descalade
+
+  Tile 206: Couloir avec escaliers de descente
+    Missing: escaliers descente
+
+  Tile 207: Couloir avec escaliers d'escalade
+    Missing: escaliers descalade
+
+  Tile 208: Couloir avec escaliers de descente
+    Missing: escaliers descente
+
+  Tile 209: Couloir avec escaliers d'escalade
+    Missing: escaliers descalade
+
+  Tile 216: Salle ouverte avec fontaine (ou petit bassin)
+    Missing: ouverte, fontaine
+
+  Tile 217: Salle ouverte
+    Missing: ouverte
+
+  Tile 219: Salle ouverte avec 4 petites coffres
+    Missing: ouverte, petites coffres
+
+  Tile 221: Salle ouverte
+    Missing: ouverte
+
+  Tile 222: Salle ouverte avec colonnes
+    Missing: ouverte, colonnes
+
+  Tile 223: Salle ouverte
+    Missing: ouverte
+
+  Tile 225: Salle ouverte
+    Missing: ouverte
+
+  Tile 233: Salle ouverte avec dessin de crâne
+    Missing: ouverte, dessin crâne
+
+  Tile 234: Salle ouverte avec dessin de château et d'épées
+    Missing: ouverte, dessin château, dépées
+
+  Tile 236: Salle ouverte avec dessin magique (comme un mandala)
+    Missing: ouverte, dessin magique
+
+  Tile 240: Salle ouverte avec dessin de temple
+    Missing: ouverte, dessin temple
+
+  Tile 241: Siphon sortant du mur
+    Missing: siphon sortant mur
+
+  Tile 266: égout avec une planche utilisée pour faire un pont
+    Missing: égout, planche utilisée, faire pont
+
+  Tile 270: égout avec 2 tuyaux déversant de l'eau
+    Missing: égout, tuyaux déversant leau
+
+  Tile 282: égout mort
+    Missing: égout mort
+
+  Tile 353: souterrain avec des couloirs et des pièges (des pointes sortent des murs, des branches, des pierres spéciales sur le sol). Un petit cage est dans un cul-de-sac et il y a un tonneau
+    Missing: souterrain, couloirs, pièges petit cage, culdesac, il tonneau
+
+  Tile 358: salle de donjon avec un trou carré
+    Missing: donjon, trou carré
+
+  Tile 363: salle ouverte avec des étagères, des longues tables et des tabourets
+    Missing: ouverte, étagères, longues tables, tabourets
+
+  Tile 381: salle ouverte complète
+    Missing: ouverte complète
+
+  Tile 384: salle ouverte complète
+    Missing: ouverte complète
+
+  Tile 385: salle ouverte complète
+    Missing: ouverte complète
+
+  Tile 387: salle ouverte complète
+    Missing: ouverte complète
+
+  Tile 392: salle ouverte complète
+    Missing: ouverte complète
+
+  Tile 407: Atelier de pharmacien
+    Missing: atelier pharmacien
+
+  Tile 409: Salle comme un ossuaire
+    Missing: ossuaire
+
+  Tile 411: Couloir bloqué par des pierres
+    Missing: bloqué pierres
+
+  Tile 412: Couloir bloqué par des pierres (avec un crâne de démon dans les murs)
+    Missing: bloqué pierres
+
+  Tile 413: Salle de formation (cible pour archers, poupées en bois, étagère d'armes, barils, ... )
+    Missing: formation
+
+  Tile 414: Salle d'échecs avec pièces d'échecs
+    Missing: déchecs, pièces déchecs
+
+  Tile 415: Salle d'échecs avec pièces d'échecs
+    Missing: déchecs, pièces déchecs
+
+  Tile 428: Salle glacée
+    Missing: glacée
+
+  Tile 431: Couloir avec petite salle
+    Missing: petite
+
+  Tile 434: Pont en bois pourri passant au-dessus d'une salle
+    Missing: pont bois pourri passant audessus dune
+
+  Tile 441: Couloirs
+    Missing: couloirs
+
+  Tile 443: salle avec 12 portes et pilier central
+    Missing: 12 portes, pilier central
+
+  Tile 444: 2 salles séparées. 2 trous (grilles enlevées) sont connectés par ces salles
+    Missing: salles séparées trous connectés salles
+
+  Tile 445: Prison ouverte
+    Missing: prison ouverte
+
+  Tile 447: Cage circulaire avec porte ouverte dans une salle
+    Missing: cage circulaire, porte ouverte
+
+  Tile 448: Couloir passant sous un autre couloir
+    Missing: passant
+
+  Tile 451: Salle avec une colonne géante
+    Missing: colonne géante
+
+PARTIALLY MISSING (111 tiles)
+----------------------------------------------------------------------
+  Tile 1: Salle avec obélisque et colonnes
+    Found:   colonnes
+    Missing: obélisque
+
+  Tile 6: Salle avec un trou avec grille
+    Found:   grille
+    Missing: trou
+
+  Tile 16: Salle ouverte avec colonnes
+    Found:   colonnes
+    Missing: ouverte
+
+  Tile 21: Salle avec table et chaises
+    Found:   table
+    Missing: chaises
+
+  Tile 23: Salle avec petite sanctuaire et colonne
+    Found:   colonne
+    Missing: petite sanctuaire
+
+  Tile 25: Salle avec bassin et fontaine
+    Found:   bassin
+    Missing: fontaine
+
+  Tile 26: Canal d'eau entre 2 murs avec pont
+    Found:   murs, pont
+    Missing: canal deau
+
+  Tile 28: Salle avec dessin « ancien » et 4 colonnes
+    Found:   colonnes
+    Missing: dessin ancien
+
+  Tile 40: Salle avec cheminée, obélisque et 4 soleils étranges
+« magiques » dessinés
+    Found:   obélisque, soleils étranges magiques dessinés
+    Missing: cheminée
+
+  Tile 76: Salle avec un soleil magique dessiné et 4 colonnes
+    Found:   soleil magique dessiné
+    Missing: colonnes
+
+  Tile 90: Couloir sans issue avec des petites pierres
+    Found:   issue
+    Missing: petites pierres
+
+  Tile 94: Autel avec des tentacules et des choses étranges dessinées
+    Found:   autel, tentacules
+    Missing: choses étranges dessinées
+
+  Tile 100: Salle sans issue (sorties bloquées par des pierres, des barils et des caisses) Dessins sur le sol
+    Found:   sol
+    Missing: issue dessins
+
+  Tile 111: Couloir étrange avec des fils d'araignée et une araignée géante (cachée ou dans les murs)
+    Found:   étrange, araignée géante
+    Missing: fils daraignée
+
+  Tile 124: Salle ouverte, quelques choses étranges et petites sont grimpant sur les murs et un tentacule sort d'un trou
+    Found:   murs
+    Missing: ouverte, quelques choses étranges, petites grimpant, tentacule sort dun trou
+
+  Tile 125: Salle ouverte avec 3 pierres étranges sur le sol
+    Found:   pierres étranges, sol
+    Missing: ouverte
+
+  Tile 127: Salle ouverte avec des dessins floraux au sol
+    Found:   dessins floraux sol
+    Missing: ouverte
+
+  Tile 132: Salle ouverte avec 2 grilles
+    Found:   grilles
+    Missing: ouverte
+
+  Tile 135: Salle ouverte avec une fontaine
+    Found:   fontaine
+    Missing: ouverte
+
+  Tile 136: Couloirs avec des barils et des caisses sur un côté
+    Found:   barils, caisses, côté
+    Missing: couloirs
+
+  Tile 141: 2 couloirs séparés. L'un passe sous l'autre. Au centre du haut, une pierre étrange sort du sol
+    Found:   lautre centre haut, pierre étrange sort sol
+    Missing: couloirs séparés lun passe
+
+  Tile 142: Couloirs avec amphores, crâne de monstre enterré
+    Found:   crâne monstre enterré
+    Missing: couloirs, amphores
+
+  Tile 146: Couloir avec une grille enfouie dans les murs … pourquoi ?
+    Found:   grille enfouie
+    Missing: murs pourquoi
+
+  Tile 148: Couloir avec une chose étrange au sol, comme si le sol était contaminé par quelque chose. Un petit autel avec des glyphes est placé dans le couloir …
+    Found:   étrange sol, glyphes placé
+    Missing: si sol était contaminé petit autel
+
+  Tile 180: Couloir de grotte avec champignons
+    Found:   champignons
+    Missing: grotte
+
+  Tile 184: Salle avec obélisque, colonnes et grand escalier montant
+    Found:   grand escalier montant
+    Missing: obélisque, colonnes
+
+  Tile 185: Salle avec dessin magique et grand escalier descendant
+    Found:   dessin magique
+    Missing: grand escalier descendant
+
+  Tile 186: Salle avec colonnes et pavés étranges avec grand escalier descendant
+    Found:   colonnes, grand escalier descendant
+    Missing: pavés étranges
+
+  Tile 211: Salle ouverte avec grille
+    Found:   grille
+    Missing: ouverte
+
+  Tile 213: Salle ouverte avec dessin de tête de taureau
+    Found:   dessin tête taureau
+    Missing: ouverte
+
+  Tile 214: Salle ouverte avec tonneaux
+    Found:   tonneaux
+    Missing: ouverte
+
+  Tile 215: Salle ouverte avec dessin de poing
+    Found:   dessin poing
+    Missing: ouverte
+
+  Tile 218: Salle ouverte avec colonnes et dessin de serpent
+    Found:   dessin serpent
+    Missing: ouverte, colonnes
+
+  Tile 220: Salle ouverte avec trappe au sol
+    Found:   trappe sol
+    Missing: ouverte
+
+  Tile 226: Salle avec le trésor le plus grand jamais vu et une porte en fer
+    Found:   porte fer
+    Missing: trésor grand jamais vu
+
+  Tile 227: Salle avec 9 coffres et une porte en pierre
+    Found:   porte pierre
+    Missing: coffres
+
+  Tile 228: Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux
+    Found:   prison, cellules, grilles sol, cellule cellules fermées barreaux
+    Missing: lits
+
+  Tile 229: Prison avec 4 cellules, grilles au sol et « lits » dans la cellule. Les cellules sont fermées par des barreaux. Il y a un trou dans une pièce noire, fermée par une porte
+    Found:   prison
+    Missing: cellules, grilles sol, lits, cellule cellules fermées barreaux il trou, noire, fermée porte
+
+  Tile 235: Salle ouverte avec dessin d'écu
+    Found:   ouverte
+    Missing: dessin décu
+
+  Tile 237: Salle ouverte avec 4 colonnes et dessin de diamant
+    Found:   colonnes, dessin diamant
+    Missing: ouverte
+
+  Tile 238: Salle ouverte avec dessin de tête de lion
+    Found:   ouverte
+    Missing: dessin tête lion
+
+  Tile 239: Salle ouverte avec dessin de tête de dragon
+    Found:   dessin tête dragon
+    Missing: ouverte
+
+  Tile 248: Siphon croisé avec 3 ponts
+    Found:   ponts
+    Missing: siphon croisé
+
+  Tile 254: égout avec grille au sol
+    Found:   grille sol
+    Missing: égout
+
+  Tile 256: égout avec grille au centre et baril au sol
+    Found:   égout, grille centre
+    Missing: baril sol
+
+  Tile 257: égout avec boîte
+    Found:   égout
+    Missing: boîte
+
+  Tile 258: égout avec 2 passerelles menant sur une plateforme centrale et amphore
+    Found:   égout, plateforme centrale
+    Missing: passerelles menant, amphore
+
+  Tile 260: égout avec barils (deux flottants et un sur le sol)
+    Found:   barils
+    Missing: égout
+
+  Tile 268: égout avec petites boîtes et baril
+    Found:   égout, baril
+    Missing: petites boîtes
+
+  Tile 271: égout avec escalier d'escalade et tuyau sortant du mur
+    Found:   égout, tuyau sortant mur
+    Missing: escalier descalade
+
+  Tile 275: égout avec grille et escalier descendant
+    Found:   grille
+    Missing: égout, escalier descendant
+
+  Tile 276: égout avec boîte et 2 escaliers (l'un est descendant, l'autre est grimpant)
+    Found:   boîte, escaliers
+    Missing: égout
+
+  Tile 278: égout avec barils
+    Found:   barils
+    Missing: égout
+
+  Tile 280: égout avec pont de corde
+    Found:   pont corde
+    Missing: égout
+
+  Tile 281: égout avec grille au sol
+    Found:   grille sol
+    Missing: égout
+
+  Tile 286: grotte avec escalier d'escalade
+    Found:   grotte
+    Missing: escalier descalade
+
+  Tile 303: abîme avec des petites pierres formant un cercle, une épée et un pont de corde
+    Found:   abîme, épée, pont corde
+    Missing: petites pierres formant cercle
+
+  Tile 309: grotte avec des escaliers d'escalade
+    Found:   grotte
+    Missing: escaliers descalade
+
+  Tile 315: abîme avec une boîte et un tonneau
+    Found:   abîme, boîte
+    Missing: tonneau
+
+  Tile 316: abîme avec une arche et de l'or devant un sol fissuré
+    Found:   abîme, arche
+    Missing: lor devant sol fissuré
+
+  Tile 317: abîme avec une fissure sur le sol
+    Found:   sol
+    Missing: abîme, fissure
+
+  Tile 320: petit chemin entre deux abîmes
+    Found:   deux abîmes
+    Missing: petit chemin
+
+  Tile 323: abîme avec des champignons
+    Found:   champignons
+    Missing: abîme
+
+  Tile 324: Grand abîme avec la moitié d'un pont de corde
+    Found:   moitié dun pont corde
+    Missing: grand abîme
+
+  Tile 325: grand abîme avec pont de corde et tonneau
+    Found:   pont corde, tonneau
+    Missing: grand abîme
+
+  Tile 327: abîme avec éclaboussure
+    Found:   abîme
+    Missing: éclaboussure
+
+  Tile 328: abîme avec des escaliers grimpant dans le mur de la grotte. Un tonneau est placé à proximité des escaliers
+    Found:   abîme, mur grotte tonneau placé proximité escaliers
+    Missing: escaliers grimpant
+
+  Tile 329: portail magique entre deux abîmes
+    Found:   portail magique
+    Missing: deux abîmes
+
+  Tile 330: abîme avec un « pont » fait avec des planches
+    Found:   abîme, planches
+    Missing: pont fait
+
+  Tile 332: début ou fin de l'abîme. Squelette d'un créature comme un lézard
+    Found:   lézard
+    Missing: début fin labîme squelette dun créature
+
+  Tile 339: grotte (2 pièces séparées par un mur en bois) avec table, chaises, arche et tonneaux
+    Found:   grotte, table, chaises
+    Missing: arche, tonneaux
+
+  Tile 340: corridor de grotte avec escaliers
+    Found:   grotte
+    Missing: escaliers
+
+  Tile 341: grotte avec table, chaises, boîtes et tonneaux
+    Found:   grotte, boîtes, tonneaux
+    Missing: table, chaises
+
+  Tile 345: grotte avec lit, table, chaises, 2 arches, une boîte et 2 tonneaux. Une grille est au centre du sol
+    Found:   grotte, table, chaises, arches, boîte, tonneaux grille centre sol
+    Missing: lit
+
+  Tile 348: grotte avec une fente, beaucoup de branches, une arche après avoir passé des planches (comme un piège)
+    Found:   grotte, fente, arche après avoir passé planches
+    Missing: beaucoup branches
+
+  Tile 349: corridors avec fentes et tonneau
+    Found:   fentes, tonneau
+    Missing: corridors
+
+  Tile 351: salle de donjon avec boîte et tonneau
+    Found:   tonneau
+    Missing: donjon, boîte
+
+  Tile 352: salle de donjon avec une petite coffre et 2 petits tonneaux
+    Found:   petite coffre, petits tonneaux
+    Missing: donjon
+
+  Tile 354: salle de donjon avec un lit, une coffre et une porte en bois
+    Found:   lit, coffre, porte bois
+    Missing: donjon
+
+  Tile 355: salle de donjon avec un tonneau et une boîte
+    Found:   tonneau, boîte
+    Missing: donjon
+
+  Tile 356: salle de donjon avec un trou, un tonneau et une coffre
+    Found:   tonneau, coffre
+    Missing: donjon, trou
+
+  Tile 357: salle de donjon avec des branches
+    Found:   branches
+    Missing: donjon
+
+  Tile 360: salle de donjon avec un lit, des tables avec des chaises, 2 boîtes et 2 tonneaux
+    Found:   tables, chaises
+    Missing: donjon, lit, boîtes, tonneaux
+
+  Tile 361: salle ouverte avec des étagères et un feu au centre
+    Found:   étagères
+    Missing: ouverte, feu centre
+
+  Tile 362: salle de trône avec un tapis et 2 colonnes
+    Found:   tapis
+    Missing: trône, colonnes
+
+  Tile 364: salle ouverte avec des tables, des chaises et des tonneaux
+    Found:   tables, chaises, tonneaux
+    Missing: ouverte
+
+  Tile 365: crypte avec un cercueil sur une table en pierre
+    Found:   crypte
+    Missing: cercueil, table pierre
+
+  Tile 367: salle de torture avec un rack, une table avec des outils, un brasier, un tonneau et d'autres choses horribles
+    Found:   torture, rack, table, outils, brasier, tonneau
+    Missing: dautres choses horribles
+
+  Tile 368: salle avec de petits tonneaux et des boîtes
+    Found:   boîtes
+    Missing: petits tonneaux
+
+  Tile 369: salle avec des colonnes, une statue de dieu monstre et une table de sorcier
+    Found:   statue dieu monstre, table sorcier
+    Missing: colonnes
+
+  Tile 372: salle avec des statues et un squelette entre elles … piège dans les statues ?
+    Found:   statues, squelette
+    Missing: elles piège
+
+  Tile 374: salle de sorcier avec des étagères en laiton, une table avec des potions et des bougies, une table avec un livre de sorts
+    Found:   étagères laiton, table, potions, bougies, livre sorts
+    Missing: sorcier
+
+  Tile 383: salle ouverte complète avec un petit grille sur le sol
+    Found:   sol
+    Missing: ouverte complète, petit grille
+
+  Tile 391: salle ouverte complète avec un petit grille sur le sol
+    Found:   sol
+    Missing: ouverte complète, petit grille
+
+  Tile 393: salle ouverte avec des statues et des cercles de pierre sur le sol (2 grilles métalliques semblent pouvoir déverser du poison ou de la fumée)
+    Found:   statues, sol
+    Missing: ouverte, cercles pierre
+
+  Tile 394: salle ouverte avec des statues et des cercles de pierre sur le sol (une grille métallique semble pouvoir déverser du poison ou de la fumée)
+    Found:   statues, cercles pierre, sol
+    Missing: ouverte
+
+  Tile 395: salle ouverte avec bassin de sang, insectes, statues
+    Found:   bassin sang, insectes, statues
+    Missing: ouverte
+
+  Tile 396: salle ouverte avec un autel sacrificiel sur une plateforme. Table en pierre avec un livre et des bougies à l'arrière de la salle
+    Found:   autel sacrificiel, livre
+    Missing: ouverte, plateforme table pierre, bougies larrière
+
+  Tile 402: salle de labyrinthe avec grille, boîte et barils
+    Found:   labyrinthe, barils
+    Missing: grille, boîte
+
+  Tile 410: Salle de garde avec étagère, baril, table ronde avec 4 chaises (pour jouer ou manger) et une table/chaise avec un registre
+    Found:   étagère, baril, table ronde, chaises, registre
+    Missing: garde, tablechaise
+
+  Tile 419: 2 salles séparées avec cheminée de chaque côté du mur de séparation. Un coffre dans une salle et un petit baril dans l'autre
+    Found:   salles séparées, cheminée chaque côté mur séparation coffre, petit baril
+    Missing: lautre
+
+  Tile 420: Salle des latrines avec baril
+    Found:   baril
+    Missing: latrines
+
+  Tile 423: observatoire avec sphère armillaire et télescope
+    Found:   observatoire
+    Missing: sphère armillaire, télescope
+
+  Tile 424: Petit cours d'eau sortant d'un mur avec passerelle en corde
+    Found:   passerelle corde
+    Missing: petit cours deau sortant dun mur
+
+  Tile 426: Autel de sacrifice avec statue d'araignée et colonnes. Certains gouttières sont pleines de sang sec
+    Found:   autel sacrifice, colonnes certains gouttières pleines sang sec
+    Missing: statue daraignée
+
+  Tile 427: Magasin avec table, boîtes, étagères et barils
+    Found:   table, boîtes, étagères, barils
+    Missing: magasin
+
+  Tile 429: salle du conseil avec table, chaises, colonnes et cheminées
+    Found:   conseil, table, chaises
+    Missing: colonnes, cheminées
+
+  Tile 436: grande vasque dans salle ouverte
+    Found:   grande vasque
+    Missing: ouverte
+
+  Tile 440: Fin d'une rivière avec ponton brisé
+    Found:   fin dune rivière
+    Missing: ponton brisé
+
+  Tile 442: Rivière avec 2 alligators en combat
+    Found:   rivière
+    Missing: alligators combat
+
+  Tile 446: cage carrée dans grande salle
+    Found:   grande
+    Missing: cage carrée
+

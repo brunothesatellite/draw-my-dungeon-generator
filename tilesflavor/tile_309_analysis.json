@@ -1,13 +1,13 @@
 {
   "309": {
     "title": "Grotte des Escaliers d'Escalade",
-    "description": "La grotte des Escaliers d'Escalade est un lieu mystérieux et menaçant, où les ombres dansent sur les parois rugueuses. Les escaliers d'escalade, usés par le temps et les centaines de grimpeurs qui ont tenté de les gravir, serpentent à travers les rochers. La lumière pénètre à peine, éclairant de faibles cercles rituels gravés dans le sol. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort sculptées dans le rocher ajoutent une touche d'effrayante beauté à l'atmosphère. Un autel, entouré de cercles rituels, semble être le point central de cette grotte, où des sacrifices ont peut-être eu lieu. Un table, posée au milieu, semble être utilisée pour des rituels ou des offrandes. L'eau stagnante, noire et trouble, remplit une partie de la grotte, ajoutant une menace supplémentaire à l'endroit. Les murs sont parsemés de têtes de mort, et les ombres qui dansent dans la pénombre semblent attendre quelque chose. Cette grotte est un lieu de rituels, où les anciens pratiquaient des cérémonies sombres et mystiques.",
+    "description": "La grotte est étroite et sinueuse, avec des escaliers d'escalade qui serpentent à travers les rochers. Les murs sont recouverts de peintures rupestres et de têtes de mort sculptées dans le roc. Des cercles rituels sont gravés dans le sol, marquant des passages secrets. Des piliers massifs soutiennent le plafond, tandis qu'une table en pierre est posée au milieu de la grotte. L'atmosphère est mystérieuse et menaçante, avec une eau stagnante au fond de la grotte. Les escaliers d'escalade sont difficiles à gravir, mais offrent une vue sur les profondeurs obscures de l'abîme.",
     "tags": [
-      "Grotte",
-      "Escaliers d'Escalade",
-      "Rituels",
-      "Têtes de Mort",
-      "Mystère"
+      "grotte",
+      "escaliers",
+      "escalade",
+      "rituels",
+      "têtes de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

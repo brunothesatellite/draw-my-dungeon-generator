@@ -1,11 +1,11 @@
 {
   "14": {
-    "title": "Salle des Échecs Sacrés",
-    "description": "La salle est petite et rectangulaire, avec un échiquier au centre qui semble avoir été dessiné avec une fine poudre noire. Les murs vieillis sont ornés de reliefs sculptés représentant des figures mystérieuses, et des cercles rituels sont gravés dans le sol. Des piliers robustes soutiennent le plafond, et une fenêtre au fond laisse filtrer une lumière faible, rendant l'atmosphère encore plus mystérieuse. La table au centre de la pièce est recouverte d'un tissu ancien, et une empreinte de pas est visible près de l'échiquier, comme si quelqu'un avait récemment joué. L'eau stagnante au fond de la pièce ajoute une note de danger à cette atmosphère étrange et ancienne.",
+    "title": "Salle aux Échiquiers",
+    "description": "La salle est petite et rectangulaire, avec un échiquier au centre. La lumière est faible, et la pièce semble vieillie, avec des reliefs sculptés sur les murs et des cercles rituels marqués au sol. Des piliers soutiennent les murs, et une table est placée près de l'échiquier. La fenêtre au centre laisse filtrer une lueur mystérieuse, et les reliefs sculptés racontent des histoires anciennes. L'atmosphère est étrange et mystérieuse, comme si la salle avait été utilisée pour des rituels passés. L'eau stagnante au sol ajoute à l'ambiance lugubre. Les murs sont recouverts de vieilles peintures et de symboles énigmatiques. La salle semble être un endroit de repos, mais l'air de mystère qui l'entoure laisse supposer qu'elle a connu des temps plus sombres.",
     "tags": [
       "échiquier",
-      "salle de repos",
-      "rituels",
+      "salle",
+      "rituel",
       "mystère",
       "vieillie"
     ],
@@ -26,9 +26,6 @@
       ],
       "objectsOrFurniture": [
         "table"
-      ],
-      "creaturesOrTraces": [
-        "empreinte de pas"
       ],
       "exits": [],
       "hazards": [

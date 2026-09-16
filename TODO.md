@@ -1,7 +1,13 @@
 **TODO**
 * l'export PDF doit fonctionner en file:\\ ou sur serveur web
-* safeguard : analyser le code pour trouver des risques de Freeze de l'application, ralentissement progressif, CPU inutile, fuite mémoire, état DOM transitoire, visuel cassé : corriger ERRORS.md
 * export PDF cassé (description des tuiles)
+* appliquer les corrections de ERRORS.md
+
+
+
+
+----------
+* safeguard : analyser le code pour trouver des risques de Freeze de l'application, ralentissement progressif, CPU inutile, fuite mémoire, état DOM transitoire, visuel cassé : corriger ERRORS.md
 
 PROMPT ANALYSE 
 Dans les descriptions il y a encore beaucoup de salles des anciens, ou xxx des anciens. Je veux vraiment renforcer les notes de l'auteur (csvDescription) pour qu'elles soient absolument prises dans la description. Par exemple tuile 427 :

@@ -1,13 +1,13 @@
 {
   "426": {
     "title": "Salle des Sacrifices",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de têtes de mort et de tentacules, ajoutant une touche d'horreur à l'ambiance. Des cercles rituels marquent le sol, tandis que des piliers majestueux soutiennent le plafond. L'autel de sacrifice, avec sa statue d'araignée au centre, est entouré de colonnes robustes. Des gouttières pleines de sang sec s'écoulent le long des murs, rappelant les sacrifices passés. Une porte ouverte permet d'apercevoir une eau stagnante au-delà, ajoutant une menace supplémentaire à l'endroit. Les murs sont recouverts de peintures anciennes, et les ombres dansent sur le sol, rendant l'atmosphère encore plus inquiétante.",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels. La lumière est faible, accentuant l'atmosphère mystérieuse et menaçante qui plane dans cette ancienne salle de culte. Des colonnes massives soutiennent le plafond, et un autel de sacrifice, orné d'une statue d'araignée, domine le centre de la pièce. Des gouttières, pleines de sang sec, coulent le long des murs, ajoutant une note macabre à l'ensemble. Des piliers robustes sont disséminés autour de la pièce, et une porte ouverte permet d'apercevoir une eau stagnante au-delà. Les murs sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels qui se déroulaient ici. La salle est remplie d'une odeur de vieilles pierres et de sang séché, rendant l'atmosphère encore plus oppressante.",
     "tags": [
-      "Salle de Culte",
-      "Sacrifice",
-      "Ancien",
-      "Statue d'Araignée",
-      "Sang Sec"
+      "sacrifice",
+      "araignée",
+      "colonne",
+      "sang",
+      "vieillie"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

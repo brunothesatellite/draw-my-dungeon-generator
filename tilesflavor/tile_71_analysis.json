@@ -1,13 +1,13 @@
 {
   "71": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La Chambre Sacrée des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de tentacules et de têtes de mort, symboles de la puissance et de la mort. La lumière tamisée émane des colonnes et des piliers qui soutiennent le plafond, rendant l'atmosphère encore plus étrange. Le sol est marqué de spirales mystérieuses, qui semblent guider les yeux du visiteur vers le centre de la pièce. À l'extrémité de la salle, un autel est visible, orné de mystérieux objets qui brillent faiblement dans la pénombre. Un murmure subtil et un bruit de pas lointain indiquent la présence d'une entité invisible, qui semble attendre l'arrivée des explorateurs. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets les plus sombres. Les dangers sont nombreux, avec des pièges qui attendent à chaque coin de la pièce, prêts à s'abattre sur les intrus. La Chambre Sacrée des Anciens est un lieu de culte, où les anciens pratiquaient des rituels sacrés, et où les secrets les plus profonds de l'univers sont gardés en sécurité.",
+    "title": "Salle des Tentacules",
+    "description": "La salle est immense, de forme rectangulaire, avec des murs décrépits et des colonnes massives qui semblent avoir été sculptées par les mains de l'oubli. La lumière tamisée pénètre à travers des fenêtres brisées, créant des ombres danseuses sur le sol couvert de spirales mystérieuses. Des tentacules émergent de la terre, se balançant lentement comme des serpents vivants. Des têtes de mort, étranges et déformées, sont suspendues aux murs, des yeux vides fixant le vide. Des objets étranges, inconnus, sont disséminés un peu partout, semblant avoir été laissés là par des créatures oubliées. Un murmure lointain et sinistre résonne dans l'air, et une présence fantomatique plane dans l'angle sombre de la pièce. Un seul passage, dissimulé derrière un rideau de toile, semble mener à un autre monde. Les tentacules et les têtes de mort semblent être les gardiens de cette salle sacrée, prêts à attaquer tout intrus qui ose approcher.",
     "tags": [
       "salle",
-      "rituel",
-      "culte",
-      "secrets",
-      "tentesacles"
+      "tentacules",
+      "têtes de mort",
+      "sacré",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

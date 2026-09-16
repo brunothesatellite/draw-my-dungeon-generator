@@ -1,13 +1,13 @@
 {
   "171": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte des Champignons Sacrés est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol et les parois, émettant une odeur de terre humide et de mystère. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'intérieur de la grotte. Des piliers massifs soutiennent le plafond, ajoutant à l'atmosphère sombre et ancienne. Des traces de pas anciens sont visibles sur le sol, indiquant que des créatures ont déjà exploré ce lieu. À l'entrée, un seul passage étroit permet de passer, menant à une salle plus profonde. L'air est saturé d'une odeur de vieilles pierres et de champignons, rendant l'atmosphère mystérieuse et menaçante. Des têtes de mort et des tentacules sont gravés sur les parois, ajoutant une touche d'horreur à l'endroit. La grotte est utilisée pour des rituels ou des cultes, et les cercles rituels indiquent qu'elle est un lieu sacré. L'eau stagnante au fond de la grotte est un danger à ne pas négliger.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte des Champignons est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter vers le plafond. Le sol est recouvert de champignons de toutes les couleurs, qui semblent vibrer légèrement dans l'air frais. Des cercles rituels sont gravés dans le sol, marquant un chemin qui semble mener à l'intérieur de la grotte. Des piliers de pierre soutiennent le plafond, et des traces de créatures indiquent qu'elles ont exploré ce lieu. Le mobilier ancien est disséminé un peu partout, ajoutant une touche de mystère à l'atmosphère déjà menaçante. L'eau stagnante au fond de la grotte est un obstacle à franchir avec précaution. La grotte est petite et rectangulaire, avec une lumière faible qui éclaire les parois et les champignons. La condition de la grotte est vieillie, avec des traces de vieilles peintures et de poussière recouvrant les murs.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituels",
-      "Anciens",
-      "Mystère"
+      "grotte",
+      "champignons",
+      "rituels",
+      "vieillie",
+      "mystérieuse"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "Grotte avec champignons",
       "tileNumber": 171

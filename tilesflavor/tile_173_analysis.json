@@ -1,13 +1,12 @@
 {
   "173": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un passage étroit. La lumière pénètre à peine, éclairant de faibles cercles de champignons qui poussent sur le sol et les parois. Des cercles rituels et des glyphes runiques sont gravés dans le sol et les murs, semblant ancrés dans la roche. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une atmosphère sinistre à l'endroit. Le sol est marqué de cercles rituels et de glyphes runiques, et un trésor est dissimulé dans un coin, protégé par un coffre en pierre. L'eau stagnante se forme dans un coin, rendant l'endroit dangereux. Les parois sont ornées de têtes de mort et de tentacules, ajoutant une touche macabre à l'endroit. La grotte semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter vers le plafond. Des champignons de toutes les couleurs poussent sur les murs et les sols, formant un tapis naturel qui semble vivant. La lumière pénètre à peine à travers une ouverture étroite au sommet de la grotte, créant un halo de verdure qui éclaire les champignons. Des cercles rituels et des glyphes runiques sont gravés dans le sol, semblant ancrés dans la roche. Des piliers et des statues de pierre sont disséminés à travers la grotte, ajoutant une touche de mystère à l'atmosphère sinistre. Le sol est parsemé de cercles rituels et de glyphes runiques, et un trésor est dissimulé dans un coin, protégé par un mystérieux champignon géant. L'eau stagnante au fond de la grotte est un danger à ne pas négliger. La grotte semble être un lieu de rituel ancien, où des sacrifices ont peut-être eu lieu il y a des siècles.",
     "tags": [
-      "Grotte",
-      "Salle de Rituel",
-      "Ancien",
-      "Sacrifice",
-      "Champignons"
+      "grotte",
+      "champignons",
+      "rituel",
+      "sacrifice"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

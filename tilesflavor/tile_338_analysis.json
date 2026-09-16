@@ -1,13 +1,13 @@
 {
   "338": {
-    "title": "Passage Rituel",
-    "description": "Le passage est étroit et sinueux, taillé dans le roc de la grotte. La grille métallique au fond laisse filtrer une faible lumière qui éclaire les murs couverts de cercles rituels. Les piliers massifs, usés par le temps, soutiennent le plafond voûté. Des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère sinistre. Le sol est marqué de cercles rituels, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation. L'eau stagnante au fond du passage est un danger à ne pas négliger. La porte métallique au bout du couloir semble fermée, mais une clé ancienne pourrait la faire ouvrir. Les murs sont parsemés de têtes de mort et de tentacules peints, ajoutant une touche macabre à l'atmosphère sinistre. Les cercles rituels marquent le sol, et des meubles anciens sont disséminés ici et là, témoignant d'une ancienne utilisation. L'eau stagnante au fond du passage est un danger à ne pas négliger.",
+    "title": "Passage de la Grotte Sacrée",
+    "description": "Le passage est étroit et sinueux, taillé dans le roc de la grotte. La lumière pénètre à peine, éclairant les murs couverts de croûtes de fer et de mousse. Des cercles rituels sont gravés dans le sol, marquant le passage d'un ancien rituel. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. Des cercles de pierre sont disposés régulièrement le long du mur, peut-être des anciens autels ou des points de repère. Le mobilier ancien, usé et délabré, est empilé contre le mur, ajoutant à l'atmosphère sinistre. La grille métallique au bout du passage semble être le seul moyen de continuer, mais elle est fermée. L'eau stagnante au fond du passage est un danger à ne pas sous-estimer. Les murs sont parsemés de têtes de mort et de tentacules, rappelant l'ancienne présence de créatures maléfiques. La grotte est vieillie et abandonnée, mais les cercles rituels et les autels indiquent qu'elle a été utilisée pour des rituels sombres.",
     "tags": [
-      "Passage",
-      "Rituel",
-      "Grotte",
-      "Ancien",
-      "Macabre"
+      "grotte",
+      "rituel",
+      "sombre",
+      "abandonnée",
+      "passage"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituel",
       "csvDescription": "corridor de grotte avec grille",
       "tileNumber": 338

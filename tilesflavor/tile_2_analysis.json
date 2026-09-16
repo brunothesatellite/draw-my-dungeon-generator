@@ -1,20 +1,19 @@
 {
   "2": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les piliers et les colonnes vieillies. Les cercles rituels et les glyphes runiques gravés dans le sol semblent avoir été oubliés depuis des siècles. Des cercles de lumière se dessinent sur le sol, marquant les emplacements des anciens autels. Des têtes de mort et des tentacules émergent des murs, ajoutant une atmosphère sinistre à l'endroit. Le mobilier ancien est délabré, et l'eau stagnante dans un coin de la salle rend l'endroit humide et glissant. La seule issue semble être un trou avec grille, qui semble avoir été fermé depuis longtemps.",
+    "title": "Salle du Trône Ancien",
+    "description": "La salle est petite et rectangulaire, avec un sol vieilli et des marquages de cercles rituels et de glyphes runiques. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Des piliers et des colonnes soutiennent le plafond, et des traces de mobilier ancien sont visibles sur le sol. Un trou avec une grille métallique occupe le centre de la pièce, semblant être l'entrée d'un abîme. L'atmosphère est sinistre, accentuée par l'eau stagnante qui remplit le trou. La seule issue est un escalier étroit qui descend dans l'abîme. Les murs sont ornés de têtes de mort et de tentacules, ajoutant à l'ambiance macabre de la salle. Cette pièce était probablement utilisée pour des rituels anciens.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "vieillissement",
-      "sinistre",
-      "salle"
+      "abîme",
+      "salle",
+      "macabre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
       "roomShape": "rectangulaire",
       "lighting": "faible",
       "condition": "vieillie",
-      "centralFeature": "autel",
+      "centralFeature": "trou avec grille",
       "wallDecorations": [
         "têtes de mort",
         "tentacules"

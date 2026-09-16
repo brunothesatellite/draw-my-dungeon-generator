@@ -1,13 +1,13 @@
 {
   "242": {
     "title": "Siphon avec Pont en Bois",
-    "description": "Le siphon avec pont en bois semble avoir été une fois un lieu de culte, maintenant abandonné et en ruine. Les murs, une fois ornés de têtes de mort et de tentacules, sont maintenant délabrés et recouverts de mousse. Le sol, marqué de cercles rituels, est couvert de poussière et de débris. Un vieux pont en bois, délabré, traverse le siphon, menant à une porte qui semble avoir été fermée depuis longtemps. La lumière est faible, filtrant à travers des feuilles mortes qui tombent du plafond. L'atmosphère est sinistre, accentuée par l'eau stagnante qui remplit le siphon et les traces de pas qui indiquent que quelqu'un a récemment exploré ce lieu. La table, une fois peut-être un autel, est maintenant recouverte de végétation et de poussière. Les piliers, une fois solides, sont maintenant inclinés et menacent de s'effondrer. Les cercles rituels marquent l'ancien emplacement d'un autel, et les tentacules, une fois suspendus, sont maintenant décomposés et tombent au sol. La porte semble être la seule issue, mais elle est fermée et verrouillée. Les murs sont couverts de mousse et de débris, et les piliers sont inclinés, menaçant de s'effondrer. L'eau stagnante remplit le siphon, et les traces de pas indiquent que quelqu'un a récemment exploré ce lieu. L'atmosphère est sinistre, accentuée par l'eau stagnante et les traces de pas.",
+    "description": "Le siphon avec pont en bois semble avoir été construit il y a des siècles. Les murs, usés par le temps, sont recouverts de cercles rituels qui brillent faiblement dans la pénombre. Le sol, couvert de taches de sang séché, est marqué de cercles de pierre qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le pont en bois qui traverse le siphon, le bois est usé et craque sous le poids. À l'extrémité du pont, une porte en bois sombre est fermée par une serrure ancienne. L'air est chargé d'une odeur de moisi et d'eau stagnante qui remonte du siphon. Des traces de pas se dessinent sur le sol, indiquant que quelqu'un a récemment traversé ce passage. La lumière faible qui pénètre à travers les fissures dans le plafond éclaire les cercles rituels et les piliers, créant un éclairage sinistre qui met en valeur les détails sombres de ce lieu. Les murs sont recouverts de têtes de mort sculptées et de tentacules qui semblent sortir du plafond, ajoutant à l'atmosphère lugubre de la salle de rituel.",
     "tags": [
-      "Salle de Rituel",
-      "Ruines",
-      "Siphon",
-      "Pont en Bois",
-      "Atmosphère Sinistre"
+      "siphon",
+      "pont",
+      "bois",
+      "rituel",
+      "salle"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

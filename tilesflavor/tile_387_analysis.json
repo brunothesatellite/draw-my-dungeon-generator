@@ -1,13 +1,13 @@
 {
   "387": {
-    "title": "Salle des Anciens",
-    "description": "La salle est étroite et rectangulaire, avec des murs vieillis et des traces de vieilles peintures. La lumière est faible, filtrant à travers des voiles de poussière qui flottent dans l'air. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, et des statues de pierre sont alignées le long des murs, gardant un air de mystère. Le mobilier ancien est délabré, ajoutant à l'atmosphère sombre et menaçante de la pièce. Un seul passage mène à l'extérieur, mais l'eau stagnante au sol rend l'accès difficile. La salle semble être un lieu de culte ou de rituel, avec des têtes de mort et des tentacules peints sur les murs, ajoutant une touche d'horreur à l'ambiance déjà sombre.",
+    "title": "Salle des Rituels Sacrés",
+    "description": "La salle est étroite et rectangulaire, avec un sol vieilli et marqué de cercles rituels et de glyphes runiques. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Des piliers massifs soutiennent le plafond, et des statues étranges sont alignées le long des murs. Le mobilier ancien est délabré, ajoutant à l'atmosphère mystérieuse et menaçante de la pièce. Un seul passage mène à l'extérieur, mais l'eau stagnante au sol rend l'accès difficile. Des pièges sont dissimulés dans les ombres, prêts à s'activer à la moindre intrusion. Cette salle est destinée à des rituels ou des cultes, et les cercles rituels et les glyphes runiques indiquent son importance pour les anciens qui l'ont construite.",
     "tags": [
       "rituel",
-      "culte",
-      "salle sacrée",
-      "vieillie",
-      "mystérieuse"
+      "sacrifice",
+      "anciens",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

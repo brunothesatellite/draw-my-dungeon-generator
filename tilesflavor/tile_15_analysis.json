@@ -1,13 +1,13 @@
 {
   "15": {
     "title": "Salle des Ténèbres",
-    "description": "La salle est immense, ses murs irréguliers semblent avoir été sculptés par les mains de l'oubli. La lumière y pénètre à peine, filtrant à travers des fissures minuscules, créant un éclairage tamisé qui évoque l'obscurité la plus profonde. La salle est en ruine, les murs et le sol recouverts de spirales et de croix gravées, comme si un culte ancien avait laissé ses empreintes ici. Des colonnes et des piliers, délabrés, se dressent ici et là, ajoutant à l'atmosphère lugubre. Les tentacules et les têtes de mort, suspendus aux murs, semblent regarder les visiteurs avec un regard menaçant. Les marques de croix et de spirales sur le sol semblent indiquer un passage ancien, peut-être un rituel perdu. La salle est vide, mais l'air y résonne d'échos lointains, comme si des murmures et des prières répétées y avaient été entendus il y a des siècles. Les murs sont parsemés de taches de couleur sombre, comme si des liquides noirs y avaient été versés. Les arches et les colonnes, malgré leur état délabré, semblent avoir été sculptées avec une précision qui évoque un passé glorieux. La salle est un lieu de mystère et de terreur, où les secrets les plus profonds de l'univers se cachent peut-être encore.",
+    "description": "La salle est immense, ses murs irréguliers semblent avoir été façonnés par les mains de l'oubli. La lumière y pénètre à peine, éclairant de façon diffuse les spirales et les croix gravées sur le sol. Les colonnes et les piliers, usés par le temps, semblent soutenir un plafond qui menace de s'effondrer. Des tentacules et des têtes de mort ornent les murs, ajoutant une atmosphère de terreur et de mystère. Les marquages au sol, des spirales et des croix, semblent indiquer un ancien rituel ou une ancienne cérémonie. Les murs sont recouverts de tentacules et de têtes de mort, tandis que les colonnes et les piliers sont ornés de pilastres et de colonnes. Les objets ou meubles sont inconnus, mais les sorties et les dangers sont également inconnus. Cette salle, remplie de mystère et d'étrangeté, semble avoir été utilisée pour des rituels obscurs et des sacrifices inconnus.",
     "tags": [
       "salle",
-      "ruines",
-      "obscurité",
-      "rituel",
-      "ténèbres"
+      "ténèbres",
+      "rituels",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "large",

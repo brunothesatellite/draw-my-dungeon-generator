@@ -1,13 +1,13 @@
 {
   "4": {
-    "title": "Passage Sacré",
-    "description": "Le passage sacré s'inscrit dans un mur de pierre lisse, éclairé par une faible lumière qui se répand dans l'air humide. Les murs, ornés de tentacules et de têtes de mort, semblent veiller sur le passage. Des spirales et un croix sont gravées sur le sol, marquant le chemin à suivre. Des colonnes majestueuses soutiennent le plafond, ajoutant à l'atmosphère mystérieuse. Un autel, dépourvu de tout objet, se dresse au fond du passage, comme témoin silencieux des rituels passés. Les tentacules et les têtes de mort, sculptés dans le mur, semblent attendre l'arrivée de l'aventurier. Le passage est doucement éclairé par une lumière diffuse, rendant l'atmosphère encore plus énigmatique. Les spirales et le croix marquent le chemin à suivre, tandis que les tentacules et les têtes de mort ajoutent une touche d'horreur à l'ambiance. Le passage sacré est un lieu de culte ancien, où les rituels sacrés étaient pratiqués il y a des siècles.",
+    "title": "Couloir des Tentacules",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs de pierre lisses et humides reflétant faiblement la lumière qui pénètre à travers une fente au bout du couloir. Les tentacules de pierre, sculptés avec une précision saisissante, semblent se mouvoir lentement, comme si ils étaient vivants. Des têtes de mort, sculptées avec une cruauté saisissante, sont suspendues aux murs, leurs yeux vides fixés sur le visiteur. Des spirales et des croix gravées dans le sol indiquent un passage sacré, mais les runes incantatoires qui les entourent sont brouillées par une magie ancienne. Des colonnes massives soutiennent le plafond, leurs surfaces lisses et lisses reflétant la lumière qui pénètre à travers la fente. Un autel, orné d'un symbole de tentacules, se dresse au bout du couloir, son existence évoquant des sacrifices passés. Les tentacules de pierre semblent se mouvoir vers l'autel, comme si ils étaient attirés par une force invisible. L'atmosphère est oppressante, et l'air humide et froid pénètre dans le couloir, rendant l'endroit encore plus mystérieux et menaçant.",
     "tags": [
-      "Passage",
-      "Sacré",
-      "Ancien",
-      "Tentacules",
-      "Mystérieux"
+      "couloir",
+      "tentacules",
+      "sacrifices",
+      "mystère",
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "large",

@@ -1,13 +1,13 @@
 {
   "457": {
-    "title": "Passage des Anciens",
-    "description": "Le passage est étroit et sinueux, ses murs sont recouverts d'un réseau de pierres étranges qui semblent sortir du sol et des plafond. La lumière y est faible, filtrant à peine à travers des fissures dans le plafond. Les murs vieillis montrent des traces de vieilles peintures et des cercles rituels dessinés au sol. Des piliers massifs soutiennent le passage, leurs surfaces lisses et usées par le temps. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère sinistre. Un seul passage mène à l'arrière, menant à une salle plus sombre. L'eau stagnante, noire et trouble, s'accumule dans un coin, créant un danger potentiel. Les têtes de mort et les tentacules émergent des murs, rappelant l'ancienne puissance qui réside ici.",
+    "title": "Le Couloir des Pierres Étranges",
+    "description": "Le couloir étroit et sinistre semble avoir été creusé par des mains anciennes. Les murs, usés par le temps, sont parsemés de pierres étranges qui semblent sortir du sol et des murs. Le réseau de ces pierres étranges est complexe et semble avoir une fonction précise, peut-être un rituel ancien. Le sol est marqué de cercles rituels, qui brillent faiblement dans la faible lumière qui pénètre par une petite ouverture au bout du couloir. Des piliers massifs soutiennent le plafond, et le mobilier ancien, usé et délabré, semble avoir été abandonné depuis longtemps. L'unique sortie semble menacer une eau stagnante, qui semble avoir envahi le couloir. L'atmosphère est sinistre et l'endroit semble avoir été abandonné depuis des siècles.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Tentacules",
-      "Salle de Rituels"
+      "couloir",
+      "pierres étranges",
+      "rituels",
+      "ancien",
+      "abandonné"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

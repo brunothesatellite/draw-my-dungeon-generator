@@ -1,13 +1,13 @@
 {
   "400": {
     "title": "Salle de Destruction",
-    "description": "La salle de destruction est une pièce étroite et sombre, aux murs délavés et aux sols couverts de cendres et de poussière. Les pierres et les colonnes, anciennes et usées, semblent avoir été utilisées pour soutenir un ancien autel. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. La lumière pénètre à peine à travers les fissures dans les murs, créant un halo de ténèbres qui se répand sur l'ensemble de la pièce. Des traces de vieilles pierres et de mobilier ancien sont encore visibles, témoignant de l'ancienne utilisation de cette salle. Un seul passage étroit mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond de la pièce rend l'accès difficile. L'atmosphère sinistre est accentuée par les têtes de mort et les tentacules qui semblent avoir échoué ici, ajoutant une touche d'horreur à l'ensemble. Cette salle est destinée à des rituels sombres et est considérée comme un lieu de destruction.",
+    "description": "La salle de destruction est étroite et irrégulière, avec des pierres et des colonnes qui semblent avoir été jetées hâtivement. La lumière est faible, émanant d'une source inconnue au fond de la pièce. Les murs vieillis montrent des traces de vieilles peintures et des cercles rituels érodés. Le sol est marqué de cercles rituels, et des piliers et colonnes anciennes se dressent à l'intérieur, donnant une impression de vieilles ruines. Des meubles anciens sont dispersés un peu partout, ajoutant à l'atmosphère sinistre de la pièce. Un seul passage mène à l'extérieur, mais l'eau stagnante devant le passage rend l'accès difficile. La salle semble avoir été utilisée pour des rituels, et les tentacules et têtes de mort qui ornent les murs témoignent de la cruauté qui y a eu lieu. Les pièges anciens dissimulés dans les pierres et les colonnes rendent la salle dangereuse pour les explorateurs non avertis.",
     "tags": [
       "salle de destruction",
-      "rituels sombres",
-      "têtes de mort",
-      "tentacules",
-      "salle vieillie"
+      "pierres",
+      "colonnes",
+      "rituels",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -38,7 +38,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "sinistre",
+      "atmosphère": "sinistre",
       "roomPurpose": "salle de rituels",
       "csvDescription": "salle de destruction avec des pierres, des colonnes",
       "tileNumber": 400

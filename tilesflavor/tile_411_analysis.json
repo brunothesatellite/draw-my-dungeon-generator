@@ -1,12 +1,12 @@
 {
   "411": {
-    "title": "Couloir des Anciens",
-    "description": "Le couloir est étroit et sinueux, ses murs de pierre sont usés par le temps. Des cercles rituels sont gravés dans le sol, marquant un chemin ancien. Les piliers massifs, usés par les siècles, semblent soutenir un poids invisible. Le faible éclairage naturel qui filtre à travers les fissures des pierres révèle des têtes de mort sculptées dans le mur, des tentacules qui semblent sortir du sol, ajoutant une atmosphère de menace. Le mobilier ancien, délabré, semble avoir été abandonné depuis longtemps. L'eau stagnante au fond du couloir, noire et trouble, semble prête à avaler tout intrus. Aucune sortie visible, le couloir semble se perdre dans l'obscurité, menant à un mystère profond et ancien.",
+    "title": "Couloir Bloqué par des Pierres",
+    "description": "Le couloir est étroit et sinueux, ses murs sont recouverts de mousse et de végétation sauvage. Des pierres de toutes tailles sont empilées au milieu du passage, bloquant toute progression. Le sol est couvert de feuilles mortes et de racines, rendant le passage glissant. Les murs sont ornés de têtes de mort et de tentacules, ajoutant une atmosphère de terreur. Des cercles rituels sont gravés dans le sol, semblant avoir été utilisés pour des rituels obscurs. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies et usées. Des meubles anciens sont éparpillés un peu partout, témoignant d'une ancienne occupation. L'air est saturé d'une odeur de pourriture et de mystère. La lumière est faible, filtrant à travers des feuilles mortes et des branches qui tombent du plafond. L'eau stagnante s'accumule dans les coins, créant des zones de danger. Le couloir semble être le passage d'une ancienne crypte, où des rituels sombres ont été pratiqués. Les pierres empilées au milieu semblent être les dernières traces d'un ancien rituel, maintenant bloquant toute tentative de progression.",
     "tags": [
       "couloir",
+      "pierres",
       "rituels",
-      "têtes de mort",
-      "tentacules",
+      "mystère",
       "ancien"
     ],
     "sourceFeatures": {

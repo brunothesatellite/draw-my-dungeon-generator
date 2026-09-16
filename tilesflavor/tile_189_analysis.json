@@ -1,13 +1,13 @@
 {
   "189": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, menant vers un escalier montant qui semble avoir été taillé dans le roc. Les murs, usés par le temps, sont recouverts de cercles rituels énigmatiques. Des têtes de mort et des tentacules émergent des parois, ajoutant une touche d'horreur à l'atmosphère déjà oppressante. La faible lumière qui pénètre à travers une petite ouverture au sommet du couloir éclaire les piliers massifs qui soutiennent le passage. Un autel, orné de têtes de mort et de tentacules, se dresse au fond du couloir, semblant être le point d'arrivée de ce passage. La table, placée près de l'autel, semble avoir été utilisée pour des rituels obscurs. L'eau stagnante au fond du couloir est un danger à ne pas négliger. Le seul passage menant à ce lieu semble être bloqué par un mur de pierre qui semble avoir été érigé récemment, mais qui pourrait être une fausse piste pour les explorateurs.",
+    "title": "Couloir avec Escalier Montant",
+    "description": "Le couloir avec escalier montant est étroit et sombre, éclairé par une faible lumière qui filtre à travers des voiles de poussière. Les murs, recouverts de mousse et de lierre, sont marqués de cercles rituels anciens qui semblent avoir été dessinés par des mains expertes. Des piliers massifs soutiennent le plafond, leurs surfaces usées par le temps. À l'extrémité du couloir, un escalier en pierre monte lentement vers un mystère inconnu. Le sol est marqué de cercles rituels, et une table en bois usée est posée contre le mur, sans doute utilisée pour des rituels obscurs. L'atmosphère est sinistre, et l'eau stagnante qui s'est formée dans le couloir ajoute à l'ambiance lugubre. Un seul passage mène à l'escalier, et les risques sont nombreux, comme les pièges et les tentacules qui pourraient surgir de l'eau stagnante.",
     "tags": [
       "couloir",
+      "escalier",
       "rituel",
-      "têtes de mort",
-      "tentacules",
-      "sinistre"
+      "sinistre",
+      "eau stagnante"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

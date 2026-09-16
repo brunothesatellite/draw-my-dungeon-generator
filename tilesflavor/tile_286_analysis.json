@@ -1,12 +1,12 @@
 {
   "286": {
     "title": "Grotte Escaladée",
-    "description": "La grotte escaladée vous accueille dans un espace large et irrégulier, où la lumière diffuse et diffuse donne une ambiance mystérieuse. Les murs humides et froids sont ornés de tentacules qui semblent vivants, se balançant doucement dans l'air. Des pilastres massifs soutiennent le plafond, ajoutant à l'atmosphère sombre et ancienne de la grotte. Des marques de spirale gravées dans le sol vous guident vers un escalier d'escalade qui monte vers l'obscurité. Les murs sont parsemés de tentacules, et les pilastres sont ornés de motifs étranges qui semblent avoir été sculptés par des forces obscures. La grotte est un lieu de rituel, et les marques de spirale indiquent un passage vers un autre espace, peut-être un autre niveau de la grotte. Les tentacules et les marques de spirale vous rappellent que vous n'êtes pas seul dans cette grotte, et que des créatures plus sombres que vous attendent peut-être en haut.",
+    "description": "La grotte escaladée vous accueille dans un espace large et irrégulier, où la lumière diffuse et diffuse donne une ambiance mystérieuse. Les murs humides et couverts de tâches de verdure vous rappellent l'humidité persistante de ce lieu. Des colonnes robustes, comme des piliers de pierre, se dressent à intervalles réguliers, offrant un soutien naturel à l'escalier d'escalade qui grimpe vers le haut. Des tentacules, comme ceux d'un monstre marin, sont peints sur les murs, ajoutant une touche d'effrayante réalité à l'atmosphère. Le sol est marqué d'un spiral complexe, peut-être un ancien rituel ou un guide pour les explorateurs. L'escalier d'escalade, taillé dans la roche, est étroit et pentu, exigeant une attention particulière pour les grimpeurs. Les sorties semblent inconnues, mais une sensation de présence mystérieuse plane dans l'air, comme si quelque chose attendait en haut ou en bas. Les dangers potentiels sont nombreux, mais les explorateurs courageux pourront découvrir des secrets cachés dans ce lieu.",
     "tags": [
       "grotte",
       "escalier",
+      "escalade",
       "rituel",
-      "tentacules",
       "mystère"
     ],
     "sourceFeatures": {

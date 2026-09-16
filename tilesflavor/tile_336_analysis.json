@@ -1,13 +1,13 @@
 {
   "336": {
     "title": "Grotte des Anciens",
-    "description": "Dans cette grotte étroite et sombre, les murs sont recouverts de peintures rupestres qui semblent vieillir avec le temps. Le sol est parsemé de cercles rituels, leurs contours usés par les siècles. Un lit, une arche, une boîte et trois tonneaux sont les seuls meubles, leur vieillissement ajoutant une touche d'authenticité à l'atmosphère mystérieuse. La lumière pénètre à peine à travers une petite ouverture au plafond, éclairant les piliers qui soutiennent la voûte. La grotte est vieillie, les murs sont couverts de lichens et de mousse, et les cercles rituels sont usés, mais toujours visibles. L'air est chargé d'une odeur de terre humide et d'anciennes cérémonies. À l'entrée, une porte murée semble avoir été murée depuis longtemps, et l'eau stagnante au fond de la grotte est un danger à ne pas négliger. La grotte est un lieu de rituel ancien, où les anciens pratiquaient des cérémonies secrètes.",
+    "description": "La grotte est étroite et sombre, avec des murs rugueux et des plafonds bas. Un lit de pierre est posé contre un mur, et une arche de pierre se dresse au fond de la grotte. À côté du lit, une boîte en bois est posée, et trois tonneaux de bois sont empilés contre le mur opposé. La grotte est éclairée par une faible lumière qui pénètre à travers une petite ouverture au plafond, créant des ombres danseuses sur les parois. Des cercles rituels sont gravés dans le sol, et des piliers de pierre soutiennent le plafond. Un autel de pierre est visible dans un coin, orné de tentacules et de têtes de mort. L'atmosphère est mystérieuse et menaçante, et l'eau stagnante dans un coin de la grotte rend l'endroit humide et glissant. La grotte semble être un lieu de rituel ancien, et les traces de créatures indiquent qu'elle a été utilisée récemment.",
     "tags": [
       "grotte",
       "rituel",
       "ancien",
       "mystère",
-      "vieillie"
+      "tête de mort"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +37,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et menaçante",
+      "atmosphère": "mystérieuse et menaçante",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "grotte avec un lit, une arche, une boîte et 3 tonneaux",
       "tileNumber": 336

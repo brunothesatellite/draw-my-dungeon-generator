@@ -1,13 +1,12 @@
 {
   "282": {
-    "title": "L'Égout Mort",
-    "description": "Dans l'ombre de cette petite et rectangulaire salle, l'atmosphère est pesante et mystérieuse. La faible lumière qui filtre à travers les fissures dans le plafond révèle des murs vieillis, marqués de cercles rituels qui semblent avoir été dessinés par des mains expertes. Des piliers et des colonnes, ornés de têtes de mort et de tentacules, soutiennent le plafond, ajoutant une touche d'effrayante étrangeté à l'ensemble. Un autel, placé au centre de la pièce, semble être le point focal de cette ancienne salle de rituel. L'eau stagnante qui remplit la moitié de la pièce est un danger à ne pas sous-estimer, car elle cache des créatures indéfinies. La porte murée qui ferme l'entrée semble être le seul moyen de quitter cette étrange et ancienne pièce.",
+    "title": "Egout Mort",
+    "description": "L'égout mort est un passage étroit et sombre, aux parois vieillies et recouvertes de mousse. La faible lumière qui pénètre à travers les fissures dans le plafond éclaire les cercles rituels gravés au sol, qui semblent avoir été abandonnés depuis des siècles. Des piliers et des colonnes, usés par le temps, soutiennent le passage, leurs surfaces recouvertes de mousse et de champignons. Un autel, dépourvu de tout objet, se dresse au fond du passage, comme si quelqu'un avait voulu le garder secret. À l'extrémité du passage, une porte murée est fermée, comme si elle menait à un endroit interdit. L'eau stagnante qui remplit le passage est noire et trouble, reflétant les ombres qui flottent dans l'air. L'atmosphère est mystérieuse et ancienne, comme si le passage était le témoin de secrets longtemps gardés.",
     "tags": [
-      "égoût",
+      "égoïsme",
+      "abandon",
       "rituel",
-      "vieillie",
-      "mystérieuse",
-      "ancienne"
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

@@ -1,13 +1,12 @@
 {
   "213": {
-    "title": "Salle des Sacrifices",
-    "description": "La salle est petite et ronde, éclairée par une faible lumière qui se répand dans l'atmosphère mystérieuse et menaçante. Les murs vieillis sont ornés de têtes de mort et de tentacules, rappelant les anciens rituels. Au centre de la pièce, un autel est entouré de cercles rituels dessinés au sol. Des piliers majestueux soutiennent le plafond, et des meubles anciens sont disséminés un peu partout, ajoutant à l'ambiance ancienne et sacrée. L'eau stagnante au sol indique un danger potentiel. La présence de dessins de tête de taureau sur le mur rappelle les anciens rituels de sacrifice.",
+    "title": "Salle du Taureau",
+    "description": "La salle est petite et ronde, avec un sol vieilli et des marques de cercles rituels dessinés au sol. La lumière est faible, émanant d'une source inconnue, ajoutant à l'atmosphère mystérieuse et menaçante. Des piliers robustes soutiennent le plafond, et des meubles anciens sont dispersés un peu partout, témoignant d'une utilisation ancienne. Le dessin d'une tête de taureau, ancien et délavé, est gravé sur le mur de face, un symbole énigmatique qui semble avoir une importance particulière. L'air est humide, et une eau stagnante s'accumule dans un coin, rendant l'atmosphère encore plus lugubre.",
     "tags": [
       "rituel",
-      "sacrifice",
-      "ancien",
-      "mystère",
-      "eau stagnante"
+      "taureau",
+      "salle",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

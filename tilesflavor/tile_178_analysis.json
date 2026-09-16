@@ -1,13 +1,13 @@
 {
   "178": {
     "title": "Couloir de Grotte aux Champignons",
-    "description": "Le couloir de grotte étroit et sinueux semble avoir été creusé par des forces naturelles. Les parois rugueuses sont parsemées de champignons étranges, leurs têtes pointues semblant observer les visiteurs. La lumière diffuse pénètre à peine, éclairant les cercles rituels gravés au sol. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. Des traces de vieilles pierres sculptées ornent les murs, et des cercles de têtes de mort évoquent un passé sombre. Le mobilier ancien, usé par le temps, semble avoir été abandonné ici. À l'horizon, une porte murée semble bloquer l'accès à une autre partie du donjon. L'atmosphère est pesante, comme si le couloir était le témoin de secrets millénaires. Les eaux stagnantes au fond du couloir ajoutent une note de danger à cette ancienne galerie.",
+    "description": "Le couloir de grotte est étroit et sinueux, éclairé par la faible lumière qui filtre à travers les épaisses parois rocheuses. Les murs sont parsemés de champignons étranges, leurs têtes pointues semblant observer les passants. Des cercles rituels sont gravés dans le sol, marquant le passage d'anciens cultes. Les piliers massifs, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Des traces de vieillissement sont partout, des éclats de pierre et des couches de poussière recouvrent les murs. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère mystérieuse et ancienne de ce lieu. À l'extrémité du couloir, une porte murée semble bloquer le passage, mais une eau stagnante menace de s'écouler du mur, rendant l'accès difficile. Les tentacules et les têtes de mort, sculptés dans le mur, semblent veiller sur ce passage oublié des temps anciens.",
     "tags": [
-      "Couloir",
-      "Grotte",
-      "Ancien",
-      "Rituels",
-      "Champignons"
+      "grotte",
+      "champignons",
+      "rituels",
+      "ancien",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

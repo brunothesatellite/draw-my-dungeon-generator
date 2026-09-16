@@ -1,13 +1,13 @@
 {
   "362": {
-    "title": "Salle des Rituels Sacrés",
-    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand lentement à travers les piliers vieillis. Les cercles rituels gravés dans le sol semblent attendre l'arrivée d'un initiateur. Des reliefs sculptés ornent les murs, racontant des mythes anciens. Le tapis au centre de la pièce est usé, mais ses contours indiquent l'emplacement d'un autel. Des tentacules émergent du sol, semblant attendre l'ordre de se déplacer. Des têtes de mort sont disséminées un peu partout, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. L'eau stagnante dans un coin de la pièce est un danger potentiel. Cette salle est dédiée à des rituels sacrés, mais elle semble avoir été abandonnée depuis longtemps.",
+    "title": "Salle du Trône Ancien",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand à peine à travers les piliers vieillis. Le sol est marqué de cercles rituels, et les reliefs sculptés sur les murs racontent des histoires anciennes. Le tapis au centre est usé, mais son dessin est encore visible, représentant un trône entouré de deux colonnes majestueuses. Des tentacules émergent de l'eau stagnante qui recouvre le sol, ajoutant une note de mystère à l'atmosphère déjà ancienne et mystérieuse. Les piliers sont ornés de motifs complexes, et les reliefs sculptés racontent des histoires de sacrifices et de pouvoir. La salle semble être un lieu de rituel, où les anciens pratiquaient des cérémonies importantes. Les tentacules et l'eau stagnante indiquent que quelque chose de maléfique pourrait se cacher dans ce lieu.",
     "tags": [
-      "Salle des Rituels",
-      "Ancien Autel",
-      "Tentacules",
-      "Mystère",
-      "Sacrifices"
+      "salle de trône",
+      "rituel",
+      "tentacules",
+      "ancien",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

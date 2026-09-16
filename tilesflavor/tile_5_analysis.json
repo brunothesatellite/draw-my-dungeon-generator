@@ -1,13 +1,13 @@
 {
   "5": {
-    "title": "La Salle Sacrée des Anciens",
-    "description": "La salle est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau ancien. La lumière tamisée émane des fenêtres étroites, laissant filtrer une lueur froide qui se reflète sur le sol humide. Des colonnes majestueuses soutiennent le plafond, leurs pierres sculptées de motifs complexes. Au centre de la pièce, un autel de pierre est gravé d'un symbole mystérieux, semblant inviter les regards à s'y aduler. Des spirales gravées dans le sol attirent votre attention, semblant former un chemin vers le cœur de la salle. Les murs sont ornés de tentacules et de crânes, rappelant l'ancienne puissance qui a régné ici. L'atmosphère est pesante, presque oppressante, comme si la salle gardait un secret ancien et terrible. Les pas de vos compagnons résonnent dans l'immensité de la pièce, mais il n'y a pas de sortie visible. L'eau stagnante au sol indique que la salle est inondée, ajoutant une touche de danger à l'ambiance déjà sombre.",
+    "title": "Salle du Trône Sacré",
+    "description": "La salle du Trône Sacré est immense, son plan rectangulaire s'étend sous vos yeux comme un tableau peint par les siècles. La lumière tamisée filtre à travers les voûtes, créant un halo mystérieux qui danse sur le sol humide. Des colonnes massives, sculptées de tentacules et de crânes, soutiennent le plafond, tandis que des spirales gravées dans le sol semblent guider le regard vers le centre. Un autel, orné d'un trône en pierre, domine la pièce, son sommet couronné par une couronne de feuilles dorées qui semble vivante. Les murs sont ornés de tentacules et de crânes, rappelant les anciens sacrifices qui ont eu lieu ici. L'atmosphère est lourde et mystérieuse, chaque bruit amplifié par les échos de la salle. Les traces de pas, parfois profondes, indiquent que des créatures ont récemment parcouru ces lieux. La salle est humide, et l'eau qui s'accumule dans les coins peut être dangereuse. La salle du Trône Sacré est un lieu sacré, mais aussi un lieu de peur, où les secrets des anciens se cachent derrière chaque coin.",
     "tags": [
-      "Salle Sacrée",
-      "Anciens",
-      "Mystère",
-      "Sacrifice",
-      "Pouvoir"
+      "salle",
+      "sacré",
+      "tentacules",
+      "crânes",
+      "autel"
     ],
     "sourceFeatures": {
       "roomSize": "large",

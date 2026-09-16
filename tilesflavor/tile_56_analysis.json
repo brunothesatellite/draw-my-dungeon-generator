@@ -1,13 +1,13 @@
 {
   "56": {
-    "title": "Passage des Anciens",
-    "description": "Le passage des Anciens est étroit et sinistre, taillé dans le roc. Sa petite taille et sa forme carrée donnent l'impression d'être enfermé. La faible lumière qui filtre à travers les fissures révèle des murs vieillis, marqués de cercles rituels énigmatiques. Des piliers robustes soutiennent le plafond, tandis que des têtes de mort et des tentacules émergent des murs, ajoutant une touche d'horreur à l'atmosphère mystérieuse et ancienne. Le mobilier ancien, usé et délabré, semble avoir été abandonné depuis des siècles. L'eau stagnante au fond du passage est un danger à ne pas négliger. Les rituels ou cultes anciens semblent avoir eu lieu ici, laissant derrière eux des traces de pièges anciens et des objets mystérieux. Le passage des Anciens est un lieu de culte ou de rituels, où les anciens cultes se sont probablement tenus, maintenant une atmosphère de terreur et de mystère.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir s'enfonce dans l'obscurité, ses murs vieillis et fissurés témoignant de l'âge et de l'abandon. Les piliers massifs, usés par le temps, supportent le plafond qui craque sous le poids. Des cercles rituels émaillent le sol, leurs motifs anciens et mystérieux évoquant des forces obscures. Le mobilier ancien, délabré, est disséminé ici et là, ajoutant à l'atmosphère lugubre. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. Des têtes de mort et des tentacules émergent des murs, rappelant les créatures qui ont peuplé ces lieux il y a des siècles. L'eau stagnante, noire et putride, s'accumule dans les coins, formant des bassins morts qui reflètent les ombres qui hantent ce lieu. La lumière faible, filtrant à travers des fissures dans le plafond, éclaire à peine le passage, rendant chaque pas un défi. Les couloirs se divisent et se réunissent, offrant de multiples sorties, mais aucune ne semble mener à une issue claire. La présence de pièges anciens, invisibles mais mortels, plane dans l'air, prête à frapper sans avertissement.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Rituel",
-      "Mystère",
-      "Tentacules"
+      "couloir",
+      "rituels",
+      "anciens",
+      "têtes de mort",
+      "tentacules"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -35,7 +35,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphere": "mystérieuse et ancienne",
+      "atmosphère": "mystérieuse et ancienne",
       "roomPurpose": "salle de rituels ou de culte",
       "csvDescription": "couloir",
       "tileNumber": 56

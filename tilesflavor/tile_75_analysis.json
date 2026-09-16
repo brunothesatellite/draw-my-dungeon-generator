@@ -1,13 +1,13 @@
 {
   "75": {
-    "title": "Passage des Anciens",
-    "description": "Le couloir sans issue s'inscrit dans un mur de pierre vieillie, érodée par le temps et les éternels flots de l'eau stagnante qui le traverse. Les murs sont ornés de têtes de mort sculptées, rappelant l'ancienne croyance locale. Des cercles rituels dessinent des motifs mystérieux au sol, évoquant des rituels passés. Des piliers massifs soutiennent le plafond, tandis que des meubles anciens sont disséminés ici et là, témoignant de l'occupation ancienne. L'atmosphère est oppressante, mêlant mystère et angoisse, comme si le passé s'était emmêlé dans le présent. Les flots de l'eau stagnante créent un bruit sourd et régulier, ajoutant à l'ambiance lugubre. Les têtes de mort et les cercles rituels évoquent une ancienne cérémonie, peut-être même un culte ancien. Les piliers et les meubles anciens racontent des histoires de l'ancien temps, mais le passage est sans issue, comme si le destin voulait que l'on ne puisse jamais quitter ce lieu.",
+    "title": "Couloir des Anciens",
+    "description": "Le couloir semble s'inscrire dans un mur de pierre vieillie, les murs sont ornés de têtes de mort et de cercles rituels gravés dans le sol. Les piliers massifs, usés par le temps, soutiennent le plafond qui semble bas et voûté. La faible lumière qui pénètre à travers une petite ouverture au bout du couloir éclaire les murs et les piliers, révélant des traces de mobilier ancien et des objets mystérieux. L'atmosphère est pesante et mystérieuse, comme si le couloir était le passage vers un autre monde. Les cercles rituels au sol semblent inviter à une exploration plus profonde, mais le couloir semble sans issue, comme si le destin était déjà scellé pour ceux qui le traversent.",
     "tags": [
-      "Passage",
-      "Ancien",
-      "Culte",
-      "Mystère",
-      "Eau stagnante"
+      "couloir",
+      "anciens",
+      "mystère",
+      "rituel",
+      "vieillissement"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

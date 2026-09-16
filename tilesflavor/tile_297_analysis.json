@@ -1,13 +1,14 @@
 {
   "297": {
-    "title": "L'Abîme des Sombres",
-    "description": "Vous vous trouvez au cœur d'un abîme profond et sombre. Les murs de pierre délabrés sont parsemés de tentacules et de têtes de mort, des traces de rituels anciens. Des spirales et des croix gravées dans le sol vous guident vers le centre de cette cavité lugubre. Les colonnes et les piliers, usés par le temps, semblent vouloir vous soutenir, mais leur solide apparence cache des dangers inconnus. L'air est chargé d'une atmosphère malsaine, et vous sentez l'obscurité s'engouffrer dans vos narines. À chaque pas, vous vous sentez plus proche de l'inconnu qui réside au fond de cet abîme.",
+    "title": "L'Abîme des Tentacules",
+    "description": "L'abîme s'ouvre comme un gouffre profond, ses parois rugueuses et déchiquetées semblent s'effondrer à tout moment. Des tentacules noirs et luisants serpentent entre les colonnes et les piliers, semblant chercher à s'accrocher à tout ce qui bouge. Des croix étranges sont gravées dans le sol, formant des spirales qui semblent se perdre dans le néant. La lumière pénètre à peine, éclairant à peine les contours des tentacules qui se déplacent lentement. L'air est chargé d'une odeur nauséabonde, et des murmures lointains semblent provenir de l'abîme. Les parois sont parsemées de trous et de fissures, et des objets étranges, inconnus, sont parfois visibles dans les recoins. Les tentacules semblent toujours en mouvement, cherchant à s'agripper à quelque chose, mais sans jamais réussir à s'immobiliser. L'atmosphère est oppressante, et l'abîme semble vouloir avaler tout ce qui s'approche.",
     "tags": [
       "abîme",
-      "rituels anciens",
-      "têtes de mort",
       "tentacules",
-      "obscurité"
+      "croix",
+      "colonne",
+      "pilier",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

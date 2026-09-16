@@ -1,13 +1,13 @@
 {
   "114": {
-    "title": "Le Couloir des Toiles d'Araignée",
-    "description": "Le couloir s'inscrit dans un mur de pierre ancienne, où des toiles d'araignée se sont tissées avec une précision surprenante. Les murs, ornés de tentacules et de têtes de mort, semblent vivants, prêts à se déchirer à tout moment. Le sol, marqué de spirales et de croix mystérieuses, semble inviter à l'exploration. Les colonnes et les piliers, sculptés de motifs complexes, ajoutent à l'atmosphère étrange de ce lieu. Les runes anciennes gravées sur les murs émettent une lueur faible, révélant des secrets millénaires. Le couloir, large et rectangulaire, est sombre et mystérieux, avec une ambiance étrangement apaisante et sinistre. Les mystérieux symboles gravés sur les murs semblent attendre que quelqu'un les déchiffre. Les toiles d'araignée, suspendues aux murs, semblent vivantes, prêtes à se déchirer à tout moment. Les runes anciennes gravées sur les murs émettent une lueur faible, révélant des secrets millénaires. Le couloir, large et rectangulaire, est sombre et mystérieux, avec une ambiance étrange apaisante et sinistre. Les mystérieux symboles gravés sur les murs semblent attendre que quelqu'un les déchiffre.",
+    "title": "Couloir des Toiles d'Araignée",
+    "description": "Le couloir s'inscrit dans un mur ancien, où des toiles d'araignée se sont tissées avec une précision surprenante. Les murs, couverts de ces structures naturelles, semblent vibrer d'une étrange énergie. La lumière tamisée émane des fenêtres étroites, révélant un espace large et rectangulaire. Des colonnes majestueuses, ornées de motifs spiraux et croisés, soutiennent le plafond. Des symboles mystérieux sont gravés au sol, formant des motifs de spirales et de croix. Les murs sont décorés de tentacules et de têtes de mort, ajoutant une atmosphère étrangement sacrée. Aucun passage visible, mais l'air est chargé d'une énergie ancienne et mystérieuse. Des runes anciennes et un spiral enchanté sont les seuls dangers à surveiller. Cette pièce semble être un sanctuaire, un lieu de culte ancien.",
     "tags": [
       "couloir",
       "toiles d'araignée",
-      "mystère",
       "ancien",
-      "sacré"
+      "sacré",
+      "mystérieux"
     ],
     "sourceFeatures": {
       "roomSize": "large",

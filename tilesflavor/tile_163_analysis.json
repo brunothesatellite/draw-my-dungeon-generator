@@ -1,13 +1,13 @@
 {
   "163": {
-    "title": "Grotte des Champignons Sacrés",
-    "description": "La grotte est étroite et basse, avec des parois rugueuses et des formations rocheuses qui semblent s'écarter pour former un espace carré. La lumière y est faible, filtrant à travers des fentes minuscules dans le plafond, créant un halo de verdure qui éclaire les champignons qui poussent sur les parois. Des cercles rituels sont gravés dans le sol, marquant un espace central qui semble être le point focal de la grotte. Des piliers robustes soutiennent le plafond, ajoutant à l'ambiance sinistre de la pièce. Des traces de vieillissement sont visibles partout, avec des couches de sédiments et des traces de vieilles peintures murales qui se détachent. Le mobilier, si il y en a, est ancien et usé, ajoutant à l'atmosphère de mystère. L'eau stagnante, noire et trouble, remplit une partie de la grotte, créant un danger potentiel. La grotte semble être un lieu de rituel ancien, avec des têtes de mort et des tentacules peints sur les murs, ajoutant une touche d'horreur à l'atmosphère déjà sinistre.",
+    "title": "Grotte des Champignons",
+    "description": "La grotte est étroite et basse, avec des murs rugueux et des plafonds voûtés. Les lumières tamisées émanent des champignons qui poussent sur les parois, émettant une lueur verte et mystérieuse. Des cercles rituels sont gravés dans le sol, marquant un espace sacré. Des piliers massifs soutiennent le plafond, leurs surfaces vieillies par le temps. Le mobilier, délabré, semble avoir été abandonné depuis longtemps. L'air est humide et chargé d'une odeur de terre et de champignons. L'eau stagnante recouvre une partie du sol, rendant l'endroit glissant et dangereux. La grotte est sinistre, avec une atmosphère pesante qui semble émaner des murs eux-mêmes. Les cercles rituels et les piliers donnent l'impression que cette grotte a été utilisée pour des rituels anciens. Il n'y a pas de sortie visible, et l'unique lumière vient des champignons qui poussent sur les parois.",
     "tags": [
-      "Grotte",
-      "Champignons",
-      "Rituel Ancien",
-      "Têtes de Mort",
-      "Tentacules"
+      "grotte",
+      "champignons",
+      "rituel",
+      "vieillie",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

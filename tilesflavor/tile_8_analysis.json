@@ -1,13 +1,13 @@
 {
   "8": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "Vous pénétrez dans une salle immense, aux murs couverts de colonnes massives et de pilastres sculptés. La lumière tamisée émane des fenêtres étroites, laissant filtrer une lueur sombre qui éclaire les spirales et les croix gravées sur le sol. L'atmosphère est oppressante, comme si la présence des anciens observateurs vous observait depuis les ténèbres. Des objets mystérieux sont disséminés un peu partout, leurs formes étranges et leurs couleurs énigmatiques. Des tentacules et des têtes de mort ornent les murs, ajoutant à l'aura sacrée et sinistre de la pièce. Un autel central, orné de tentacules, semble être le point focal de cette chambre. Un murmure lointain et un fantôme de présence flottent dans l'air, rendant l'atmosphère encore plus étrange. Un secret se cache derrière une porte dissimulée, prête à révéler ses secrets aux courageux explorateurs qui oseront l'ouvrir.",
+    "title": "Salle des Tentacules",
+    "description": "La salle est immense, de forme rectangulaire, avec des murs humides et des taches de condensation qui reflètent la faible lumière qui pénètre à travers une fenêtre étroite au fond. Des spirales et des croix sont gravées sur le sol, formant un motif complexe qui semble avoir été dessiné par une main ancienne. Les colonnes massives et les piliers robustes soutiennent le plafond voûté, qui est orné de tentacules et de têtes de mort sculptées dans le marbre. Des objets mystérieux, qui semblent être des artefacts anciens, sont disséminés un peu partout, ajoutant à l'atmosphère étrange de la pièce. Un murmure subtil et intermittent semble provenir de l'endroit, comme si des esprits ou des créatures invisibles étaient présents. Un secret se cache derrière une porte dissimulée dans le mur, et des pièges attendent ceux qui oseraient s'aventurer dans les recoins sombres de la salle. La salle est un lieu sacré, mais aussi un abîme de mystères et de dangers.",
     "tags": [
-      "salle sacrée",
-      "anciens",
-      "ténèbres",
+      "salle",
+      "tentacules",
+      "sacrifice",
       "mystère",
-      "rituels"
+      "anciens"
     ],
     "sourceFeatures": {
       "roomSize": "large",

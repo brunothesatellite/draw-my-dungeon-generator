@@ -1,13 +1,13 @@
 {
   "24": {
-    "title": "Chambre Sacrée des Anciens",
-    "description": "La Chambre Sacrée des Anciens est une salle immense, de forme rectangulaire, dont les murs sont recouverts de tentacules qui semblent vivre d'une vie propre. La lumière y est si faible que les ombres dansent sur le sol, formant des croix et des points qui semblent danser au rythme d'une musique inaudible. L'humidité y règne en maître, rendant le sol glissant et marqué de croix et de points qui semblent indiquer un ancien rituel. Des colonnes majestueuses soutiennent le plafond, et des statues de pierre, sculptées avec une précision incroyable, gardent le secret de l'endroit. Les tentacules qui couvrent les murs semblent se mouvoir, créant une atmosphère de mystère et de peur. Les glyphes gravés sur les murs racontent l'histoire des Anciens, mais leur signification reste un mystère pour ceux qui ne sont pas initiés. Les tentacules semblent attendre, prêts à s'attaquer à ceux qui oseraient perturber cet espace sacré.",
+    "title": "Salle des Tentacules",
+    "description": "La salle est immense, de forme rectangulaire, avec des murs humides et des croix et des points marqués au sol. Des colonnes imposantes soutiennent le plafond, et des statues étranges sont alignées le long des murs. Des tentacules peints sur les murs semblent se mouvoir lentement, ajoutant une atmosphère de mystère et de malaise. Les tentacules sont de couleur noire et semblent vivants, comme s'ils étaient prêts à s'agripper aux visiteurs. Des glyphes anciens sont gravés sur les murs, semblant indiquer un passage ou une destination. La salle est éclairée par une lumière diffuse, rendant l'endroit encore plus sombre et inquiétant. Les tentacules peints semblent se déplacer vers le centre de la salle, où se trouve un autel ancien, orné de tentacules et de symboles énigmatiques. Les tentacules peints semblent se déplacer vers le centre de la salle, où se trouve un autel ancien, orné de tentacules et de symboles énigmatiques. Les tentacules peints semblent se déplacer vers le centre de la salle, où se trouve un autel ancien, orné de tentacules et de symboles énigmatiques.",
     "tags": [
       "salle",
-      "sacré",
-      "tentaclés",
-      "mystère",
-      "anciens"
+      "tentacules",
+      "autel",
+      "statues",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

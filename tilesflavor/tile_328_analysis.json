@@ -1,13 +1,13 @@
 {
   "328": {
-    "title": "L'Abîme des Escaliers",
-    "description": "Dans l'obscurité qui règne dans cette grotte, tu aperçois un abîme profond. Des escaliers taillés dans le mur grimpent vers le haut, leurs marches sombres et glissantes. Un tonneau, usé par le temps, repose à côté des marches, comme s'il avait été oublié par les anciens. Le sol est marqué de spirales mystérieuses qui semblent guider le regard vers le large ouverture circulaire au centre de la pièce. Des tentacules noirs, visibles à travers les fissures du plafond, semblent attendre l'occasion de s'abattre sur le visiteur. Les murs sont recouverts de peintures de tentacules et de crânes, rappelant les rituels obscurs qui ont eu lieu ici. La pièce est dilapidée, les colonnes brisées ajoutant à l'atmosphère étrange et menaçante de l'endroit. L'air est chargé d'une odeur de poussière et de mystère ancien.",
+    "title": "Abîme des Escaliers",
+    "description": "Dans l'obscurité de l'abîme, les escaliers grimpent péniblement dans le mur de la grotte. Un tonneau, usé par le temps, repose à proximité des marches, comme si quelqu'un avait laissé son passage. Les murs, délabrés, sont parsemés de tentacules qui semblent s'agiter dans l'air, tandis que des squelettes éparpillés témoignent de l'ancienneté de ce lieu. Des spirales mystérieuses marquent le sol, semblant guider le regard vers un large ouverture circulaire au centre de la grotte. La lumière pénètre à peine, éclairant les croix sculptées sur les murs et les colonnes brisées qui trônent au milieu de la pièce. L'atmosphère est pesante, presque oppressante, comme si l'abîme lui-même respirait une énergie ancienne et maléfique.",
     "tags": [
       "abîme",
       "escaliers",
       "grotte",
-      "rituel",
-      "tentacules"
+      "tonneau",
+      "mystère"
     ],
     "sourceFeatures": {
       "roomSize": "large",

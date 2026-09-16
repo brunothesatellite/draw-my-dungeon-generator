@@ -1,13 +1,12 @@
 {
   "128": {
     "title": "Salle des Anciens",
-    "description": "Cette salle, petite et rectangulaire, émane d'une atmosphère mystérieuse et ancienne. La faible lumière qui pénètre à travers les voûtes délavées révèle des cercles rituels et des glyphes runiques gravés dans le sol. Des piliers massifs soutiennent les murs, ornés de statues étranges qui semblent veiller sur le lieu. Un tableau, portant le numéro 128, est accroché au mur, ajoutant une touche de mystère à l'ensemble. Les sols sont marqués de cercles rituels et de glyphes runiques, indiquant une utilisation ancienne pour des rituels ou des cultes. L'eau stagnante qui s'accumule dans un coin de la salle ajoute une note de danger à cette ancienne salle de culte. Les murs sont vieillis, et des têtes de mort et des tentacules peints sur les murs ajoutent une touche macabre à l'atmosphère. Cette salle ouverte avec 4 dessins magiques semble être le cœur d'un ancien sanctuaire, où des rituels sombres et des cultes anciens se déroulaient.",
+    "description": "La salle est petite et rectangulaire, éclairée par une faible lumière qui se répand lentement à travers les piliers vieillis. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des statues et des piliers ornent les murs. Un tableau avec le numéro 128 est accroché au mur, ajoutant une touche de mystère à l'atmosphère ancienne. Les dessins magiques, visibles sur les murs, semblent avoir été réalisés par des mains expertes, et chaque ligne semble avoir une signification secrète. L'air est chargé d'une odeur de poussière et d'anciennes cérémonies. L'eau stagnante dans un coin de la salle ajoute à l'ambiance lugubre. Cette pièce semble avoir été utilisée pour des rituels ou des cultes, et les dessins magiques semblent être le point central de ces cérémonies.",
     "tags": [
       "rituel",
-      "culte",
+      "salle",
       "ancien",
-      "macabre",
-      "salle de culte"
+      "dessins"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

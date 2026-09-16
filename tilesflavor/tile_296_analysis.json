@@ -1,13 +1,13 @@
 {
   "296": {
-    "title": "L'Abîme des Anciens",
-    "description": "Vous vous trouvez dans un abîme étroit et sinistre, dont les parois rugueuses et usées semblent avoir vu des milliers d'années. La lumière est si faible que vous ne pouvez distinguer que les contours des formes qui vous entourent. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant un chemin qui semble mener à l'obscurité. Des piliers et des colonnes, usés par le temps, soutiennent le plafond qui menace de s'effondrer. Un autel, orné de symboles énigmatiques, se dresse au centre de la pièce, entouré de mobilier ancien et usé. Des traces de créatures étranges sont visibles sur le sol, comme si des êtres maléfiques avaient récemment parcouru ce lieu. L'air est saturé d'une odeur de pourriture et de mystère, rendant l'atmosphère encore plus sinistre. L'abîme semble être un lieu de culte ou de rituel, où des sacrifices et des cérémonies sombres ont probablement eu lieu au fil des siècles.",
+    "title": "Abîme des Sacrifices",
+    "description": "L'abîme est une cavité profonde et sombre, ses parois rugueuses et usées témoignent de millénaires d'abandon. Des cercles rituels et des glyphes runiques sont gravés dans le sol, marquant l'ancien emplacement d'un autel. Des piliers et des colonnes, usés par le temps, soutiennent la structure instable de cette ancienne salle de culte. Des traces de créatures étranges sillonnent le sol, témoignant de l'activité qui y a eu lieu. L'atmosphère est sinistre et mystérieuse, accentuée par l'obscurité qui règne dans cette partie de l'abîme. L'eau stagnante au fond de la cavité est un danger à ne pas sous-estimer. Les murs sont ornés de têtes de mort et de tentacules, ajoutant à l'atmosphère macabre de ce lieu. L'abîme est un endroit où les rituels et les sacrifices étaient pratiqués, et bien que les murs soient vieillissants et usés, ils gardent encore des traces de leur ancienne splendeur.",
     "tags": [
       "abîme",
       "rituel",
       "sacrifice",
-      "mystère",
-      "vieille et usée"
+      "macabre",
+      "sombre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",

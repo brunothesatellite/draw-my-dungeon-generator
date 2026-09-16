@@ -1,13 +1,12 @@
 {
   "118": {
-    "title": "Chapelle Sacrée des Anciens",
-    "description": "La petite chapelle est un espace rectangulaire, vieilli et sombre, éclairé par une faible lumière qui filtre à travers les voûtes délabrées. Les murs sont recouverts de cercles rituels, des symboles anciens qui semblent avoir été dessinés par des mains expertes. Des piliers robustes soutiennent le plafond, et le sol est marqué de cercles rituels, indiquant l'ancienneté et la signification sacrée de ce lieu. Le mobilier ancien, usé et délabré, semble avoir été installé il y a des siècles, ajoutant à l'atmosphère sinistre de la chapelle. Un seul passage mène à l'extérieur, mais l'eau stagnante qui s'est formée dans le fond du couloir rend l'accès difficile. Les têtes de mort et les tentacules qui flottent dans l'air ajoutent une touche macabre à l'atmosphère déjà sombre de ce lieu. La chapelle est un sanctuaire ancien, où des rituels mystiques ont probablement été pratiqués depuis des temps immémoriaux.",
+    "title": "Petite Chapelle Sacrée",
+    "description": "La petite chapelle est un espace rectangulaire, vieilli et sombre, où la lumière filtre à peine à travers les fenêtres brisées. Les murs, recouverts de peintures vieillies, sont ornés de têtes de mort et de tentacules qui semblent sortir du mur. Au centre de la pièce se dresse un autel circulaire, entouré de cercles rituels gravés dans le sol. Des piliers massifs soutiennent le plafond, et le mobilier ancien est réparti autour de la pièce, ajoutant à l'atmosphère sinistre. L'eau stagnante dans un coin de la chapelle rend l'endroit encore plus dangereux. Un seul passage mène à l'extérieur, mais la porte est fermée par une barrière de pierre. La chapelle est un lieu de rituel ancien, où les anciens pratiquaient des cérémonies sombres.",
     "tags": [
-      "Salle de Rituels",
-      "Ancien",
-      "Sacrifice",
-      "Mystique",
-      "Sombre"
+      "rituel",
+      "ancien",
+      "sacrifice",
+      "sinistre"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
@@ -37,7 +36,7 @@
       "hazards": [
         "eau stagnante"
       ],
-      "atmosphère": "sinistre",
+      "atmosphere": "sinistre",
       "roomPurpose": "salle de rituel ancien",
       "csvDescription": "Petite chapelle",
       "tileNumber": 118

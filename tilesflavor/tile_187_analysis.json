@@ -1,13 +1,13 @@
 {
   "187": {
-    "title": "Salle des Anciens",
-    "description": "La salle est petite, carrée et légèrement inclinée vers le haut. La lumière tamisée émane des fenêtres étroites, révélant un intérieur vieilli et mystérieux. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et une colonne majestueuse dominent l'espace. Un autel central, orné de têtes de mort et de tentacules, attire l'œil. La fontaine au centre de la pièce émet une odeur étrange, et un escalier circulaire monte vers l'obscurité. Les murs sont recouverts de peintures anciennes, et des pièges anciens sont dissimulés dans les recoins. L'atmosphère est pesante et menaçante, comme si la salle avait été utilisée pour des rituels obscurs.",
+    "title": "Salle du Montant",
+    "description": "Dans cette petite salle carrée, la lumière faible éclaire les murs vieillis, où des têtes de mort et des tentacules émergent des fissures. Des cercles rituels et des glyphes runiques marquent le sol, tandis que des piliers et une colonne imposent leur présence architecturale. Un autel, symbole de culte ancien, domine le centre de la pièce. Un escalier circulaire, en partie délabré, monte vers l'obscurité qui s'annonce au sommet. Des pièges anciens sont dissimulés dans les recoins, prêts à se déclencher sur les intrus. L'atmosphère est mystérieuse et menaçante, comme si les forces obscures de l'ancien culte se réveillaient.",
     "tags": [
-      "Salle",
-      "Anciens",
-      "Rituels",
-      "Mystère",
-      "Pièges"
+      "escalier circulaire",
+      "salle carrée",
+      "vieillie",
+      "culte ancien",
+      "pièges anciens"
     ],
     "sourceFeatures": {
       "roomSize": "petite",
