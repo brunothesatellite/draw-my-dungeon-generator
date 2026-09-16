@@ -29,6 +29,16 @@ Du coup peut être pré-remplie la grille avec les cartes hachuré ou les mettre
 
 [23:33, 15/09/2026] Nicolas Beyleix: La deuxième réflexion c'est que c'est pas si bien de faire tourner la tuile quand tu clics dessus. Peut être ne pas le faire auto, cliquer c'est juste sélectionné la tuille et a droite tu as des outils pas exemple rotation et ajouter peut-être des transformations miroirs pour certains cas. Du coup ca permettrait potentiellement d'ajouter d'autre action, style tagger entrée, zone actuelle....
 => [THINK] Bonne idée
+Dans cette branche je voudrai faire les évolutions suivantes :
+- sous flavorTile il y aura une barre d'outils avec les boutons suivants : rotation 90°, miroir horizontal, miroir vertical, reset. Ces boutons appliquent les transformations à flavorTile et à la tuile associée dans la grille
+rotation 90° : rotation de 90° vers la droite
+miroir horizontal : symétrie horizontale appliquée
+miroir vertical : symétrie verticale appliquée
+reset : rétablissement de l'image d'origine, sans rotation, sans miroir
+- maintenant le clic gauche sur la grille pose une tuile si la cible est vide, ou sélectionne simplement la tuile (comme le long hover sur la tuile). Il ne déclenche plus la rotation de la tuile.
+- le clic droit supprime toujours la tuile.
+- le drag & drop d'une tuile est conservé comme actuellement.
+Fait un plan uniquement, en faisant attention à ne pas introduire de régression
 
 [23:37, 15/09/2026] Nicolas Beyleix: Après j'ai un petit problème avec les tuiles qui aboutissent a des zones de 2, 4 etc cases. En fait c'est bizarre de changer la description d'une grande grotte, mais c'est plus compliqué a faire sans pregenerer des blocs de plusieurs cases. Du coup indiquer qu'elle tuiles peuvent en faire partie et savoir quand arrêté. Donc pour le moment c'est juste une impression comme cela. Apres c'est aussi que moi je dessines mes zones et après je mets mes trucs dedans. Du coup tirer case par case c'est plus compliqué.
 => [THINK] à réfléchir, très complexe

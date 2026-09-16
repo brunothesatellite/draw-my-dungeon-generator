@@ -408,11 +408,17 @@ async function renderGridToCanvas() {
 
         const img = cell.querySelector('img');
         if (img && img.src && b64Map.has(img.src)) {
-            const rotation = parseInt(img.style.transform.replace('rotate(', '').replace('deg)', '')) || 0;
+            const transformStyle = img.style.transform;
+            const rotationMatch = transformStyle.match(/rotate\((\d+)deg\)/);
+            const rotation = rotationMatch ? parseInt(rotationMatch[1]) : 0;
+            const mirrorH = transformStyle.includes('scaleX(-1)');
+            const mirrorV = transformStyle.includes('scaleY(-1)');
             const safeImg = await loadBase64AsImage(b64Map.get(img.src));
             ctx.save();
             ctx.translate(x + cellW / 2, y + cellH / 2);
             ctx.rotate(rotation * Math.PI / 180);
+            if (mirrorH) ctx.scale(-1, 1);
+            if (mirrorV) ctx.scale(1, -1);
             const margin = cellW * 0.05;
             ctx.drawImage(safeImg, -cellW / 2 + margin, -cellH / 2 + margin, cellW - margin * 2, cellH - margin * 2);
             ctx.restore();
@@ -850,10 +856,12 @@ function getGridData() {
             const transformStyle = img.style.transform;
             const rotationMatch = transformStyle.match(/rotate\((\d+)deg\)/);
             const rotation = rotationMatch ? rotationMatch[1] : "0";
+            const mirrorH = transformStyle.includes('scaleX(-1)');
+            const mirrorV = transformStyle.includes('scaleY(-1)');
             const parts = img.src.split('/');
             const fileName = parts[parts.length - 1].replace(/\.[^/.]+$/, "");
             const folderName = parts[parts.length - 2];
-            data[r][c] = { fileName, folderName, rotation };
+            data[r][c] = { fileName, folderName, rotation, mirrorH, mirrorV };
         }
     });
     return data;
@@ -885,7 +893,8 @@ function applyNewGridData(newData, restoreZoom = false) {
                 const img = document.createElement('img');
                 img.src = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
                 img.alt = `Tuile ${tileInfo.fileName}`;
-                img.style.transform = `rotate(${tileInfo.rotation}deg)`;
+                const transform = buildTransform(tileInfo.rotation, tileInfo.mirrorH || false, tileInfo.mirrorV || false);
+                img.style.transform = transform;
                 img.style.zIndex = '2';
                 cell.appendChild(img);
                 cell.classList.remove('empty');
@@ -944,6 +953,14 @@ const flavorDescription = document.getElementById('flavorDescription');
 let flavorHoverTimer = null;
 const flavorHoverDelay = 800;
 let activeFlavorCell = null;
+let activeTileData = null;
+
+function buildTransform(rotation, mirrorH, mirrorV) {
+    let transform = `rotate(${rotation}deg)`;
+    if (mirrorH) transform += ' scaleX(-1)';
+    if (mirrorV) transform += ' scaleY(-1)';
+    return transform;
+}
 
 // Cache pour les données JSON des tuiles
 const tileFlavorCache = {};
@@ -1085,13 +1102,19 @@ async function updateFlavor(tileInfo, cell) {
         activeFlavorCell = cell;
     }
     
+    activeTileData = {
+        fileName: tileInfo.fileName,
+        folderName: tileInfo.folderName,
+        rotation: tileInfo.rotation || '0',
+        mirrorH: tileInfo.mirrorH || false,
+        mirrorV: tileInfo.mirrorV || false
+    };
+    
     const imgSrc = `tileswebp/${tileInfo.folderName}/${tileInfo.fileName}.webp`;
-    flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}" style="transform: rotate(${tileInfo.rotation}deg)">`;
+    const transform = buildTransform(activeTileData.rotation, activeTileData.mirrorH, activeTileData.mirrorV);
+    flavorTile.innerHTML = `<img src="${imgSrc}" alt="Tuile ${tileInfo.fileName}" style="transform: ${transform}">`;
     flavorTile.classList.remove('empty');
-    flavorText.innerHTML = `
-        <div><span class="label">Chemin :</span> ${tileInfo.folderName}/${tileInfo.fileName}</div>
-        <div><span class="label">Rotation :</span> ${tileInfo.rotation}°</div>
-    `;
+    updateFlavorText(activeTileData);
     const folderLabels = {
         'abyss': 'Abysse',
         'cave': 'Grotte',
@@ -1122,6 +1145,7 @@ function clearFlavor() {
         activeFlavorCell.classList.remove('flavor-active');
         activeFlavorCell = null;
     }
+    activeTileData = null;
     flavorTile.innerHTML = '';
     flavorTile.classList.add('empty');
     flavorText.innerHTML = '';
@@ -1139,7 +1163,9 @@ function getTileInfoFromCell(cell) {
     const transformStyle = img.style.transform;
     const rotationMatch = transformStyle.match(/rotate\((\d+)deg\)/);
     const rotation = rotationMatch ? rotationMatch[1] : '0';
-    return { fileName, folderName, rotation };
+    const mirrorH = transformStyle.includes('scaleX(-1)');
+    const mirrorV = transformStyle.includes('scaleY(-1)');
+    return { fileName, folderName, rotation, mirrorH, mirrorV };
 }
 
 function scheduleFlavorClear() {
@@ -1168,6 +1194,69 @@ function setupFlavorEvents() {
             }, flavorHoverDelay);
         }
     }, true);
+}
+
+function setupToolbarEvents() {
+    const btnRotate = document.getElementById('btnRotate');
+    const btnMirrorH = document.getElementById('btnMirrorH');
+    const btnMirrorV = document.getElementById('btnMirrorV');
+    const btnReset = document.getElementById('btnReset');
+    const btnDelete = document.getElementById('btnDelete');
+
+    btnRotate.addEventListener('click', () => {
+        if (!activeFlavorCell || !activeTileData) return;
+        activeTileData.rotation = (parseInt(activeTileData.rotation) + 90) % 360;
+        applyTransformToActive();
+    });
+
+    btnMirrorH.addEventListener('click', () => {
+        if (!activeFlavorCell || !activeTileData) return;
+        activeTileData.mirrorH = !activeTileData.mirrorH;
+        applyTransformToActive();
+    });
+
+    btnMirrorV.addEventListener('click', () => {
+        if (!activeFlavorCell || !activeTileData) return;
+        activeTileData.mirrorV = !activeTileData.mirrorV;
+        applyTransformToActive();
+    });
+
+    btnReset.addEventListener('click', () => {
+        if (!activeFlavorCell || !activeTileData) return;
+        activeTileData.rotation = '0';
+        activeTileData.mirrorH = false;
+        activeTileData.mirrorV = false;
+        applyTransformToActive();
+    });
+
+    btnDelete.addEventListener('click', () => {
+        if (!activeFlavorCell) return;
+        activeFlavorCell.innerHTML = '';
+        activeFlavorCell.classList.add('empty');
+        logToDebug(`Tuile supprimée via toolbar à (${activeFlavorCell.dataset.row}, ${activeFlavorCell.dataset.col})`);
+        clearFlavor();
+        saveState();
+    });
+}
+
+function applyTransformToActive() {
+    const img = activeFlavorCell.querySelector('img');
+    if (!img) return;
+    const transform = buildTransform(activeTileData.rotation, activeTileData.mirrorH, activeTileData.mirrorV);
+    img.style.transform = transform;
+    const flavorImg = flavorTile.querySelector('img');
+    if (flavorImg) flavorImg.style.transform = transform;
+    updateFlavorText(activeTileData);
+    saveState();
+}
+
+function updateFlavorText(tileData) {
+    flavorText.innerHTML = `
+        <div><span class="label">Chemin :</span> ${tileData.folderName}/${tileData.fileName}</div>
+        <div><span class="label">Rotation :</span> ${tileData.rotation}°</div>
+        <div><span class="label">Miroir H :</span> ${tileData.mirrorH ? 'Oui' : 'Non'}</div>
+        <div><span class="label">Miroir V :</span> ${tileData.mirrorV ? 'Oui' : 'Non'}</div>
+    `;
 }
 
 // --- CELL EVENTS ---
@@ -1209,18 +1298,9 @@ async function handleCellClick(e) {
             await showMessage('Attention', 'Veuillez sélectionner un dossier de tuiles.');
         }
     } else {
-        const img = cell.querySelector('img');
-        if (img) {
-            const currentRotation = parseInt(img.style.transform.replace('rotate(', '').replace('deg)', '')) || 0;
-            const newRotation = (currentRotation + 90) % 360;
-            img.style.transform = `rotate(${newRotation}deg)`;
-            logToDebug(`Rotation à ${newRotation}°`);
-            const parts = img.src.split('/');
-            updateFlavor({
-                fileName: parts[parts.length - 1].replace(/\.[^/.]+$/, ''),
-                folderName: parts[parts.length - 2],
-                rotation: String(newRotation)
-            }, cell);
+        const tileInfo = getTileInfoFromCell(cell);
+        if (tileInfo) {
+            updateFlavor(tileInfo, cell);
         }
     }
     saveState();
@@ -1385,6 +1465,7 @@ function init() {
     setupDragAndDrop();
     setupOverlayControls();
     setupFlavorEvents();
+    setupToolbarEvents();
     logToDebug('=== Initialisation terminée ===');
 }
 
