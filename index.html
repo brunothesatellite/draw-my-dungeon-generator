@@ -116,7 +116,9 @@
 
     <script>
         (function() {
-            document.getElementById('exportPdf').style.display = 'inline-block';
+            if (location.protocol !== 'file:') {
+                document.getElementById('exportPdf').style.display = 'inline-block';
+            }
         })();
     </script>
 
