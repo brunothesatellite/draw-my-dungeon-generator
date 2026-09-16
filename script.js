@@ -956,8 +956,9 @@ async function loadTileFlavorData(tileNumber) {
     
     // 1. Essayer la variable globale (fonctionne en local et en serveur)
     if (typeof TILES_FLAVOR_DATA !== 'undefined' && TILES_FLAVOR_DATA[tileNumber]) {
-        tileFlavorCache[tileNumber] = TILES_FLAVOR_DATA;
-        return TILES_FLAVOR_DATA;
+        const nested = TILES_FLAVOR_DATA[tileNumber][tileNumber] || TILES_FLAVOR_DATA[tileNumber];
+        tileFlavorCache[tileNumber] = nested;
+        return nested;
     }
     
     // 2. Fallback fetch (pour les serveurs web sans tiles_flavor.js) — impossible en file://
@@ -1039,11 +1040,11 @@ function generateFeaturesHTML(features) {
 
 // Fonction pour afficher les données JSON de la tuile
 function displayTileFlavorData(tileData, tileNumber) {
-    if (!tileData || !tileData[tileNumber]) {
+    if (!tileData) {
         return `<div class="label">Données non disponibles pour la tuile ${tileNumber}</div>`;
     }
     
-    const tileInfo = tileData[tileNumber];
+    const tileInfo = tileData[tileNumber] || tileData;
     let html = '';
     
     // Titre
@@ -1053,11 +1054,13 @@ function displayTileFlavorData(tileData, tileNumber) {
     html += `<div class="tile-description">"${tileInfo.description}"</div>`;
     
     // Tags
-    html += '<div class="tile-tags">';
-    tileInfo.tags.forEach(tag => {
-        html += `<span class="tag">${tag}</span>`;
-    });
-    html += '</div>';
+    if (tileInfo.tags && tileInfo.tags.length) {
+        html += '<div class="tile-tags">';
+        tileInfo.tags.forEach(tag => {
+            html += `<span class="tag">${tag}</span>`;
+        });
+        html += '</div>';
+    }
     
     // Caractéristiques
     html += generateFeaturesHTML(tileInfo.sourceFeatures);
