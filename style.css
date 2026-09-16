@@ -664,15 +664,18 @@ body {
     min-width: 0;
     min-height: 0;
     overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;
 }
 
 .grid-wrapper {
     position: relative;
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
-    margin: auto;
-    padding: 30px;
+    flex-shrink: 0;
     min-width: 0;
     min-height: 0;
 }
