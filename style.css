@@ -164,6 +164,10 @@ body {
     object-fit: contain;
 }
 
+[data-theme="dark"] .flavor-tile img {
+    filter: brightness(0.6) contrast(1.1);
+}
+
 .flavor-tile.empty {
     border-style: dashed;
     opacity: 0.4;
