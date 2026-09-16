@@ -830,3 +830,31 @@ body {
         min-width: 100%;
     }
 }
+
+.fullscreen-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.85);
+    z-index: 10000;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+.fullscreen-overlay.open {
+    display: flex;
+}
+.fullscreen-overlay img {
+    max-width: 90vw;
+    max-height: 80vh;
+    object-fit: contain;
+    border-radius: 6px;
+}
+.fullscreen-overlay .caption {
+    color: #d4b896;
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    margin-top: 16px;
+    text-align: center;
+}

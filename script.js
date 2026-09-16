@@ -1167,19 +1167,21 @@ function setupFlavorEvents() {
     const fullscreenImg = document.getElementById('imageFullscreenImg');
     const fullscreenCaption = document.getElementById('imageFullscreenCaption');
 
-    flavorTile.addEventListener('click', () => {
+    flavorTile.addEventListener('click', (e) => {
+        e.stopPropagation();
         const img = flavorTile.querySelector('img');
         if (!img) return;
         fullscreenImg.src = img.src;
         fullscreenImg.style.transform = img.style.transform;
         const tileNum = img.alt.replace('Tuile ', '');
-        const rotation = img.style.transform.replace('rotate(', '').replace('deg)', '') || '0';
+        const rotMatch = img.style.transform.match(/rotate\((-?\d+)deg\)/);
+        const rotation = rotMatch ? rotMatch[1] : '0';
         fullscreenCaption.textContent = `Tuile ${tileNum} — Rotation ${rotation}°`;
-        fullscreenOverlay.style.display = 'flex';
+        fullscreenOverlay.classList.add('open');
     });
 
     fullscreenOverlay.addEventListener('click', () => {
-        fullscreenOverlay.style.display = 'none';
+        fullscreenOverlay.classList.remove('open');
     });
 }
 
