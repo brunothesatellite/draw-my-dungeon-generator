@@ -62,7 +62,7 @@
             </div>
 
             <div class="flavor-area">
-                <div class="flavor-tile" id="flavorTile"></div>
+                <div class="flavor-tile" id="flavorTile" style="cursor:pointer;"></div>
                 <div class="flavor-text" id="flavorText"></div>
                 <div class="flavor-environment" id="flavorEnvironment"></div>
                 <div class="flavor-description" id="flavorDescription"></div>
@@ -165,5 +165,10 @@
         </div>
     </div>
     <style>@keyframes spin { to { transform: rotate(360deg); } }</style>
+
+    <div id="imageFullscreen" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.85); z-index:10000; align-items:center; justify-content:center; flex-direction:column; cursor:pointer;">
+        <img id="imageFullscreenImg" style="max-width:90vw; max-height:80vh; object-fit:contain; border-radius:6px;">
+        <div id="imageFullscreenCaption" style="color:#d4b896; font-family:'Crimson Text',serif; font-size:18px; margin-top:16px; text-align:center;"></div>
+    </div>
 </body>
 </html>

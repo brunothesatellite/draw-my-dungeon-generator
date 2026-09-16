@@ -1162,6 +1162,25 @@ function setupFlavorEvents() {
             }, flavorHoverDelay);
         }
     }, true);
+
+    const fullscreenOverlay = document.getElementById('imageFullscreen');
+    const fullscreenImg = document.getElementById('imageFullscreenImg');
+    const fullscreenCaption = document.getElementById('imageFullscreenCaption');
+
+    flavorTile.addEventListener('click', () => {
+        const img = flavorTile.querySelector('img');
+        if (!img) return;
+        fullscreenImg.src = img.src;
+        fullscreenImg.style.transform = img.style.transform;
+        const tileNum = img.alt.replace('Tuile ', '');
+        const rotation = img.style.transform.replace('rotate(', '').replace('deg)', '') || '0';
+        fullscreenCaption.textContent = `Tuile ${tileNum} — Rotation ${rotation}°`;
+        fullscreenOverlay.style.display = 'flex';
+    });
+
+    fullscreenOverlay.addEventListener('click', () => {
+        fullscreenOverlay.style.display = 'none';
+    });
 }
 
 // --- CELL EVENTS ---
