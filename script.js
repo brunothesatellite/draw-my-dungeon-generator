@@ -12,7 +12,8 @@ const tooltip = document.getElementById('customTooltip');
 const gridColumnsInput = document.getElementById('gridColumns');
 const gridRowsInput = document.getElementById('gridRows');
 const setGridDimensionsBtn = document.getElementById('setGridDimensions');
-const gridArea = document.querySelector('.grid-wrapper');
+const gridArea = document.querySelector('.grid-area');
+const gridWrapper = document.querySelector('.grid-wrapper');
 
 let tooltipTimer;
 
@@ -688,11 +689,11 @@ function updateAvailableTiles(folder) {
 
 // --- GRID ---
 function fitCells() {
-    const wrapperPad = 48;
+    const pad = 60;
     const containerBorder = 4;
     const gap = 5;
-    const contentW = gridArea.clientWidth - wrapperPad;
-    const contentH = gridArea.clientHeight - wrapperPad;
+    const contentW = gridArea.clientWidth - pad;
+    const contentH = gridArea.clientHeight - pad;
     if (contentW <= 0 || contentH <= 0) return;
 
     const cellAreaW = contentW - containerBorder;
@@ -700,7 +701,7 @@ function fitCells() {
     const cellW = (cellAreaW - gap * (currentCols - 1)) / currentCols;
     const cellH = (cellAreaH - gap * (currentRows - 1)) / currentRows;
     const baseCellSize = Math.floor(Math.min(cellW, cellH));
-    const cellSize = Math.max(10, Math.floor(baseCellSize * zoomLevel));
+    const cellSize = Math.max(20, Math.floor(baseCellSize * zoomLevel));
 
     gridContainer.style.gridTemplateColumns = `repeat(${currentCols}, ${cellSize}px)`;
     gridContainer.style.gridTemplateRows = `repeat(${currentRows}, ${cellSize}px)`;
@@ -1320,46 +1321,46 @@ function applyZoom() {
 function autoFitZoom() {
     zoomLevel = 1.0;
     applyZoom();
-    logToDebug('Auto-zoom : 1.00x (grid fit)');
+    logToDebug('Auto-zoom : 1.0x (grid fit)');
 }
 
 // Position overlays centered on the visual grid edges
 function positionOverlays() {
-    const areaRect = gridArea.getBoundingClientRect();
+    const wrapperRect = gridWrapper.getBoundingClientRect();
     const gridRect = gridContainer.getBoundingClientRect();
 
-    // Convert viewport-relative coords to content-space (absolute positioning context)
-    const gLeft = gridRect.left - areaRect.left + gridArea.scrollLeft;
-    const gTop = gridRect.top - areaRect.top + gridArea.scrollTop;
+    const gLeft = gridRect.left - wrapperRect.left;
+    const gTop = gridRect.top - wrapperRect.top;
     const gWidth = gridRect.width;
     const gHeight = gridRect.height;
     const midX = gLeft + gWidth / 2;
     const midY = gTop + gHeight / 2;
+    const margin = 4;
 
-    const topGroup = gridArea.querySelector('.top-group');
-    const bottomGroup = gridArea.querySelector('.bottom-group');
-    const leftGroup = gridArea.querySelector('.left-group');
-    const rightGroup = gridArea.querySelector('.right-group');
+    const topGroup = gridWrapper.querySelector('.top-group');
+    const bottomGroup = gridWrapper.querySelector('.bottom-group');
+    const leftGroup = gridWrapper.querySelector('.left-group');
+    const rightGroup = gridWrapper.querySelector('.right-group');
 
     if (topGroup) {
-        topGroup.style.top = (gTop - 36) + 'px';
+        topGroup.style.top = (gTop - margin) + 'px';
         topGroup.style.left = midX + 'px';
-        topGroup.style.transform = 'translateX(-50%)';
+        topGroup.style.transform = 'translate(-50%, -100%)';
     }
     if (bottomGroup) {
-        bottomGroup.style.top = (gTop + gHeight + 10) + 'px';
+        bottomGroup.style.top = (gTop + gHeight + margin) + 'px';
         bottomGroup.style.left = midX + 'px';
-        bottomGroup.style.transform = 'translateX(-50%)';
+        bottomGroup.style.transform = 'translate(-50%, 0)';
     }
     if (leftGroup) {
         leftGroup.style.top = midY + 'px';
-        leftGroup.style.left = (gLeft - 36) + 'px';
-        leftGroup.style.transform = 'translateY(-50%)';
+        leftGroup.style.left = (gLeft - margin) + 'px';
+        leftGroup.style.transform = 'translate(-100%, -50%)';
     }
     if (rightGroup) {
         rightGroup.style.top = midY + 'px';
-        rightGroup.style.left = (gLeft + gWidth + 10) + 'px';
-        rightGroup.style.transform = 'translateY(-50%)';
+        rightGroup.style.left = (gLeft + gWidth + margin) + 'px';
+        rightGroup.style.transform = 'translate(0, -50%)';
     }
 }
 
@@ -1370,7 +1371,7 @@ const actionMap = {
 };
 
 function setupOverlayControls() {
-    gridArea.querySelectorAll('.ctrl button').forEach(btn => {
+    gridWrapper.querySelectorAll('.ctrl button').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.stopPropagation();
             const action = btn.dataset.action;
@@ -1383,7 +1384,7 @@ function setupOverlayControls() {
 }
 
 function updateOverlayStates() {
-    gridArea.querySelectorAll('.ctrl button.disabled').forEach(b => b.classList.remove('disabled'));
+    gridWrapper.querySelectorAll('.ctrl button.disabled').forEach(b => b.classList.remove('disabled'));
     if (currentRows <= 1) {
         disableBtn('removeRowTop');
         disableBtn('removeRowBottom');
@@ -1395,7 +1396,7 @@ function updateOverlayStates() {
 }
 
 function disableBtn(action) {
-    const btn = gridArea.querySelector(`[data-action="${action}"]`);
+    const btn = gridWrapper.querySelector(`[data-action="${action}"]`);
     if (btn) btn.classList.add('disabled');
 }
 
@@ -1467,14 +1468,7 @@ window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
         fitCells();
-        autoFitZoom();
-        if (!resizeOverlaysPending) {
-            resizeOverlaysPending = true;
-            requestAnimationFrame(() => {
-                resizeOverlaysPending = false;
-                positionOverlays();
-            });
-        }
+        positionOverlays();
     }, 100);
 });
 

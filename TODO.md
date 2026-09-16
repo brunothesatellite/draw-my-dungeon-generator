@@ -1,6 +1,7 @@
 **TODO**
 * l'export PDF doit fonctionner en file:\\ ou sur serveur web
-
+* problème FIT de la grille
+* COLA doit avoir la même largeur que COLB
 
 PROMPT ANALYSE 
 Dans les descriptions il y a encore beaucoup de salles des anciens, ou xxx des anciens. Je veux vraiment renforcer les notes de l'auteur (csvDescription) pour qu'elles soient absolument prises dans la description. Par exemple tuile 427 :
