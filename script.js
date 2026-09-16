@@ -1140,7 +1140,8 @@ async function updateFlavor(tileInfo, cell) {
         const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
         flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
     }
-    flavorDescription.scrollTop = 0;
+    const descBody = flavorDescription.closest('.collapsible-body');
+    if (descBody) descBody.scrollTop = 0;
 }
 
 function clearFlavor() {
