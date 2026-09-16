@@ -1461,6 +1461,15 @@ function init() {
     setupOverlayControls();
     setupFlavorEvents();
     setupToolbarEvents();
+
+    document.querySelectorAll('.collapsible').forEach(el => {
+        el.addEventListener('toggle', () => {
+            requestAnimationFrame(() => {
+                fitCells();
+                positionOverlays();
+            });
+        });
+    });
     logToDebug('=== Initialisation terminée ===');
 }
 
