@@ -222,11 +222,12 @@ let currentRows = 8;
 
 // --- DRAG & DROP ---
 let isDragging = false;
+let modalOpen = false;
 
 function setupDragAndDrop() {
     gridContainer.addEventListener('dragstart', (e) => {
         const img = e.target.closest('img');
-        if (!img) return;
+        if (!img || modalOpen) return;
         isDragging = true;
         cancelFlavorClear();
         e.dataTransfer.setData('text/plain', img.src);
@@ -252,6 +253,7 @@ function setupDragAndDrop() {
 
     gridContainer.addEventListener('drop', (e) => {
         e.preventDefault();
+        if (modalOpen) return;
         const targetCell = e.target.closest('.cell');
         if (!targetCell) return;
 
@@ -294,6 +296,8 @@ function moveTile(img, sourceCell, targetCell) {
 }
 
 async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
+    if (modalOpen) return;
+    modalOpen = true;
     isDragging = false;
     const modal = document.getElementById('collisionModal');
     const btnOverwrite = document.getElementById('modalOverwrite');
@@ -309,6 +313,7 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
     });
 
     const choice = await getChoice;
+    modalOpen = false;
     if (choice === "1") {
         moveTile(sourceImg, sourceCell, targetCell);
         updateFlavor(getTileInfoFromCell(targetCell), targetCell);
@@ -950,6 +955,7 @@ let flavorHoverTimer = null;
 const flavorHoverDelay = 800;
 let activeFlavorCell = null;
 let activeTileData = null;
+let flavorUpdateId = 0;
 
 function buildTransform(rotation, mirrorH, mirrorV) {
     let transform = `rotate(${rotation}deg)`;
@@ -1086,6 +1092,7 @@ function displayTileFlavorData(tileData, tileNumber) {
 }
 
 async function updateFlavor(tileInfo, cell) {
+    const updateId = ++flavorUpdateId;
     if (!tileInfo) {
         clearFlavor();
         return;
@@ -1129,10 +1136,10 @@ async function updateFlavor(tileInfo, cell) {
     
     // Charger et afficher les données JSON de la tuile
     const tileFlavorData = await loadTileFlavorData(tileNumber);
+    if (updateId !== flavorUpdateId) return;
     if (tileFlavorData) {
         flavorDescription.innerHTML = displayTileFlavorData(tileFlavorData, tileNumber);
     } else {
-        // Fallback sur la description simple si les données JSON ne sont pas disponibles
         const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
         flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
     }
@@ -1253,7 +1260,7 @@ function updateFlavorText(tileData) {
 // --- CELL EVENTS ---
 async function handleCellClick(e) {
     const cell = e.target.closest('.cell');
-    if (!cell) return;
+    if (!cell || modalOpen) return;
     cancelFlavorClear();
 
     if (cell.classList.contains('empty')) {
@@ -1363,25 +1370,14 @@ function positionOverlays() {
     const leftGroup = gridWrapper.querySelector('.left-group');
     const rightGroup = gridWrapper.querySelector('.right-group');
 
-    if (topGroup) {
-        topGroup.style.top = (gTop - margin) + 'px';
-        topGroup.style.left = midX + 'px';
-        topGroup.style.transform = 'translate(-50%, -100%)';
-    }
-    if (bottomGroup) {
-        bottomGroup.style.top = (gTop + gHeight + margin) + 'px';
-        bottomGroup.style.left = midX + 'px';
-        bottomGroup.style.transform = 'translate(-50%, 0)';
-    }
-    if (leftGroup) {
-        leftGroup.style.top = midY + 'px';
-        leftGroup.style.left = (gLeft - margin) + 'px';
-        leftGroup.style.transform = 'translate(-100%, -50%)';
-    }
-    if (rightGroup) {
-        rightGroup.style.top = midY + 'px';
-        rightGroup.style.left = (gLeft + gWidth + margin) + 'px';
-        rightGroup.style.transform = 'translate(0, -50%)';
+    const styles = [];
+    if (topGroup) styles.push([topGroup, (gTop - margin) + 'px', midX + 'px', 'translate(-50%, -100%)']);
+    if (bottomGroup) styles.push([bottomGroup, (gTop + gHeight + margin) + 'px', midX + 'px', 'translate(-50%, 0)']);
+    if (leftGroup) styles.push([leftGroup, midY + 'px', (gLeft - margin) + 'px', 'translate(-100%, -50%)']);
+    if (rightGroup) styles.push([rightGroup, midY + 'px', (gLeft + gWidth + margin) + 'px', 'translate(0, -50%)']);
+
+    for (const [el, top, left, transform] of styles) {
+        el.style.cssText = `position:absolute;top:${top};left:${left};transform:${transform}`;
     }
 }
 
