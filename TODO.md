@@ -13,18 +13,22 @@ Analyse les descriptions de tilesflavor2/ pour voir quand le csvDescription n'a 
 
 Tests NBE
 [23:30, 15/09/2026] Nicolas Beyleix: J'ai testé un peu, c'est pas mal. Tu t'es bien amusé 👍.
-=> OK
+=> [FAIT]
 
 J'ai vue qu'elle point: le zoom sur la grille c'est que via le +/-  et pas le contrôle souris qui zoom tout sauf la grille. A voir si c'est voulue ou pas.
-=> à implémenter ?
+=> [HOLD] Voulu car quand la grille est zoomé, la molette souris risque d'interférer avec les scrollbar
 
 Le mode nuit, c'est volontaire que la carte en gros reste en noir et blanc flash ?
-=> fix à faire sur flavor vec l'imagette
+=> [FAIT] fix à faire sur flavor vec l'imagette
 
 Apres j'ai eu deux réflexions : la première  c'est que c'est dommage de tirer des cartes complètement hachuré. 
-=> à supprimer room\S1 à S13
+=> [FAIT] supprimer room\S1 à S13
 
 Du coup peut être pré-remplie la grille avec les cartes hachuré ou les mettre sur le côté et c'est l'utilisateur qui peut le glisser comme il veut sur la carte. Du coup les retirer du tirage.
+=> [REJECT] Tuiles retirées du tirage, c'est le plus simple
 
 [23:33, 15/09/2026] Nicolas Beyleix: La deuxième réflexion c'est que c'est pas si bien de faire tourner la tuile quand tu clics dessus. Peut être ne pas le faire auto, cliquer c'est juste sélectionné la tuille et a droite tu as des outils pas exemple rotation et ajouter peut-être des transformations miroirs pour certains cas. Du coup ca permettrait potentiellement d'ajouter d'autre action, style tagger entrée, zone actuelle....
+=> [THINK] Bonne idée
+
 [23:37, 15/09/2026] Nicolas Beyleix: Après j'ai un petit problème avec les tuiles qui aboutissent a des zones de 2, 4 etc cases. En fait c'est bizarre de changer la description d'une grande grotte, mais c'est plus compliqué a faire sans pregenerer des blocs de plusieurs cases. Du coup indiquer qu'elle tuiles peuvent en faire partie et savoir quand arrêté. Donc pour le moment c'est juste une impression comme cela. Apres c'est aussi que moi je dessines mes zones et après je mets mes trucs dedans. Du coup tirer case par case c'est plus compliqué.
+=> [THINK] à réfléchir, très complexe
