@@ -399,26 +399,13 @@ const TILE_CONFIGURATION = {
         "tile_388.webp", 
         "tile_389.webp", 
         "tile_390.webp", 
-        "tile_S1.webp", 
-        "tile_S10.webp", 
-        "tile_S11.webp", 
-        "tile_S12.webp", 
-        "tile_S13.webp", 
         "tile_S14.webp", 
         "tile_S15.webp", 
         "tile_S16.webp", 
         "tile_S17.webp", 
         "tile_S18.webp", 
         "tile_S19.webp", 
-        "tile_S2.webp", 
-        "tile_S20.webp", 
-        "tile_S3.webp", 
-        "tile_S4.webp", 
-        "tile_S5.webp", 
-        "tile_S6.webp", 
-        "tile_S7.webp", 
-        "tile_S8.webp", 
-        "tile_S9.webp"
+        "tile_S20.webp"
     ], 
  
     "sewer": [ 
