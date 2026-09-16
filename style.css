@@ -128,24 +128,154 @@ body {
     flex: 1;
     min-height: 0;
     gap: 8px;
+    overflow: hidden;
 }
 
-/* ===== FLAVOR AREA ===== */
-.flavor-area {
-    width: 380px;
-    flex-shrink: 0;
-    display: flex;
-    flex-direction: column;
+/* ===== COLLAPSIBLE PANELS ===== */
+.collapsible {
     background-color: var(--bg-secondary);
     border: 1px solid var(--border-primary);
     border-radius: var(--radius-md);
-    padding: 16px;
     overflow: hidden;
     transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-.flavor-tile {
+.collapsible > summary {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 12px;
+    cursor: pointer;
+    user-select: none;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 14px;
+    color: var(--text-primary);
+    background-color: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-light);
+    list-style: none;
+    transition: background-color 0.2s ease;
+    white-space: nowrap;
+}
+
+.collapsible > summary::-webkit-details-marker {
+    display: none;
+}
+
+.collapsible > summary .arrow {
+    font-size: 10px;
+    transition: transform 0.2s ease;
     flex-shrink: 0;
+}
+
+.collapsible[open] > summary .arrow {
+    transform: rotate(90deg);
+}
+
+.collapsible > summary:hover {
+    background-color: var(--bg-cell-empty);
+}
+
+.collapsible-body {
+    padding: 12px;
+}
+
+/* COLA : collapses left */
+.cola {
+    width: 160px;
+    flex-shrink: 0;
+    align-self: stretch;
+}
+
+.cola[open] {
+    width: 160px;
+}
+
+.cola:not([open]) {
+    width: 42px;
+}
+
+.cola:not([open]) > summary {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    padding: 12px 8px;
+    justify-content: center;
+    border-bottom: none;
+    border-right: 1px solid var(--border-light);
+}
+
+.cola:not([open]) > summary .arrow {
+    transform: rotate(0deg);
+}
+
+.cola:not([open]) > summary .label-text {
+    display: block;
+}
+
+.cola[open] > summary .label-text {
+    display: inline;
+}
+
+/* COLB : collapses right */
+.colb {
+    width: 280px;
+    flex-shrink: 0;
+    min-height: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.colb[open] {
+    width: 280px;
+}
+
+.colb:not([open]) {
+    width: 42px;
+}
+
+.colb > summary {
+    flex-shrink: 0;
+}
+
+.colb .collapsible-body {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.colb:not([open]) > summary {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    padding: 12px 8px;
+    justify-content: center;
+    border-bottom: none;
+    border-left: 1px solid var(--border-light);
+}
+
+.colb:not([open]) > summary .arrow {
+    transform: rotate(0deg);
+}
+
+.colb:not([open]) > summary .label-text {
+    display: block;
+}
+
+.colb[open] > summary .label-text {
+    display: inline;
+}
+
+/* ===== FLAVOR TILE (COLA) ===== */
+.cola .collapsible-body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.flavor-tile {
     width: 100%;
     aspect-ratio: 1;
     display: flex;
@@ -173,12 +303,14 @@ body {
     opacity: 0.4;
 }
 
+/* ===== FLAVOR TOOLBAR ===== */
 .flavor-toolbar {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 8px;
-    margin-top: 8px;
+    gap: 6px;
     padding: 8px;
+    position: relative;
     background-color: var(--bg-cell-empty);
     border: 1px solid var(--border-light);
     border-radius: var(--radius-sm);
@@ -191,8 +323,8 @@ body {
 }
 
 .flavor-toolbar button {
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -200,8 +332,9 @@ body {
     border-radius: var(--radius-sm);
     background-color: var(--bg-secondary);
     color: var(--text-primary);
-    font-size: 18px;
+    font-size: 16px;
     cursor: pointer;
+    position: relative;
     transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 
@@ -215,19 +348,45 @@ body {
     transform: scale(0.95);
 }
 
+.flavor-toolbar button::after {
+    content: attr(data-tip);
+    position: absolute;
+    white-space: nowrap;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: var(--bg-tooltip);
+    color: var(--text-debug);
+    border: 1px solid var(--border-dark);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.12s;
+    z-index: 20;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.flavor-toolbar button:hover::after {
+    opacity: 1;
+}
+
+/* ===== FLAVOR TEXT (tile info) ===== */
 .flavor-text {
-    display: none;
-    margin-top: 12px;
-    padding: 12px;
+    padding: 8px;
     background-color: var(--bg-cell-empty);
-    border: 1px dashed var(--border-light);
+    border: 1px solid var(--border-light);
     border-radius: var(--radius-sm);
     font-family: 'Crimson Text', serif;
-    font-size: 14px;
+    font-size: 12px;
     color: var(--text-secondary);
     line-height: 1.6;
-    overflow: hidden;
     transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.flavor-text:empty {
+    display: none;
 }
 
 .flavor-text .label {
@@ -235,9 +394,9 @@ body {
     color: var(--text-primary);
 }
 
+/* ===== FLAVOR ENVIRONMENT (COLB) ===== */
 .flavor-environment {
     flex-shrink: 0;
-    margin-top: 8px;
     padding: 8px 12px;
     background-color: var(--bg-cell-empty);
     border: 1px solid var(--border-light);
@@ -253,9 +412,10 @@ body {
     color: var(--text-primary);
 }
 
+/* ===== FLAVOR DESCRIPTION (COLB) ===== */
 .flavor-description {
     flex: 1;
-    margin-top: 8px;
+    min-height: 0;
     padding: 10px 12px;
     background-color: var(--bg-cell-empty);
     border: 1px solid var(--border-light);
@@ -264,6 +424,8 @@ body {
     font-size: 15px;
     color: var(--text-secondary);
     overflow-y: auto;
+    overflow-x: hidden;
+    min-width: 0;
     transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
@@ -314,16 +476,19 @@ body {
 .flavor-description .features-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    gap: 6px;
     margin-bottom: 12px;
+    min-width: 0;
 }
 
 .flavor-description .feature-item {
     background-color: rgba(139, 26, 26, 0.1);
     border: 1px solid rgba(139, 26, 26, 0.3);
     border-radius: var(--radius-sm);
-    padding: 8px 10px;
-    min-height: 60px;
+    padding: 6px 8px;
+    min-height: 0;
+    overflow: hidden;
+    min-width: 0;
 }
 
 .flavor-description .feature-label {
@@ -490,25 +655,32 @@ body {
     gap: 5px;
 }
 
-/* ===== GRID AREA (scroll container) ===== */
+/* ===== GRID AREA ===== */
 .grid-area {
-    position: relative;
-    flex: 1;
-    min-height: 0;
-    overflow: auto;
-    padding: 50px;
+    flex: 1 1 0%;
+    min-width: 0;
     display: flex;
-    justify-content: safe center;
-    align-items: safe center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.grid-wrapper {
+    position: relative;
+    flex: 1 1 0%;
+    display: flex;
+    align-items: stretch;
+    justify-content: stretch;
+    padding: 24px 20px;
+    min-width: 0;
+    min-height: 0;
 }
 
 /* ===== GRILLE ===== */
 .grid-container {
     display: grid;
     gap: var(--grid-gap);
-    padding: 16px;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
     background-color: var(--bg-secondary);
     border: 2px solid var(--border-primary);
     border-radius: var(--radius-md);
@@ -528,7 +700,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 5px;
+    gap: 4px;
     opacity: 0.35;
     transition: opacity 0.15s ease;
     z-index: 10;
@@ -539,12 +711,12 @@ body {
 }
 
 .ctrl button {
-    width: 26px;
-    height: 26px;
+    width: 22px;
+    height: 22px;
     border-radius: 50%;
-    border: 1.5px solid var(--border-primary);
+    border: 1px solid var(--border-primary);
     cursor: pointer;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 1;
     display: flex;
@@ -608,11 +780,11 @@ body {
 .ctrl.left-group button::after   { left: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
 .ctrl.right-group button::after  { right: calc(100% + 8px); top: 50%; transform: translateY(-50%); }
 
-/* Edge groups — positioned by JS */
-.ctrl.top-group { flex-direction: row; }
-.ctrl.bottom-group { flex-direction: row; }
-.ctrl.left-group { flex-direction: column; }
-.ctrl.right-group { flex-direction: column; }
+/* Edge groups */
+.ctrl.top-group { flex-direction: row; top: 2px; left: 50%; transform: translateX(-50%); }
+.ctrl.bottom-group { flex-direction: row; bottom: 2px; left: 50%; transform: translateX(-50%); }
+.ctrl.left-group { flex-direction: column; left: 2px; top: 50%; transform: translateY(-50%); }
+.ctrl.right-group { flex-direction: column; right: 2px; top: 50%; transform: translateY(-50%); }
 
 /* ===== CELLULES ===== */
 .cell {

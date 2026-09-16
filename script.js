@@ -12,7 +12,7 @@ const tooltip = document.getElementById('customTooltip');
 const gridColumnsInput = document.getElementById('gridColumns');
 const gridRowsInput = document.getElementById('gridRows');
 const setGridDimensionsBtn = document.getElementById('setGridDimensions');
-const gridArea = document.querySelector('.grid-area');
+const gridArea = document.querySelector('.grid-wrapper');
 
 let tooltipTimer;
 
@@ -688,16 +688,15 @@ function updateAvailableTiles(folder) {
 
 // --- GRID ---
 function fitCells() {
-    const gridAreaPad = 100;
-    const containerPad = 32;
+    const wrapperPad = 48;
     const containerBorder = 4;
     const gap = 5;
-    const contentW = gridArea.clientWidth - gridAreaPad;
-    const contentH = gridArea.clientHeight - gridAreaPad;
+    const contentW = gridArea.clientWidth - wrapperPad;
+    const contentH = gridArea.clientHeight - wrapperPad;
     if (contentW <= 0 || contentH <= 0) return;
 
-    const cellAreaW = contentW - containerPad - containerBorder;
-    const cellAreaH = contentH - containerPad - containerBorder;
+    const cellAreaW = contentW - containerBorder;
+    const cellAreaH = contentH - containerBorder;
     const cellW = (cellAreaW - gap * (currentCols - 1)) / currentCols;
     const cellH = (cellAreaH - gap * (currentRows - 1)) / currentRows;
     const baseCellSize = Math.floor(Math.min(cellW, cellH));
@@ -1183,17 +1182,7 @@ function cancelFlavorClear() {
 }
 
 function setupFlavorEvents() {
-    gridContainer.addEventListener('mouseenter', (e) => {
-        cancelFlavorClear();
-        const cell = e.target.closest('.cell');
-        if (!cell) return;
-        const tileInfo = getTileInfoFromCell(cell);
-        if (tileInfo) {
-            flavorHoverTimer = setTimeout(() => {
-                updateFlavor(tileInfo, cell);
-            }, flavorHoverDelay);
-        }
-    }, true);
+    // Hover events removed — flavor updates only via click
 }
 
 function setupToolbarEvents() {

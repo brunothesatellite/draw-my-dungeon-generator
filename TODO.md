@@ -1,6 +1,7 @@
 **TODO**
 * l'export PDF doit fonctionner en file:\\ ou sur serveur web
-
+* virer l'export PDF en file:
+* supprimer le hove sur une tuile pour afficher sa description
 
 PROMPT ANALYSE 
 Dans les descriptions il y a encore beaucoup de salles des anciens, ou xxx des anciens. Je veux vraiment renforcer les notes de l'auteur (csvDescription) pour qu'elles soient absolument prises dans la description. Par exemple tuile 427 :

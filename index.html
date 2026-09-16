@@ -17,6 +17,7 @@
 </head>
 <body>
     <div class="app">
+        <!-- Top controls bar -->
         <div class="controls">
             <select id="tileFolderSelect">
                 <option value="">Sélectionnez un dossier de tuiles</option>
@@ -39,43 +40,64 @@
             </div>
         </div>
 
+        <!-- 3-column main layout -->
         <div class="content-wrapper">
+            <!-- COLA: Tile + Toolbar -->
+            <details class="collapsible cola" open>
+                <summary>
+                    <span class="arrow">▸</span>
+                    <span class="label-text">Tuile & Outils</span>
+                </summary>
+                <div class="collapsible-body">
+                    <div class="flavor-tile" id="flavorTile"></div>
+                    <div class="flavor-toolbar" id="flavorToolbar">
+                        <button id="btnRotate" title="Rotation 90°" data-tip="Rotation 90°">↻</button>
+                        <button id="btnMirrorH" title="Miroir horizontal" data-tip="Miroir horizontal">⇔</button>
+                        <button id="btnMirrorV" title="Miroir vertical" data-tip="Miroir vertical">⇕</button>
+                        <button id="btnReset" title="Réinitialiser" data-tip="Réinitialiser">↺</button>
+                        <button id="btnDelete" title="Supprimer la tuile" data-tip="Supprimer la tuile">✕</button>
+                    </div>
+                    <div class="flavor-text" id="flavorText"></div>
+                </div>
+            </details>
+
+            <!-- Grid area -->
             <div class="grid-area">
-                <div class="ctrl top-group">
-                    <button class="remove" data-action="removeRowTop" data-tip="Supprimer la première ligne">−</button>
-                    <button data-action="addRowTop" data-tip="Ajouter une ligne au-dessus">+</button>
+                <div class="grid-wrapper">
+                    <div class="ctrl top-group">
+                        <button class="remove" data-action="removeRowTop" data-tip="Supprimer la première ligne">−</button>
+                        <button data-action="addRowTop" data-tip="Ajouter une ligne au-dessus">+</button>
+                    </div>
+                    <div class="ctrl bottom-group">
+                        <button class="remove" data-action="removeRowBottom" data-tip="Supprimer la dernière ligne">−</button>
+                        <button data-action="addRowBottom" data-tip="Ajouter une ligne en dessous">+</button>
+                    </div>
+                    <div class="ctrl left-group">
+                        <button data-action="addColLeft" data-tip="Ajouter une colonne à gauche">+</button>
+                        <button class="remove" data-action="removeColLeft" data-tip="Supprimer la première colonne">−</button>
+                    </div>
+                    <div class="ctrl right-group">
+                        <button data-action="addColRight" data-tip="Ajouter une colonne à droite">+</button>
+                        <button class="remove" data-action="removeColRight" data-tip="Supprimer la dernière colonne">−</button>
+                    </div>
+                    <div class="grid-container" id="gridContainer"></div>
                 </div>
-                <div class="ctrl bottom-group">
-                    <button class="remove" data-action="removeRowBottom" data-tip="Supprimer la dernière ligne">−</button>
-                    <button data-action="addRowBottom" data-tip="Ajouter une ligne en dessous">+</button>
-                </div>
-                <div class="ctrl left-group">
-                    <button data-action="addColLeft" data-tip="Ajouter une colonne à gauche">+</button>
-                    <button class="remove" data-action="removeColLeft" data-tip="Supprimer la première colonne">−</button>
-                </div>
-                <div class="ctrl right-group">
-                    <button data-action="addColRight" data-tip="Ajouter une colonne à droite">+</button>
-                    <button class="remove" data-action="removeColRight" data-tip="Supprimer la dernière colonne">−</button>
-                </div>
-
-                <div class="grid-container" id="gridContainer"></div>
             </div>
 
-            <div class="flavor-area">
-                <div class="flavor-tile" id="flavorTile"></div>
-                <div class="flavor-toolbar" id="flavorToolbar">
-                    <button id="btnRotate" title="Rotation 90°">↻</button>
-                    <button id="btnMirrorH" title="Miroir horizontal">⇔</button>
-                    <button id="btnMirrorV" title="Miroir vertical">⇕</button>
-                    <button id="btnReset" title="Réinitialiser">↺</button>
-                    <button id="btnDelete" title="Supprimer la tuile">✕</button>
+            <!-- COLB: Environment + Description -->
+            <details class="collapsible colb" open>
+                <summary>
+                    <span class="label-text">Environnement & Description</span>
+                    <span class="arrow">▸</span>
+                </summary>
+                <div class="collapsible-body">
+                    <div class="flavor-environment" id="flavorEnvironment"></div>
+                    <div class="flavor-description" id="flavorDescription"></div>
                 </div>
-                <div class="flavor-text" id="flavorText"></div>
-                <div class="flavor-environment" id="flavorEnvironment"></div>
-                <div class="flavor-description" id="flavorDescription"></div>
-            </div>
+            </details>
         </div>
 
+        <!-- Debug area -->
         <div class="debug-container">
             <h3>Journal de debug</h3>
             <textarea id="debugLog" readonly rows="10"></textarea>
