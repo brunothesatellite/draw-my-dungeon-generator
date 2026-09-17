@@ -665,7 +665,7 @@ body {
     min-height: 0;
     overflow: auto;
     display: flex;
-    justify-content: center;
+    justify-content: safe center;
     align-items: flex-start;
     padding: 30px;
 }
