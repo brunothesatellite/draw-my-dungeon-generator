@@ -467,7 +467,7 @@ function collectTilesForDescriptions() {
         const col = parseInt(cell.dataset.col);
         const fileName = img.src.split('/').pop().replace(/\.[^/.]+$/, '');
         const tileNumber = fileName.replace('tile_', '');
-        const flavorData = (typeof TILES_FLAVOR_DATA !== 'undefined' && TILES_FLAVOR_DATA[tileNumber]) ? TILES_FLAVOR_DATA[tileNumber] : null;
+        const flavorData = (typeof TILES_FLAVOR_DATA !== 'undefined' && TILES_FLAVOR_DATA[tileNumber] && TILES_FLAVOR_DATA[tileNumber][tileNumber]) ? TILES_FLAVOR_DATA[tileNumber][tileNumber] : null;
         const csvDesc = (typeof TILES_DESCRIPTIONS !== 'undefined') ? TILES_DESCRIPTIONS[tileNumber] : '';
         tiles.push({ row, col, tileNumber, fileName, flavorData, imgSrc: img.src, csvDesc });
     });
