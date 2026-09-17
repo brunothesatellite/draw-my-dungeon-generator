@@ -1000,6 +1000,13 @@ body {
 /* ===== EXPORT BUTTON ===== */
 #exportPdf {
     background-color: var(--accent-info) !important;
+    color: #1a1209 !important;
+    padding: 6px 10px !important;
+    min-width: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: var(--border-dark) !important;
 }
 
 #exportPdf:hover {

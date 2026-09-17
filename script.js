@@ -713,7 +713,7 @@ function updateFolderSelect() {
             option.value = folder;
             const capitalizedFolder = folder === 'all' ? 'Toutes les tuiles' : folder.charAt(0).toUpperCase() + folder.slice(1);
             const count = tileIndex[folder].length;
-            option.textContent = `${capitalizedFolder} (${count} tuiles trouvées)`;
+            option.textContent = `${capitalizedFolder} (${count} tuiles)`;
             tileFolderSelect.appendChild(option);
         });
         if (tileFolders.includes('all')) {
