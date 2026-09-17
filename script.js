@@ -698,6 +698,24 @@ function initializeTileData() {
     }
 }
 
+function fitSelectWidth(select) {
+    const measure = document.createElement('span');
+    const cs = getComputedStyle(select);
+    measure.style.font = cs.font;
+    measure.style.padding = cs.padding;
+    measure.style.visibility = 'hidden';
+    measure.style.position = 'absolute';
+    measure.style.whiteSpace = 'nowrap';
+    document.body.appendChild(measure);
+    let maxW = 0;
+    for (const opt of select.options) {
+        measure.textContent = opt.textContent;
+        maxW = Math.max(maxW, measure.offsetWidth);
+    }
+    document.body.removeChild(measure);
+    select.style.width = (maxW + 16) + 'px';
+}
+
 function updateFolderSelect() {
     logToDebug('Mise à jour de la liste déroulante des dossiers...');
     tileFolderSelect.innerHTML = '<option value="">Sélectionnez un dossier de tuiles</option>';
@@ -723,6 +741,7 @@ function updateFolderSelect() {
         }
         logToDebug(`Liste déroulante mise à jour avec ${tileFolders.length} dossiers`);
     }
+    fitSelectWidth(tileFolderSelect);
 }
 
 function updateAvailableTiles(folder) {

@@ -529,14 +529,14 @@ body {
 /* ===== BARRE DE CONTRÔLES ===== */
 .controls {
     display: flex;
-    gap: 10px;
-    padding: 10px 16px;
+    gap: 6px;
+    padding: 8px 12px;
     background-color: var(--bg-controls);
     border: 1px solid var(--border-primary);
     border-radius: var(--radius-md);
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     flex-shrink: 0;
     box-shadow: var(--shadow-sm);
     transition: background-color 0.3s ease, border-color 0.3s ease;
@@ -544,15 +544,14 @@ body {
 
 /* ===== SÉLECTEUR ===== */
 .controls select {
-    padding: 8px 12px;
+    padding: 5px 8px;
     border-radius: var(--radius-sm);
     border: 1px solid var(--border-primary);
     background-color: var(--bg-input);
     color: var(--text-primary);
     font-family: 'Crimson Text', serif;
-    font-size: 15px;
+    font-size: 13px;
     flex-grow: 0;
-    min-width: 250px;
     width: auto;
     cursor: pointer;
     transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
@@ -575,14 +574,14 @@ body {
 
 /* ===== BOUTONS ===== */
 .controls button {
-    padding: 8px 14px;
+    padding: 5px 10px;
     border: 1px solid var(--border-dark);
     background-color: var(--accent-primary);
     color: var(--text-on-accent);
     border-radius: var(--radius-sm);
     cursor: pointer;
     font-family: 'Crimson Text', serif;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.3px;
     transition: background-color 0.2s ease, transform 0.1s ease;
@@ -600,9 +599,9 @@ body {
 #themeToggle {
     background-color: var(--accent-secondary) !important;
     color: #1a1209 !important;
-    font-size: 18px !important;
-    padding: 6px 10px !important;
-    min-width: 38px;
+    font-size: 16px !important;
+    padding: 4px 8px !important;
+    min-width: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -626,14 +625,14 @@ body {
 
 /* ===== CHAMPS NUMÉRIQUES ===== */
 .controls input[type="number"] {
-    padding: 6px 8px;
+    padding: 4px 6px;
     border: 1px solid var(--border-primary);
     border-radius: var(--radius-sm);
     background-color: var(--bg-input);
     color: var(--text-primary);
     font-family: 'Crimson Text', serif;
-    font-size: 15px;
-    width: 55px;
+    font-size: 13px;
+    width: 48px;
     text-align: center;
     transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
 }
@@ -655,7 +654,7 @@ body {
 .grid-dimensions {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 4px;
 }
 
 /* ===== GRID AREA ===== */
@@ -990,9 +989,10 @@ body {
 
 /* ===== ZOOM DISPLAY ===== */
 #zoomDisplay {
-    min-width: 45px;
+    min-width: 38px;
     text-align: center;
     font-weight: 700;
+    font-size: 13px;
     color: var(--text-secondary);
     font-family: 'MedievalSharp', cursive;
 }
@@ -1001,8 +1001,8 @@ body {
 #exportPdf {
     background-color: var(--accent-info) !important;
     color: #1a1209 !important;
-    padding: 6px 10px !important;
-    min-width: 38px;
+    padding: 4px 8px !important;
+    min-width: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1018,9 +1018,9 @@ body {
 #importDungeon {
     background-color: var(--accent-secondary) !important;
     color: #1a1209 !important;
-    font-size: 16px !important;
-    padding: 6px 10px !important;
-    min-width: 38px;
+    font-size: 14px !important;
+    padding: 4px 8px !important;
+    min-width: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
