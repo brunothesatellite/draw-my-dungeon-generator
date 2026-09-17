@@ -404,6 +404,11 @@ async function renderGridToCanvas() {
         loadFileAsBase64(src).then((b64) => b64Map.set(src, b64))
     ));
 
+    const imgCache = new Map();
+    await Promise.all([...srcSet].map((src) =>
+        loadBase64AsImage(b64Map.get(src)).then((img) => imgCache.set(src, img))
+    ));
+
     const canvas = document.createElement('canvas');
     canvas.width = totalW * scale;
     canvas.height = totalH * scale;
@@ -431,13 +436,13 @@ async function renderGridToCanvas() {
         ctx.stroke();
 
         const img = cell.querySelector('img');
-        if (img && img.src && b64Map.has(img.src)) {
+        if (img && img.src && imgCache.has(img.src)) {
             const transformStyle = img.style.transform;
             const rotationMatch = transformStyle.match(/rotate\((\d+)deg\)/);
             const rotation = rotationMatch ? parseInt(rotationMatch[1]) : 0;
             const mirrorH = transformStyle.includes('scaleX(-1)');
             const mirrorV = transformStyle.includes('scaleY(-1)');
-            const safeImg = await loadBase64AsImage(b64Map.get(img.src));
+            const safeImg = imgCache.get(img.src);
             ctx.save();
             ctx.translate(x + cellW / 2, y + cellH / 2);
             ctx.rotate(rotation * Math.PI / 180);
@@ -943,6 +948,11 @@ function applyNewGridData(newData, restoreZoom = false) {
                 const transform = buildTransform(tileInfo.rotation, tileInfo.mirrorH || false, tileInfo.mirrorV || false);
                 img.style.transform = transform;
                 img.style.zIndex = '2';
+                img.onerror = () => {
+                    img.remove();
+                    cell.classList.add('empty');
+                    logToDebug(`Erreur chargement image: ${img.src}`);
+                };
                 cell.appendChild(img);
                 cell.classList.remove('empty');
             }
@@ -1327,6 +1337,11 @@ async function handleCellClick(e) {
             img.alt = `Tuile ${tileName}`;
             img.style.transform = 'rotate(0deg)';
             img.style.zIndex = '2';
+            img.onerror = () => {
+                img.remove();
+                cell.classList.add('empty');
+                logToDebug(`Erreur chargement image: ${img.src}`);
+            };
             cell.appendChild(img);
             cell.classList.remove('empty');
             logToDebug(`Tuile ajoutée: ${currentTileFolder}/${tileName} à (${cell.dataset.row}, ${cell.dataset.col})`);

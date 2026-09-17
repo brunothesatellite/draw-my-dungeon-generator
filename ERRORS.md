@@ -92,8 +92,8 @@ for (const cell of cells) {
 }
 ```
 - **Problème** : 400 cellules = 400 micro-promesses + 400 allocations Image() séquentielles. Devrait utiliser Promise.all.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : Préchargement parallèle `imgCache` via `Promise.all` avant la boucle de dessin. La boucle n'a plus aucun `await`.
+- **Statut** : fixed
 
 ### [HIGH] Modals sans cleanup des onclick
 - **Lignes** : 303-331, 665
@@ -185,8 +185,8 @@ cell.appendChild(img);
 cell.classList.remove('empty');
 ```
 - **Problème** : Si le fichier image n'existe pas, cellule marquée non-empty avec icône cassée. Pas de onerror handler.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : `img.onerror` ajouté dans `applyNewGridData` et `handleCellClick` — supprime l'image et restaure la classe `empty`.
+- **Statut** : fixed
 
 ### [MEDIUM] tileFlavorCache croissance non bornée
 - **Lignes** : 982
