@@ -192,8 +192,14 @@ function handleImportFile(file) {
             modal.style.display = 'flex';
 
             const confirmed = await new Promise(resolve => {
-                btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
-                btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+                function cleanup(result) {
+                    modal.style.display = 'none';
+                    btnConfirm.onclick = null;
+                    btnCancel.onclick = null;
+                    resolve(result);
+                }
+                btnConfirm.onclick = () => cleanup(true);
+                btnCancel.onclick = () => cleanup(false);
             });
 
             if (!confirmed) {
@@ -311,13 +317,19 @@ async function handleOccupiedCell(targetCell, sourceCell, sourceImg) {
 
     modal.style.display = 'flex';
 
-    const getChoice = new Promise((resolve) => {
-        btnOverwrite.onclick = () => { modal.style.display = 'none'; resolve('1'); };
-        btnSwap.onclick = () => { modal.style.display = 'none'; resolve('2'); };
-        btnCancel.onclick = () => { modal.style.display = 'none'; resolve('0'); };
+    const choice = await new Promise((resolve) => {
+        function cleanup(result) {
+            modal.style.display = 'none';
+            btnOverwrite.onclick = null;
+            btnSwap.onclick = null;
+            btnCancel.onclick = null;
+            resolve(result);
+        }
+        btnOverwrite.onclick = () => cleanup('1');
+        btnSwap.onclick = () => cleanup('2');
+        btnCancel.onclick = () => cleanup('0');
     });
 
-    const choice = await getChoice;
     modalOpen = false;
     if (choice === "1") {
         moveTile(sourceImg, sourceCell, targetCell);
@@ -374,8 +386,9 @@ async function renderGridToCanvas() {
     if (cells.length === 0) return null;
 
     const firstCell = cells[0];
-    const cellW = firstCell.getBoundingClientRect().width;
-    const cellH = firstCell.getBoundingClientRect().height;
+    const firstRect = firstCell.getBoundingClientRect();
+    const cellW = firstRect.width;
+    const cellH = firstRect.height;
     const gap = 1;
     const totalW = cols * cellW + (cols - 1) * gap;
     const totalH = rows * cellH + (rows - 1) * gap;
@@ -617,11 +630,17 @@ async function exportGridToPdf() {
 
 // --- DEBUG ---
 let debugScrollPending = false;
+const debugLines = [];
+const MAX_DEBUG_LINES = 500;
 function logToDebug(message) {
     const timestamp = new Date().toLocaleTimeString();
     const logMessage = `[${timestamp}] ${message}`;
     console.log(logMessage);
-    debugLog.value += logMessage + '\n';
+    debugLines.push(logMessage);
+    if (debugLines.length > MAX_DEBUG_LINES) {
+        debugLines.splice(0, debugLines.length - MAX_DEBUG_LINES);
+    }
+    debugLog.value = debugLines.join('\n');
     if (!debugScrollPending) {
         debugScrollPending = true;
         requestAnimationFrame(() => {
@@ -643,7 +662,13 @@ function showMessage(title, message) {
     msgEl.textContent = message;
     modal.style.display = 'flex';
     return new Promise((resolve) => {
-        okBtn.onclick = () => { modal.style.display = 'none'; modalOpen = false; resolve(); };
+        function cleanup() {
+            modal.style.display = 'none';
+            okBtn.onclick = null;
+            modalOpen = false;
+            resolve();
+        }
+        okBtn.onclick = cleanup;
     });
 }
 
@@ -768,8 +793,14 @@ async function setDimensions() {
     const btnCancel = document.getElementById('resetModalCancel');
     modal.style.display = 'flex';
     const confirmed = await new Promise(resolve => {
-        btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
-        btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+        function cleanup(result) {
+            modal.style.display = 'none';
+            btnConfirm.onclick = null;
+            btnCancel.onclick = null;
+            resolve(result);
+        }
+        btnConfirm.onclick = () => cleanup(true);
+        btnCancel.onclick = () => cleanup(false);
     });
     if (confirmed) {
         createGrid(newCols, newRows);
@@ -777,11 +808,8 @@ async function setDimensions() {
 }
 
 function isRowOrColNotEmpty(type, index) {
-    const allCells = Array.from(gridContainer.querySelectorAll('.cell'));
-    return allCells.some(cell => {
-        const cellIdx = parseInt(cell.dataset[type]);
-        return cellIdx === index && !cell.classList.contains('empty');
-    });
+    const selector = `.cell[data-${type}="${index}"]:not(.empty)`;
+    return gridContainer.querySelector(selector) !== null;
 }
 
 async function checkDeletionSafety(type, index) {
@@ -794,8 +822,14 @@ async function checkDeletionSafety(type, index) {
     msg.textContent = `Attention : la ${label} ${index} contient des tuiles. Voulez-vous vraiment la supprimer ?`;
     modal.style.display = 'flex';
     const choice = await new Promise(resolve => {
-        btnConfirm.onclick = () => { modal.style.display = 'none'; resolve(true); };
-        btnCancel.onclick = () => { modal.style.display = 'none'; resolve(false); };
+        function cleanup(result) {
+            modal.style.display = 'none';
+            btnConfirm.onclick = null;
+            btnCancel.onclick = null;
+            resolve(result);
+        }
+        btnConfirm.onclick = () => cleanup(true);
+        btnCancel.onclick = () => cleanup(false);
     });
     return choice;
 }
@@ -815,14 +849,12 @@ function addRowBottom() {
 function addColLeft() {
     const oldData = getGridData();
     const newData = oldData.map(row => [null, ...row]);
-    currentCols++;
     applyNewGridData(newData);
 }
 
 function addColRight() {
     const oldData = getGridData();
     const newData = oldData.map(row => [...row, null]);
-    currentCols++;
     applyNewGridData(newData);
 }
 
@@ -1154,7 +1186,7 @@ async function updateFlavor(tileInfo, cell) {
     if (tileFlavorData) {
         flavorDescription.innerHTML = displayTileFlavorData(tileFlavorData, tileNumber);
     } else {
-        const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
+        const description = (typeof TILES_DESCRIPTIONS !== 'undefined' && TILES_DESCRIPTIONS[tileNumber]) ? TILES_DESCRIPTIONS[tileNumber] : 'Aucune description';
         flavorDescription.innerHTML = `<span class="label">Description de la salle :</span> ${description}`;
     }
     const descBody = flavorDescription.closest('.collapsible-body');
@@ -1472,6 +1504,25 @@ tileFolderSelect.addEventListener('change', (e) => {
 });
 
 // --- INIT ---
+let setupDone = false;
+function setupOnce() {
+    if (setupDone) return;
+    setupDone = true;
+    setupDragAndDrop();
+    setupOverlayControls();
+    setupFlavorEvents();
+    setupToolbarEvents();
+
+    document.querySelectorAll('.collapsible').forEach(el => {
+        el.addEventListener('toggle', () => {
+            requestAnimationFrame(() => {
+                fitCells();
+                positionOverlays();
+            });
+        });
+    });
+}
+
 function init() {
     logToDebug('=== Initialisation de l\'application ===');
     applyTheme(getPreferredTheme());
@@ -1486,19 +1537,7 @@ function init() {
     } else {
         createGrid();
     }
-    setupDragAndDrop();
-    setupOverlayControls();
-    setupFlavorEvents();
-    setupToolbarEvents();
-
-    document.querySelectorAll('.collapsible').forEach(el => {
-        el.addEventListener('toggle', () => {
-            requestAnimationFrame(() => {
-                fitCells();
-                positionOverlays();
-            });
-        });
-    });
+    setupOnce();
     logToDebug('=== Initialisation terminée ===');
 }
 

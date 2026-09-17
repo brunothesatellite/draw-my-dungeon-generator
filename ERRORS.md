@@ -32,8 +32,8 @@ function init() {
 init();
 ```
 - **Problème** : Chaque import rappelle `init()` qui réenregistre tous les listeners sans retirer les anciens. Après N imports, N+1 copies s'empilent → boutons +/- déclenchent N+1 fois → freeze garanti.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : Extractions des setup calls dans `setupOnce()` avec flag `setupDone` pour empêcher l'accumulation.
+- **Statut** : fixed
 
 ### [CRITICAL] debugLog.value concaténation O(n²)
 - **Lignes** : 624
@@ -43,8 +43,8 @@ debugLog.value += logMessage + '\n';
 debugLog.scrollTop = debugLog.scrollHeight;
 ```
 - **Problème** : Chaque concaténation recrée une string complète copiant toute la précédente. Avec des centaines de logs, croissance sans borne. Chaque assignment déclenche reflow du textarea. Limite textarea ~65K chars.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : Tableau `debugLines[]` + troncation à 500 lignes + `join('\n')` au lieu de concaténation.
+- **Statut** : fixed
 
 ### [CRITICAL] innerHTML détruit les nœuds
 - **Lignes** : 293-298 (moveTile), 333-337 (swapTiles)
@@ -96,7 +96,7 @@ for (const cell of cells) {
 - **Statut** : pending
 
 ### [HIGH] Modals sans cleanup des onclick
-- **Lignes** : 303-331
+- **Lignes** : 303-331, 665
 - **Code** :
 ```js
 const getChoice = new Promise((resolve) => {
@@ -106,8 +106,8 @@ const getChoice = new Promise((resolve) => {
 });
 ```
 - **Problème** : Les .onclick closures capturent resolve et maintiennent la Promise vivante. Contrairement à showExportPdfModal (cleanup ligne 548), ici les onclick sont écrasés mais jamais mis à null → fuite mémoire.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : Pattern `cleanup(result)` avec `onclick = null` ajouté à tous les modals (collision, import, reset, delete, showMessage).
+- **Statut** : fixed
 
 ### [HIGH] TILES_DESCRIPTIONS accès sans garde typeof
 - **Lignes** : 1157
@@ -116,8 +116,8 @@ const getChoice = new Promise((resolve) => {
 const description = TILES_DESCRIPTIONS[tileNumber] || 'Aucune description';
 ```
 - **Problème** : À la ligne 453, le même accès est protégé par `typeof TILES_DESCRIPTIONS !== 'undefined'`. Ici aucune garde → ReferenceError non catché si fichier non chargé → panneau flavor corrompu.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : `typeof TILES_DESCRIPTIONS !== 'undefined' && TILES_DESCRIPTIONS[tileNumber]` guard ajouté.
+- **Statut** : fixed
 
 ---
 
@@ -142,8 +142,8 @@ const cellW = firstCell.getBoundingClientRect().width;
 const cellH = firstCell.getBoundingClientRect().height;
 ```
 - **Problème** : Deux lectures de layout sur le même élément. Un seul appel suffit.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : Variable `firstRect` pour stocker le résultat unique de `getBoundingClientRect()`.
+- **Statut** : fixed
 
 ### [MEDIUM] isRowOrColNotEmpty requête DOM sur toutes les cellules
 - **Lignes** : 779-785
@@ -158,8 +158,8 @@ function isRowOrColNotEmpty(type, index) {
 }
 ```
 - **Problème** : querySelectorAll('.cell') retourne toutes les cellules. Sur 100×100 = 10K éléments pour vérifier UNE ligne. Devrait cibler `.cell[data-row="X"]` → O(cols) au lieu de O(rows×cols).
-- **Fix** :
-- **Statut** : pending
+- **Fix** : `querySelector('.cell[data-${type}="${index}"]:not(.empty)')` au lieu de itération complète.
+- **Statut** : fixed
 
 ### [MEDIUM] addColLeft/addColRight mutation redondante currentCols
 - **Lignes** : 818, 825
@@ -173,8 +173,8 @@ function addColLeft() {
 }
 ```
 - **Problème** : currentCols++ est immédiatement écrasé par applyNewGridData. Incohérence de design.
-- **Fix** :
-- **Statut** : pending
+- **Fix** : `currentCols++` supprimé de addColLeft et addColRight. Les `currentRows--`/`currentCols--` des fonctions remove restent car utilisés dans les guard checks avant applyNewGridData.
+- **Statut** : fixed
 
 ### [MEDIUM] Pas de gestion d'erreur sur chargement image
 - **Lignes** : 1284-1299
